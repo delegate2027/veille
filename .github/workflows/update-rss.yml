@@ -1,4 +1,4 @@
-name: Update RSS Feed
+Push originname: Update RSS Feed
 
 on:
   schedule:
