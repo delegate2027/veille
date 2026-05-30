@@ -40,14 +40,18 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git fetch origin main
-
           git add aggregate.xml
 
           if ! git diff --cached --quiet; then
             git commit -m "Auto update aggregate.xml"
 
-            git pull --rebase origin main
+            git fetch origin main
+            git reset --hard origin/main
+
+            python rss.py
+
+            git add aggregate.xml
+            git commit -m "Auto update aggregate.xml" || true
 
             git push origin HEAD:main
           else
