@@ -42,7 +42,11 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Auto update aggregate.xml"
-            git push
+
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push origin main && break
+              sleep 5
+            done
           else
             echo "No changes to commit"
           fi
