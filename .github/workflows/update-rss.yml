@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: '*/10 * * * *'
   push:
-    
+
 permissions:
   contents: write
 
@@ -17,6 +17,8 @@ jobs:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
+      - name: Show trigger
+        run: echo "Triggered by ${{ github.event_name }}"
       - name: Checkout repository
         uses: actions/checkout@v4
 
