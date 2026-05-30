@@ -19,6 +19,7 @@ jobs:
     steps:
       - name: Show trigger
         run: echo "Triggered by ${{ github.event_name }}"
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -36,10 +37,6 @@ jobs:
         run: python rss.py
 
       - name: Commit and push changes
-      - name: Run RSS script
-        run: python rss.py
-
-      - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
@@ -48,7 +45,10 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Auto update aggregate.xml"
-            git push origin main
+
+            git pull --rebase origin main || true
+
+            git push origin HEAD:main
           else
             echo "No changes to commit"
           fi
