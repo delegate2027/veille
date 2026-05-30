@@ -1,10 +1,9 @@
 name: Update RSS Feed
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"
-
   workflow_dispatch:
+  schedule:
+    - cron: '*/10 * * * *'
 
 permissions:
   contents: write
@@ -23,7 +22,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
@@ -33,13 +32,16 @@ jobs:
       - name: Run RSS script
         run: python rss.py
 
-      - name: Commit updated XML
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
           git add aggregate.xml
 
-          git diff --cached --quiet || git commit -m "Auto update aggregate.xml"
-
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto update aggregate.xml"
+            git push
+          else
+            echo "No changes to commit"
+          fi
