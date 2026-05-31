@@ -221,6 +221,7 @@ h1 {
    Bloc central
    ========================= */
 
+.author[data-author="Emmanuel Macron"],
 .author[data-author="Horizons"],
 .author[data-author="MoDem"],
 .author[data-author="Gabriel Attal"],
@@ -228,6 +229,7 @@ h1 {
   background: var(--centre);
 }
 
+.item[data-author="Emmanuel Macron"],
 .item[data-author="Horizons"],
 .item[data-author="MoDem"],
 .item[data-author="Gabriel Attal"],
