@@ -41,10 +41,10 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add aggregate.xml
+          git add flux.xml
 
           if ! git diff --cached --quiet; then
-            git commit -m "Auto update aggregate.xml"
+            git commit -m "Auto update flux.xml"
             git pull --rebase origin main || true
             git push origin HEAD:main
           else
