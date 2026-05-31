@@ -84,6 +84,8 @@ FEEDS = {
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCOcDPuYTuxoRBtfmTBXtqBA",
     #Aurore Bergé
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCiT4UyKh-cF8qBaBQP4p1ow",
+    #Emmanuel Macron
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqGa9uitcB-fWyNZK2xImw",
 
     ],
     "BLOC LR": [
