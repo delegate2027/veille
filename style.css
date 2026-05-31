@@ -38,7 +38,7 @@
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: 'Inter', sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   max-width: 860px;
   margin: auto;
   padding: 10px;
