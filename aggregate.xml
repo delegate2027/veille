@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 31 May 2026 17:42:24 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 18:14:21 -0000</lastBuildDate>
     <item>
       <title>Jérôme Guedj En Toute Franchise face à Elisabeth Martichoux - LCI</title>
       <link>https://www.youtube.com/watch?v=HPfg9hozxdk</link>
@@ -2095,19 +2095,6 @@ Enfin, Antoine Léaument conclut en présentant cette vision comme une pensée m
       <enclosure url="https://i.ytimg.com/vi/TcIQMckq8Ps/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Français de l'étranger, les 30 et 31 mai, allez voter !</title>
-      <link>https://www.youtube.com/watch?v=jCRaBo-l3aw</link>
-      <guid>https://www.youtube.com/watch?v=jCRaBo-l3aw</guid>
-      <pubDate>2026-05-12T17:05:13+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Mes chers compatriotes, Français du monde entier, les 30 et 31 mai 2026, vous allez désigner vos représentants auprès des ambassades et consulats de vos pays de résidence.
-
-Je compte sur vous pour voter et faire voter pour les candidats du Rassemblement national et de l'UDR ! 🇫🇷</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>jCRaBo-l3aw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/jCRaBo-l3aw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>France Info, mardi 12 mai 2026 | Laurent Wauquiez</title>
       <link>https://www.youtube.com/watch?v=tFQx9ONgDxo</link>
       <guid>https://www.youtube.com/watch?v=tFQx9ONgDxo</guid>
@@ -2587,6 +2574,17 @@ Il est temps de les taxer !</description>
       <channelTitle>François-Xavier Bellamy</channelTitle>
       <videoId>2ACKbGdrQDI</videoId>
       <enclosure url="https://i.ytimg.com/vi/2ACKbGdrQDI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nous pouvons être très fiers de nos armées !</title>
+      <link>https://www.youtube.com/watch?v=hPF2SjZ-nRI</link>
+      <guid>https://www.youtube.com/watch?v=hPF2SjZ-nRI</guid>
+      <pubDate>2026-04-30T21:27:41+00:00</pubDate>
+      <author>Emmanuel Macron</author>
+      <description />
+      <channelTitle>Emmanuel Macron</channelTitle>
+      <videoId>hPF2SjZ-nRI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hPF2SjZ-nRI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>😡 Audition LUNAIRE de Bruno Le Maire à l'Assemblée qui ne répond à AUCUNE question</title>
