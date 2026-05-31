@@ -4,7 +4,6 @@ on:
 workflow_dispatch:
 schedule:
 - cron: '0 * * * *'
-push:
 
 permissions:
 contents: write
@@ -13,19 +12,10 @@ jobs:
 update-rss:
 runs-on: ubuntu-latest
 
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 steps:
-  - name: Show trigger
-    run: echo "Triggered by ${{ github.event_name }}"
+  - uses: actions/checkout@v4
 
-  - name: Checkout repository
-    uses: actions/checkout@v4
-
-  - name: Setup Python
-    uses: actions/setup-python@v5
+  - uses: actions/setup-python@v5
     with:
       python-version: '3.11'
 
@@ -36,19 +26,3 @@ steps:
 
   - name: Run RSS script
     run: python rss.py
-
-  - name: Commit and push changes
-    run: |
-      git config user.name "github-actions"
-      git config user.email "github-actions@github.com"
-
-      git add aggregate.xml
-
-      if ! git diff --cached --quiet; then
-        git commit -m "Auto update aggregate.xml"
-        git pull --rebase origin main || true
-        git push origin HEAD:main
-      else
-        echo "No changes to commit"
-      fi
-
