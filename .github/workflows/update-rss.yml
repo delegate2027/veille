@@ -40,4 +40,3 @@ steps:
       git add .
       git diff --staged --quiet || git commit -m "Update RSS feeds"
       git push
-```
