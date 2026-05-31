@@ -3,7 +3,8 @@ name: Update RSS Feed TEST
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/59 * * * *'
+schedule:
+  - cron: '*/30 * * * *'
   push:
 
 permissions:
