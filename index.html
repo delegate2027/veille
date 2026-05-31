@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flux RSS YouTube</title>
+
+  <!-- Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #f3f4f6;
+      --card: #ffffff;
+      --text: #111827;
+      --muted: #6b7280;
+      --border: #e5e7eb;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'JetBrains Mono', monospace;
+      max-width: 860px;
+      margin: auto;
+      padding: 10px;
+    }
+
+    h1 {
+      font-size: 14px;
+      margin: 0;
+      font-weight: 700;
+      color: #111827;
+    }
+
+    .header-line {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .last-update {
+      font-size: 12px !important;
+      line-height: 1.1 !important;
+      color: var(--muted);
+    }
+
+      margin-bottom: 10px;
+      font-weight: 700;
+      color: #111827;
+    }
+
+    .feed {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .item {
+      padding: 8px 10px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      transition: 0.15s ease;
+      overflow: hidden;
+      background: var(--card);
+    }
+
+    .item:hover {
+      transform: translateY(-1px);
+      border-color: #cbd5e1;
+    }
+
+    .top {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-bottom: 4px;
+    }
+
+    .author {
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 2px 6px;
+      border-radius: 999px;
+      color: white;
+      letter-spacing: 0.3px;
+      background: #6b7280;
+    }
+
+    .date {
+      color: var(--muted);
+      font-size: 10px;
+    }
+
+    .title {
+      font-size: 12px;
+      line-height: 1.3;
+      font-weight: 600;
+      margin-bottom: 3px;
+    }
+
+    .title a {
+      color: #111827;
+      text-decoration: none;
+    }
+
+    .title a:hover {
+      opacity: 0.85;
+    }
+
+    .desc {
+      color: #4b5563;
+      font-size: 11px;
+      line-height: 1.35;
+
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+
+      overflow: hidden;
+    }
+
+    /* Couleurs personnalisées par auteur */
+
+    /* Eric Coquerel */
+    .author[data-author="Eric Coquerel"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Eric Coquerel"] {
+      background: #efe8ff;
+    }
+
+    /* Manon Aubry */
+    .author[data-author="Manon Aubry"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Manon Aubry"] {
+      background: #efe8ff;
+    }
+
+    /* SOPHIA CHIKIROU */
+    .author[data-author="SOPHIA CHIKIROU"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="SOPHIA CHIKIROU"] {
+      background: #efe8ff;
+    }
+
+    /* Mathilde Panot */
+    .author[data-author="Mathilde Panot"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Mathilde Panot"] {
+      background: #edf8e7;
+    }
+
+    /* JEAN-LUC MÉLENCHON */
+    .author[data-author="JEAN-LUC MÉLENCHON"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="JEAN-LUC MÉLENCHON"] {
+      background: #efe8ff;
+    }
+
+    /* Paul Vannier */
+    .author[data-author="Paul Vannier"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Paul Vannier"] {
+      background: #ffe5e5;
+    }
+
+    /* Manuel Bompard */
+    .author[data-author="Manuel Bompard"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Manuel Bompard"] {
+      background: #ffe5e5;
+    }
+
+    /* Gabrielle Cathala */
+    .author[data-author="Gabrielle Cathala"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Gabrielle Cathala"] {
+      background: #ffe5e5;
+    }
+
+    /* Hadrien Clouet */
+    .author[data-author="Hadrien Clouet"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Hadrien Clouet"] {
+      background: #ffe5e5;
+    }
+
+    /* Antoine Léaument */
+    .author[data-author="Antoine Léaument"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Antoine Léaument"] {
+      background: #ffe5e5;
+    }
+
+
+        /* Paul Vannier */
+    .author[data-author="Paul Vannier"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Paul Vannier"] {
+      background: #efe8ff;
+    }
+
+        /* Gabrielle Cathala */
+    .author[data-author="Gabrielle Cathala"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Gabrielle Cathala"] {
+      background: #efe8ff;
+    }
+
+        /* Manuel Bompard */
+    .author[data-author="Manuel Bompard"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Manuel Bompard"] {
+      background: #efe8ff;
+    }
+
+            /* DAMIEN MAUDET */
+    .author[data-author="DAMIEN MAUDET"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="DAMIEN MAUDET"] {
+      background: #efe8ff;
+    }
+
+                /* Hadrien Clouet */
+    .author[data-author="Hadrien Clouet"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Hadrien Clouet"] {
+      background: #efe8ff;
+    }
+
+                    /* Mathilde Panot */
+    .author[data-author="Mathilde Panot"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Mathilde Panot"] {
+      background: #efe8ff;
+    }
+
+                    /* Antoine Léaument */
+    .author[data-author="Antoine Léaument"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Antoine Léaument"] {
+      background: #efe8ff;
+    }
+
+                        /* Francois Piquemal */
+    .author[data-author="Francois Piquemal"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Francois Piquemal"] {
+      background: #efe8ff;
+    }
+
+                            /* David Guiraud */
+    .author[data-author="David Guiraud"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="David Guiraud"] {
+      background: #efe8ff;
+    }
+
+                                /* Clémence Guetté */
+    .author[data-author="Clémence Guetté"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Clémence Guetté"] {
+      background: #efe8ff;
+    }
+
+                                /* Aurélien Saintoul - Député des Hauts-de-Seine */
+    .author[data-author="Aurélien Saintoul - Député des Hauts-de-Seine"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Aurélien Saintoul - Député des Hauts-de-Seine"] {
+      background: #efe8ff;
+    }
+
+                                    /* Aurélie Trouvé - Députée */
+    .author[data-author="Aurélie Trouvé - Députée"] {
+      background: #533E7D;
+    }
+
+    .item[data-author="Aurélie Trouvé - Députée"] {
+      background: #efe8ff;
+    }
+
+
+                                       /* EELV */
+
+
+                                        /* Les Écologistes */
+    .author[data-author="Les Écologistes"] {
+background: #00b35c;
+    }
+
+    .item[data-author="Les Écologistes"] {
+  background: #e7f8ec;
+    }
+
+
+
+                                        /* PS ET SATTELITES */
+
+/* PARTI SOCIALISTE */
+    .author[data-author="PS - Parti socialiste"] {
+background: #E664C6;
+    }
+
+    .item[data-author="PS - Parti socialiste"] {
+background: #ffe4f4;
+ }
+
+
+/* GLUCKSMANN */
+    .author[data-author="Raphaël Glucksmann"] {
+background: #E664C6;
+    }
+
+
+    .item[data-author="Raphaël Glucksmann"] {
+background: #ffe4f4;
+ }
+
+
+/* FRANÇOIS RUFFIN */
+    .author[data-author="FRANÇOIS RUFFIN"] {
+background: #E664C6;
+    }
+
+    .item[data-author="FRANÇOIS RUFFIN"] {
+background: #ffe4f4;
+ }
+
+ /* GUEDJ */
+    .author[data-author="Jérôme Guedj"] {
+background: #E664C6;
+    }
+
+    .item[data-author="Jérôme Guedj"] {
+background: #ffe4f4;
+ }
+
+
+
+
+                                        /* BLOC CENTRAL */
+
+                                        
+                                        /* PARTI HORIZONS*/
+    .author[data-author="Horizons"] {
+background: #70B0D8;
+    }
+
+    .item[data-author="Horizons"] {
+background: #e3f2ff;
+    }
+                                        
+                                        /* PARTI MODEM*/
+    .author[data-author="MoDem"] {
+background: #70B0D8;
+    }
+
+    .item[data-author="MoDem"] {
+background: #e3f2ff;
+    }
+
+                                        /* Gabriel Attal */
+    .author[data-author="Gabriel Attal"] {
+background: #70B0D8;
+    }
+
+    .item[data-author="Gabriel Attal"] {
+background: #e3f2ff;
+    }
+
+                                            /* Aurore Bergé */
+    .author[data-author="Aurore Bergé"] {
+background: #70B0D8;
+    }
+
+    .item[data-author="Aurore Bergé"] {
+background: #e3f2ff;
+    }
+
+                                            /* Aurore Bergé */
+    .author[data-author="Aurore Bergé"] {
+background: #70B0D8;
+    }
+
+    .item[data-author="Aurore Bergé"] {
+background: #e3f2ff;
+    }
+
+                                            /* Aurore Bergé */
+    .author[data-author="Aurore Bergé"] {
+background: #70B0D8;
+    }
+
+    .item[data-author="Aurore Bergé"] {
+background: #e3f2ff;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media (max-width: 700px) {
+      body {
+        padding: 6px;
+      }
+
+      .item {
+        padding: 7px 8px;
+      }
+
+      .title {
+        font-size: 11px;
+      }
+
+      .desc {
+        font-size: 10px;
+      }
+
+      .author {
+        font-size: 7px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="header-line">
+    <h1>&nbsp Veille 2027</h1>
+
+    <div class="last-update" id="lastUpdate">
+      &nbsp Dernière actualisation : chargement...
+    </div>
+  </div>
+
+  <div class="feed" id="feed"></div>
+
+  <script>
+    async function loadRSS() {
+
+      const response = await fetch("aggregate.xml");
+
+      // Date de dernière modification du fichier XML
+      const lastModified = response.headers.get("Last-Modified");
+
+      if (lastModified) {
+        const updateDate = new Date(lastModified);
+
+        document.getElementById("lastUpdate").innerHTML =
+          "&nbsp Dernière actualisation : " +
+          updateDate.toLocaleDateString("fr-FR", {
+            day: "2-digit",
+            month: "2-digit",
+            year: "numeric",
+            hour: "2-digit",
+            minute: "2-digit"
+          });
+      }
+      const xmlText = await response.text();
+
+      const parser = new DOMParser();
+      const xml = parser.parseFromString(xmlText, "text/xml");
+
+      let items = [...xml.querySelectorAll("item")]
+
+      // Trier par date décroissante
+      .sort((a, b) => {
+
+        return new Date(
+          b.querySelector("pubDate").textContent
+        ) - new Date(
+          a.querySelector("pubDate").textContent
+        );
+      })
+
+      // Garder uniquement les 50 dernières entrées
+      .slice(0, 50);
+
+      // Exclure les shorts
+      items = items.filter(item => {
+
+        const title =
+          item.querySelector("title")?.textContent.toLowerCase() || "";
+
+        const desc =
+          item.querySelector("description")?.textContent.toLowerCase() || "";
+
+        return !title.includes("#shorts")
+          && !title.includes("shorts")
+          && !desc.includes("#shorts");
+      });
+
+      const feed = document.getElementById("feed");
+
+      items.forEach(item => {
+
+        const title =
+          item.querySelector("title")?.textContent || "";
+
+        const link =
+          item.querySelector("link")?.textContent || "#";
+
+        const author =
+          item.querySelector("author")?.textContent || "Auteur";
+
+        const description =
+          item.querySelector("description")?.textContent || "";
+
+        const pubDate = new Date(
+          item.querySelector("pubDate")?.textContent || ""
+        );
+
+        // Gestion unicode / accents / caractères spéciaux
+        const safeAuthor = author.normalize("NFC");
+
+        const formattedDate = pubDate.toLocaleDateString(
+          "fr-FR",
+          {
+            day: "2-digit",
+            month: "2-digit",
+            year: "numeric",
+            hour: "2-digit",
+            minute: "2-digit"
+          }
+        );
+
+        const div = document.createElement("div");
+
+        div.className = "item";
+
+        div.setAttribute("data-author", safeAuthor);
+
+        div.innerHTML = `
+          <div class="top">
+
+            <span class="author" data-author="${safeAuthor}">
+              ${author}
+            </span>
+
+            <span class="date">
+              ${formattedDate}
+            </span>
+
+          </div>
+
+          <div class="title">
+            <a href="${link}" target="_blank">
+              ${title}
+            </a>
+          </div>
+
+          <div class="desc">
+            ${description.replace(/\n/g, " ")}
+          </div>
+        `;
+
+        feed.appendChild(div);
+      });
+    }
+
+    loadRSS();
+  </script>
+
+</body>
+</html>
