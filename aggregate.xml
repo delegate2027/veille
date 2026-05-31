@@ -4,7 +4,35 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 31 May 2026 15:05:30 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 17:06:53 -0000</lastBuildDate>
+    <item>
+      <title>Jérôme Guedj En Toute Franchise face à Elisabeth Martichoux - LCI</title>
+      <link>https://www.youtube.com/watch?v=HPfg9hozxdk</link>
+      <guid>https://www.youtube.com/watch?v=HPfg9hozxdk</guid>
+      <pubDate>2026-05-31T15:41:52+00:00</pubDate>
+      <author>Jérôme Guedj</author>
+      <description />
+      <channelTitle>Jérôme Guedj</channelTitle>
+      <videoId>HPfg9hozxdk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/HPfg9hozxdk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Face cam' #4 : Trompe-l’œil, racisme et ambulance.</title>
+      <link>https://www.youtube.com/watch?v=b3fgUsWRhxY</link>
+      <guid>https://www.youtube.com/watch?v=b3fgUsWRhxY</guid>
+      <pubDate>2026-05-31T15:23:43+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Faites rager les gens de droite ! : 00:00 
+Le SMIC : Une augmentation en trompe l'oeil ? : 00:41
+Déferlement de racisme en France, et impérialisme décomplexé à l'international : 9:10
+Les ambulanciers de Toulouse en lutte : 16:07
+
+Pour soutenir la caisse de gréve des ambulanciers c'est ici : 
+https://www.leetchi.com/fr/c/soutien-aux-ambulanciers-du-chu-de-toulouse-stop-a-linjustice-3865888?</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>b3fgUsWRhxY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/b3fgUsWRhxY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Présidentielle, salaires, retraites : Manuel Bompard, invité de France 3 !</title>
       <link>https://www.youtube.com/watch?v=xkcqHsXnwag</link>
@@ -2727,17 +2755,6 @@ Cette LPM n’est pas une réponse aux défis du monde actuel. C’est un aveu d
       <enclosure url="https://i.ytimg.com/vi/FSG6y0ePMS8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>France Travail : le naufrage !</title>
-      <link>https://www.youtube.com/watch?v=1yqWBY-G53c</link>
-      <guid>https://www.youtube.com/watch?v=1yqWBY-G53c</guid>
-      <pubDate>2026-04-16T14:17:08+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Je rappelle au directeur de France Travail le bilan désastreux de son mandat, tant pour les privés d'emplois que pour les agents du service publique de l'emploi !</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>1yqWBY-G53c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1yqWBY-G53c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Jérôme Guedj face à la matinale de Sud Radio</title>
       <link>https://www.youtube.com/watch?v=SiGbAlifDls</link>
       <guid>https://www.youtube.com/watch?v=SiGbAlifDls</guid>
@@ -2961,17 +2978,6 @@ Retour sur le traitement médiatique des élus insoumis, les questions de démoc
       <channelTitle>Louis Boyard</channelTitle>
       <videoId>K8nv_fQShCc</videoId>
       <enclosure url="https://i.ytimg.com/vi/K8nv_fQShCc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj en direct de l'hommage national à Lionel Jospin sur LCI</title>
-      <link>https://www.youtube.com/watch?v=Xal96rqsFPw</link>
-      <guid>https://www.youtube.com/watch?v=Xal96rqsFPw</guid>
-      <pubDate>2026-03-26T17:49:23+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description>Le 26 Mars 2026</description>
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>Xal96rqsFPw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Xal96rqsFPw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>1er tour des Municipales 2026 à Roubaix : le discours de David Guiraud</title>
