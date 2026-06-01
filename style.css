@@ -80,10 +80,10 @@ h1 {
   background: var(--card);
 }
 
-/*.item:hover {
-  transform: translateY(-1px);
+.item:hover {
+  transform: translateY(0px);
   border-color: #cbd5e1;
-}*/
+}
 
 .top {
   display: flex;
