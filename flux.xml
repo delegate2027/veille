@@ -4,7 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 01 Jun 2026 14:13:19 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 14:28:01 -0000</lastBuildDate>
+    <item>
+      <title>Zoonoses, maladies climatiques (Intervention - Convention Santé Environnementale par Anne Souyris)</title>
+      <link>https://www.youtube.com/watch?v=EWuj0W5aq5A</link>
+      <guid>https://www.youtube.com/watch?v=EWuj0W5aq5A</guid>
+      <pubDate>2026-06-01T14:25:52+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Anne Souyris, sénatrice de Paris</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>EWuj0W5aq5A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EWuj0W5aq5A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>PFAS, microplastiques, cadmium : l’empoisonnement invisible (Convention Santé Environnementale)</title>
+      <link>https://www.youtube.com/watch?v=9cmh8LU6k7E</link>
+      <guid>https://www.youtube.com/watch?v=9cmh8LU6k7E</guid>
+      <pubDate>2026-06-01T14:24:53+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Animation : Tamina Toussaint-Ianeva, responsable idées des Jeunes Écologistes 
+Benoît Biteau, député de Charente-Maritime
+Tania Pacheff, nutritionniste spécialisée en santé environnementale, et porte parole de cantine sans plastique
+Franck Rinchet-Girollet, porte-parole d’Avenir Santé Environnement
+Sabrina Sebaihi, députée des Hauts-de-Seine</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>9cmh8LU6k7E</videoId>
+      <enclosure url="https://i.ytimg.com/vi/9cmh8LU6k7E/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"Santé, climat : même combat !" (Intro de notre Convention Santé Environnementale par Kévin Jean)</title>
       <link>https://www.youtube.com/watch?v=cuichOMEnGg</link>
@@ -824,17 +850,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>o0qusod1WeI</videoId>
       <enclosure url="https://i.ytimg.com/vi/o0qusod1WeI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier est "effarée par l'impréparation du gouvernement face aux canicules" (France Info)</title>
-      <link>https://www.youtube.com/watch?v=R4qlv5iqu9Q</link>
-      <guid>https://www.youtube.com/watch?v=R4qlv5iqu9Q</guid>
-      <pubDate>2026-05-27T06:33:37+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Matinale de France Info du 27 mai 2026.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>R4qlv5iqu9Q</videoId>
-      <enclosure url="https://i.ytimg.com/vi/R4qlv5iqu9Q/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>🔴 Canicule, prix des carburants, présidentielles : Manuel Bompard, invité de BFM TV !</title>
@@ -1713,17 +1728,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>SLeEjymMmB4</videoId>
       <enclosure url="https://i.ytimg.com/vi/SLeEjymMmB4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marie-Charlotte Garin : "Vous êtes responsables des mortes qu'on aurait pu éviter !"</title>
-      <link>https://www.youtube.com/watch?v=-m2zKaRXMm0</link>
-      <guid>https://www.youtube.com/watch?v=-m2zKaRXMm0</guid>
-      <pubDate>2026-05-20T13:24:25+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>-m2zKaRXMm0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-m2zKaRXMm0/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>7h40 FranceInfo : l'interview de Jérôme Guedj</title>
