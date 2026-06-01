@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 01 Jun 2026 13:58:05 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 14:13:19 -0000</lastBuildDate>
+    <item>
+      <title>"Santé, climat : même combat !" (Intro de notre Convention Santé Environnementale par Kévin Jean)</title>
+      <link>https://www.youtube.com/watch?v=cuichOMEnGg</link>
+      <guid>https://www.youtube.com/watch?v=cuichOMEnGg</guid>
+      <pubDate>2026-06-01T14:01:49+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Kévin Jean, épidémiologiste, professeur junior en Santé et Changements Globaux au Département de Biologie de l’Ecole Normale Supérieure (ENS)</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>cuichOMEnGg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/cuichOMEnGg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Abolition du code noir, discours d'Amine : les bonnes nouvelles de la semaine</title>
       <link>https://www.youtube.com/watch?v=Dut7nkrlUfI</link>
@@ -802,17 +813,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>slRKJjyk85U</videoId>
       <enclosure url="https://i.ytimg.com/vi/slRKJjyk85U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY : « Sébastien Lecornu, c'est du Macron en plus ringard ! » (Public Sénat)</title>
-      <link>https://www.youtube.com/watch?v=OU54eV59E_U</link>
-      <guid>https://www.youtube.com/watch?v=OU54eV59E_U</guid>
-      <pubDate>2026-05-27T09:00:49+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>OU54eV59E_U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/OU54eV59E_U/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>La Réunion est aux avant postes de la révolution citoyenne</title>
@@ -1889,17 +1889,6 @@ Telegram : @MouvementDemocrate</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>Nie_MjVzB8U</videoId>
       <enclosure url="https://i.ytimg.com/vi/Nie_MjVzB8U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérémie Iordanoff : "“Le gouvernement a-t-il abdiqué face à l’extrême droite et à Monsieur Bolloré?”</title>
-      <link>https://www.youtube.com/watch?v=LrE4Mb2SKtc</link>
-      <guid>https://www.youtube.com/watch?v=LrE4Mb2SKtc</guid>
-      <pubDate>2026-05-19T15:44:39+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>LrE4Mb2SKtc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LrE4Mb2SKtc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Loi d'urgence agricole, Nouvelle-Calédonie : conférence de presse du Groupe GDR, 19 mai 2026.</title>
