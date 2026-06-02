@@ -2,6 +2,8 @@ name: Update RSS Feed
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'  # Toutes les 30 minutes
 
 permissions:
   contents: write
