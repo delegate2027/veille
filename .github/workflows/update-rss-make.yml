@@ -1,7 +1,9 @@
 name: Update RSS Feed TEST
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'  # Toutes les 30 minutes
+  workflow_dispatch:  # Permet de déclencher manuellement
 
 permissions:
   contents: write
