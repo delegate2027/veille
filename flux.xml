@@ -4,597 +4,342 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 02 Jun 2026 03:58:04 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 04:12:55 -0000</lastBuildDate>
     <item>
-      <title>Jérôme Guedj En Toute Franchise face à Elisabeth Martichoux - LCI</title>
-      <link>https://www.youtube.com/watch?v=HPfg9hozxdk</link>
-      <guid>https://www.youtube.com/watch?v=HPfg9hozxdk</guid>
-      <pubDate>2026-05-31T15:41:52+00:00</pubDate>
-      <author>Jérôme Guedj</author>
+      <title>Conclusion de notre Convention Santé Environnementale par Marine Tondelier</title>
+      <link>https://www.youtube.com/watch?v=7U6kKqS4yhA</link>
+      <guid>https://www.youtube.com/watch?v=7U6kKqS4yhA</guid>
+      <pubDate>2026-06-01T15:04:43+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Marine Tondelier, Secrétaire nationale des Écologistes</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>7U6kKqS4yhA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7U6kKqS4yhA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>En finir avec la fabrique du doute (Convention Santé Environnementale)</title>
+      <link>https://www.youtube.com/watch?v=-5GQw7QnPYI</link>
+      <guid>https://www.youtube.com/watch?v=-5GQw7QnPYI</guid>
+      <pubDate>2026-06-01T14:55:28+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Animation : Raphaëlle Rémy-Leleu, Co-responsable de la commission lutte contre l’extrême droite 
+Serge Hercberg, épidémiologiste et nutritionniste
+Jean-Noël Jouzel, directeur de recherche CNRS au centre de sociologie des organisations 
+Lilith, présidente de l'association diaspora solidaire avec les victimes de l'empoisonnement colonial
+Eva Morel, secrétaire générale de QuotaClimat</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>-5GQw7QnPYI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-5GQw7QnPYI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Zoonoses, maladies climatiques (Intervention - Convention Santé Environnementale par Anne Souyris)</title>
+      <link>https://www.youtube.com/watch?v=EWuj0W5aq5A</link>
+      <guid>https://www.youtube.com/watch?v=EWuj0W5aq5A</guid>
+      <pubDate>2026-06-01T14:25:52+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Anne Souyris, sénatrice de Paris</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>EWuj0W5aq5A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EWuj0W5aq5A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>PFAS, microplastiques, cadmium : l’empoisonnement invisible (Convention Santé Environnementale)</title>
+      <link>https://www.youtube.com/watch?v=9cmh8LU6k7E</link>
+      <guid>https://www.youtube.com/watch?v=9cmh8LU6k7E</guid>
+      <pubDate>2026-06-01T14:24:53+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Animation : Tamina Toussaint-Ianeva, responsable idées des Jeunes Écologistes 
+Benoît Biteau, député de Charente-Maritime
+Tania Pacheff, nutritionniste spécialisée en santé environnementale, et porte parole de cantine sans plastique
+Franck Rinchet-Girollet, porte-parole d’Avenir Santé Environnement
+Sabrina Sebaihi, députée des Hauts-de-Seine</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>9cmh8LU6k7E</videoId>
+      <enclosure url="https://i.ytimg.com/vi/9cmh8LU6k7E/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Santé, climat : même combat !" (Intro de notre Convention Santé Environnementale par Kévin Jean)</title>
+      <link>https://www.youtube.com/watch?v=cuichOMEnGg</link>
+      <guid>https://www.youtube.com/watch?v=cuichOMEnGg</guid>
+      <pubDate>2026-06-01T14:01:49+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Kévin Jean, épidémiologiste, professeur junior en Santé et Changements Globaux au Département de Biologie de l’Ecole Normale Supérieure (ENS)</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>cuichOMEnGg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/cuichOMEnGg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴 Présidentielle, salaires, retraites : Manuel Bompard, invité de France 3 !</title>
+      <link>https://www.youtube.com/watch?v=xkcqHsXnwag</link>
+      <guid>https://www.youtube.com/watch?v=xkcqHsXnwag</guid>
+      <pubDate>2026-05-31T10:59:48+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage dans Dimanche en politique sur France 3 du dimanche 31 mai 2026.
+
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>xkcqHsXnwag</videoId>
+      <enclosure url="https://i.ytimg.com/vi/xkcqHsXnwag/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Tondelier : "la réponse du gouvernement au congé climatique est une faute politique" (BFM TV)</title>
+      <link>https://www.youtube.com/watch?v=mPndEte8DGU</link>
+      <guid>https://www.youtube.com/watch?v=mPndEte8DGU</guid>
+      <pubDate>2026-05-29T16:31:16+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Le 29 mai 2026, Marine Tondelier était en duplex depuis Corbeil-Essonne, où elle a échangé à la sortie d'une école avec des élèves, des parents et le corps enseignant sur la canicule.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>mPndEte8DGU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/mPndEte8DGU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Steevy Gustave : “Nous sommes les descendants d'êtres humains nés libres puis réduits en esclavage.”</title>
+      <link>https://www.youtube.com/watch?v=dVbQzu7xVPo</link>
+      <guid>https://www.youtube.com/watch?v=dVbQzu7xVPo</guid>
+      <pubDate>2026-05-29T09:52:41+00:00</pubDate>
+      <author>Les Écologistes</author>
       <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>HPfg9hozxdk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HPfg9hozxdk/maxresdefault.jpg" type="image/jpeg" />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>dVbQzu7xVPo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dVbQzu7xVPo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Face cam' #4 : Trompe-l’œil, racisme et ambulance.</title>
-      <link>https://www.youtube.com/watch?v=b3fgUsWRhxY</link>
-      <guid>https://www.youtube.com/watch?v=b3fgUsWRhxY</guid>
-      <pubDate>2026-05-31T15:23:43+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Faites rager les gens de droite ! : 00:00 
-Le SMIC : Une augmentation en trompe l'oeil ? : 00:41
-Déferlement de racisme en France, et impérialisme décomplexé à l'international : 9:10
-Les ambulanciers de Toulouse en lutte : 16:07
+      <title>Marine Tondelier : "Pascal Praud est le champion de la désinformation climatique"</title>
+      <link>https://www.youtube.com/watch?v=5sK88ypWrIs</link>
+      <guid>https://www.youtube.com/watch?v=5sK88ypWrIs</guid>
+      <pubDate>2026-05-28T17:29:34+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Pendant que la France suffoque de la canicule, on a chez nous le champion du monde de la désinformation climatique, Pascal Praud.
 
-Pour soutenir la caisse de gréve des ambulanciers c'est ici : 
-https://www.leetchi.com/fr/c/soutien-aux-ambulanciers-du-chu-de-toulouse-stop-a-linjustice-3865888?</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>b3fgUsWRhxY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/b3fgUsWRhxY/maxresdefault.jpg" type="image/jpeg" />
+Nous, on fait confiance aux scientifiques.
+
+Et on leur donnera la parole samedi 30 mai à Paris pour parler (entre autres) de la fabrique du doute.
+
+En bonus, on révèlera notre livret thématique de campagne qui contient plus de 100 propositions sur la santé environnementale.
+
+Inscriptions : https://lc.cx/30mai</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>5sK88ypWrIs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5sK88ypWrIs/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Introduction des journées économiques internationales de l'Institut La Boétie</title>
-      <link>https://www.youtube.com/watch?v=9MxbK3UKLAM</link>
-      <guid>https://www.youtube.com/watch?v=9MxbK3UKLAM</guid>
-      <pubDate>2026-05-30T12:35:31+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu pour introduire les journées économiques internationales de l'Institut La Boétie, le 30 mai 2026.
+      <title>La Loi d'Urgence Agricole est désastreuse</title>
+      <link>https://www.youtube.com/watch?v=a3K7isPoKk4</link>
+      <guid>https://www.youtube.com/watch?v=a3K7isPoKk4</guid>
+      <pubDate>2026-05-28T15:41:28+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>L'examen de la loi d'urgence agricole a commencé à l'Assemblée, et comme on le craignait, son contenu est désastreux, car il a été dicté par l'agrobusiness.
 
-Retrouvez l'intégralité du direct sur : https://www.youtube.com/watch?v=r8KZK70-fkQ
+Les député·es du groupe écologiste et social de l'Assemblé nationale Marie Pochon, Benoît Biteau, Lisa Belluco et Jean-Claude Raux expliquent pourquoi.
 
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>9MxbK3UKLAM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/9MxbK3UKLAM/maxresdefault.jpg" type="image/jpeg" />
+Mais ils ont aussi des propositions pour sauver VRAIMENT l'agriculture française.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>a3K7isPoKk4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/a3K7isPoKk4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Mélenchon 2027, c'est tout droit ! – Panorama #90</title>
-      <link>https://www.youtube.com/watch?v=liWvtTaYK30</link>
-      <guid>https://www.youtube.com/watch?v=liWvtTaYK30</guid>
-      <pubDate>2026-05-29T16:27:53+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Retrouvez le point de la semaine de Mathilde Panot.
-
-0:00 : Introduction
-0:34 : Situation au Proche-Orient et inaction de la France
-10:13 : Canicule et réchauffement climatiques : nos propositions
-15:39 : Abrogation du Code noir : l'extrême droite fidèle à elle-même
-19:35 : Enquête de l'INED sur l'immigration
-22:25 : Attal, Glucksmann, Philippe... Qui sera le pire candidat pour 2027 ?
-25:13 : La dynamique est de notre côté ! Rendez-vous le 7 Juin à Saint-Denis !
-
-Signez et faites signer : https://melenchon2027.fr/</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>liWvtTaYK30</videoId>
-      <enclosure url="https://i.ytimg.com/vi/liWvtTaYK30/maxresdefault.jpg" type="image/jpeg" />
+      <title>Les pires réactions des éditorialistes à la proposition de congé climatique de Marine Tondelier</title>
+      <link>https://www.youtube.com/watch?v=ONCW8hpTOnA</link>
+      <guid>https://www.youtube.com/watch?v=ONCW8hpTOnA</guid>
+      <pubDate>2026-05-28T13:36:23+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Et pour avoir la vérité sur le congé climatique que Marine Tondelier propose : https://lc.cx/conge</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>ONCW8hpTOnA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ONCW8hpTOnA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Sapeurs-pompiers : j'auditionne le Ministre de l'Intérieur</title>
-      <link>https://www.youtube.com/watch?v=QYsNfXfo5kA</link>
-      <guid>https://www.youtube.com/watch?v=QYsNfXfo5kA</guid>
-      <pubDate>2026-05-28T14:28:47+00:00</pubDate>
-      <author>DAMIEN MAUDET</author>
-      <description>Des pompiers qui donnent tout, mais un Gouvernement qui fait des économies sur leur dos.
+      <title>🔴 Canicule, prix des carburants, présidentielles : Manuel Bompard, invité de BFM TV !</title>
+      <link>https://www.youtube.com/watch?v=Udd17tDK0SM</link>
+      <guid>https://www.youtube.com/watch?v=Udd17tDK0SM</guid>
+      <pubDate>2026-05-26T18:40:50+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur BFM TV du mardi 26 mai 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
 
-L'an dernier, nous avions alerté le Gouvernement sur des budgets trop faibles, et l'analyse de l'année 2025 nous donne raison.
-
-Et pour 2026 ? Aucune leçon n'est retenue. Alors que nous avons essuyé l'an dernier des incendies colossaux, notamment le plus grand depuis les années 50, le Gouvernement prévoit de moins dépenser pour 2026.
-
-Alors que notre pays connaît des vagues de chaleur historiques et que les mégafeux deviennent une menace durable, nous devons faire exactement l’inverse : investir davantage, moderniser nos équipements et soutenir pleinement celles et ceux qui nous protègent.
-
-Nos sapeurs-pompiers méritent mieux que des économies budgétaires.</description>
-      <channelTitle>DAMIEN MAUDET</channelTitle>
-      <videoId>QYsNfXfo5kA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QYsNfXfo5kA/maxresdefault.jpg" type="image/jpeg" />
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>Udd17tDK0SM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Udd17tDK0SM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>La macronie déteste les seniors !</title>
-      <link>https://www.youtube.com/watch?v=KiBZ8dOqpjA</link>
-      <guid>https://www.youtube.com/watch?v=KiBZ8dOqpjA</guid>
-      <pubDate>2026-05-26T17:10:21+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Après la retraite, elle s’attaque maintenant à leurs droits à l’assurance chômage. Ça suffit !</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>KiBZ8dOqpjA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/KiBZ8dOqpjA/maxresdefault.jpg" type="image/jpeg" />
+      <title>💥 Je réagis aux annonces de Lecornu</title>
+      <link>https://www.youtube.com/watch?v=PlazvKRcBBQ</link>
+      <guid>https://www.youtube.com/watch?v=PlazvKRcBBQ</guid>
+      <pubDate>2026-05-21T17:26:32+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>Retrouvez en intégralité mon passage sur BFM TV du jeudi 21 mai 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>PlazvKRcBBQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PlazvKRcBBQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
-      <link>https://www.youtube.com/watch?v=ybrTmUTqUB0</link>
-      <guid>https://www.youtube.com/watch?v=ybrTmUTqUB0</guid>
-      <pubDate>2026-05-26T09:01:22+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Rendez-vous ce mardi 26 mai à 10h30 pour suivre en direct le Point Presse Hebdo du groupe parlementaire La France insoumise avec Mathilde Panot !
+      <title>Immigration : accueillir dignement grandit notre pays, voilà quelle est notre boussole</title>
+      <link>https://www.youtube.com/watch?v=jWS3WOMX4QA</link>
+      <guid>https://www.youtube.com/watch?v=jWS3WOMX4QA</guid>
+      <pubDate>2026-05-21T17:02:57+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Immigration : accueillir dignement grandit notre pays, voilà quelle est notre boussole.
 
-_________________________________________________ 
-
-Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
-
-☞ X (Twitter) : https://x.com/FiAssemblee
-☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
-☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
-☞ YouTube :  / @FranceinsoumiseAN
-☞ Instagram : https://instagram.com/FranceinsoumiseAN/
-☞ Threads : https://www.threads.net/@FranceinsoumiseAN
-☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
-☞ Telegram : https://t.me/FranceinsoumiseAN
-
-Abonnez-vous !</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>ybrTmUTqUB0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ybrTmUTqUB0/maxresdefault.jpg" type="image/jpeg" />
+La France est un pays riche de ses habitant•e•s venu•e•s des 4 coins du monde.</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>jWS3WOMX4QA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jWS3WOMX4QA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Le 7 juin, nous écrirons une nouvelle page de l’histoire de France !</title>
-      <link>https://www.youtube.com/watch?v=zoUuixjFh4I</link>
-      <guid>https://www.youtube.com/watch?v=zoUuixjFh4I</guid>
-      <pubDate>2026-05-24T11:34:38+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot au Grand Jury (RTL/Le Figaro/M6/Public Sénat) le dimanche 24 mai 2026 à 12h.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>zoUuixjFh4I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zoUuixjFh4I/maxresdefault.jpg" type="image/jpeg" />
+      <title>Violences sexistes et sexuelles dans les fédérations sportives</title>
+      <link>https://www.youtube.com/watch?v=V8uWNOcMPoY</link>
+      <guid>https://www.youtube.com/watch?v=V8uWNOcMPoY</guid>
+      <pubDate>2026-05-11T09:33:48+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Violences sexistes et sexuelles dans les fédérations sportives : retour sur la commission d’enquête de l’Assemblée nationale. 
+
+#franceinsoumise #vss</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>V8uWNOcMPoY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/V8uWNOcMPoY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>La Nuit des musées avec Jean-Luc Mélenchon</title>
-      <link>https://www.youtube.com/watch?v=Fk0yinN6mVk</link>
-      <guid>https://www.youtube.com/watch?v=Fk0yinN6mVk</guid>
-      <pubDate>2026-05-23T11:07:42+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu dans une émission sur la Nuit des musées à travers différentes histoires et anecdotes sur les musées en France et à travers le monde, le 23 mai 2026.
+      <title>🔴 Présidentielle, carburants, insécurité : Manuel Bompard, invité de CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=nqJ1QEW9AEE</link>
+      <guid>https://www.youtube.com/watch?v=nqJ1QEW9AEE</guid>
+      <pubDate>2026-05-10T09:19:25+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage du dimanche 10 mai 2026 sur CNEWS.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
 
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>Fk0yinN6mVk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Fk0yinN6mVk/maxresdefault.jpg" type="image/jpeg" />
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>nqJ1QEW9AEE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nqJ1QEW9AEE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>La macronie se couche face à l'extrême droite ! – Panorama #89</title>
-      <link>https://www.youtube.com/watch?v=rUDAL-kz2KM</link>
-      <guid>https://www.youtube.com/watch?v=rUDAL-kz2KM</guid>
-      <pubDate>2026-05-22T14:11:45+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Retrouvez le point de la semaine de Mathilde Panot.
+      <title>💥 Campagne présidentielle : entrez dans la bataille ! - Manu refait l'actu n°24</title>
+      <link>https://www.youtube.com/watch?v=JZEeWJKPaFA</link>
+      <guid>https://www.youtube.com/watch?v=JZEeWJKPaFA</guid>
+      <pubDate>2026-05-06T17:17:47+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>🗣 On parle du lancement de la campagne présidentielle de Jean-Luc Mélenchon. Entrez dans la bataille, rejoignez-nous ! 
 
-0:00 : Introduction
-0:42 : La macronie se couche devant Israël
-8:38 : La macronie se couche devant Bolloré
-12:15 : Au pouvoir, nous démantèlerons les empires médiatiques !
-14:52 : Augmentation des frais d'inscription pour les étudiants étrangers
-17:10 : La macronie se décompose
-20:26 : Présidentielles 2027 : point sur les différents camps politiques
-24:15 : Le 7 juin, premier meeting de campagne à Saint-Denis !
-27:24 : Ingérence israélienne contre LFI
+Donnez votre parrainage citoyen à Jean-Luc Mélenchon : https://melenchon2027.fr 
+Inscrivez-vous sur ActionPopulaire : https://actionpopulaire.fr/
 
-Signez et faites signer : https://melenchon2027.fr/</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>rUDAL-kz2KM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/rUDAL-kz2KM/maxresdefault.jpg" type="image/jpeg" />
+Consultez la lettre au peuple de France : https://melenchon.fr/2026/05/05/ma-lettre-au-peuple-de-france/
+Toutes les informations sur le meeting à Saint-Denis : https://actionpopulaire.fr/evenements/97c7335f-aab5-4bdb-9119-9113050cb0b2/
+----------
+00:00 : Intro 
+00:08 : Générique
+00:16 : Soutenez la candidature de Jean-Luc Mélenchon
+03:50 : Prenez part à la campagne
+06:31 : Faites connaitre nos initiatives
+09:39 : L'heure est à la mobilisation populaire
+
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>JZEeWJKPaFA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/JZEeWJKPaFA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Scandale des laits infantiles contaminés : le libéralisme tue !</title>
-      <link>https://www.youtube.com/watch?v=Ay_12NVYwcU</link>
-      <guid>https://www.youtube.com/watch?v=Ay_12NVYwcU</guid>
-      <pubDate>2026-05-22T12:46:05+00:00</pubDate>
-      <author>Hadrien Clouet</author>
+      <title>La candidature de Jean Luc Mélenchon est une évidence</title>
+      <link>https://www.youtube.com/watch?v=qRxB3_Kbebk</link>
+      <guid>https://www.youtube.com/watch?v=qRxB3_Kbebk</guid>
+      <pubDate>2026-05-04T18:10:22+00:00</pubDate>
+      <author>Francois Piquemal</author>
       <description />
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>Ay_12NVYwcU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ay_12NVYwcU/maxresdefault.jpg" type="image/jpeg" />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>qRxB3_Kbebk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qRxB3_Kbebk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Jérôme Guedj face à Consigny (BFMTV)</title>
-      <link>https://www.youtube.com/watch?v=6fRO_4PGTcA</link>
-      <guid>https://www.youtube.com/watch?v=6fRO_4PGTcA</guid>
-      <pubDate>2026-05-21T13:05:52+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>6fRO_4PGTcA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/6fRO_4PGTcA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>#AlloMelenchon avec Clémence Guetté, Nadège Abomangoli et Antoine Léaument !</title>
-      <link>https://www.youtube.com/watch?v=zQdRMoA8p6k</link>
-      <guid>https://www.youtube.com/watch?v=zQdRMoA8p6k</guid>
-      <pubDate>2026-05-20T20:16:46+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un #AlloMelenchon avec Clémence Guetté, Nadège Abomangoli et Antoine Léaument, le 20 mai 2026. 
+      <title>🔴 Candidature de Jean-Luc Mélenchon à la présidentielle : Manuel Bompard, invité de France Inter !</title>
+      <link>https://www.youtube.com/watch?v=V5asN0QLUWU</link>
+      <guid>https://www.youtube.com/watch?v=V5asN0QLUWU</guid>
+      <pubDate>2026-05-04T07:46:12+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage du lundi 4 mai sur France Inter.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
 
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>zQdRMoA8p6k</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zQdRMoA8p6k/maxresdefault.jpg" type="image/jpeg" />
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>V5asN0QLUWU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/V5asN0QLUWU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>7h40 FranceInfo : l'interview de Jérôme Guedj</title>
-      <link>https://www.youtube.com/watch?v=-f9lBiwyP3s</link>
-      <guid>https://www.youtube.com/watch?v=-f9lBiwyP3s</guid>
-      <pubDate>2026-05-20T12:43:06+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>-f9lBiwyP3s</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-f9lBiwyP3s/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
-      <link>https://www.youtube.com/watch?v=rzfGo6KW80M</link>
-      <guid>https://www.youtube.com/watch?v=rzfGo6KW80M</guid>
-      <pubDate>2026-05-13T19:11:43+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'une conférence sur le moment politique, le 13 mai 2026. 
+      <title>1er mai : au lieu de travailler, baissons les prix de l’énergie !</title>
+      <link>https://www.youtube.com/watch?v=A_2NoeHavbs</link>
+      <guid>https://www.youtube.com/watch?v=A_2NoeHavbs</guid>
+      <pubDate>2026-04-30T16:54:48+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>1er mai : et si au lieu de vouloir faire travailler les gens le jour de la journée internationale des travailleuses et travailleurs, le gouvernement baissait le prix de l’énergie pour leur permettre de mieux travailler au quotidien ?
 
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>rzfGo6KW80M</videoId>
-      <enclosure url="https://i.ytimg.com/vi/rzfGo6KW80M/maxresdefault.jpg" type="image/jpeg" />
+Ce 1er mai, les prix de l’énergie augmentent de 15%. 
+J’interroge Mme Wargon, présidente de la commission de régulation de l’énergie.</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>A_2NoeHavbs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/A_2NoeHavbs/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Face cam' #3 : Le travail, le monde et la Tortue !</title>
-      <link>https://www.youtube.com/watch?v=UYzcITZh1Fw</link>
-      <guid>https://www.youtube.com/watch?v=UYzcITZh1Fw</guid>
-      <pubDate>2026-05-10T14:00:45+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Mélenchon 2027, la tortue est lancée : 00:00
-Introduction : 00:26
-Stagiaires en danger : 00:57
-Stop à l'impérialisme : 10:05
-LDR médical : ne perdons pas nos fleurons industriels : 14:07
+      <title>Total: le coût de l’indécence !</title>
+      <link>https://www.youtube.com/watch?v=uJTcgGaUFEs</link>
+      <guid>https://www.youtube.com/watch?v=uJTcgGaUFEs</guid>
+      <pubDate>2026-04-29T16:01:24+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Total: le coût de l’indécence 
 
-On n'oublie pas de signer et de faire signer  https://melenchon2027.fr/</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>UYzcITZh1Fw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/UYzcITZh1Fw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>⛽ 🛢️ Bloquons les prix, pas les gens !</title>
-      <link>https://www.youtube.com/watch?v=TKo2tRYiE5Y</link>
-      <guid>https://www.youtube.com/watch?v=TKo2tRYiE5Y</guid>
-      <pubDate>2026-05-08T14:50:32+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description />
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>TKo2tRYiE5Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/TKo2tRYiE5Y/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>¡Los paramilitares tienen complices en París! 🇫🇷🇨🇴</title>
-      <link>https://www.youtube.com/watch?v=0rpOeWVzkb4</link>
-      <guid>https://www.youtube.com/watch?v=0rpOeWVzkb4</guid>
-      <pubDate>2026-05-08T14:31:06+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Apoyo el nuevo acuerdo de extradición entre Francia y Colombia. Pero una red de complicidades en nuestro territorio alimenta el paramilitarismo y el narcotráfico. Doy nombres para exigir su desmantelamiento.
-#colombia #presidentepetro</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>0rpOeWVzkb4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0rpOeWVzkb4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les paramilitaires ont des complices à Paris ! 🇫🇷🇨🇴</title>
-      <link>https://www.youtube.com/watch?v=7eiYUAv5ULs</link>
-      <guid>https://www.youtube.com/watch?v=7eiYUAv5ULs</guid>
-      <pubDate>2026-05-08T14:27:20+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Oui au nouvel accord d'extradition France-Colombie   Mais tout un tissu de complicités sur notre sol entretient le paramilitarisme et le narcotrafic. Je donne des noms, pour exiger son démantèlement.
-#colombie</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>7eiYUAv5ULs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7eiYUAv5ULs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ils veulent sanctionner les DJ pas les profiteurs de guerre !</title>
-      <link>https://www.youtube.com/watch?v=F8F7HMPvk-0</link>
-      <guid>https://www.youtube.com/watch?v=F8F7HMPvk-0</guid>
-      <pubDate>2026-05-08T13:29:05+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Retrouvez mon passage sur LCP du 6 mai 2026</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>F8F7HMPvk-0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/F8F7HMPvk-0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj : la grande interview Europe1/CNEWS</title>
-      <link>https://www.youtube.com/watch?v=Yedii60i7z4</link>
-      <guid>https://www.youtube.com/watch?v=Yedii60i7z4</guid>
-      <pubDate>2026-05-06T14:11:52+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>Yedii60i7z4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Yedii60i7z4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj - l'invité d'Apolline Malherbe (BFM TV)</title>
-      <link>https://www.youtube.com/watch?v=HyqjIqQhrYo</link>
-      <guid>https://www.youtube.com/watch?v=HyqjIqQhrYo</guid>
-      <pubDate>2026-05-04T15:14:41+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>HyqjIqQhrYo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HyqjIqQhrYo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj face à Adrien Gindre - En toute franchise (TF1)</title>
-      <link>https://www.youtube.com/watch?v=N9PU5csOcm4</link>
-      <guid>https://www.youtube.com/watch?v=N9PU5csOcm4</guid>
-      <pubDate>2026-05-04T15:05:57+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>N9PU5csOcm4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/N9PU5csOcm4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>8h30 franceinfo : l'interview complète de Jérôme Guedj</title>
-      <link>https://www.youtube.com/watch?v=Y9YYx-Ie-No</link>
-      <guid>https://www.youtube.com/watch?v=Y9YYx-Ie-No</guid>
-      <pubDate>2026-04-24T10:40:48+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>Y9YYx-Ie-No</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Y9YYx-Ie-No/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur CNews et Europe 1 - 19 avril 2026</title>
-      <link>https://www.youtube.com/watch?v=dKzSB0QfIA4</link>
-      <guid>https://www.youtube.com/watch?v=dKzSB0QfIA4</guid>
-      <pubDate>2026-04-22T12:31:08+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur CNews et Europe 1 - 19 avril 2026
+Hier en commission des Affaires Économiques, les représentants de Total niaient les surprofits. 
 
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>dKzSB0QfIA4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dKzSB0QfIA4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Lutte contre l'antisémitisme - Conférence de presse - 17 avril 2026</title>
-      <link>https://www.youtube.com/watch?v=NbmKrNxVP6A</link>
-      <guid>https://www.youtube.com/watch?v=NbmKrNxVP6A</guid>
-      <pubDate>2026-04-17T11:59:44+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Lutte contre l'antisémitisme - Conférence de presse - 17 avril 2026</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>NbmKrNxVP6A</videoId>
-      <enclosure url="https://i.ytimg.com/vi/NbmKrNxVP6A/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ALERTE: La macronie veut -encore- faire les poches des privés d'emplois (et est nulle en maths !)</title>
-      <link>https://www.youtube.com/watch?v=FSG6y0ePMS8</link>
-      <guid>https://www.youtube.com/watch?v=FSG6y0ePMS8</guid>
-      <pubDate>2026-04-16T17:57:28+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description />
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>FSG6y0ePMS8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/FSG6y0ePMS8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj face à la matinale de Sud Radio</title>
-      <link>https://www.youtube.com/watch?v=SiGbAlifDls</link>
-      <guid>https://www.youtube.com/watch?v=SiGbAlifDls</guid>
-      <pubDate>2026-04-15T10:04:25+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>SiGbAlifDls</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SiGbAlifDls/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Interview exclusive de Jérôme Guedj sur France Info</title>
-      <link>https://www.youtube.com/watch?v=M2spsfEjg70</link>
-      <guid>https://www.youtube.com/watch?v=M2spsfEjg70</guid>
-      <pubDate>2026-04-15T09:49:53+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>M2spsfEjg70</videoId>
-      <enclosure url="https://i.ytimg.com/vi/M2spsfEjg70/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé dans les 4V de Télématin sur France 2 - 3 avril 2026</title>
-      <link>https://www.youtube.com/watch?v=lKe6T-763Zk</link>
-      <guid>https://www.youtube.com/watch?v=lKe6T-763Zk</guid>
-      <pubDate>2026-04-03T12:15:30+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé dans les 4V de Télématin sur France 2 - 3 avril 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>lKe6T-763Zk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/lKe6T-763Zk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur Public Sénat - 30 mars 2026</title>
-      <link>https://www.youtube.com/watch?v=l-WJX81hhY4</link>
-      <guid>https://www.youtube.com/watch?v=l-WJX81hhY4</guid>
-      <pubDate>2026-04-03T12:12:16+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur Public Sénat - 30 mars 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>l-WJX81hhY4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/l-WJX81hhY4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur CNews / Europe 1 - 16 mars 2026</title>
-      <link>https://www.youtube.com/watch?v=MvVKxAQvcEU</link>
-      <guid>https://www.youtube.com/watch?v=MvVKxAQvcEU</guid>
-      <pubDate>2026-04-03T12:05:54+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur CNews / Europe 1 - 16 mars 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>MvVKxAQvcEU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MvVKxAQvcEU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé dans les 4V de Télématin sur France 2 - 13 mars 2026</title>
-      <link>https://www.youtube.com/watch?v=8ZQ8dMXLuuQ</link>
-      <guid>https://www.youtube.com/watch?v=8ZQ8dMXLuuQ</guid>
-      <pubDate>2026-04-03T12:00:44+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé dans les 4V de Télématin sur France 2 - 13 mars 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>8ZQ8dMXLuuQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8ZQ8dMXLuuQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj était l'invité de l'émission "Dimanche en politique" sur France 3</title>
-      <link>https://www.youtube.com/watch?v=hQLPyCLQrps</link>
-      <guid>https://www.youtube.com/watch?v=hQLPyCLQrps</guid>
-      <pubDate>2026-03-30T08:44:55+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description>Le 29 Mars 2026</description>
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>hQLPyCLQrps</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hQLPyCLQrps/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur CNews et Europe 1 - 22 février 2026</title>
-      <link>https://www.youtube.com/watch?v=a8VOyNoyOKA</link>
-      <guid>https://www.youtube.com/watch?v=a8VOyNoyOKA</guid>
-      <pubDate>2026-03-05T11:56:11+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur CNews et Europe 1 - 22 février 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>a8VOyNoyOKA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/a8VOyNoyOKA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur France Info - 14 février 2026</title>
-      <link>https://www.youtube.com/watch?v=W4qiebZRdFg</link>
-      <guid>https://www.youtube.com/watch?v=W4qiebZRdFg</guid>
-      <pubDate>2026-03-05T11:56:04+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur France Info - 14 février 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>W4qiebZRdFg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/W4qiebZRdFg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur Sud Radio - 10 février 2026</title>
-      <link>https://www.youtube.com/watch?v=XQHv377TAQU</link>
-      <guid>https://www.youtube.com/watch?v=XQHv377TAQU</guid>
-      <pubDate>2026-03-05T11:55:55+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur Sud Radio - 10 février 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>XQHv377TAQU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/XQHv377TAQU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur Public Sénat - 19 janvier 2026</title>
-      <link>https://www.youtube.com/watch?v=RIjPwzGAjI4</link>
-      <guid>https://www.youtube.com/watch?v=RIjPwzGAjI4</guid>
-      <pubDate>2026-03-05T11:55:05+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur Public Sénat - 19 janvier 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>RIjPwzGAjI4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/RIjPwzGAjI4/maxresdefault.jpg" type="image/jpeg" />
+Il est temps de bloquer les prix des carburants pour les faire revenir à des prix décents</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>uJTcgGaUFEs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/uJTcgGaUFEs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
