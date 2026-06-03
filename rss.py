@@ -183,7 +183,7 @@ def build_xml(entries):
 
 
 
-WORKFLOW_FILE = ".github/workflows/update rss.yml"
+WORKFLOW_FILE = ".github/workflows/update-rss.yml"
 INDEX_FILE = "index.html"
 
 
