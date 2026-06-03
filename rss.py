@@ -207,7 +207,6 @@ def get_update_frequency():
 
     return None
 
-
 def update_index_html():
     frequency = get_update_frequency()
 
@@ -217,11 +216,11 @@ def update_index_html():
     try:
         html = Path(INDEX_FILE).read_text(encoding="utf-8")
 
-replacement = (
-    '<div class="update-frequency">'
-    f'Fréquence : {frequency} minutes.'
-    '</div>'
-)
+        replacement = (
+            '<div class="update-frequency">'
+            f'Fréquence : {frequency} minutes.'
+            '</div>'
+        )
 
         pattern = (
             r'(<div class="last-update" id="lastUpdate">.*?</div>)'
