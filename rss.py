@@ -217,11 +217,11 @@ def update_index_html():
     try:
         html = Path(INDEX_FILE).read_text(encoding="utf-8")
 
-        replacement = (
-            '<div class="update-frequency">'
-            f'Mise à jour à la {frequency} minutes de chaque heure'
-            '</div>'
-        )
+replacement = (
+    '<div class="update-frequency">'
+    f'Mise à jour à la minute {frequency} de chaque heure'
+    '</div>'
+)
 
         pattern = (
             r'(<div class="last-update" id="lastUpdate">.*?</div>)'
