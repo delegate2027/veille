@@ -219,7 +219,7 @@ def update_index_html():
 
 replacement = (
     '<div class="update-frequency">'
-    f'Mise à jour à la minute {frequency} de chaque heure'
+    f'Fréquence : {frequency} minutes.'
     '</div>'
 )
 
