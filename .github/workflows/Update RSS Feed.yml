@@ -3,7 +3,7 @@ name: Update RSS Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: '55 * * * *'
+    - cron: '48 * * * *'
 
 permissions:
   contents: write
