@@ -216,20 +216,9 @@ def update_index_html():
     try:
         html = Path(INDEX_FILE).read_text(encoding="utf-8")
 
-        replacement = (
-            '<div class="update-frequency">'
-            f'Fréquence : {frequency} minutes.'
-            '</div>'
-        )
-
-        pattern = (
-            r'(<div class="last-update" id="lastUpdate">.*?</div>)'
-            r'(?:\s*<div class="update-frequency">.*?</div>)?'
-        )
-
         html = re.sub(
-            pattern,
-            r'\1\n\n' + replacement,
+            r'(<span id="updateFrequency">).*?(</span>)',
+            rf'\1Mise à jour à la minute {frequency} de chaque heure\2',
             html,
             flags=re.DOTALL
         )
