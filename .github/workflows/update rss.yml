@@ -1,4 +1,4 @@
-name: Update RSS Feed
+name: update rss
 
 on:
   workflow_dispatch:
