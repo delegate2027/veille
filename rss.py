@@ -206,7 +206,7 @@ def get_update_frequency():
         print(f"Impossible de lire le cron : {e}")
 
     return None
-
+    
 def update_index_html():
     frequency = get_update_frequency()
 
@@ -216,12 +216,12 @@ def update_index_html():
     try:
         html = Path(INDEX_FILE).read_text(encoding="utf-8")
 
-html = re.sub(
-    r'(<span id="updateFrequency">).*?(</span>)',
-    rf'\1Cron : {frequency}\2',
-    html,
-    flags=re.DOTALL
-)
+        html = re.sub(
+            r'(<span id="updateFrequency">).*?(</span>)',
+            rf'\1Cron : {frequency}\2',
+            html,
+            flags=re.DOTALL
+        )
 
         Path(INDEX_FILE).write_text(html, encoding="utf-8")
 
