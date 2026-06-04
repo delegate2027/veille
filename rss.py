@@ -8,117 +8,71 @@ import os
 from pathlib import Path
 
 OUTPUT_FILE = "flux.xml"
+INDEX_FILE = "index.html"  # ✅ AJOUT IMPORTANT
+
 MAX_ENTRIES_PER_FEED = 10  # nombre maximum de liens conservés par flux RSS
-INDEX_FILE = "index.html"
 
 FEEDS = {
     "LFI": [
-    #Damien Maudet
         "https://www.youtube.com/feeds/videos.xml?channel_id=UClqKoEMJ0wq0ZoA4kz9N94g",
-    #Antoine Léaument
         "https://www.youtube.com/feeds/videos.xml?channel_id=UC3q3FLPQtuWWv1uTkTfpEtw",
-    #Aurélie Trouvé
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCBmDLidbbwRUiZeCKWrlPMg",
-    #Aurélien Saintoul
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCDmff0YxGkS8JRMGzaAe-jg",
-    #Clémence Guetté
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCpU9riAixpc1Xn9Q4i7AkOw",
-    #David Guiraud
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCNlu6bn_Vu37IDINEpVlEog",
-    #Eric Coquerel
         "https://www.youtube.com/feeds/videos.xml?channel_id=UC4A3K4CT4swDAW57fzXIMVA",
-    #Francois Piquemal
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCB6vbZrh1S6EC1PAokq3xRA",
-    #Gabrielle Cathala
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCzB-k0YgJkNsBeHyfnjg4_w",
-    #Clouet
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCFVKtK2LxUkuudXpOGOiUjg",
-    #Jean-Luc Mélenchon
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCk-_PEY3iC6DIGJKuoEe9bw",
-    #Louis Boyard
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCcru_TwWwshPbjIWvp6B7dg",
-    #Manon Aubry
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCyX-_BipdNpdFgeZEQBNstA",
-    #Manuel Bompard
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCr7r7gh9N45WVwYAmHQ3m3w",
-    #Mathilde Panot
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCilxiEGEQHVZ25GU_cnyCzg",
-    #Paul Vannier
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCeVAGmpsgoy521FecTcC34g",
-    #Sophia Chikirou
         "https://www.youtube.com/feeds/videos.xml?channel_id=UC0Uk2pyZI6-FxL8MbtKD27w",
-
-
     ],
-    
+
     "ECOLOGISTES": [
-    #Parti EELV
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCB8Q3N-nvX1YlMUL7Zl_16w",
-    #Sandrine Rousseau
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCA8JG3JY883RjCmAU9lABzw",
-        
     ],
-    
-    "PCF": [
-    #Parti Communiste
-        "https://www.youtube.com/feeds/videos.xml?channel_id=UCSwPcnzaMTuDcTgjRiJvZnw",
 
-        
+    "PCF": [
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCSwPcnzaMTuDcTgjRiJvZnw",
     ],
 
     "BLOC SOCIAL DEMOCRATE": [
-    #Parti Socialiste
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCo7xGEOV-RfxOAxRfhlR3Ww",
-    #François Ruffin
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCIQGSp79vVch0vO3Efqif_w",
-    #Boris Vallaud
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCScGc5Cd6h3Y_djPloqI7UA",
-    #Jérome Guedj
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCWsy5JK3eZSZp2YVekifHNQ",
-    #Raphaël Glucksmann
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCyVYj4HdtEbcMngyD6_OLzg",
-    #L'Après
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCmOokTCPhaGXqIKAFFeylag",
-    #Alexis Corbière
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCDKcvNGkX-1QxNoBt_Ac-zA",
-    #Clémentine Autain
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCZgJ_r_Ewlu1Ck-RzNCHuUQ",
     ],
 
     "CENTRE": [
-    #Parti Horizons
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCoDttl6w1T-Stuw_pvNOvLA",
-    #Parti Modem
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCfHWZNJQ7wZpG_cL9ukYX1Q",
-    #Parti Renaissance
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCJw8np695wqWOaKVhFjkRyg",
-    #Gabriel Attal
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCOcDPuYTuxoRBtfmTBXtqBA",
-    #Aurore Bergé
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCiT4UyKh-cF8qBaBQP4p1ow",
-
     ],
+
     "BLOC LR": [
-    #Retailleau
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCRkuLQabW1hsihpZuHJSbEA",
-    #Bellamy
         "https://www.youtube.com/feeds/videos.xml?channel_id=UC7dqnnA1NyHvUiZgyK_vMiQ",
-    #Wauquiez
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCjo4wCbga9X01yGwm0gB0Wg",
-    #Lisnard
         "https://www.youtube.com/feeds/videos.xml?channel_id=UC2XZY-bjIEmyLZ9MPJQytZg",
     ],
 
     "EXTREME DROITE": [
-    #Rassemblement National
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCeWMp4Frgyv275gSnWNYoZQ",
-    #Jordan Bardella
         "https://www.youtube.com/feeds/videos.xml?channel_id=UC3U0VIDgANFaXeOAtt1m5Mw",
-    #Marine Le Pen
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCU3z3px1_RCqYBwrs8LJVWg",
-    #Eric Zemmour
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCjTbZBXEw-gplUAnMXLYHpg",
-    #Sarah Knafo
         "https://www.youtube.com/feeds/videos.xml?channel_id=UC8ba7bn2fuU_lsVweb4YM4Q",
     ],
 }
@@ -183,11 +137,14 @@ def build_xml(entries):
     return ET.ElementTree(rss)
 
 
-
+# =========================
+# CONFIG ENV
+# =========================
 
 def get_update_frequency():
     return os.getenv("UPDATE_FREQUENCY", "15")
-    
+
+
 def update_index_html():
     frequency = get_update_frequency()
 
@@ -195,7 +152,7 @@ def update_index_html():
         html = Path(INDEX_FILE).read_text(encoding="utf-8")
 
         html = re.sub(
-            r'(<span id="updateFrequency">).*?(</span>)',
+            r'(<span id="updateFrequency"[^>]*>).*?(</span>)',
             rf'\1{frequency}\2',
             html
         )
@@ -205,6 +162,10 @@ def update_index_html():
     except Exception as e:
         print(f"Erreur mise à jour index.html : {e}")
 
+
+# =========================
+# MAIN
+# =========================
 
 def main():
     all_entries = []
