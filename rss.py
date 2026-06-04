@@ -214,13 +214,12 @@ def update_index_html():
         return
 
     try:
-        html = Path(INDEX_FILE).read_text(encoding="utf-8")
-
+        html = Path(INDEX_FILE).read_text(encoding="utf-8")    
+        
         html = re.sub(
-            r'(<span id="updateFrequency">).*?(</span>)',
-            rf'\1Cron : {frequency}\2',
-            html,
-            flags=re.DOTALL
+        r'(<span id="updateFrequency">).*?(</span>)',
+        rf'\1{frequency}\2',
+        html
         )
 
         Path(INDEX_FILE).write_text(html, encoding="utf-8")
