@@ -23,6 +23,13 @@ jobs:
       - name: Show trigger
         run: echo "Triggered by ${{ github.event_name }}"
 
+      - name: Identify source
+        run: |
+          echo "EVENT=${{ github.event_name }}"
+          echo "ACTOR=${{ github.actor }}"
+          echo "PAYLOAD:"
+          cat "$GITHUB_EVENT_PATH"
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
