@@ -4,6 +4,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import formatdate
 import re
+import os
 from pathlib import Path
 
 OUTPUT_FILE = "flux.xml"
@@ -183,53 +184,19 @@ def build_xml(entries):
 
 
 
-WORKFLOW_FILE = ".github/workflows/update-rss.yml"
-INDEX_FILE = "index.html"
-
-
 def get_update_frequency():
-    try:
-        content = Path(WORKFLOW_FILE).read_text(encoding="utf-8")
-
-        match = re.search(r"cron:\s*['\"]?([^'\"\n]+)['\"]?", content)
-        if not match:
-            return None
-
-        cron = match.group(1).strip()
-        parts = cron.split()
-
-        if len(parts) < 1:
-            return None
-
-        minute = parts[0]
-
-        # gère */15 proprement
-        if "*/" in minute:
-            return minute.replace("*/", "")
-
-        # gère valeur directe
-        if minute.isdigit():
-            return minute
-
-        return None
-
-    except Exception as e:
-        print(f"Impossible de lire le cron : {e}")
-        return None
+    return os.getenv("UPDATE_FREQUENCY", "15")
     
 def update_index_html():
     frequency = get_update_frequency()
 
-    if not frequency:
-        return
-
     try:
-        html = Path(INDEX_FILE).read_text(encoding="utf-8")    
-        
+        html = Path(INDEX_FILE).read_text(encoding="utf-8")
+
         html = re.sub(
-        r'(<span id="updateFrequency">).*?(</span>)',
-        rf'\1{frequency}\2',
-        html
+            r'(<span id="updateFrequency">).*?(</span>)',
+            rf'\1{frequency}\2',
+            html
         )
 
         Path(INDEX_FILE).write_text(html, encoding="utf-8")
