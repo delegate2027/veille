@@ -10,7 +10,7 @@ permissions:
 
 concurrency:
   group: update-rss
-  cancel-in-progress: false  # IMPORTANT: on ne tue plus les runs, on les sérialise
+  cancel-in-progress: false  # on sérialise les runs
 
 jobs:
   update-rss:
@@ -44,15 +44,19 @@ jobs:
       - name: Run RSS script
         run: python rss.py
 
-      - name: Commit and push with retry (industrial safe mode)
+      - name: Commit and push with retry (safe mode)
         run: |
           set -e
 
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # Si rien à commit → exit direct
+          # 🔥 IMPORTANT: on synchronise AVANT de commit
+          git fetch origin main
+          git rebase origin/main || true
+
           git add -A
+
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
@@ -67,11 +71,10 @@ jobs:
           do
             echo "Attempt $((COUNT+1))/$MAX_RETRIES"
 
-            # Toujours repartir de l'état remote le plus récent
+            # re-sync avant push
             git fetch origin main
-            git rebase origin/main
+            git rebase origin/main || true
 
-            # Push optimiste
             if git push origin HEAD:main; then
               echo "Push succeeded"
               exit 0
@@ -79,7 +82,7 @@ jobs:
 
             echo "Push failed (concurrent update detected), retrying..."
             COUNT=$((COUNT+1))
-            sleep $((2 + RANDOM % 5))
+            sleep 3
           done
 
           echo "Failed after $MAX_RETRIES attempts"
