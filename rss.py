@@ -191,21 +191,31 @@ def get_update_frequency():
     try:
         content = Path(WORKFLOW_FILE).read_text(encoding="utf-8")
 
-        match = re.search(r"cron:\s*'([^']+)'", content)
+        match = re.search(r"cron:\s*['\"]?([^'\"\n]+)['\"]?", content)
         if not match:
             return None
 
-        cron = match.group(1)
-        minute = cron.split()[0]
-        numbers = re.findall(r"\d+", minute)
+        cron = match.group(1).strip()
+        parts = cron.split()
 
-        if numbers:
-            return numbers[0]
+        if len(parts) < 1:
+            return None
+
+        minute = parts[0]
+
+        # gère */15 proprement
+        if "*/" in minute:
+            return minute.replace("*/", "")
+
+        # gère valeur directe
+        if minute.isdigit():
+            return minute
+
+        return None
 
     except Exception as e:
         print(f"Impossible de lire le cron : {e}")
-
-    return None
+        return None
     
 def update_index_html():
     frequency = get_update_frequency()
