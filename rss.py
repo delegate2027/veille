@@ -9,6 +9,7 @@ from pathlib import Path
 
 OUTPUT_FILE = "flux.xml"
 MAX_ENTRIES_PER_FEED = 10  # nombre maximum de liens conservés par flux RSS
+INDEX_FILE = "index.html"
 
 FEEDS = {
     "LFI": [
