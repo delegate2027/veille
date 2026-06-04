@@ -9,7 +9,7 @@ async function loadRSS() {
         const updateDate = new Date(lastModified);
 
         document.getElementById("lastUpdate").innerHTML =
-          "&nbsp Dernière actualisation : " +
+          "&nbsp Dernière mise à jour : " +
           updateDate.toLocaleDateString("fr-FR", {
             day: "2-digit",
             month: "2-digit",
