@@ -227,13 +227,14 @@ def main():
     if errors:
         print(f"Avertissement : {errors} flux inaccessibles sur {len(RSS_FEEDS)}")
 
-    all_entries.sort(
+all_entries.sort(
         key=lambda x: x.get(
             "published_parsed",
             datetime.now(timezone.utc).timetuple()
         ),
         reverse=True
     )
+    all_entries = all_entries[:100]
 
     tree = build_xml(all_entries)
 
