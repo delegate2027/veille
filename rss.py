@@ -193,53 +193,6 @@ def build_xml(entries):
 WORKFLOW_FILE = ".github/workflows/update-rss.yml"
 INDEX_FILE = "index.html"
 
-
-def get_update_frequency():
-    try:
-        content = Path(WORKFLOW_FILE).read_text(encoding="utf-8")
-
-        match = re.search(r"cron:\s*['\"]([^'\"]+)['\"]", content)
-        if not match:
-            return None
-
-        cron = match.group(1)
-        minute = cron.split()[0]
-
-        # Gère "*/15" → "15", ou "40" → "40"
-        numbers = re.findall(r"\d+", minute)
-
-        if numbers:
-            return numbers[0]
-
-    except Exception as e:
-        print(f"Impossible de lire le cron : {e}")
-
-    return None
-
-
-def update_index_html():
-    frequency = get_update_frequency()
-
-    if not frequency:
-        return
-
-    try:
-        html = Path(INDEX_FILE).read_text(encoding="utf-8")
-
-        html = re.sub(
-            r'(<span id="updateFrequency">).*?(</span>)',
-            rf'\1Cron : {frequency}\2',
-            html,
-            flags=re.DOTALL
-        )
-
-        Path(INDEX_FILE).write_text(html, encoding="utf-8")
-        print(f"index.html mis à jour avec cron : {frequency}")
-
-    except Exception as e:
-        print(f"Erreur mise à jour index.html : {e}")
-
-
 def main():
     all_entries = []
     errors = 0
