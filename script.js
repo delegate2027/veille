@@ -36,11 +36,10 @@ async function loadRSS() {
     if (lastModified) {
       const updateDate = new Date(lastModified);
       document.getElementById("lastUpdate").innerHTML =
-        "&nbsp;Dernière mise à jour : " +
+        "&nbsp; Mise à jour : " +
         updateDate.toLocaleDateString("fr-FR", {
           day: "2-digit",
           month: "2-digit",
-          year: "numeric",
           hour: "2-digit",
           minute: "2-digit",
         });
