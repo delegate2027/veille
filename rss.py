@@ -225,8 +225,6 @@ def main():
         xml_declaration=True
     )
 
-    update_index_html()
-
     print(f"Fichier créé : {OUTPUT_FILE} ({len(all_entries)} entrées)")
 
 
