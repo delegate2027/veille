@@ -197,6 +197,7 @@ h1 {
 .author[data-author="L'APRÈS"],
 .author[data-author="Raphaël Glucksmann"],
 .author[data-author="FRANÇOIS RUFFIN"],
+.author[data-author="BorisVallaud"],
 .author[data-author="Jérôme Guedj"] {
   background: var(--ps);
 }
@@ -207,6 +208,7 @@ h1 {
 .item[data-author="L'APRÈS"],
 .item[data-author="Raphaël Glucksmann"],
 .item[data-author="FRANÇOIS RUFFIN"],
+.item[data-author="BorisVallaud"],
 .item[data-author="Jérôme Guedj"] {
   background: var(--ps-bg);
 }
