@@ -76,7 +76,7 @@ h1 {
 }
 
 .item {
-  padding: 8px 10px;
+  padding: 6px 6px;
   border-radius: 10px;
   border: 1px solid var(--border);
   transition: all 0.25s ease;
@@ -85,7 +85,7 @@ h1 {
 }
 
 .item.expanded {
-  padding-bottom: 12px;
+  padding-bottom: 6px;
 }
 
 .top {
