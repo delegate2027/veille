@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 05 Jun 2026 13:30:50 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 13:45:38 -0000</lastBuildDate>
     <item>
       <title>Lyhanna / présidentielles 2027 / violences / primaire de la gauche - Alexis Corbière sur TF1</title>
       <link>https://www.youtube.com/watch?v=69iyfthqw0A</link>
@@ -1027,6 +1027,16 @@ Pinterest : https://www.pinterest.fr/zemmoureric/</description>
       <channelTitle>Éric Zemmour</channelTitle>
       <videoId>6WO3I0bkfIw</videoId>
       <enclosure url="https://i.ytimg.com/vi/6WO3I0bkfIw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EN DIRECT | « La force d’agir » - Suivez le grand meeting de Gabriel Attal à Paris Expo.</title>
+      <link>https://youtu.be/yIBtu7BndAE</link>
+      <guid>https://youtu.be/yIBtu7BndAE</guid>
+      <pubDate>2026-05-31T17:12:04+00:00</pubDate>
+      <author>meeting</author>
+      <description>Depuis Paris Expo Porte de Versailles, Gabriel Attal tient son premier meeting présidentiel.
+      Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>meeting</channelTitle>
     </item>
     <item>
       <title>Jérôme Guedj En Toute Franchise face à Elisabeth Martichoux - LCI</title>
