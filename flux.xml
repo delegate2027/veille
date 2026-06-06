@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 06 Jun 2026 17:45:39 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 18:02:34 -0000</lastBuildDate>
     <item>
       <title>Débat 2027 : David Lisnard face à Édouard Philippe</title>
       <link>https://www.youtube.com/watch?v=KOKJ1vqJWmU</link>
@@ -1085,16 +1085,6 @@ Pinterest : https://www.pinterest.fr/zemmoureric/</description>
       <enclosure url="https://i.ytimg.com/vi/6WO3I0bkfIw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>EN DIRECT | « La force d’agir » - Suivez le grand meeting de Gabriel Attal à Paris Expo.</title>
-      <link>https://youtu.be/yIBtu7BndAE</link>
-      <guid>https://youtu.be/yIBtu7BndAE</guid>
-      <pubDate>2026-05-31T17:12:04+00:00</pubDate>
-      <author>meeting</author>
-      <description>Depuis Paris Expo Porte de Versailles, Gabriel Attal tient son premier meeting présidentiel.
-      Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>meeting</channelTitle>
-    </item>
-    <item>
       <title>Jérôme Guedj En Toute Franchise face à Elisabeth Martichoux - LCI</title>
       <link>https://www.youtube.com/watch?v=HPfg9hozxdk</link>
       <guid>https://www.youtube.com/watch?v=HPfg9hozxdk</guid>
@@ -1887,6 +1877,21 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>Ay_12NVYwcU</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ay_12NVYwcU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>L'UE a du sang sur les mains !</title>
+      <link>https://www.youtube.com/watch?v=Wehx64-PQTo</link>
+      <guid>https://www.youtube.com/watch?v=Wehx64-PQTo</guid>
+      <pubDate>2026-05-22T10:00:32+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Une sanction contre 4 organisations et 3 colons. C’est donc ça la réponse de l’UE au génocide des Palestiniens depuis 2 ans ?
+
+Comment pouvez-vous vous regarder dans le mirroir ?
+
+Vous avez du sang sur les mains !</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>Wehx64-PQTo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Wehx64-PQTo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
