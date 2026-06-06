@@ -158,7 +158,7 @@ h2 {
   align-items:   center;
   gap:           6px;
   flex-wrap:     wrap;
-  margin-bottom: 4px;
+  margin-bottom: 5px;
 }
 
 /* Badge auteur (nom du parti ou de la personne) */
