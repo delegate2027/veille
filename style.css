@@ -10,11 +10,11 @@
 
 :root {
   /* --- Couleurs de base de l'interface --- */
-  --bg:     #0b0f14;  /* Fond de page (noir bleuté) */
+  --bg:     #303841;  /* Fond de page (noir bleuté) */
   --card:   #ffffff;  /* Fond des cards par défaut */
   --text:   #e6edf3;  /* Texte principal */
   --muted:  #ffffff;  /* Texte secondaire (dates, etc.) */
-  --border: #0b0f14;  /* Couleur des bordures de cards */
+  --border: #434E5A;  /* Couleur des bordures de cards */
 
   /* --- Couleurs par groupe politique (badge auteur + fond de card) --- */
 
@@ -186,8 +186,8 @@ h2 {
   line-height:   1.3;
   font-weight:   500;
   margin-bottom: 6px;
-margin-left: 6px;
-   margin-right: 6px;
+  margin-left: 6px;
+  margin-right: 6px;
 }
 
 .title a {
@@ -209,7 +209,7 @@ margin-left: 6px;
   -webkit-box-orient:    vertical;
   overflow:              hidden;
    margin-left: 6px;
-      margin-right: 6px;
+   margin-right: 6px;
    margin-bottom: 6px;
 }
 
