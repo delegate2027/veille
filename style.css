@@ -110,6 +110,7 @@ h2 {
   font-size:   11px;
   line-height: 1.1;
   color:       var(--muted);
+  margin-left: 40px;
 }
 
 /* Ligne logo : carrés colorés représentant les partis + titre */
@@ -122,7 +123,7 @@ h2 {
 
 /* Carré de couleur individuel dans le logo */
 .square {
-  width:  5px;
+  width:  4px;
   height: 15px;
 }
 
