@@ -65,7 +65,7 @@
 body {
   background:  var(--bg);
   color:       var(--text);
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   max-width:   860px;   /* Largeur maximale du contenu centré */
   margin:      auto;
   padding:     10px;
