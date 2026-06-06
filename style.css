@@ -199,10 +199,10 @@ h2 {
   opacity: 0.85;
 }
 
-/* Description courte (tronquée à 2 lignes via -webkit-line-clamp) */
+/* Description courte (tronquée à 3 lignes via -webkit-line-clamp) */
 .desc {
   color:                 white;
-  font-size:             13px;
+  font-size:             14px;
   line-height:           1.35;
   display:               -webkit-box;
   -webkit-line-clamp:    3;
