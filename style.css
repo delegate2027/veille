@@ -90,6 +90,15 @@ h2 {
   color:       #ffffff;
 }
 
+footer {
+  text-align: center;
+  background-color: #303841;
+  padding: 3px;
+  background-color: #303841;
+  color: white;
+  margin-top: 20px;
+}
+
 
 /* =============================================================================
    En-tête de page
@@ -126,7 +135,6 @@ h2 {
   width:  4px;
   height: 15px;
 }
-
 
 /* =============================================================================
    Feed — liste des cards
