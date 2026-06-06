@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 06 Jun 2026 08:15:33 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 08:30:37 -0000</lastBuildDate>
+    <item>
+      <title>Meeting de David Lisnard à Paris !</title>
+      <link>https://www.youtube.com/watch?v=KOKJ1vqJWmU</link>
+      <guid>https://www.youtube.com/watch?v=KOKJ1vqJWmU</guid>
+      <pubDate>2026-06-06T08:15:52+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Maison de la Mutualité</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>KOKJ1vqJWmU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/KOKJ1vqJWmU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pourquoi Mélenchon fait la meilleure campagne pour 2027 ?</title>
       <link>https://www.youtube.com/watch?v=It9y6dcUusw</link>
@@ -1878,29 +1889,6 @@ Pour découvrir nos autres contenus, suivez #Horizons sur les réseaux sociaux !
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>Fk0yinN6mVk</videoId>
       <enclosure url="https://i.ytimg.com/vi/Fk0yinN6mVk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Capitalisme responsable » ? Hypocrisie totale !</title>
-      <link>https://www.youtube.com/watch?v=JK9riWyKDKI</link>
-      <guid>https://www.youtube.com/watch?v=JK9riWyKDKI</guid>
-      <pubDate>2026-05-22T14:43:26+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>« Capitalisme responsable » : pour nous, c’est un oxymore. Le capitalisme repose sur l’accumulation sans cesse croissante et la recherche de la plus forte rentabilité du capital. La bifurcation écologique repose sur l’inverse : la limite, la sobriété, la coopération, la planification.
-
-Et l’hypocrisie est totale. Ici, on nous invite à croire à la responsabilité volontaire des grandes entreprises. Mais, dans le même temps, l’Union européenne détricote les obligations de durabilité et de devoir de vigilance au nom de la compétitivité.
-
-La question n’est donc pas de rendre le capitalisme responsable. La question est de reprendre le pouvoir sur l’économie, d’imposer la règle verte, de planifier la bifurcation écologique et de produire selon les besoins humains, pas selon les profits. En d’autres termes, rompre avec le capitalisme.
-
-______
-Pour suivre mes prochaines interventions : 
-Twitter : https://x.com/chikirouparis
-Instagram :   / sophia.chikirou  
-Facebook :   / sophiachikirouparis  
-TikTok :   / sophiachikirou  
-Telegram : @sophiachikirouParis</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>JK9riWyKDKI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/JK9riWyKDKI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
