@@ -149,8 +149,8 @@ async function loadRSS() {
         return !isShort(title, link, desc);
       })
 
-      // Limitation à 100 entrées affichées
-      .slice(0, 100);
+      // Limitation entrées à affichées
+      .slice(0, 50);
 
 
     // --- Construction des cards dans le DOM ---
