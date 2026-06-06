@@ -4,7 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 06 Jun 2026 05:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 06:00:51 -0000</lastBuildDate>
+    <item>
+      <title>🔴 Meeting de Jean-Luc Mélenchon à Saint-Denis</title>
+      <link>https://www.youtube.com/watch?v=1dkY_JVFx9I</link>
+      <guid>https://www.youtube.com/watch?v=1dkY_JVFx9I</guid>
+      <pubDate>2026-06-06T05:55:09+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Ce dimanche 7 juin, rendez-vous à 15h30 pour suivre en direct le meeting national de lancement de la campagne présidentielle 2027 avec Jean-Luc Mélenchon à Saint-Denis.
+
+Retrouvez la version accessible aux personnes sourdes et malentendantes (vélotypie et LSF) ici : https://youtube.com/live/Z5YIa1QD178
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>1dkY_JVFx9I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/1dkY_JVFx9I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Lyhanna / présidentielles 2027 / violences / primaire de la gauche - Alexis Corbière sur TF1</title>
       <link>https://www.youtube.com/watch?v=69iyfthqw0A</link>
@@ -1850,21 +1873,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>Ay_12NVYwcU</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ay_12NVYwcU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'UE a du sang sur les mains !</title>
-      <link>https://www.youtube.com/watch?v=Wehx64-PQTo</link>
-      <guid>https://www.youtube.com/watch?v=Wehx64-PQTo</guid>
-      <pubDate>2026-05-22T10:00:32+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Une sanction contre 4 organisations et 3 colons. C’est donc ça la réponse de l’UE au génocide des Palestiniens depuis 2 ans ?
-
-Comment pouvez-vous vous regarder dans le mirroir ?
-
-Vous avez du sang sur les mains !</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>Wehx64-PQTo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Wehx64-PQTo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
