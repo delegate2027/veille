@@ -117,6 +117,7 @@ h2 {
   display:     flex;
   gap:         1px;
   align-items: center;
+  margin-left: 10px;
 }
 
 /* Carré de couleur individuel dans le logo */
