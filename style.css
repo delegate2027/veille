@@ -177,6 +177,7 @@ h2 {
 .date {
   color:     var(--muted);
   font-size: 11px;
+   margin-left: 6px;
 }
 
 /* Titre de la vidéo */
