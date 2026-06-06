@@ -139,8 +139,8 @@ h2 {
 
 /* Card individuelle d'un item RSS */
 .item {
-  padding:       8px 10px;
-  border-radius: 10px;
+  padding:       10px 10px;
+  border-radius: 8px;
   border:        1px solid var(--border);
   transition:    all 0.25s ease;  /* Animation douce lors de l'expansion */
   overflow:      hidden;
