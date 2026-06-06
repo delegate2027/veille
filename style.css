@@ -184,7 +184,7 @@ h2 {
   font-size:     15px;
   line-height:   1.3;
   font-weight:   500;
-  margin-bottom: 4px;
+  margin-bottom: 6px;
 }
 
 .title a {
@@ -205,6 +205,8 @@ h2 {
   -webkit-line-clamp:    3;
   -webkit-box-orient:    vertical;
   overflow:              hidden;
+   margin-left: 6px;
+   margin-bottom: 6px;
 }
 
 
