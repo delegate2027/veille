@@ -8,7 +8,7 @@ permissions:
 
 concurrency:
   group: update-rss
-  cancel-in-progress: false  # IMPORTANT: on ne tue plus les runs, on les sérialise
+  cancel-in-progress: false
 
 jobs:
   update-rss:
