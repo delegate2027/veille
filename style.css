@@ -94,6 +94,8 @@ footer {
   align-items: center;
   margin-left: 10px;
   background-color: #0078D7;
+  padding-left:     10px;
+  padding-right:     10px;
 }
 
 .square {
