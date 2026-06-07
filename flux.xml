@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 07 Jun 2026 09:45:27 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 10:00:55 -0000</lastBuildDate>
+    <item>
+      <title>7 juin : une démonstration de force populaire !</title>
+      <link>https://www.youtube.com/watch?v=LoufL2ioqzk</link>
+      <guid>https://www.youtube.com/watch?v=LoufL2ioqzk</guid>
+      <pubDate>2026-06-07T09:46:47+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Revivez l'interview de Mathilde Panot dans En Toute Franchise (LCI) le dimanche 7 juin 2026 à 10h.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>LoufL2ioqzk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/LoufL2ioqzk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Débat 2027 : David Lisnard face à Édouard Philippe</title>
       <link>https://www.youtube.com/watch?v=O3TgvCU40qE</link>
@@ -1757,17 +1768,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>Gpnlyn4nong</videoId>
       <enclosure url="https://i.ytimg.com/vi/Gpnlyn4nong/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le 7 juin, nous écrirons une nouvelle page de l’histoire de France !</title>
-      <link>https://www.youtube.com/watch?v=zoUuixjFh4I</link>
-      <guid>https://www.youtube.com/watch?v=zoUuixjFh4I</guid>
-      <pubDate>2026-05-24T11:34:38+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot au Grand Jury (RTL/Le Figaro/M6/Public Sénat) le dimanche 24 mai 2026 à 12h.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>zoUuixjFh4I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zoUuixjFh4I/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>François Ruffin est l'invité de Quelle Epoque sur France 2</title>
