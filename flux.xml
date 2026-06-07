@@ -4,7 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 07 Jun 2026 10:45:35 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 11:00:47 -0000</lastBuildDate>
+    <item>
+      <title>Affaire Lyhanna : « C’est une honte nationale ce qui s’est passé » Pierre Jouvet</title>
+      <link>https://www.youtube.com/watch?v=qHK4d6SLNv4</link>
+      <guid>https://www.youtube.com/watch?v=qHK4d6SLNv4</guid>
+      <pubDate>2026-06-07T10:44:40+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>🎙️  Dans #DimancheEnPolitique sur France TV, @pierre_jouvet, secrétaire général du Parti socialiste, revient sur l’affaire Lyhanna, interroge les responsabilités politiques face à ce drame et évoque les perspectives pour 2027 ainsi que les conditions d’un rassemblement de la gauche et des écologistes.
+
+----
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste/?hl=fr
+➡️  https://www.facebook.com/partisocialiste
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDv...
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>qHK4d6SLNv4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qHK4d6SLNv4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>7 juin : une démonstration de force populaire !</title>
       <link>https://www.youtube.com/watch?v=LoufL2ioqzk</link>
@@ -1877,17 +1900,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>JK9riWyKDKI</videoId>
       <enclosure url="https://i.ytimg.com/vi/JK9riWyKDKI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Scandale des laits infantiles contaminés : le libéralisme tue !</title>
-      <link>https://www.youtube.com/watch?v=Ay_12NVYwcU</link>
-      <guid>https://www.youtube.com/watch?v=Ay_12NVYwcU</guid>
-      <pubDate>2026-05-22T12:46:05+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description />
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>Ay_12NVYwcU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ay_12NVYwcU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
