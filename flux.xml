@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 07 Jun 2026 16:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 16:30:49 -0000</lastBuildDate>
     <item>
       <title>🔴 Meeting de Jean-Luc Mélenchon à Saint-Denis</title>
       <link>https://www.youtube.com/watch?v=1dkY_JVFx9I</link>
@@ -1311,24 +1311,6 @@ Telegram : @sophiachikirouParis</description>
       <enclosure url="https://i.ytimg.com/vi/KBPuZws1Xts/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Jordan Bardella sur LCI : « L'élection présidentielle sera un choix de civilisation ! »</title>
-      <link>https://www.youtube.com/watch?v=2ERjKSrwPu8</link>
-      <guid>https://www.youtube.com/watch?v=2ERjKSrwPu8</guid>
-      <pubDate>2026-05-29T06:56:23+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>2ERjKSrwPu8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/2ERjKSrwPu8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Sapeurs-pompiers : j'auditionne le Ministre de l'Intérieur</title>
       <link>https://www.youtube.com/watch?v=QYsNfXfo5kA</link>
       <guid>https://www.youtube.com/watch?v=QYsNfXfo5kA</guid>
@@ -1873,6 +1855,21 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>Ay_12NVYwcU</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ay_12NVYwcU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>L'UE a du sang sur les mains !</title>
+      <link>https://www.youtube.com/watch?v=Wehx64-PQTo</link>
+      <guid>https://www.youtube.com/watch?v=Wehx64-PQTo</guid>
+      <pubDate>2026-05-22T10:00:32+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Une sanction contre 4 organisations et 3 colons. C’est donc ça la réponse de l’UE au génocide des Palestiniens depuis 2 ans ?
+
+Comment pouvez-vous vous regarder dans le mirroir ?
+
+Vous avez du sang sur les mains !</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>Wehx64-PQTo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Wehx64-PQTo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
