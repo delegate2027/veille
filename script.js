@@ -55,8 +55,6 @@ async function loadRSS() {
       document.getElementById("lastUpdate").innerHTML =
         "&nbsp; Dernière mise à jour : " +
         updateDate.toLocaleDateString("fr-FR", {
-          day:    "2-digit",
-          month:  "2-digit",
           hour:   "2-digit",
           minute: "2-digit",
         });
