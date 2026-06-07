@@ -57,6 +57,8 @@ async function loadRSS() {
         updateDate.toLocaleDateString("fr-FR", {
           hour:   "2-digit",
           minute: "2-digit",
+          day:    "2-digit",
+          month:  "2-digit",
         });
     }
 
@@ -104,8 +106,6 @@ async function loadRSS() {
       const formattedDate = isNaN(pubDate)
         ? ""
         : pubDate.toLocaleDateString("fr-FR", {
-            day:    "2-digit",
-            month:  "2-digit",
             hour:   "2-digit",
             minute: "2-digit",
           });
