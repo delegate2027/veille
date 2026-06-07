@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 07 Jun 2026 05:16:56 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 05:31:58 -0000</lastBuildDate>
+    <item>
+      <title>Débat 2027 : David Lisnard face à Édouard Philippe</title>
+      <link>https://www.youtube.com/watch?v=O3TgvCU40qE</link>
+      <guid>https://www.youtube.com/watch?v=O3TgvCU40qE</guid>
+      <pubDate>2026-06-07T05:27:59+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Le duel @david_lisnard / Édouard Philippe, organisé et modéré par Florence Portelli.</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>O3TgvCU40qE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/O3TgvCU40qE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Débat 2027 : David Lisnard face à Édouard Philippe</title>
       <link>https://www.youtube.com/watch?v=KOKJ1vqJWmU</link>
@@ -1877,21 +1888,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>Ay_12NVYwcU</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ay_12NVYwcU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'UE a du sang sur les mains !</title>
-      <link>https://www.youtube.com/watch?v=Wehx64-PQTo</link>
-      <guid>https://www.youtube.com/watch?v=Wehx64-PQTo</guid>
-      <pubDate>2026-05-22T10:00:32+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Une sanction contre 4 organisations et 3 colons. C’est donc ça la réponse de l’UE au génocide des Palestiniens depuis 2 ans ?
-
-Comment pouvez-vous vous regarder dans le mirroir ?
-
-Vous avez du sang sur les mains !</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>Wehx64-PQTo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Wehx64-PQTo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
