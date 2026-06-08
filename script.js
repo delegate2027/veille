@@ -329,10 +329,9 @@ async function loadRSS() {
       div.setAttribute("data-author", safeAuthor);
 
       div.innerHTML = `
-        <div class="top">
-          <span class="date">${escapeHtml(formattedDate)}</span>
+        <div class="top">     
           <span class="author" data-author="${escapeHtml(safeAuthor)}">${escapeHtml(safeAuthor)}</span>
-          
+		  <span class="date">${escapeHtml(formattedDate)}</span>  
         </div>
         <div class="title">
           <a href="${escapeHtml(link)}" class="video-link"
