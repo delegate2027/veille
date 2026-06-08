@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 08 Jun 2026 09:30:43 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 09:45:38 -0000</lastBuildDate>
+    <item>
+      <title>Violences sexuelles sur les enfants : il faut des moyens et des changements majeurs dans la Justice</title>
+      <link>https://www.youtube.com/watch?v=qG8mCI_oVVQ</link>
+      <guid>https://www.youtube.com/watch?v=qG8mCI_oVVQ</guid>
+      <pubDate>2026-06-08T09:45:24+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description>Sandrine Rousseau sur l'Affaire #Lyhanna</description>
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>qG8mCI_oVVQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qG8mCI_oVVQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>«Je crois que ce serait normal que les magistrats ne puissent pas se syndiquer» - FX Bellamy sur TF1</title>
       <link>https://www.youtube.com/watch?v=Fd11m8K278E</link>
@@ -1812,19 +1823,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>carMsx4Cyf8</videoId>
       <enclosure url="https://i.ytimg.com/vi/carMsx4Cyf8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Situation internationale : avant que les armes parlent, la diplomatie doit agir !</title>
-      <link>https://www.youtube.com/watch?v=M7whQEDt_TA</link>
-      <guid>https://www.youtube.com/watch?v=M7whQEDt_TA</guid>
-      <pubDate>2026-05-24T07:38:55+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député Alexis Corbière était l'invité politique de la matinale dominicale, présentée par Madjid Khiat et Hadrien Bect.
-Il est longuement revenu sur la situation internationale et plus particulièrement la guerre en Iran et les conséquences de celle-ci au Moyen-Orient mais aussi pour les Français.
-L'interview s'est terminée sur les prochaines élections présidentielles et la situation de la gauche en France.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>M7whQEDt_TA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/M7whQEDt_TA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
