@@ -127,12 +127,13 @@ footer {
 }
 
 .top {
-  display:       flex;
-  gap:           6px;
-  flex-wrap:     wrap;
-  margin-bottom: 6px;
-  margin-left: 6px;
-  margin-right: 6ps;
+  display:         flex;
+  align-items:     center;
+  justify-content: space-between; /* author à gauche, date à droite */
+  margin-bottom:   6px;
+  margin-left:     6px;
+  margin-right:    6px;
+  /* supprimer flex-wrap et gap — inutiles ici */
 }
 
 .author {
@@ -144,16 +145,13 @@ footer {
   color:          #2C2C2C;
   letter-spacing: 0.3px;
   background:     #6b7280;
-  float: left;
-  display: inline-block;
-
+  /* supprimer float: left et display: inline-block */
 }
 
 .date {
-  color:       #2C2C2C;
-  font-size:   12px;
-  margin-left: auto;
-  float: right;
+  color:     #2C2C2C;
+  font-size: 12px;
+  /* supprimer margin-left: auto et float: right */
 }
 
 .title {
