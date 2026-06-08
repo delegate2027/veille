@@ -108,6 +108,9 @@ async function loadRSS() {
         : pubDate.toLocaleDateString("fr-FR", {
             hour:   "2-digit",
             minute: "2-digit",
+            day:    "2-digit",
+            month:  "2-digit",
+            year:   undefined,
           });
 
       let videoId = null;
