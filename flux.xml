@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 08 Jun 2026 08:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 08:15:36 -0000</lastBuildDate>
+    <item>
+      <title>LAXISME de la Justice : face à face entre LAURENT JACOBELLI et JEAN-MICHEL APHATIE !</title>
+      <link>https://www.youtube.com/watch?v=GwA5PzWNH84</link>
+      <guid>https://www.youtube.com/watch?v=GwA5PzWNH84</guid>
+      <pubDate>2026-06-08T08:01:04+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>GwA5PzWNH84</videoId>
+      <enclosure url="https://i.ytimg.com/vi/GwA5PzWNH84/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>#Mélenchon2027 : la dynamique ne fait que commencer !</title>
       <link>https://www.youtube.com/watch?v=HaojZ_v3yqA</link>
@@ -1818,28 +1829,6 @@ Mardi 19 mai 2026.</description>
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>MW5seNK3weE</videoId>
       <enclosure url="https://i.ytimg.com/vi/MW5seNK3weE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Le prochain président de la République devra probablement dissoudre. » — Édouard Philippe.</title>
-      <link>https://www.youtube.com/watch?v=nGOnnAxQIw4</link>
-      <guid>https://www.youtube.com/watch?v=nGOnnAxQIw4</guid>
-      <pubDate>2026-05-23T18:40:24+00:00</pubDate>
-      <author>Horizons</author>
-      <description>Édouard Philippe était l'invité de Mohamed Bouhafsi sur France 5, dans @cavousofficiel.
-
- ---
-Pour découvrir nos autres contenus, suivez #Horizons sur les réseaux sociaux !
-
-→ Twitter (X) : https://x.com/HorizonsLeParti
-→ Facebook : https://www.facebook.com/HorizonsLeParti/
-→ Instagram : https://www.instagram.com/horizonsleparti/
-→ TikTok : https://www.tiktok.com/@horizonsleparti/
-→ LinkedIn : https://www.linkedin.com/company/horizonsleparti/
-→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R
-→ Telegram : https://t.me/HorizonsOff</description>
-      <channelTitle>Horizons</channelTitle>
-      <videoId>nGOnnAxQIw4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nGOnnAxQIw4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
