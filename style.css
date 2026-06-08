@@ -191,6 +191,7 @@ footer {
 .item[data-author="meeting"]    { background: var(--meeting-bg); }
 
 .author[data-author="Eric Coquerel"],
+.author[data-author="Louis Boyard"],
 .author[data-author="Manon Aubry"],
 .author[data-author="SOPHIA CHIKIROU"],
 .author[data-author="Mathilde Panot"],
@@ -211,6 +212,7 @@ footer {
 
 .item[data-author="Eric Coquerel"],
 .item[data-author="Manon Aubry"],
+.item[data-author="Louis Boyard"],
 .item[data-author="SOPHIA CHIKIROU"],
 .item[data-author="Mathilde Panot"],
 .item[data-author="JEAN-LUC MÉLENCHON"],
