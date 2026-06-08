@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 08 Jun 2026 08:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 09:00:55 -0000</lastBuildDate>
+    <item>
+      <title>«Je crois que ce serait normal que les magistrats ne puissent pas se syndiquer» - FX Bellamy sur TF1</title>
+      <link>https://www.youtube.com/watch?v=Fd11m8K278E</link>
+      <guid>https://www.youtube.com/watch?v=Fd11m8K278E</guid>
+      <pubDate>2026-06-08T08:46:27+00:00</pubDate>
+      <author>François-Xavier Bellamy</author>
+      <description>François-Xavier Bellamy était l’invité de la matinale de TF1 ce matin. Il est revenu sur l’affaire Lyhanna et notamment la nécessité de revoir l’organisation de la magistrature, en supprimant le droit de se syndiquer et en instaurant des personnes extérieures à la magistrature pour étudier les manquements de la profession.</description>
+      <channelTitle>François-Xavier Bellamy</channelTitle>
+      <videoId>Fd11m8K278E</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Fd11m8K278E/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAXISME de la Justice : face à face entre LAURENT JACOBELLI et JEAN-MICHEL APHATIE !</title>
       <link>https://www.youtube.com/watch?v=GwA5PzWNH84</link>
@@ -1814,21 +1825,6 @@ L'interview s'est terminée sur les prochaines élections présidentielles et la
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>M7whQEDt_TA</videoId>
       <enclosure url="https://i.ytimg.com/vi/M7whQEDt_TA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Gloire aux flottilles ! Conférence de presse du groupe de La Gauche au Parlement européen.</title>
-      <link>https://www.youtube.com/watch?v=MW5seNK3weE</link>
-      <guid>https://www.youtube.com/watch?v=MW5seNK3weE</guid>
-      <pubDate>2026-05-24T07:30:29+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Gloire aux flottilles ! 
-
-Conférence de presse du groupe de La Gauche au Parlement européen.
-
-Mardi 19 mai 2026.</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>MW5seNK3weE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MW5seNK3weE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
