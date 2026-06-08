@@ -128,8 +128,9 @@ async function loadRSS() {
 
       div.innerHTML = `
         <div class="top">
-          <span class="author" data-author="${escapeHtml(safeAuthor)}">${escapeHtml(safeAuthor)}</span>
           <span class="date">${escapeHtml(formattedDate)}</span>
+          <span class="author" data-author="${escapeHtml(safeAuthor)}">${escapeHtml(safeAuthor)}</span>
+          
         </div>
         <div class="title">
           <a href="${escapeHtml(link)}" class="video-link"
