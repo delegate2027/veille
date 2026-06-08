@@ -145,6 +145,7 @@ footer {
   letter-spacing: 0.3px;
   background:     #6b7280;
   float: left;
+  display: inline-block;
 
 }
 
