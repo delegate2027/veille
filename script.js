@@ -105,7 +105,7 @@ async function loadRSS() {
 
       const formattedDate = isNaN(pubDate)
         ? ""
-        : pubDate.toLocaleDateString("fr-FR", {
+        : pubDate.toLocaleString("fr-FR", {
             hour:   "2-digit",
             minute: "2-digit",
             day:    "2-digit",
