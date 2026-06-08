@@ -4,7 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 08 Jun 2026 11:15:33 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 11:30:48 -0000</lastBuildDate>
+    <item>
+      <title>🟠 CLÉMENTINE AUTAIN SUR FRANCE INTER - CADMIUM ET SÉCURITÉ SOCIALE DE L'ALIMENTATION</title>
+      <link>https://www.youtube.com/watch?v=ZJ9YzQlW5bY</link>
+      <guid>https://www.youtube.com/watch?v=ZJ9YzQlW5bY</guid>
+      <pubDate>2026-06-08T11:23:03+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>Clémentine Autain était dans la matinale de France Inter lundi 8 juin 2026.
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>ZJ9YzQlW5bY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ZJ9YzQlW5bY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Violences sexuelles sur les enfants : il faut des moyens et des changements majeurs dans la Justice</title>
       <link>https://www.youtube.com/watch?v=qG8mCI_oVVQ</link>
@@ -1808,21 +1829,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>Gpnlyn4nong</videoId>
       <enclosure url="https://i.ytimg.com/vi/Gpnlyn4nong/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>François Ruffin est l'invité de Quelle Epoque sur France 2</title>
-      <link>https://www.youtube.com/watch?v=carMsx4Cyf8</link>
-      <guid>https://www.youtube.com/watch?v=carMsx4Cyf8</guid>
-      <pubDate>2026-05-24T09:56:39+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>Retrouvez l'entretien de François Ruffin face à Léa Salamé et Hugo Clément sur le plateau de Quelle Epoque, sur France 2, samedi 23 mai 2026.
-
-➡️ Soutenez François Ruffin : nouspresident.fr
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>carMsx4Cyf8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/carMsx4Cyf8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
