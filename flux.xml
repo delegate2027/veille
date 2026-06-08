@@ -4,7 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 08 Jun 2026 15:45:43 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 16:00:57 -0000</lastBuildDate>
+    <item>
+      <title>IL A ÉTÉ INTERPELLÉ APRÈS LA VICTOIRE DU PSG À PARIS... IL ME RACONTE TOUT.</title>
+      <link>https://www.youtube.com/watch?v=KTIR3VetM4Q</link>
+      <guid>https://www.youtube.com/watch?v=KTIR3VetM4Q</guid>
+      <pubDate>2026-06-08T16:00:28+00:00</pubDate>
+      <author>Louis Boyard</author>
+      <description />
+      <channelTitle>Louis Boyard</channelTitle>
+      <videoId>KTIR3VetM4Q</videoId>
+      <enclosure url="https://i.ytimg.com/vi/KTIR3VetM4Q/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fin de vie : "Le mot « suicide » est une douleur pour bien des gens" rappelle Sandrine Rousseau</title>
+      <link>https://www.youtube.com/watch?v=LeSgoL_RE14</link>
+      <guid>https://www.youtube.com/watch?v=LeSgoL_RE14</guid>
+      <pubDate>2026-06-08T15:56:07+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description />
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>LeSgoL_RE14</videoId>
+      <enclosure url="https://i.ytimg.com/vi/LeSgoL_RE14/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY : « On va vers la ruine des finances publiques ! » (France Info)</title>
       <link>https://www.youtube.com/watch?v=4UpojIB6PjY</link>
@@ -1794,45 +1816,6 @@ Réparation mémorielle, restitution des œuvres spoliées, transmission de l’
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>SIDCdfQ4KLI</videoId>
       <enclosure url="https://i.ytimg.com/vi/SIDCdfQ4KLI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Gabriel Attal répond aux questions de Rémy Buisine sur Brut.</title>
-      <link>https://www.youtube.com/watch?v=Gpnlyn4nong</link>
-      <guid>https://www.youtube.com/watch?v=Gpnlyn4nong</guid>
-      <pubDate>2026-05-24T21:50:28+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Gabriel Attal était l'invité de Rémy Buisine sur Brut pour répondre à toutes ses questions.
-
-Pour rejoindre les équipes de campagne, rendez-vous sur https://attalpresident.fr.
-
-Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>Gpnlyn4nong</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Gpnlyn4nong/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>François Ruffin est l'invité de Quelle Epoque sur France 2</title>
-      <link>https://www.youtube.com/watch?v=carMsx4Cyf8</link>
-      <guid>https://www.youtube.com/watch?v=carMsx4Cyf8</guid>
-      <pubDate>2026-05-24T09:56:39+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>Retrouvez l'entretien de François Ruffin face à Léa Salamé et Hugo Clément sur le plateau de Quelle Epoque, sur France 2, samedi 23 mai 2026.
-
-➡️ Soutenez François Ruffin : nouspresident.fr
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>carMsx4Cyf8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/carMsx4Cyf8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
