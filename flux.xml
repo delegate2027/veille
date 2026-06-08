@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 08 Jun 2026 21:45:31 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 22:00:50 -0000</lastBuildDate>
+    <item>
+      <title>Marine Tondelier : "Bruno Retailleau devrait s'excuser de n'avoir rien fait quand il était ministre"</title>
+      <link>https://www.youtube.com/watch?v=dKcbdvnkRuk</link>
+      <guid>https://www.youtube.com/watch?v=dKcbdvnkRuk</guid>
+      <pubDate>2026-06-08T21:50:02+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Duplex du 8 juin 2026 sur LCI en direct de l'hommage à Lyhanna à Paris.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>dKcbdvnkRuk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dKcbdvnkRuk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier : "Gérald Darmanin est d'une lâcheté absolue de se défausser sur les magistrats"</title>
       <link>https://www.youtube.com/watch?v=zKw-mW1ne7k</link>
@@ -1170,17 +1181,6 @@ Sabrina Sebaihi, députée des Hauts-de-Seine</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>9cmh8LU6k7E</videoId>
       <enclosure url="https://i.ytimg.com/vi/9cmh8LU6k7E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Santé, climat : même combat !" (Intro de notre Convention Santé Environnementale par Kévin Jean)</title>
-      <link>https://www.youtube.com/watch?v=cuichOMEnGg</link>
-      <guid>https://www.youtube.com/watch?v=cuichOMEnGg</guid>
-      <pubDate>2026-06-01T14:01:49+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Kévin Jean, épidémiologiste, professeur junior en Santé et Changements Globaux au Département de Biologie de l’Ecole Normale Supérieure (ENS)</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>cuichOMEnGg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/cuichOMEnGg/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>⚠️ Tentatives d'obstruction sur la proposition de loi "Bétharram" ! Paul Vannier sur Ici Béarn</title>
