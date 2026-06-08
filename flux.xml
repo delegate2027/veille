@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 08 Jun 2026 18:15:31 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:30:45 -0000</lastBuildDate>
+    <item>
+      <title>En finir avec l'omerta.</title>
+      <link>https://www.youtube.com/watch?v=DKVUUYMHTgc</link>
+      <guid>https://www.youtube.com/watch?v=DKVUUYMHTgc</guid>
+      <pubDate>2026-06-08T18:15:52+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>Darmanin a préféré ses obsessions sécuritaires aux violences faites aux enfants.
+
+Des choix politiques ont été faits, et leurs responsables doivent rendre des comptes.</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>DKVUUYMHTgc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DKVUUYMHTgc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Présidentielle : Sandrine Rousseau appelle au débat stratégique chez les écologistes</title>
       <link>https://www.youtube.com/watch?v=DchEK4717js</link>
@@ -1788,30 +1801,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>noH_IE2p2BA</videoId>
       <enclosure url="https://i.ytimg.com/vi/noH_IE2p2BA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>GABRIEL ATTAL SUR FRANCE INTER | JE SUIS CANDIDAT À L'ÉLECTION PRÉSIDENTIELLE</title>
-      <link>https://www.youtube.com/watch?v=LChrzzwU_R8</link>
-      <guid>https://www.youtube.com/watch?v=LChrzzwU_R8</guid>
-      <pubDate>2026-05-26T06:23:55+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Gabriel Attal était l'invité de Florence Paracuellos et Benjamin Duhamel sur France inter. 
-
-Rejoignez les équipes de campagne sur https://attalpresident.fr
-
-Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>LChrzzwU_R8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LChrzzwU_R8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
