@@ -102,11 +102,6 @@ footer {
   padding-right:     5px;
 }
 
-.square {
-  width:  4px;
-  height: 15px;
-}
-
 .feed {
   display:        flex;
   flex-direction: column;
@@ -153,7 +148,7 @@ footer {
 .date {
   color:       #2C2C2C;
   font-size:   12px;
-  margin-left: 0px;
+  margin-left: 7px;
 }
 
 .title {
