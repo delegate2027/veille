@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 08 Jun 2026 17:45:37 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:00:53 -0000</lastBuildDate>
+    <item>
+      <title>Présidentielle : Sandrine Rousseau appelle au débat stratégique chez les écologistes</title>
+      <link>https://www.youtube.com/watch?v=DchEK4717js</link>
+      <guid>https://www.youtube.com/watch?v=DchEK4717js</guid>
+      <pubDate>2026-06-08T17:45:30+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description />
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>DchEK4717js</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DchEK4717js/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>IL A ÉTÉ INTERPELLÉ APRÈS LA VICTOIRE DU PSG À PARIS... IL ME RACONTE TOUT.</title>
       <link>https://www.youtube.com/watch?v=KTIR3VetM4Q</link>
@@ -1801,21 +1812,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>LChrzzwU_R8</videoId>
       <enclosure url="https://i.ytimg.com/vi/LChrzzwU_R8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>25 ans de la loi Taubira : poursuivre le travail de vérité et de justice, Mackendie Toupuissant.</title>
-      <link>https://www.youtube.com/watch?v=SIDCdfQ4KLI</link>
-      <guid>https://www.youtube.com/watch?v=SIDCdfQ4KLI</guid>
-      <pubDate>2026-05-25T14:20:29+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>🚩 Ce jeudi à la sortie de l’Élysée Mackendie Toupuissant, élu communiste d’Aulnay-sous-Bois et membre du Conseil National du PCF, rappelle l’importance de poursuivre le travail de mémoire autour de l’esclavage et de la traite négrière, reconnus comme crimes contre l’humanité par la loi Taubira.
-
-Réparation mémorielle, restitution des œuvres spoliées, transmission de l’histoire : ce travail exige de nommer et d’identifier les femmes et les hommes qui ont subi cette période tragique de notre histoire.
-
-📢 25 ans après, le devoir de vérité, de justice et de mémoire reste plus que jamais nécessaire. C’est tout l’enjeu de la date du 28 mai où l’abolition du Code Noir sera examinée à l’Assemblée nationale.</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>SIDCdfQ4KLI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SIDCdfQ4KLI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
