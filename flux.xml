@@ -4,7 +4,26 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 09 Jun 2026 17:15:33 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 17:30:49 -0000</lastBuildDate>
+    <item>
+      <title>Les blessures et l'espoir ! | VLOG en Kanaky-Nouvelle-Calédonie EP02</title>
+      <link>https://www.youtube.com/watch?v=ynf0EE1N36A</link>
+      <guid>https://www.youtube.com/watch?v=ynf0EE1N36A</guid>
+      <pubDate>2026-06-09T17:24:25+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Après avoir exploré les racines de la révolte, nous avons poursuivi notre déplacement en Province Nord, au cœur de la terre kanak.
+
+De Koné à Canala, nous sommes allés à la rencontre de celles et ceux qui font vivre ce territoire et portent l’espoir d’un avenir commun. Coutumiers, responsables politiques, militants, habitants : tous nous ont parlé des blessures laissées par la colonisation, des conséquences des événements de 2024, mais aussi de leur volonté de construire la paix dans le respect du peuple kanak.
+
+Dans cette deuxième partie, nous découvrons une autre réalité de la Kanaky-Nouvelle-Calédonie : celle d’une province qui a choisi de reprendre en main son développement, de valoriser ses terres, ses ressources et sa culture. Une terre où la question de l’émancipation ne relève pas seulement du débat institutionnel, mais s’incarne dans des projets concrets, des solidarités et une vision de l’avenir.
+
+Un an après les révoltes, une conviction revient dans chaque rencontre : aucune solution durable ne pourra être imposée depuis Paris. L’avenir de la Kanaky-Nouvelle-Calédonie devra être construit avec celles et ceux qui y vivent, dans le dialogue, le respect des accords et la reconnaissance du peuple premier.
+
+Retrouvez la deuxième partie de notre déplacement dans la Province Nord.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>ynf0EE1N36A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ynf0EE1N36A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"Il y en a marre de l'idéologie" - Bruno Retailleau</title>
       <link>https://www.youtube.com/watch?v=PQoHMeLbxas</link>
@@ -1718,22 +1737,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>PlwjMMaCGc8</videoId>
       <enclosure url="https://i.ytimg.com/vi/PlwjMMaCGc8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>R.Lescure invité d'A. de Malherbe : beaucoup de marketing politique, peu de solutions - mon analyse</title>
-      <link>https://www.youtube.com/watch?v=zDA7zHP63b4</link>
-      <guid>https://www.youtube.com/watch?v=zDA7zHP63b4</guid>
-      <pubDate>2026-05-28T10:02:04+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Roland Lescure était mercredi l'invité d'Apolline de Malherbe.
-
-Il a parlé : déficits créés par la guerre, comité d’alerte, PLF 2027,  dette, investissement, électrification. 
-Beaucoup de marketing politique, des oublis et peu de réponses et solutions concrètes.
-
-Je lui réponds.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>zDA7zHP63b4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zDA7zHP63b4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
