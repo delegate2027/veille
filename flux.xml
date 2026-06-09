@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 09 Jun 2026 10:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 10:30:41 -0000</lastBuildDate>
+    <item>
+      <title>Marine Le Pen : "Il y a en France un problème concernant la protection de l'enfance !"</title>
+      <link>https://www.youtube.com/watch?v=rFZFSh3TpFM</link>
+      <guid>https://www.youtube.com/watch?v=rFZFSh3TpFM</guid>
+      <pubDate>2026-06-09T10:17:04+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Il faut revoir le fonctionnement de la Justice, lui redonner des moyens et revoir le sens des priorités.
+
+À Auch, des procédures ont été engagées de manière prioritaire contre des agriculteurs, et dans le même temps, le dossier concernant M. Barella est resté dans les tiroirs.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>rFZFSh3TpFM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/rFZFSh3TpFM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
       <link>https://www.youtube.com/watch?v=0U1NrmRXbk0</link>
@@ -1763,17 +1776,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>Udd17tDK0SM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Udd17tDK0SM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La macronie déteste les seniors !</title>
-      <link>https://www.youtube.com/watch?v=KiBZ8dOqpjA</link>
-      <guid>https://www.youtube.com/watch?v=KiBZ8dOqpjA</guid>
-      <pubDate>2026-05-26T17:10:21+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Après la retraite, elle s’attaque maintenant à leurs droits à l’assurance chômage. Ça suffit !</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>KiBZ8dOqpjA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/KiBZ8dOqpjA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
