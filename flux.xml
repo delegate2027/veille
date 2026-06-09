@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 09 Jun 2026 16:30:56 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 16:45:35 -0000</lastBuildDate>
+    <item>
+      <title>"Il y en a marre de l'idéologie" - Bruno Retailleau</title>
+      <link>https://www.youtube.com/watch?v=PQoHMeLbxas</link>
+      <guid>https://www.youtube.com/watch?v=PQoHMeLbxas</guid>
+      <pubDate>2026-06-09T16:37:04+00:00</pubDate>
+      <author>Bruno Retailleau</author>
+      <description>Il y en a marre de l'idéologie : si on interdit l'accès à l'eau à nos agriculteurs c'est fini. Les projets de stockages de l'eau seront déclarés d'intérêt général majeur. On va reverdir la France grâce à une nouvelle politique agricole offensive !
+
+Merci aux Jeunes Agriculteurs pour leur invitation.</description>
+      <channelTitle>Bruno Retailleau</channelTitle>
+      <videoId>PQoHMeLbxas</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PQoHMeLbxas/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Compte de l'Etat 2025 : L’Assemblée refuse de donner quitus au gouvernement</title>
       <link>https://www.youtube.com/watch?v=sIglnhi73Rk</link>
@@ -1721,28 +1734,6 @@ Je lui réponds.</description>
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>zDA7zHP63b4</videoId>
       <enclosure url="https://i.ytimg.com/vi/zDA7zHP63b4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Pas d'économies sur notre sécurité dans un monde dangereux. » | Édouard Philippe</title>
-      <link>https://www.youtube.com/watch?v=upXpVUJWwK4</link>
-      <guid>https://www.youtube.com/watch?v=upXpVUJWwK4</guid>
-      <pubDate>2026-05-28T07:34:13+00:00</pubDate>
-      <author>Horizons</author>
-      <description>Édouard Philippe était l'invité de Benjamin Duhamel ce jeudi 28 mai, sur @FranceInter.
-
----
-Pour découvrir nos autres contenus, suivez #Horizons sur les réseaux sociaux !
-
-→ Twitter (X) : https://x.com/HorizonsLeParti
-→ Facebook : https://www.facebook.com/HorizonsLeParti/
-→ Instagram : https://www.instagram.com/horizonsleparti/
-→ TikTok : https://www.tiktok.com/@horizonsleparti/
-→ LinkedIn : https://www.linkedin.com/company/horizonsleparti/
-→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R
-→ Telegram : https://t.me/HorizonsOff</description>
-      <channelTitle>Horizons</channelTitle>
-      <videoId>upXpVUJWwK4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/upXpVUJWwK4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
