@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 09 Jun 2026 14:15:39 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 14:30:50 -0000</lastBuildDate>
+    <item>
+      <title>MC Garin : "Il a fallu qu'une enfant meure pour que vous daignez nous dire ok pour la loi intégrale"</title>
+      <link>https://www.youtube.com/watch?v=KFt6WJGhk4k</link>
+      <guid>https://www.youtube.com/watch?v=KFt6WJGhk4k</guid>
+      <pubDate>2026-06-09T14:10:53+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>KFt6WJGhk4k</videoId>
+      <enclosure url="https://i.ytimg.com/vi/KFt6WJGhk4k/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Rien ne justifie l’occupation prolongée d’Israël au sud du Liban | Jean-Noël Barrot</title>
       <link>https://www.youtube.com/watch?v=Ymx1mJamZ_w</link>
@@ -30,6 +41,17 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>Ymx1mJamZ_w</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ymx1mJamZ_w/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🏛️🇫🇷 CATHERINE DELLONG MENG : « La précarité s'installe dans le quotidien des Français ! » (QAG)</title>
+      <link>https://www.youtube.com/watch?v=DJ28oOscFR0</link>
+      <guid>https://www.youtube.com/watch?v=DJ28oOscFR0</guid>
+      <pubDate>2026-06-09T14:01:02+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>DJ28oOscFR0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DJ28oOscFR0/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Marine Le Pen : "Le chagrin du peuple français à la mort de Lyhanna a laissé place à la colère."</title>
@@ -351,17 +373,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>4TEInzpLEQc</videoId>
       <enclosure url="https://i.ytimg.com/vi/4TEInzpLEQc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ANDREA KOTARAC : « Il y a un problème systémique dans notre pays sur la pédophilie » (France Info)</title>
-      <link>https://www.youtube.com/watch?v=MOcGDLJxKGM</link>
-      <guid>https://www.youtube.com/watch?v=MOcGDLJxKGM</guid>
-      <pubDate>2026-06-08T07:21:17+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>MOcGDLJxKGM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MOcGDLJxKGM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mort de Lyhanna : Parler de « dysfonctionnement » c’est se tromper de diagnostic | Sandrine Rousseau</title>
@@ -1314,17 +1325,6 @@ Eva Morel, secrétaire générale de QuotaClimat</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>-5GQw7QnPYI</videoId>
       <enclosure url="https://i.ytimg.com/vi/-5GQw7QnPYI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Zoonoses, maladies climatiques (Intervention - Convention Santé Environnementale par Anne Souyris)</title>
-      <link>https://www.youtube.com/watch?v=EWuj0W5aq5A</link>
-      <guid>https://www.youtube.com/watch?v=EWuj0W5aq5A</guid>
-      <pubDate>2026-06-01T14:25:52+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Anne Souyris, sénatrice de Paris</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>EWuj0W5aq5A</videoId>
-      <enclosure url="https://i.ytimg.com/vi/EWuj0W5aq5A/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>⚠️ Tentatives d'obstruction sur la proposition de loi "Bétharram" ! Paul Vannier sur Ici Béarn</title>
