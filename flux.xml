@@ -4,7 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 09 Jun 2026 08:45:31 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 09:00:54 -0000</lastBuildDate>
+    <item>
+      <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
+      <link>https://www.youtube.com/watch?v=0U1NrmRXbk0</link>
+      <guid>https://www.youtube.com/watch?v=0U1NrmRXbk0</guid>
+      <pubDate>2026-06-09T08:59:54+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Rendez-vous ce mardi 9 juin pour suivre le Point Presse Hebdo du groupe parlementaire La France insoumise de l'année avec Mathilde Panot !
+
+_________________________________________________ 
+
+Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
+
+☞ X (Twitter) : https://x.com/FiAssemblee
+☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
+☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
+☞ YouTube :  / @FranceinsoumiseAN
+☞ Instagram : https://instagram.com/FranceinsoumiseAN/
+☞ Threads : https://www.threads.net/@FranceinsoumiseAN
+☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
+☞ Telegram : https://t.me/FranceinsoumiseAN
+
+Abonnez-vous !</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>0U1NrmRXbk0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0U1NrmRXbk0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Face à face BFM, mardi 9 juin 2026 | Laurent Wauquiez</title>
       <link>https://www.youtube.com/watch?v=PqhtOceA1L4</link>
@@ -1748,27 +1774,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>KiBZ8dOqpjA</videoId>
       <enclosure url="https://i.ytimg.com/vi/KiBZ8dOqpjA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>APD : -50% de coupes budgétaires en deux ans - Audition d'Eléonore CAROIT</title>
-      <link>https://www.youtube.com/watch?v=fWKao86zvOc</link>
-      <guid>https://www.youtube.com/watch?v=fWKao86zvOc</guid>
-      <pubDate>2026-05-26T16:20:34+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez l’audition de la ministre déléguée chargée de la francophonie, des partenariats internationaux et des Français de l’étranger, le 26 mai 2026 dans le cadre du Printemps de l’évaluation. 
-
-On est passé de l’ambition d’être le meilleur élève de la classe à celui d’en être le moins mauvais !
-La mission Aide publique au développement est la grande sacrifiée de l’austérité budgétaire : -50% en 2 ans. Les constats dressés par la Cour des comptes sont sévères et mettent en cause les choix budgétaires du gouvernement. 
- 
-C'est pourquoi j’interroge la ministre déléguée sur ⤵️
-- l'effondrement des moyens de l’aide publique au développement, 
-- la baisse des dépenses favorables à l'environnement
-Quels projets de solidarité ont été arrêtés ou reportés ? Qui n'était "pas prioritaire, pas sensible" ?
-
-Abaisser l'aide publique au développement n’atténue en rien son interruption, qui est la marque du trumpisme.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>fWKao86zvOc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/fWKao86zvOc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
