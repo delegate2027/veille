@@ -85,8 +85,8 @@ footer {
   align-items: center;
   margin-left: 10px;
   background-color: #0078D7;
-  padding-left:     10px;
-  padding-right:     10px;
+  padding-left:     5px;
+  padding-right:     5px;
 }
 
 .last-update {
@@ -98,8 +98,8 @@ footer {
   margin-top:  0px;
   margin-left: 10px;
   margin-bottom: 10px;
-  padding-left:     5px;
-  padding-right:     5px;
+  padding-left:     2px;
+  padding-right:     2px;
 }
 
 .feed {
