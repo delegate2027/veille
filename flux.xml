@@ -4,7 +4,26 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 09 Jun 2026 15:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 16:00:59 -0000</lastBuildDate>
+    <item>
+      <title>Compte de l'Etat 2025 : L’Assemblée refuse de donner quitus au gouvernement</title>
+      <link>https://www.youtube.com/watch?v=sIglnhi73Rk</link>
+      <guid>https://www.youtube.com/watch?v=sIglnhi73Rk</guid>
+      <pubDate>2026-06-09T15:49:58+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez le discours sur l'approbation des comptes de l'état de l'année 2025 d'Eric Coquerel, le mardi 9 juin 2026.
+
+🔴 Cette loi d’approbation des comptes de 2025 va être battue par toutes les oppositions.
+
+Le budget 2025 a été un recul majeur pour le pays. Tout ça pour respecter des critères maastrichtiens d’un autre temps, que vous n’êtes même pas capable de tenir, et pour augmenter de 11% le budget militaire.
+
+Cela rappelle que le gouvernement est minoritaire et qu’il compte sur les mêmes artifices pour nous imposer des coupes budgétaires pour 2026.
+
+Tout cela doit cesser. Il faut un budget rectificatif pour aller chercher des recettes nouvelles.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>sIglnhi73Rk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/sIglnhi73Rk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY : « M. Darmanin prend les Français pour des imbéciles ! » (CNEWS)</title>
       <link>https://www.youtube.com/watch?v=eAq_U9OHscc</link>
@@ -1724,32 +1743,6 @@ Pour découvrir nos autres contenus, suivez #Horizons sur les réseaux sociaux !
       <channelTitle>Horizons</channelTitle>
       <videoId>upXpVUJWwK4</videoId>
       <enclosure url="https://i.ytimg.com/vi/upXpVUJWwK4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>On a vraiment un problème dans notre pays d'écoute de la parole de l'enfant | Perrine Goulet</title>
-      <link>https://www.youtube.com/watch?v=81qvIWZPpI0</link>
-      <guid>https://www.youtube.com/watch?v=81qvIWZPpI0</guid>
-      <pubDate>2026-05-27T14:52:06+00:00</pubDate>
-      <author>MoDem</author>
-      <description>On a vraiment un problème dans notre pays d'écoute de la parole de l'enfant | Perrine Goulet
-
-Invitée d’Europe 1 Soir ce mardi 26 mai, notre députée Les Démocrates de la Nièvre et présidente de la Délégation aux droits des enfants, Perrine Goulet, a réagi à l’affaire des violences présumées dans le périscolaire parisien et détaillé les mesures défendues pour mieux protéger les mineurs.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/familles/perrine-goulet-vraiment-un-probleme-dans-notre-pays-decoute-de-la-parole-de-lenfant-video
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>81qvIWZPpI0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/81qvIWZPpI0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
