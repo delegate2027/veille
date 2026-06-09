@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 09 Jun 2026 11:45:37 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 12:01:02 -0000</lastBuildDate>
     <item>
       <title>Marine Le Pen : "Il y a en France un problème concernant la protection de l'enfance !"</title>
       <link>https://www.youtube.com/watch?v=rFZFSh3TpFM</link>
@@ -142,7 +142,9 @@ Des choix politiques ont été faits, et leurs responsables doivent rendre des c
       <guid>https://www.youtube.com/watch?v=KTIR3VetM4Q</guid>
       <pubDate>2026-06-08T16:00:28+00:00</pubDate>
       <author>Louis Boyard</author>
-      <description />
+      <description>Hugues a été interpellé le soir de la victoire du PSG. Après avoir subi des violences policières, il a témoigné en direct sur BFMTV. Sa séquence a enflammé les réseaux. 
+
+Il m’a accordé une interview pour revenir sur cette nuit, et sur le lynchage médiatique qu’il a subi de la part des médias et de l’extrême droite.</description>
       <channelTitle>Louis Boyard</channelTitle>
       <videoId>KTIR3VetM4Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/KTIR3VetM4Q/maxresdefault.jpg" type="image/jpeg" />
