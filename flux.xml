@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 09 Jun 2026 13:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 14:00:56 -0000</lastBuildDate>
+    <item>
+      <title>Marine Le Pen : "Le chagrin du peuple français à la mort de Lyhanna a laissé place à la colère."</title>
+      <link>https://www.youtube.com/watch?v=D9FYahkkuzE</link>
+      <guid>https://www.youtube.com/watch?v=D9FYahkkuzE</guid>
+      <pubDate>2026-06-09T13:43:08+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Monsieur le Premier ministre,
+
+Le chagrin du peuple français à l’annonce de la mort de Lyhanna, onze ans, assassinée par un homme déjà connu comme pédophile, un prédateur identifié mais jamais interpellé, jamais neutralisé, a laissé place à la colère, et elle est justifiée.Monsieur le Premier ministre, comptez-vous tout remettre à plat pour permettre aux Français de retrouver la confiance aujourd’hui terriblement entamée dans la justice de leur pays ?</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>D9FYahkkuzE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/D9FYahkkuzE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Lyhanna, Présidentielle 2027, Gauche et écologistes : Sandrine Rousseau invitée de Sud Radio</title>
       <link>https://www.youtube.com/watch?v=CeJSC7ir46k</link>
@@ -1722,21 +1735,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>dUJBgiB4-yQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/dUJBgiB4-yQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présidentielles 2027 : débat François Ruffin / François Lenglet</title>
-      <link>https://www.youtube.com/watch?v=slRKJjyk85U</link>
-      <guid>https://www.youtube.com/watch?v=slRKJjyk85U</guid>
-      <pubDate>2026-05-27T09:07:04+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>Emission du 26 mai 2026.
-
-➡️ Soutenez François Ruffin : nouspresident.fr
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>slRKJjyk85U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/slRKJjyk85U/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
