@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 09 Jun 2026 13:00:55 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 13:15:41 -0000</lastBuildDate>
+    <item>
+      <title>JULIEN ODOUL : « La perpétuité réelle n’existe pas dans notre pays ! » (Europe 1)</title>
+      <link>https://www.youtube.com/watch?v=ATw4bzTfcpQ</link>
+      <guid>https://www.youtube.com/watch?v=ATw4bzTfcpQ</guid>
+      <pubDate>2026-06-09T13:01:55+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>ATw4bzTfcpQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ATw4bzTfcpQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Affaire Lyhanna : Darmanin démission !</title>
       <link>https://www.youtube.com/watch?v=wZWgXQ6tO6s</link>
@@ -1726,27 +1737,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>o0qusod1WeI</videoId>
       <enclosure url="https://i.ytimg.com/vi/o0qusod1WeI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Canicule, prix des carburants, présidentielles : Manuel Bompard, invité de BFM TV !</title>
-      <link>https://www.youtube.com/watch?v=Udd17tDK0SM</link>
-      <guid>https://www.youtube.com/watch?v=Udd17tDK0SM</guid>
-      <pubDate>2026-05-26T18:40:50+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur BFM TV du mardi 26 mai 2026.
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>Udd17tDK0SM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Udd17tDK0SM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
