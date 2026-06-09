@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 09 Jun 2026 13:30:45 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 13:45:33 -0000</lastBuildDate>
+    <item>
+      <title>Lyhanna, Présidentielle 2027, Gauche et écologistes : Sandrine Rousseau invitée de Sud Radio</title>
+      <link>https://www.youtube.com/watch?v=CeJSC7ir46k</link>
+      <guid>https://www.youtube.com/watch?v=CeJSC7ir46k</guid>
+      <pubDate>2026-06-09T13:42:14+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description>@SudRadioOfficiel Lundi 8/06/2026</description>
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>CeJSC7ir46k</videoId>
+      <enclosure url="https://i.ytimg.com/vi/CeJSC7ir46k/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🏛️🇫🇷 MARINE LE PEN : « LYHANNA : un prédateur identifié mais jamais neutralisé ! » (QAG)</title>
       <link>https://www.youtube.com/watch?v=DYDEakaWeBs</link>
@@ -1726,17 +1737,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>slRKJjyk85U</videoId>
       <enclosure url="https://i.ytimg.com/vi/slRKJjyk85U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La Réunion est aux avant postes de la révolution citoyenne</title>
-      <link>https://www.youtube.com/watch?v=o0qusod1WeI</link>
-      <guid>https://www.youtube.com/watch?v=o0qusod1WeI</guid>
-      <pubDate>2026-05-27T07:00:04+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Réunion 1ère le 26 mai 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>o0qusod1WeI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/o0qusod1WeI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
