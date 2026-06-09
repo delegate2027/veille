@@ -49,7 +49,7 @@ h1 {
   font-size:   16px;
   margin:      0;
   font-weight: 700;
-  color:       #F9F5F0;
+  color:       #2C2C2C;
 }
 
 h2 {
@@ -84,7 +84,7 @@ footer {
   gap:         1px;
   align-items: center;
   margin-left: 10px;
-  background-color: #0078D7;
+  background-color: #6b7280;
   padding-left:     5px;
   padding-right:     5px;
 }
@@ -133,7 +133,6 @@ footer {
   margin-bottom:   6px;
   margin-left:     6px;
   margin-right:    6px;
-  /* supprimer flex-wrap et gap — inutiles ici */
 }
 
 .author {
@@ -145,13 +144,11 @@ footer {
   color:          #2C2C2C;
   letter-spacing: 0.3px;
   background:     #6b7280;
-  /* supprimer float: left et display: inline-block */
 }
 
 .date {
   color:     #2C2C2C;
   font-size: 12px;
-  /* supprimer margin-left: auto et float: right */
 }
 
 .title {
