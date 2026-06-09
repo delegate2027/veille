@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 09 Jun 2026 07:30:42 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 07:45:30 -0000</lastBuildDate>
+    <item>
+      <title>JULIEN ODOUL : « La Justice ne protège plus nos enfants ! » (CNEWS)</title>
+      <link>https://www.youtube.com/watch?v=rYTTA9NyF2M</link>
+      <guid>https://www.youtube.com/watch?v=rYTTA9NyF2M</guid>
+      <pubDate>2026-06-09T07:43:01+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>rYTTA9NyF2M</videoId>
+      <enclosure url="https://i.ytimg.com/vi/rYTTA9NyF2M/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Présidentielles 2027 : François Ruffin invité de la matinale de TF1</title>
       <link>https://www.youtube.com/watch?v=lUGoi-YpiXI</link>
@@ -1777,32 +1788,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>YcDS4soRrRo</videoId>
       <enclosure url="https://i.ytimg.com/vi/YcDS4soRrRo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>On ne surestime pas ses capacités sportives par une telle chaleur | Marina Ferrari</title>
-      <link>https://www.youtube.com/watch?v=4ZHIYbUtp3A</link>
-      <guid>https://www.youtube.com/watch?v=4ZHIYbUtp3A</guid>
-      <pubDate>2026-05-26T13:26:57+00:00</pubDate>
-      <author>MoDem</author>
-      <description>On ne surestime pas ses capacités sportives par une telle chaleur | Marina Ferrari
-
-Invitée d’Apolline de Malherbe sur RMC ce mardi 26 mai, notre ministre des Sports, de la Jeunesse et de la Vie associative Marina Ferrari est revenue sur plusieurs sujets d’actualité, de la vague de chaleur qui touche la France à la finale de la Ligue des champions, en passant par l’e-sport et les controversés « Enhanced Games ». 
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/marina-ferrari-ne-surestime-pas-ses-capacites-sportives-par-une-telle-chaleur-video
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>4ZHIYbUtp3A</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4ZHIYbUtp3A/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
