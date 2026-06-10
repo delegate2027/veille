@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 10 Jun 2026 07:01:09 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 07:15:36 -0000</lastBuildDate>
+    <item>
+      <title>Marine Tondelier s'exprime sur les affaires Lyhanna et Patrick Bruel (France Info)</title>
+      <link>https://www.youtube.com/watch?v=QAHxOs9-AxA</link>
+      <guid>https://www.youtube.com/watch?v=QAHxOs9-AxA</guid>
+      <pubDate>2026-06-10T07:08:41+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Matinale du 10 juin 2026 sur France Info.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>QAHxOs9-AxA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/QAHxOs9-AxA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Les blessures et l'espoir ! | VLOG en Kanaky-Nouvelle-Calédonie EP02</title>
       <link>https://www.youtube.com/watch?v=ynf0EE1N36A</link>
@@ -1376,21 +1387,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>7U6kKqS4yhA</videoId>
       <enclosure url="https://i.ytimg.com/vi/7U6kKqS4yhA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>En finir avec la fabrique du doute (Convention Santé Environnementale)</title>
-      <link>https://www.youtube.com/watch?v=-5GQw7QnPYI</link>
-      <guid>https://www.youtube.com/watch?v=-5GQw7QnPYI</guid>
-      <pubDate>2026-06-01T14:55:28+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Animation : Raphaëlle Rémy-Leleu, Co-responsable de la commission lutte contre l’extrême droite 
-Serge Hercberg, épidémiologiste et nutritionniste
-Jean-Noël Jouzel, directeur de recherche CNRS au centre de sociologie des organisations 
-Lilith, présidente de l'association diaspora solidaire avec les victimes de l'empoisonnement colonial
-Eva Morel, secrétaire générale de QuotaClimat</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>-5GQw7QnPYI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-5GQw7QnPYI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>⚠️ Tentatives d'obstruction sur la proposition de loi "Bétharram" ! Paul Vannier sur Ici Béarn</title>
