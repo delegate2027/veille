@@ -4,7 +4,24 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 10 Jun 2026 15:01:04 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 15:15:35 -0000</lastBuildDate>
+    <item>
+      <title>"Mettre fin au corporatisme judiciaire" - Bruno Retailleau</title>
+      <link>https://www.youtube.com/watch?v=nzP0pW3vilk</link>
+      <guid>https://www.youtube.com/watch?v=nzP0pW3vilk</guid>
+      <pubDate>2026-06-10T15:05:38+00:00</pubDate>
+      <author>Bruno Retailleau</author>
+      <description>"Le meurtre de Lyhanna aurait dû être évité.
+
+Le peuple français est en colère. Il demande des comptes.
+
+Il est temps de répondre à cette colère en renversant la table : réhabiliter la sanction, réformer en profondeur la justice des mineurs et mettre fin au corporatisme judiciaire qui empêche toute remise en cause."
+
+Bruno Retailleau était l'invité de BFM TV ce mardi 9 juin 2026.</description>
+      <channelTitle>Bruno Retailleau</channelTitle>
+      <videoId>nzP0pW3vilk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nzP0pW3vilk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nous devons nous interroger sur l'organisation de nos collectivités territoriales | Carole Guillerm</title>
       <link>https://www.youtube.com/watch?v=jZCr8MVqrs4</link>
@@ -1695,33 +1712,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>iWUwnB2Vjhg</videoId>
       <enclosure url="https://i.ytimg.com/vi/iWUwnB2Vjhg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Peine de mort : la France doit rester abolitionniste sans exception</title>
-      <link>https://www.youtube.com/watch?v=BkWWuPZNeoo</link>
-      <guid>https://www.youtube.com/watch?v=BkWWuPZNeoo</guid>
-      <pubDate>2026-05-29T09:23:31+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>« On ne peut pas dénoncer la peine de mort en Iran et fermer les yeux lorsqu’un gouvernement allié des Occidentaux institutionnalise une justice d’exception contre les Palestiniens. »
-
-Lors de cette intervention au Conseil de Paris, Sophia Chikirou réaffirme la position abolitionniste de la France face à la peine de mort, partout dans le monde et sans exception.
-
-En s’appuyant sur le dernier rapport d’Amnesty International, elle alerte sur l’explosion du nombre d’exécutions dans le monde : en Iran, en Arabie saoudite, aux États-Unis, mais aussi sur la nouvelle loi israélienne instaurant la peine de mort contre des Palestiniens accusés de terrorisme.
-
-Face aux logiques de « justice à géométrie variable », cette prise de parole défend une position claire : les droits humains ne peuvent dépendre des alliances diplomatiques ou géopolitiques.
-
-La France doit rester fidèle à son engagement abolitionniste, sans indulgence envers aucun régime.
-
-______
-Pour suivre mes prochaines interventions : 
-Twitter : https://x.com/chikirouparis
-Instagram :   / sophia.chikirou  
-Facebook :   / sophiachikirouparis  
-TikTok :   / sophiachikirou  
-Telegram : @sophiachikirouParis</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>BkWWuPZNeoo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BkWWuPZNeoo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
