@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 10 Jun 2026 20:15:31 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 20:30:42 -0000</lastBuildDate>
+    <item>
+      <title>Sarah Knafo sur BFMTV : Nos enfants sont en danger. Les protéger est ma priorité.</title>
+      <link>https://www.youtube.com/watch?v=tGPSLgPiPyo</link>
+      <guid>https://www.youtube.com/watch?v=tGPSLgPiPyo</guid>
+      <pubDate>2026-06-10T20:07:30+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo, députée européenne Reconquête, était l’invitée de BFMTV en duplex depuis New York pour une émission spéciale consacrée à la justice.</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>tGPSLgPiPyo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/tGPSLgPiPyo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pour Marine Tondelier, "Gérald Darmanin aurait dû présenter sa démission pour Lyhanna" (BFM)</title>
       <link>https://www.youtube.com/watch?v=gMks_cf8J3M</link>
@@ -1717,29 +1728,6 @@ Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>yIBtu7BndAE</videoId>
       <enclosure url="https://i.ytimg.com/vi/yIBtu7BndAE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Introduction des journées économiques internationales de l'Institut La Boétie</title>
-      <link>https://www.youtube.com/watch?v=9MxbK3UKLAM</link>
-      <guid>https://www.youtube.com/watch?v=9MxbK3UKLAM</guid>
-      <pubDate>2026-05-30T12:35:31+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu pour introduire les journées économiques internationales de l'Institut La Boétie, le 30 mai 2026.
-
-Retrouvez l'intégralité du direct sur : https://www.youtube.com/watch?v=r8KZK70-fkQ
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>9MxbK3UKLAM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/9MxbK3UKLAM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
