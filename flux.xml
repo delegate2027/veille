@@ -4,7 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 10 Jun 2026 14:45:43 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 15:01:04 -0000</lastBuildDate>
+    <item>
+      <title>Nous devons nous interroger sur l'organisation de nos collectivités territoriales | Carole Guillerm</title>
+      <link>https://www.youtube.com/watch?v=jZCr8MVqrs4</link>
+      <guid>https://www.youtube.com/watch?v=jZCr8MVqrs4</guid>
+      <pubDate>2026-06-10T14:57:36+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Nous devons nous interroger sur l'organisation de nos collectivités territoriales | Carole Guillerm
+
+Lors des questions au gouvernement de ce mercredi 10 juin, Carole Guillerm, députée des Hauts-de-Seine, a interrogé la ministre de l’Aménagement du Territoire et de la Décentralisation sur l’organisation territoriale de la région parisienne et de l’Ile-de-France.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/carole-guillerm-nous-devons-nous-interroger-sur-lorganisation-de-nos
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>jZCr8MVqrs4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jZCr8MVqrs4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Le déficit de la Sécu n’est pas une fatalité, c’est un choix politique !</title>
       <link>https://www.youtube.com/watch?v=ECg1hUSBXXI</link>
@@ -1696,17 +1722,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>BkWWuPZNeoo</videoId>
       <enclosure url="https://i.ytimg.com/vi/BkWWuPZNeoo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>David Lisnard : « Il faut augmenter le salaire net et cotiser moins pour gagner plus »</title>
-      <link>https://www.youtube.com/watch?v=KBPuZws1Xts</link>
-      <guid>https://www.youtube.com/watch?v=KBPuZws1Xts</guid>
-      <pubDate>2026-05-29T08:40:55+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>David Lisnard était l’invité de #LaGrandeInterview de Laurence Ferrari dans #LaMatinale sur CNEWS, en partenariat avec Europe 1, mercredi 27 mai.</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>KBPuZws1Xts</videoId>
-      <enclosure url="https://i.ytimg.com/vi/KBPuZws1Xts/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
