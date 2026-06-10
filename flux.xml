@@ -4,7 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 10 Jun 2026 09:30:52 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 09:45:46 -0000</lastBuildDate>
+    <item>
+      <title>Affaire Lyhanna : Le ministre Darmanin doit démissionner ! - Alexis Corbière sur LCI</title>
+      <link>https://www.youtube.com/watch?v=XLRbConXiDg</link>
+      <guid>https://www.youtube.com/watch?v=XLRbConXiDg</guid>
+      <pubDate>2026-06-10T09:36:48+00:00</pubDate>
+      <author>Alexis Corbière</author>
+      <description>Le député Alexis Corbière était l'invité de Darius Rochebrun pour parler des moyens dont dispose la Justice.
+Le débat était face à l'ancienne ministre Marlène Schiappa et le député RN Phillipe Ballard.</description>
+      <channelTitle>Alexis Corbière</channelTitle>
+      <videoId>XLRbConXiDg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/XLRbConXiDg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Niche parlementaire socialiste au Sénat - Conférence de presse (10 juin 2026)</title>
       <link>https://www.youtube.com/watch?v=4L_0GHrvFzI</link>
@@ -1700,25 +1712,6 @@ Nos sapeurs-pompiers méritent mieux que des économies budgétaires.</descripti
       <channelTitle>DAMIEN MAUDET</channelTitle>
       <videoId>QYsNfXfo5kA</videoId>
       <enclosure url="https://i.ytimg.com/vi/QYsNfXfo5kA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mes question à Laurent Nunez : incendies, cyberattaques, attente pour un titre de séjour</title>
-      <link>https://www.youtube.com/watch?v=sXlbB4wIs9k</link>
-      <guid>https://www.youtube.com/watch?v=sXlbB4wIs9k</guid>
-      <pubDate>2026-05-28T14:03:32+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez l'audition de Laurent Nunez, ministre de l'intérieur leur du printemps de l'évaluation, le mercredi 27 mai 2026.
-
-👉Sur les incendies, le budget initial était largement insuffisant, ces 55% de surdépenses en sont la preuve l'an dernier en sont la preuve. Qu’est-ce qui nous garantit que les moyens budgétés en 2026 vont être suffisants et qu’on ne va pas faire face au même problème, qui pose à la fin des questions de sincérité budgétaire ?
-
-👉Sur la cybersécurité, Rien qu’en 2026 en l’espace de seulement 1 mois et pour parler seulement de l’Etat, deux cyberattaques majeures ont réussi contre une administration de votre propre ministère, l’Agence nationale des titres sécurisés (ANTS), et le ministère de l’éducation nationale contre EduConnect. La Cour des Comptes est assez alarmiste : elle parle d’une « ambition affichée dans le champ du numérique sans traduction dans la programmation qui fait peser un risque de décrochage des forces de sécurité intérieure ». 
-
-👉Sur la formation de la police et de la gendarmerie. L’an dernier je m’inquiétais déjà du manque de moyens dans la formation notamment contre le racisme et les discriminations. En 2025 la question de la formation est restée prégnante. 
-
-👉Sur les écarts de délais d’attente pour un titre entre les Français et les étrangers. J’interrogeais l’an dernier votre prédécesseur, chiffres à l’appui, en pointant l’inégalité et presque la discrimination qui est que en 2024 pour un Français il y a 1 à 3 semaines d’attente, pour un étranger plus de 3 à 6 mois d’attente.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>sXlbB4wIs9k</videoId>
-      <enclosure url="https://i.ytimg.com/vi/sXlbB4wIs9k/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
