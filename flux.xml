@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 10 Jun 2026 20:45:35 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 21:00:57 -0000</lastBuildDate>
+    <item>
+      <title>EN DIRECT | Je réponds à toutes les questions d'Apolline de Malherbe et de Maxime Switek sur BFMTV.</title>
+      <link>https://www.youtube.com/watch?v=XvNN8kW9yFk</link>
+      <guid>https://www.youtube.com/watch?v=XvNN8kW9yFk</guid>
+      <pubDate>2026-06-10T20:46:32+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Autorité, justice, protection des victimes, écoute de la parole des enfants, je réponds à toutes les questions d'Apolline de Malherbe et de Maxime Switek sur BFMTV.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>XvNN8kW9yFk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/XvNN8kW9yFk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Sarah Knafo sur BFMTV : Combattons le plus grand scandale pédophile français du siècle</title>
       <link>https://www.youtube.com/watch?v=tGPSLgPiPyo</link>
@@ -1715,19 +1728,6 @@ Face à la vie chère, aux logiques de guerre et à la montée de l’extrême d
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>hfF-ZWBu6_Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/hfF-ZWBu6_Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | « La force d’agir » - Suivez le grand meeting de Gabriel Attal à Paris Expo.</title>
-      <link>https://www.youtube.com/watch?v=yIBtu7BndAE</link>
-      <guid>https://www.youtube.com/watch?v=yIBtu7BndAE</guid>
-      <pubDate>2026-05-30T15:12:01+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Depuis Paris Expo Porte de Versailles, Gabriel Attal tient son premier meeting présidentiel.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>yIBtu7BndAE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/yIBtu7BndAE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
