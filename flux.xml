@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 10 Jun 2026 15:15:35 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 15:30:59 -0000</lastBuildDate>
+    <item>
+      <title>Nous n'acceptons pas de vivre dans une société où les hommes violent battent et tuent, Mélanie Vogel</title>
+      <link>https://www.youtube.com/watch?v=S_Jq7W2slkA</link>
+      <guid>https://www.youtube.com/watch?v=S_Jq7W2slkA</guid>
+      <pubDate>2026-06-10T15:25:11+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>S_Jq7W2slkA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/S_Jq7W2slkA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"Mettre fin au corporatisme judiciaire" - Bruno Retailleau</title>
       <link>https://www.youtube.com/watch?v=nzP0pW3vilk</link>
@@ -1456,17 +1467,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>Up_GY7mj_u4</videoId>
       <enclosure url="https://i.ytimg.com/vi/Up_GY7mj_u4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conclusion de notre Convention Santé Environnementale par Marine Tondelier</title>
-      <link>https://www.youtube.com/watch?v=7U6kKqS4yhA</link>
-      <guid>https://www.youtube.com/watch?v=7U6kKqS4yhA</guid>
-      <pubDate>2026-06-01T15:04:43+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Marine Tondelier, Secrétaire nationale des Écologistes</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>7U6kKqS4yhA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7U6kKqS4yhA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>⚠️ Tentatives d'obstruction sur la proposition de loi "Bétharram" ! Paul Vannier sur Ici Béarn</title>
