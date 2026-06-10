@@ -4,7 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 10 Jun 2026 13:45:39 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 14:01:05 -0000</lastBuildDate>
+    <item>
+      <title>Le déficit de la Sécu n’est pas une fatalité, c’est un choix politique !</title>
+      <link>https://www.youtube.com/watch?v=ECg1hUSBXXI</link>
+      <guid>https://www.youtube.com/watch?v=ECg1hUSBXXI</guid>
+      <pubDate>2026-06-10T13:50:24+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>🔴🗣La loi d’approbation des comptes de la Sécurité sociale 2025 a été rejetée.
+
+« Vous nous dites que la sécurité sociale est en déficit. Pourtant ce n’est pas une fatalité comptable, mais bien un choix politique. 
+Ce n’est pas lié à un défaut irréversible du modèle social français, mais bien à des choix réversibles faits par l’Etat et qu’il met au bilan de la sécurité sociale. »</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>ECg1hUSBXXI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ECg1hUSBXXI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Affaire Lyhanna : Le ministre Darmanin doit démissionner ! - Alexis Corbière sur LCI</title>
       <link>https://www.youtube.com/watch?v=XLRbConXiDg</link>
@@ -1693,25 +1707,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>David Lisnard</channelTitle>
       <videoId>KBPuZws1Xts</videoId>
       <enclosure url="https://i.ytimg.com/vi/KBPuZws1Xts/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sapeurs-pompiers : j'auditionne le Ministre de l'Intérieur</title>
-      <link>https://www.youtube.com/watch?v=QYsNfXfo5kA</link>
-      <guid>https://www.youtube.com/watch?v=QYsNfXfo5kA</guid>
-      <pubDate>2026-05-28T14:28:47+00:00</pubDate>
-      <author>DAMIEN MAUDET</author>
-      <description>Des pompiers qui donnent tout, mais un Gouvernement qui fait des économies sur leur dos.
-
-L'an dernier, nous avions alerté le Gouvernement sur des budgets trop faibles, et l'analyse de l'année 2025 nous donne raison.
-
-Et pour 2026 ? Aucune leçon n'est retenue. Alors que nous avons essuyé l'an dernier des incendies colossaux, notamment le plus grand depuis les années 50, le Gouvernement prévoit de moins dépenser pour 2026.
-
-Alors que notre pays connaît des vagues de chaleur historiques et que les mégafeux deviennent une menace durable, nous devons faire exactement l’inverse : investir davantage, moderniser nos équipements et soutenir pleinement celles et ceux qui nous protègent.
-
-Nos sapeurs-pompiers méritent mieux que des économies budgétaires.</description>
-      <channelTitle>DAMIEN MAUDET</channelTitle>
-      <videoId>QYsNfXfo5kA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QYsNfXfo5kA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
