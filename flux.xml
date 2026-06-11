@@ -4,7 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 11 Jun 2026 09:15:31 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:30:51 -0000</lastBuildDate>
+    <item>
+      <title>ArcelorMittal : Édouard Bénard appelle l'Assemblée à voter la nationalisation</title>
+      <link>https://www.youtube.com/watch?v=sCyFRd0mMaM</link>
+      <guid>https://www.youtube.com/watch?v=sCyFRd0mMaM</guid>
+      <pubDate>2026-06-11T09:28:47+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>À l'occasion de la niche parlementaire du groupe GDR à l'Assemblée nationale, le député communiste Édouard Bénard défend la proposition de loi visant à nationaliser les sites français d'ArcelorMittal.
+
+Emploi, industrie, décarbonation, souveraineté : il appelle les députés à reprendre le contrôle d'un secteur stratégique pour l'avenir du pays.</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>sCyFRd0mMaM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/sCyFRd0mMaM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EN DIRECT | Je réponds à toutes les questions d'Apolline de Malherbe et de Maxime Switek sur BFMTV.</title>
+      <link>https://www.youtube.com/watch?v=XvNN8kW9yFk</link>
+      <guid>https://www.youtube.com/watch?v=XvNN8kW9yFk</guid>
+      <pubDate>2026-06-11T09:22:51+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Autorité, justice, protection des victimes, écoute de la parole des enfants, je réponds à toutes les questions d'Apolline de Malherbe et de Maxime Switek sur BFMTV.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>XvNN8kW9yFk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/XvNN8kW9yFk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"On peut travailler toute sa vie et être pauvre à la retraite" | Intervention de Sandrine Rousseau</title>
       <link>https://www.youtube.com/watch?v=Y269gxA7qBg</link>
@@ -120,19 +146,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>SD1DTSjKbs0</videoId>
       <enclosure url="https://i.ytimg.com/vi/SD1DTSjKbs0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Je réponds à toutes les questions d'Apolline de Malherbe et de Maxime Switek sur BFMTV.</title>
-      <link>https://www.youtube.com/watch?v=XvNN8kW9yFk</link>
-      <guid>https://www.youtube.com/watch?v=XvNN8kW9yFk</guid>
-      <pubDate>2026-06-10T20:46:32+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Autorité, justice, protection des victimes, écoute de la parole des enfants, je réponds à toutes les questions d'Apolline de Malherbe et de Maxime Switek sur BFMTV.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>XvNN8kW9yFk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/XvNN8kW9yFk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Sarah Knafo sur BFMTV : Combattons le plus grand scandale pédophile français du siècle</title>
@@ -1701,17 +1714,6 @@ Pinterest : https://www.pinterest.fr/zemmoureric/</description>
       <channelTitle>Éric Zemmour</channelTitle>
       <videoId>6WO3I0bkfIw</videoId>
       <enclosure url="https://i.ytimg.com/vi/6WO3I0bkfIw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj En Toute Franchise face à Elisabeth Martichoux - LCI</title>
-      <link>https://www.youtube.com/watch?v=HPfg9hozxdk</link>
-      <guid>https://www.youtube.com/watch?v=HPfg9hozxdk</guid>
-      <pubDate>2026-05-31T15:41:52+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>HPfg9hozxdk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HPfg9hozxdk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
