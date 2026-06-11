@@ -4,7 +4,31 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 11 Jun 2026 15:15:48 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 15:31:07 -0000</lastBuildDate>
+    <item>
+      <title>Il existe des drames qui dépassent les faits divers.</title>
+      <link>https://www.youtube.com/watch?v=b-craoKTXis</link>
+      <guid>https://www.youtube.com/watch?v=b-craoKTXis</guid>
+      <pubDate>2026-06-11T15:16:18+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Nous refusons que, dans notre pays, des parents puissent avoir le sentiment que l’État ne protège plus leurs enfants.
+ 
+La première mission de l’État est pourtant simple : protéger les siens. Protéger les innocents. Protéger les honnêtes gens. Protéger les enfants face aux prédateurs.
+ 
+Cette exigence impose une rupture profonde avec des décennies de laxisme pénal et d’impuissance administrative. Nous devons cette réforme à Lyhanna. Nous la devons à toutes les familles brisées par la violence.
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>b-craoKTXis</videoId>
+      <enclosure url="https://i.ytimg.com/vi/b-craoKTXis/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY : « Le mensonge, ça commence à bien faire ! » (BFMTV)</title>
       <link>https://www.youtube.com/watch?v=UGl6jflTyNw</link>
@@ -1676,17 +1700,6 @@ Pinterest : https://www.pinterest.fr/zemmoureric/</description>
       <channelTitle>Éric Zemmour</channelTitle>
       <videoId>6WO3I0bkfIw</videoId>
       <enclosure url="https://i.ytimg.com/vi/6WO3I0bkfIw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj En Toute Franchise face à Elisabeth Martichoux - LCI</title>
-      <link>https://www.youtube.com/watch?v=HPfg9hozxdk</link>
-      <guid>https://www.youtube.com/watch?v=HPfg9hozxdk</guid>
-      <pubDate>2026-05-31T15:41:52+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>HPfg9hozxdk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HPfg9hozxdk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
