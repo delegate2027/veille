@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 11 Jun 2026 15:45:41 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 16:01:04 -0000</lastBuildDate>
+    <item>
+      <title>"L’algorithme de Twitter est une ingérence étrangère." (Marine Tondelier et Guillaume Gontard)</title>
+      <link>https://www.youtube.com/watch?v=zYabSIyfdng</link>
+      <guid>https://www.youtube.com/watch?v=zYabSIyfdng</guid>
+      <pubDate>2026-06-11T15:53:42+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Une réunion extraordinaire s’est tenue ce jeudi 11 juin  à Matignon, réunissant les différentes forces politiques et le Premier ministre, Sébastien Lecornu.
+
+À l’issue de cet échange, réaction de la délégation écologiste composé de Marine Tondelier, Secrétaire nationale et Guillaume Gontard, Président du groupe Écologiste - Solidarité et Territoires au Sénat.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>zYabSIyfdng</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zYabSIyfdng/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Il existe des drames qui dépassent les faits divers.</title>
       <link>https://www.youtube.com/watch?v=b-craoKTXis</link>
@@ -1409,17 +1422,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>PrxH8Ws5AZw</videoId>
       <enclosure url="https://i.ytimg.com/vi/PrxH8Ws5AZw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Pouria Amirshahi: "À chaque fête populaire quelques images suffisent à condamner toute une jeunesse"</title>
-      <link>https://www.youtube.com/watch?v=fceEU3Hfyas</link>
-      <guid>https://www.youtube.com/watch?v=fceEU3Hfyas</guid>
-      <pubDate>2026-06-02T15:13:49+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>fceEU3Hfyas</videoId>
-      <enclosure url="https://i.ytimg.com/vi/fceEU3Hfyas/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>La France n'a pas simplement participé à l'histoire de la thérapie génique | Nicolas Turquois</title>
