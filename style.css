@@ -1,31 +1,25 @@
 :root {
   --bg:     #F9F5F0;
   --card:   #FAF7F2;
-  --text:   #2C2C2C3;
+  --text:   #2C2C2C;
   --muted:  #ffffff;
-  --border: #2C2C2C3;
+  --border: #2C2C2C;
 
   --meeting:    #FAF7F2;
   --meeting-bg: #FAF7F2;
 
   --lfi:    #EBEBEB;
   --lfi-bg: #FAF7F2;
-
   --eelv:    #EBEBEB;
   --eelv-bg: #FAF7F2;
-
   --ps:    #EBEBEB;
   --ps-bg: #FAF7F2;
-
   --centre:    #EBEBEB;
   --centre-bg: #FAF7F2;
-
   --ed:    #EBEBEB;
   --ed-bg: #FAF7F2;
-
   --lr:    #EBEBEB;
   --lr-bg: #FAF7F2;
-
   --pcf:    #EBEBEB;
   --pcf-bg: #FAF7F2;
 }
@@ -159,7 +153,7 @@ footer {
 }
 
 .author {
-  font-size:      14px;
+  font-size:      16px;
   font-weight:    600;
   text-transform: uppercase;
   padding:        0px 6px;
