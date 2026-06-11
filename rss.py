@@ -1,9 +1,3 @@
-# =============================================================================
-# rss.py — Agrégateur de flux RSS YouTube
-# Récupère les vidéos des chaînes politiques françaises,
-# filtre les Shorts et génère un fichier flux.xml consolidé.
-# =============================================================================
-
 import feedparser
 import xml.etree.ElementTree as ET
 
@@ -25,8 +19,7 @@ MAX_ENTRIES_PER_FEED = 10
 
 
 # =============================================================================
-# Sources RSS — classées par groupe politique
-# Chaque entrée est l'URL du flux RSS YouTube d'une chaîne
+# Sources RSS 
 # =============================================================================
 
 FEEDS = {
@@ -175,8 +168,7 @@ def get_entries(feed_url):
     """
     try:
         parsed = feedparser.parse(feed_url)
-
-        # feedparser ne lève pas d'exception mais pose bozo=True si le flux est invalide
+        
         if parsed.bozo and not parsed.entries:
             print(f"Flux invalide ou inaccessible : {feed_url}")
             return []
@@ -185,7 +177,7 @@ def get_entries(feed_url):
             parsed.entries,
             key=lambda x: x.get(
                 "published_parsed",
-                datetime.now(timezone.utc).timetuple()  # fallback : date courante si absente
+                datetime.now(timezone.utc).timetuple() 
             ),
             reverse=True
         )[:MAX_ENTRIES_PER_FEED]
