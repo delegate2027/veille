@@ -1,6 +1,6 @@
 # 📺 Veille médiatique politique
 
-Un agrégateur de flux RSS YouTube regroupant les vidéos des principales formations et personnalités politiques françaises, avec mise à jour automatique via GitHub Actions/cron-job.org
+Un agrégateur de flux RSS YouTube regroupant les vidéos des principales formations et personnalités politiques françaises, avec mise à jour automatique via GitHub Actions
 
 ---
 
