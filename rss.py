@@ -6,11 +6,6 @@ from email.utils import formatdate
 import re
 from pathlib import Path
 
-
-# =============================================================================
-# Configuration globale
-# =============================================================================
-
 # Fichier de sortie XML généré par ce script
 OUTPUT_FILE = "flux.xml"
 
