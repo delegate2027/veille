@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 11 Jun 2026 07:30:46 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 07:45:35 -0000</lastBuildDate>
+    <item>
+      <title>SÉBASTIEN CHENU : « La justice est en train de s'écrouler sous nos yeux » (France 2)</title>
+      <link>https://www.youtube.com/watch?v=wmjvl4TkNmU</link>
+      <guid>https://www.youtube.com/watch?v=wmjvl4TkNmU</guid>
+      <pubDate>2026-06-11T07:34:41+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>wmjvl4TkNmU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/wmjvl4TkNmU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Couvre-feu ou fan-zone : le maire de Toulouse a choisi</title>
       <link>https://www.youtube.com/watch?v=AZsCzwk51nk</link>
@@ -596,17 +607,6 @@ Abonnez-vous !</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>jiL5vXpWuWU</videoId>
       <enclosure url="https://i.ytimg.com/vi/jiL5vXpWuWU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JULIEN ODOUL : « La Justice ne protège plus nos enfants ! » (CNEWS)</title>
-      <link>https://www.youtube.com/watch?v=rYTTA9NyF2M</link>
-      <guid>https://www.youtube.com/watch?v=rYTTA9NyF2M</guid>
-      <pubDate>2026-06-09T07:43:01+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>rYTTA9NyF2M</videoId>
-      <enclosure url="https://i.ytimg.com/vi/rYTTA9NyF2M/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Présidentielles 2027 : François Ruffin invité de la matinale de TF1</title>
