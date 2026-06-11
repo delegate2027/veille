@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 11 Jun 2026 03:45:25 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:00:57 -0000</lastBuildDate>
+    <item>
+      <title>Sarah Knafo sur BFMTV : Combattons le plus grand scandale pédophile français du siècle</title>
+      <link>https://www.youtube.com/watch?v=tGPSLgPiPyo</link>
+      <guid>https://www.youtube.com/watch?v=tGPSLgPiPyo</guid>
+      <pubDate>2026-06-10T20:07:30+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo, députée européenne Reconquête, était l’invitée de BFMTV en duplex depuis New York pour une émission spéciale consacrée à la justice.</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>tGPSLgPiPyo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/tGPSLgPiPyo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"Mettre fin au corporatisme judiciaire" - Bruno Retailleau</title>
       <link>https://www.youtube.com/watch?v=nzP0pW3vilk</link>
@@ -34,6 +45,28 @@ Merci aux Jeunes Agriculteurs pour leur invitation.</description>
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>PQoHMeLbxas</videoId>
       <enclosure url="https://i.ytimg.com/vi/PQoHMeLbxas/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sarah Knafo : CLASH avec le commissaire européen à l'énergie ⚡️</title>
+      <link>https://www.youtube.com/watch?v=560rrvBIUSg</link>
+      <guid>https://www.youtube.com/watch?v=560rrvBIUSg</guid>
+      <pubDate>2026-06-05T10:00:36+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo est députée européenne Reconquête.</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>560rrvBIUSg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/560rrvBIUSg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Les supportes du chaos doivent dormir en prison !</title>
+      <link>https://www.youtube.com/watch?v=i7uh6iOBhNc</link>
+      <guid>https://www.youtube.com/watch?v=i7uh6iOBhNc</guid>
+      <pubDate>2026-06-04T20:24:04+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo, députée européenne de Reconquête!, était l’invitée de LCI pour parler de la justice en France.</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>i7uh6iOBhNc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/i7uh6iOBhNc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>"Les zones d’émeutes correspondent aux zones d’immigration importante" - Bruno Retailleau</title>
