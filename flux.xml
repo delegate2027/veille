@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 11 Jun 2026 08:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:01:00 -0000</lastBuildDate>
+    <item>
+      <title>"On peut travailler toute sa vie et être pauvre à la retraite" | Intervention de Sandrine Rousseau</title>
+      <link>https://www.youtube.com/watch?v=Y269gxA7qBg</link>
+      <guid>https://www.youtube.com/watch?v=Y269gxA7qBg</guid>
+      <pubDate>2026-06-11T08:36:58+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description>Intervention en soutien à une proposition de loi visant à renforcer la solidarité envers les retraités les plus pauvres</description>
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>Y269gxA7qBg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Y269gxA7qBg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SÉBASTIEN CHENU : « La justice est en train de s'écrouler sous nos yeux » (France 2)</title>
       <link>https://www.youtube.com/watch?v=wmjvl4TkNmU</link>
@@ -1701,23 +1712,6 @@ Pinterest : https://www.pinterest.fr/zemmoureric/</description>
       <channelTitle>Jérôme Guedj</channelTitle>
       <videoId>HPfg9hozxdk</videoId>
       <enclosure url="https://i.ytimg.com/vi/HPfg9hozxdk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face cam' #4 : Trompe-l’œil, racisme et ambulance.</title>
-      <link>https://www.youtube.com/watch?v=b3fgUsWRhxY</link>
-      <guid>https://www.youtube.com/watch?v=b3fgUsWRhxY</guid>
-      <pubDate>2026-05-31T15:23:43+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Faites rager les gens de droite ! : 00:00 
-Le SMIC : Une augmentation en trompe l'oeil ? : 00:41
-Déferlement de racisme en France, et impérialisme décomplexé à l'international : 9:10
-Les ambulanciers de Toulouse en lutte : 16:07
-
-Pour soutenir la caisse de gréve des ambulanciers c'est ici : 
-https://www.leetchi.com/fr/c/soutien-aux-ambulanciers-du-chu-de-toulouse-stop-a-linjustice-3865888?</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>b3fgUsWRhxY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/b3fgUsWRhxY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
