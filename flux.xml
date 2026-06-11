@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 11 Jun 2026 14:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 14:15:38 -0000</lastBuildDate>
+    <item>
+      <title>Affaire Lyhanna, violences sur les enfants : Sandrine Rousseau était l'invitée de BFM le 5/06</title>
+      <link>https://www.youtube.com/watch?v=9Awd4p6-LY0</link>
+      <guid>https://www.youtube.com/watch?v=9Awd4p6-LY0</guid>
+      <pubDate>2026-06-11T14:06:04+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description />
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>9Awd4p6-LY0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/9Awd4p6-LY0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Le Grand Oral de David Lisnard par Michaël Darmon sur I24 News</title>
       <link>https://www.youtube.com/watch?v=XR7cwQgaX68</link>
@@ -830,17 +841,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>PzR2X5rNnNw</videoId>
       <enclosure url="https://i.ytimg.com/vi/PzR2X5rNnNw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mort de Lyhanna : Parler de « dysfonctionnement » c’est se tromper de diagnostic | Sandrine Rousseau</title>
-      <link>https://www.youtube.com/watch?v=NQA7-XztGxk</link>
-      <guid>https://www.youtube.com/watch?v=NQA7-XztGxk</guid>
-      <pubDate>2026-06-08T06:41:08+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description />
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>NQA7-XztGxk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/NQA7-XztGxk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>C'est une immense démonstration de force !</title>
