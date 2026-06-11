@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 11 Jun 2026 12:30:48 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:45:47 -0000</lastBuildDate>
+    <item>
+      <title>Le Grand Oral de David Lisnard par Michaël Darmon sur I24 News</title>
+      <link>https://www.youtube.com/watch?v=XR7cwQgaX68</link>
+      <guid>https://www.youtube.com/watch?v=XR7cwQgaX68</guid>
+      <pubDate>2026-06-11T12:27:09+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>David Lisnard était l’invité de Michaël Darmon dans Le Grand Oral, mardi 9 juin 2026.</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>XR7cwQgaX68</videoId>
+      <enclosure url="https://i.ytimg.com/vi/XR7cwQgaX68/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Arcelor Mittal : L'heure est venue, il faut nationaliser</title>
       <link>https://www.youtube.com/watch?v=sJtJiKEUp0U</link>
@@ -909,17 +920,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>David Lisnard</channelTitle>
       <videoId>O3TgvCU40qE</videoId>
       <enclosure url="https://i.ytimg.com/vi/O3TgvCU40qE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Débat 2027 : David Lisnard face à Édouard Philippe</title>
-      <link>https://www.youtube.com/watch?v=KOKJ1vqJWmU</link>
-      <guid>https://www.youtube.com/watch?v=KOKJ1vqJWmU</guid>
-      <pubDate>2026-06-06T14:50:00+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>Le duel @david_lisnard / Édouard Philippe, organisé et modéré par Florence Portelli.</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>KOKJ1vqJWmU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/KOKJ1vqJWmU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mélenchon : pourquoi il écrase le match de 2027</title>
