@@ -132,7 +132,7 @@ footer {
 
 .item {
   padding:       10px 10px;
-  border:        1px solid;
+  border:        2px solid;
   transition:    all 0.25s ease;
   overflow:      hidden;
   background:    var(--card);
