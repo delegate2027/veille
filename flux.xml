@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 12 Jun 2026 17:00:55 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 17:15:39 -0000</lastBuildDate>
+    <item>
+      <title>Affaires maritimes : le grand décalage entre discours et actes du gouvernement</title>
+      <link>https://www.youtube.com/watch?v=5O31Akwbq2k</link>
+      <guid>https://www.youtube.com/watch?v=5O31Akwbq2k</guid>
+      <pubDate>2026-06-12T17:00:36+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>🔴⚓️Le gouvernement affiche de grandes ambitions pour la mer. Mais comment passer des discours aux actes quand les budgets diminuent ?
+
+Lors de son audition, la ministre déléguée chargée de la Mer et de la Pêche,  Catherine Chabaud a reconnu que les moyens actuels atteignent leurs limites pour garantir la sécurité maritime, accompagner les pêcheurs et préparer l'avenir du secteur. Je l'ai interrogée sur ce décalage.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>5O31Akwbq2k</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5O31Akwbq2k/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>« L’égalité d’accès aux soins est compromise dans les territoires ultramarins » | Sandrine Rousseau</title>
       <link>https://www.youtube.com/watch?v=G2n8a0FUDUw</link>
@@ -1646,28 +1659,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>sLUdpHkSehg</videoId>
       <enclosure url="https://i.ytimg.com/vi/sLUdpHkSehg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rétablissons l'ordre et l'autorité de l'État !</title>
-      <link>https://www.youtube.com/watch?v=Up_GY7mj_u4</link>
-      <guid>https://www.youtube.com/watch?v=Up_GY7mj_u4</guid>
-      <pubDate>2026-06-01T16:01:53+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>La France est devenue ce pays où la vie et la fête sont rendues impossibles, où chaque évènement populaire est sali par des prédateurs qui ne respectent aucune des règles communes.
-
-Il est temps que l'ordre et l'autorité de l’État soient rétablis. Il est temps que la France redevienne une Nation fière et fraternelle où il fait à nouveau bon vivre.
-
-Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>Up_GY7mj_u4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Up_GY7mj_u4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
