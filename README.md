@@ -9,9 +9,9 @@ Un agrégateur de flux RSS regroupant les vidéos des principales formations et 
 ```
 .
 ├── rss.py                         # Script Python d'agrégation RSS
-├── flux.xml                       # Flux agrégé généré automatiquement
+├── flux.xml                       # Flux agrégé généré
 ├── index.html                     # Page web principale
-├── script.js                      # Rendu des vidéos
+├── script.js                      # Rendu des textes & vidéos
 ├── style.css                      # Styles de la page
 ├── requirements.txt               # Dépendances Python (feedparser)
 ├── meetings.xml                   # (optionnel) Événements locaux manuels
