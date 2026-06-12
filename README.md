@@ -3,19 +3,3 @@
 Un agrégateur de flux RSS regroupant les vidéos des principales formations et personnalités politiques françaises, avec mise à jour automatique via GitHub Actions & [cron-job.org](https://cron-job.org/en/)
 
 ---
-
-## Structure du projet
-
-```
-.
-├── rss.py                         # Script Python d'agrégation RSS
-├── flux.xml                       # Flux agrégé généré
-├── index.html                     # Page web principale
-├── script.js                      # Rendu des textes & vidéos
-├── style.css                      # Styles de la page
-├── requirements.txt               # Dépendances Python (feedparser)
-├── meetings.xml                   # (optionnel) Événements locaux manuels
-├── favicon/                       # Icônes du site
-└── .github/workflows/
-    └── update-rss.yml             # Workflow de mise à jour
-```
