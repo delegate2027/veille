@@ -11,11 +11,11 @@ Un agrégateur de flux RSS regroupant les vidéos des principales formations et 
 ├── rss.py                         # Script Python d'agrégation RSS
 ├── flux.xml                       # Flux agrégé généré automatiquement
 ├── index.html                     # Page web principale
-├── script.js                      # Rendu des vidéos côté client
+├── script.js                      # Rendu des vidéos
 ├── style.css                      # Styles de la page
 ├── requirements.txt               # Dépendances Python (feedparser)
 ├── meetings.xml                   # (optionnel) Événements locaux manuels
 ├── favicon/                       # Icônes du site
 └── .github/workflows/
-    └── update-rss.yml             # Workflow GitHub Actions de mise à jour
+    └── update-rss.yml             # Workflow de mise à jour
 ```
