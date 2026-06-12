@@ -4,7 +4,36 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 12 Jun 2026 16:01:01 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 16:15:39 -0000</lastBuildDate>
+    <item>
+      <title>« L’égalité d’accès aux soins est compromise dans les territoires ultramarins » | Sandrine Rousseau</title>
+      <link>https://www.youtube.com/watch?v=G2n8a0FUDUw</link>
+      <guid>https://www.youtube.com/watch?v=G2n8a0FUDUw</guid>
+      <pubDate>2026-06-12T16:11:21+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description>Intervention de soutien à la proposition de loi" Égalité d’accès aux soins des ressortissants ultramarins en hexagone" proposée par Mereana Reid Arbelot</description>
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>G2n8a0FUDUw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/G2n8a0FUDUw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Un peuple qui ne décide plus de sa politique d’immigration n’est plus un peuple souverain !</title>
+      <link>https://www.youtube.com/watch?v=_xgHcsOodTw</link>
+      <guid>https://www.youtube.com/watch?v=_xgHcsOodTw</guid>
+      <pubDate>2026-06-12T16:11:19+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>_xgHcsOodTw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_xgHcsOodTw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pour que vive la France !</title>
       <link>https://www.youtube.com/watch?v=FecQ-3gEGTY</link>
@@ -911,17 +940,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <enclosure url="https://i.ytimg.com/vi/ZJ9YzQlW5bY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Violences sexuelles sur les enfants : il faut des moyens et des changements majeurs dans la Justice</title>
-      <link>https://www.youtube.com/watch?v=qG8mCI_oVVQ</link>
-      <guid>https://www.youtube.com/watch?v=qG8mCI_oVVQ</guid>
-      <pubDate>2026-06-08T09:45:24+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description>Sandrine Rousseau sur l'Affaire #Lyhanna</description>
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>qG8mCI_oVVQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qG8mCI_oVVQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>«Je crois que ce serait normal que les magistrats ne puissent pas se syndiquer» - FX Bellamy sur TF1</title>
       <link>https://www.youtube.com/watch?v=Fd11m8K278E</link>
       <guid>https://www.youtube.com/watch?v=Fd11m8K278E</guid>
@@ -1650,24 +1668,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>Up_GY7mj_u4</videoId>
       <enclosure url="https://i.ytimg.com/vi/Up_GY7mj_u4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella sur BFMTV : « La France devient un pays où la vie et la fête sont impossibles ! »</title>
-      <link>https://www.youtube.com/watch?v=0AugplxAQ0U</link>
-      <guid>https://www.youtube.com/watch?v=0AugplxAQ0U</guid>
-      <pubDate>2026-06-01T07:23:49+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>0AugplxAQ0U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0AugplxAQ0U/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
