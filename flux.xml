@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 13 Jun 2026 07:45:30 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 08:02:00 -0000</lastBuildDate>
+    <item>
+      <title>ALEKSANDAR NIKOLIC : « On traite seulement 1 % des signalements pédocriminels » (Europe 1)</title>
+      <link>https://www.youtube.com/watch?v=92NP55pdW2c</link>
+      <guid>https://www.youtube.com/watch?v=92NP55pdW2c</guid>
+      <pubDate>2026-06-13T07:51:50+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>92NP55pdW2c</videoId>
+      <enclosure url="https://i.ytimg.com/vi/92NP55pdW2c/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ALEKSANDAR NIKOLIC : « Il faut une perpétuité réelle pour les crimes pédocriminels » (France Info)</title>
       <link>https://www.youtube.com/watch?v=O-1ZB0I1aMM</link>
@@ -1645,36 +1656,6 @@ Abonnez-vous !</description>
       <channelTitle>Laurent Wauquiez</channelTitle>
       <videoId>Z50xZSo3-4s</videoId>
       <enclosure url="https://i.ytimg.com/vi/Z50xZSo3-4s/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Éric Zemmour sur BFMTV : Nous mettrons en place l’immigration négative !</title>
-      <link>https://www.youtube.com/watch?v=2yZrT4jEEGw</link>
-      <guid>https://www.youtube.com/watch?v=2yZrT4jEEGw</guid>
-      <pubDate>2026-06-01T18:50:20+00:00</pubDate>
-      <author>Éric Zemmour</author>
-      <description>Éric Zemmour, président de Reconquête, était l'invité de BFMTV ce lundi 1er juin.
-
-1️⃣ Likez la vidéo, Abonnez-vous à ma chaîne YouTube en cliquant sur le bouton « s'abonner » et sur la cloche grise. Partagez cette vidéo à tous vos proches !
-2️⃣ Adhérez à RECONQUÊTE : https://www.parti-reconquete.fr/adhesions
-3️⃣ Faites un don : https://don.zemmour2022.fr/
-4️⃣ Suivez Éric Zemmour : https://www.zemmour2022.fr/jeminforme
-5️⃣ Recevez mes informations en avant-première : https://www.zemmour2022.fr/
-
-#EricZemmour #Villepinte #Presidentielle
-
-Restez connecté avec moi sur les Réseaux Sociaux :
-Facebook : https://www.facebook.com/ZemmourEric
-Twitter : https://twitter.com/ZemmourEric
-Instagram : https://www.instagram.com/ericzemmour_/
-LinkedIn : https://www.linkedin.com/in/eric-zemmour/
-Dailymotion : https://www.dailymotion.com/Eric-Zemmour
-Telegram : https://t.me/EricZemmourOfficiel
-TikTok : https://www.tiktok.com/@zemmour_eric
-Gettr : https://www.gettr.com/user/zemmoureric
-Pinterest : https://www.pinterest.fr/zemmoureric/</description>
-      <channelTitle>Éric Zemmour</channelTitle>
-      <videoId>2yZrT4jEEGw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/2yZrT4jEEGw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
