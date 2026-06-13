@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 13 Jun 2026 12:45:43 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 13:01:01 -0000</lastBuildDate>
     <item>
       <title>Jordan Bardella à Bruxelles : « L'affaire Lyhanna est d'une particulière gravité ! »</title>
       <link>https://www.youtube.com/watch?v=VUDv99WV73I</link>
@@ -336,17 +336,6 @@ Il serait irresponsable de laisser la loi du profit organiser le désarmement in
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>sJtJiKEUp0U</videoId>
       <enclosure url="https://i.ytimg.com/vi/sJtJiKEUp0U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EDWIGE DIAZ : « Les macronistes sont tétanisés face à l’extrême gauche » (Europe 1)</title>
-      <link>https://www.youtube.com/watch?v=QOlHsAoA-3I</link>
-      <guid>https://www.youtube.com/watch?v=QOlHsAoA-3I</guid>
-      <pubDate>2026-06-11T10:11:57+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>QOlHsAoA-3I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QOlHsAoA-3I/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>« L’impunité en matière de viol dans notre pays est massive. » Céline Thiébault-Martinez</title>
@@ -1665,6 +1654,17 @@ Abonnez-vous !</description>
       <channelTitle>François-Xavier Bellamy</channelTitle>
       <videoId>YSBT3Um01r0</videoId>
       <enclosure url="https://i.ytimg.com/vi/YSBT3Um01r0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bonjour ! La Matinale TF1, mardi 2 juin 2026 | Laurent Wauquiez</title>
+      <link>https://www.youtube.com/watch?v=Z50xZSo3-4s</link>
+      <guid>https://www.youtube.com/watch?v=Z50xZSo3-4s</guid>
+      <pubDate>2026-06-02T06:14:52+00:00</pubDate>
+      <author>Laurent Wauquiez</author>
+      <description>Violences urbaines, politique pénale, présidentielle, rassemblement de la droite… J’étais l’invité de Bastien Augey dans l’émission Bonjour La Matinale sur TF1 ce mardi 2 juin 2026. Retrouvez l'intégralité de mon interview.</description>
+      <channelTitle>Laurent Wauquiez</channelTitle>
+      <videoId>Z50xZSo3-4s</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Z50xZSo3-4s/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
