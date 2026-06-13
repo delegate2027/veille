@@ -4,7 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 13 Jun 2026 10:01:01 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 10:15:29 -0000</lastBuildDate>
+    <item>
+      <title>Jordan Bardella à Bruxelles : « L'affaire Lyhanna est d'une particulière gravité ! »</title>
+      <link>https://www.youtube.com/watch?v=VUDv99WV73I</link>
+      <guid>https://www.youtube.com/watch?v=VUDv99WV73I</guid>
+      <pubDate>2026-06-13T10:00:36+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Retrouvez la conférence de presse réalisé à Bruxelles lors de la visite auprès de nos alliés du Vlaams Belang.
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>VUDv99WV73I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/VUDv99WV73I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ALEKSANDAR NIKOLIC : « On traite seulement 1 % des signalements pédocriminels » (Europe 1)</title>
       <link>https://www.youtube.com/watch?v=92NP55pdW2c</link>
@@ -1645,17 +1665,6 @@ Abonnez-vous !</description>
       <channelTitle>François-Xavier Bellamy</channelTitle>
       <videoId>YSBT3Um01r0</videoId>
       <enclosure url="https://i.ytimg.com/vi/YSBT3Um01r0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bonjour ! La Matinale TF1, mardi 2 juin 2026 | Laurent Wauquiez</title>
-      <link>https://www.youtube.com/watch?v=Z50xZSo3-4s</link>
-      <guid>https://www.youtube.com/watch?v=Z50xZSo3-4s</guid>
-      <pubDate>2026-06-02T06:14:52+00:00</pubDate>
-      <author>Laurent Wauquiez</author>
-      <description>Violences urbaines, politique pénale, présidentielle, rassemblement de la droite… J’étais l’invité de Bastien Augey dans l’émission Bonjour La Matinale sur TF1 ce mardi 2 juin 2026. Retrouvez l'intégralité de mon interview.</description>
-      <channelTitle>Laurent Wauquiez</channelTitle>
-      <videoId>Z50xZSo3-4s</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Z50xZSo3-4s/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
