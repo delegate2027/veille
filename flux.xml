@@ -4,7 +4,45 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 13 Jun 2026 16:45:29 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 17:01:00 -0000</lastBuildDate>
+    <item>
+      <title>Aurore Bergé dans les 4V sur Télématin - 9 juin 2026</title>
+      <link>https://www.youtube.com/watch?v=IFoPMt7HO6k</link>
+      <guid>https://www.youtube.com/watch?v=IFoPMt7HO6k</guid>
+      <pubDate>2026-06-13T16:55:40+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description>Aurore Bergé dans les 4V sur Télématin - 9 juin 2026
+
+Vous pouvez me suivre sur : 
+Mon site : https://www.auroreberge.fr 
+Facebook :  auroreberge    
+Twitter : auroreberge   
+Instagram :  auroreberge.fr
+Telegram : https://t.me/Aurore_Berge
+TikTok : aurore_berge</description>
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>IFoPMt7HO6k</videoId>
+      <enclosure url="https://i.ytimg.com/vi/IFoPMt7HO6k/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Aurore Bergé sur Public Sénat - 28 mai 2026</title>
+      <link>https://www.youtube.com/watch?v=0Hrl5LwrRss</link>
+      <guid>https://www.youtube.com/watch?v=0Hrl5LwrRss</guid>
+      <pubDate>2026-06-13T16:47:41+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description>Aurore Bergé sur Public Sénat - 28 mai 2026
+
+Vous pouvez me suivre sur : 
+Mon site : https://www.auroreberge.fr 
+Facebook :  auroreberge    
+Twitter : auroreberge   
+Instagram :  auroreberge.fr
+Telegram : https://t.me/Aurore_Berge
+TikTok : aurore_berge</description>
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>0Hrl5LwrRss</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0Hrl5LwrRss/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Aurore Bergé sur RTL - 21 mai 2026</title>
       <link>https://www.youtube.com/watch?v=9xsVpD669y4</link>
@@ -1648,40 +1686,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>k5RD4LlP1aQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/k5RD4LlP1aQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Victoire du PSG, présidentielles, Nouvelle France : Manuel Bompard, invité des Grandes Gueules !</title>
-      <link>https://www.youtube.com/watch?v=gTUYsD1_FDE</link>
-      <guid>https://www.youtube.com/watch?v=gTUYsD1_FDE</guid>
-      <pubDate>2026-06-02T10:49:54+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage dans les Grandes Gueules sur RMC et RMC Story du mardi 2 juin 2026.
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>gTUYsD1_FDE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gTUYsD1_FDE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présidentielles 2027 : François Ruffin invité du 8:30 de France Info</title>
-      <link>https://www.youtube.com/watch?v=ecsLusDE_Sc</link>
-      <guid>https://www.youtube.com/watch?v=ecsLusDE_Sc</guid>
-      <pubDate>2026-06-02T10:45:14+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>➡️ Soutenez François Ruffin : nouspresident.fr
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>ecsLusDE_Sc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ecsLusDE_Sc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
