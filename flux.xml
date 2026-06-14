@@ -4,7 +4,40 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 14 Jun 2026 12:30:43 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 12:45:53 -0000</lastBuildDate>
+    <item>
+      <title>Marine Le Pen, invitée de Dimanche en Politique sur France 3</title>
+      <link>https://www.youtube.com/watch?v=7ckSh9Q-8LA</link>
+      <guid>https://www.youtube.com/watch?v=7ckSh9Q-8LA</guid>
+      <pubDate>2026-06-14T12:35:40+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Dans l'affaire du drame de Lyhanna, il y a avant tout une responsabilité du politique.
+
+Il faut une grande refondation de la Justice, tous les sujets doivent être revus - et notamment la réforme de la police judiciaire de Gérald Darmanin qui est une catastrophe - en raison de la faillite de l'État et de l'institution judiciaire.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>7ckSh9Q-8LA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7ckSh9Q-8LA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Jordan Bardella sur VRT : « Nous sommes des partisans de la tolérance zéro ! »</title>
+      <link>https://www.youtube.com/watch?v=K8Vz1TwvPeE</link>
+      <guid>https://www.youtube.com/watch?v=K8Vz1TwvPeE</guid>
+      <pubDate>2026-06-14T12:33:44+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Retrouvez mon entretien accordé à la VRT lors de mon déplacement à Bruxelles.
+
+Suivez-moi sur mes réseaux sociaux !
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>K8Vz1TwvPeE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/K8Vz1TwvPeE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Affaire Lyhanna, présidentielle, Trump : Manuel Bompard, invité de BFMTV</title>
       <link>https://www.youtube.com/watch?v=OpLF2hpRv28</link>
@@ -1667,28 +1700,6 @@ Elle insiste également sur le rôle complémentaire du Parti communiste frança
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>IO0wuyplM9E</videoId>
       <enclosure url="https://i.ytimg.com/vi/IO0wuyplM9E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Boris Tavernier : "Allez-vous trancher en faveur du pouvoir d'achat des locataires ?”</title>
-      <link>https://www.youtube.com/watch?v=1CRUYyaNGcg</link>
-      <guid>https://www.youtube.com/watch?v=1CRUYyaNGcg</guid>
-      <pubDate>2026-06-03T13:21:21+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>1CRUYyaNGcg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1CRUYyaNGcg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'OTAN, c'est Orwell : on a juste le droit d'être d'accord !</title>
-      <link>https://www.youtube.com/watch?v=Lz5-NoIBVf4</link>
-      <guid>https://www.youtube.com/watch?v=Lz5-NoIBVf4</guid>
-      <pubDate>2026-06-03T07:00:19+00:00</pubDate>
-      <author>Aurélien Saintoul - Député des Hauts-de-Seine</author>
-      <description>L'OTAN, c'est Orwell : on a juste le droit d'être d'accord. La preuve. À l'assemblée parlementaire de l'#OTAN, lundi, j'ai proposé UN SEUL amendement. Panique à bord ! Ça n'arrive jamais et d'ailleurs on ne critique pas la guerre des #USA en Iran ! Et les députés d'Emmanuel #Macron qui viennent à la rescousse…</description>
-      <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
-      <videoId>Lz5-NoIBVf4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Lz5-NoIBVf4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
