@@ -4,7 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 14 Jun 2026 15:01:15 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 15:15:39 -0000</lastBuildDate>
+    <item>
+      <title>Face cam' #5 : Défendre nos retraites, protéger les enfants !</title>
+      <link>https://www.youtube.com/watch?v=ORp-OA7ARy4</link>
+      <guid>https://www.youtube.com/watch?v=ORp-OA7ARy4</guid>
+      <pubDate>2026-06-14T15:00:39+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Introduction : 00:00
+Ils disent n'importe quoi sur les retraites : 00:35
+Affaire Lyhanna, un drame systémique : 07:12
+Vive les salariés Decathlon en lutte : 13:15</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>ORp-OA7ARy4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ORp-OA7ARy4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Le Pen, invitée de Dimanche en Politique sur France 3</title>
       <link>https://www.youtube.com/watch?v=7ckSh9Q-8LA</link>
@@ -1683,23 +1697,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>IY2SKRNZEkI</videoId>
       <enclosure url="https://i.ytimg.com/vi/IY2SKRNZEkI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>40ᵉ congrès du PCF : reconstruire l’engagement de la jeunesse | Léna Raud</title>
-      <link>https://www.youtube.com/watch?v=IO0wuyplM9E</link>
-      <guid>https://www.youtube.com/watch?v=IO0wuyplM9E</guid>
-      <pubDate>2026-06-03T13:51:38+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Dans le cadre de la préparation du 40ᵉ congrès du Parti communiste français, Léna Raud revient sur les difficultés auxquelles la jeunesse est aujourd’hui confrontée : précarité, sélection sociale, dégradation des conditions d’études et de travail, éloignement de l’engagement politique.
-
-Elle souligne que les jeunes subissent de plein fouet les logiques de déclassement social, à travers les contrats précaires, les difficultés d’accès à l’emploi et aux études, mais aussi l’aggravation des conditions de stage, d’apprentissage et de formation professionnelle.
-
-À travers la base commune « Un communisme de conquêtes », elle défend la nécessité de reconstruire un lien politique durable avec la jeunesse populaire, en partant de ses réalités concrètes et de ses pratiques sociales.
-
-Elle insiste également sur le rôle complémentaire du Parti communiste français et du Mouvement jeunes communistes de France pour organiser la jeunesse, mener des campagnes utiles sur l’emploi, la formation et les services publics, et redonner envie de s’engager collectivement face à la précarité et à l’extrême droite.</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>IO0wuyplM9E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/IO0wuyplM9E/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
