@@ -4,7 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 14 Jun 2026 11:15:36 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 11:30:40 -0000</lastBuildDate>
+    <item>
+      <title>🔴 Affaire Lyhanna, présidentielle, Trump : Manuel Bompard, invité de BFMTV</title>
+      <link>https://www.youtube.com/watch?v=OpLF2hpRv28</link>
+      <guid>https://www.youtube.com/watch?v=OpLF2hpRv28</guid>
+      <pubDate>2026-06-14T11:25:22+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur BFMTV du dimanche 14 juin 2026.
+
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>OpLF2hpRv28</videoId>
+      <enclosure url="https://i.ytimg.com/vi/OpLF2hpRv28/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Partout en Europe, les mouvements patriotes veulent redonner aux nations le contrôle de leur avenir</title>
       <link>https://www.youtube.com/watch?v=Po7zHgn8P58</link>
@@ -1667,17 +1689,6 @@ Elle insiste également sur le rôle complémentaire du Parti communiste frança
       <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
       <videoId>Lz5-NoIBVf4</videoId>
       <enclosure url="https://i.ytimg.com/vi/Lz5-NoIBVf4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Les zones d’émeutes correspondent aux zones d’immigration importante" - Bruno Retailleau</title>
-      <link>https://www.youtube.com/watch?v=9W3hSArHepI</link>
-      <guid>https://www.youtube.com/watch?v=9W3hSArHepI</guid>
-      <pubDate>2026-06-02T15:51:00+00:00</pubDate>
-      <author>Bruno Retailleau</author>
-      <description>Ce lundi 1er juin, Bruno Retailleau était l'invité de CNEWS dans l'émission la France en Face.</description>
-      <channelTitle>Bruno Retailleau</channelTitle>
-      <videoId>9W3hSArHepI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/9W3hSArHepI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
