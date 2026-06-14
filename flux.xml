@@ -4,7 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 14 Jun 2026 19:45:36 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 20:00:55 -0000</lastBuildDate>
+    <item>
+      <title>Jordan Bardella sur BFMTV : « J’accuse Emmanuel Macron d’avoir échoué à protéger les Français ! »</title>
+      <link>https://www.youtube.com/watch?v=PwTjcRosNIE</link>
+      <guid>https://www.youtube.com/watch?v=PwTjcRosNIE</guid>
+      <pubDate>2026-06-14T19:55:04+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Retrouvez mon intervention sur BFMTV pour évoquer le drame de Lyhanna et présenter nos solutions pour éviter ces nombreux dysfonctionnements.
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>PwTjcRosNIE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PwTjcRosNIE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🟥 DU SCANDALE D'ÉTAT À LA LOI : 1 an de travail pour protéger les enfants à l’école (Épisode 7)</title>
       <link>https://www.youtube.com/watch?v=sz0UqfoP5HA</link>
@@ -1677,32 +1697,6 @@ Retrouvez ici l'intégralité de notre audition du Syndicat de la Magistrature e
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>hUwdB0HJNyA</videoId>
       <enclosure url="https://i.ytimg.com/vi/hUwdB0HJNyA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Comment financer notre modèle social sans pénaliser le travail ? | Delphine Lingemann</title>
-      <link>https://www.youtube.com/watch?v=IY2SKRNZEkI</link>
-      <guid>https://www.youtube.com/watch?v=IY2SKRNZEkI</guid>
-      <pubDate>2026-06-03T15:16:45+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Comment continuer à financer notre modèle social sans faire peser l'essentiel de son coût sur le travail ? | Delphine Lingemann
-
-Lors des questions au gouvernement de ce mercredi 3 juin, notre députée du Puy-de-Dôme, Delphine Lingemann, a interrogé le ministre de l’Industrie sur le coût du travail dans l’industrie et l’attractivité de la France.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/delphine-lingemann-comment-continuer-financer-notre-modele-social-sans-faire
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>IY2SKRNZEkI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/IY2SKRNZEkI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
