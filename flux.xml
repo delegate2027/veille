@@ -4,7 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 15 Jun 2026 15:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:01:13 -0000</lastBuildDate>
+    <item>
+      <title>Jordan Bardella sur Politico : « Nous réduirons de moitié notre contribution au budget de l'UE ! »</title>
+      <link>https://www.youtube.com/watch?v=VOH30R_jnUQ</link>
+      <guid>https://www.youtube.com/watch?v=VOH30R_jnUQ</guid>
+      <pubDate>2026-06-15T16:00:27+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>VOH30R_jnUQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/VOH30R_jnUQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Mathieu Valet : « Les gauchistes défendent les délinquants plutôt que les honnêtes gens » (Europe 1)</title>
       <link>https://www.youtube.com/watch?v=TltJo1yHu80</link>
@@ -1694,21 +1712,6 @@ Mon passage sur Europe 1</description>
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>mpjXaRpP-XM</videoId>
       <enclosure url="https://i.ytimg.com/vi/mpjXaRpP-XM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🚨 Sécurité sociale : le déficit comme prétexte pour réduire nos droits ?</title>
-      <link>https://www.youtube.com/watch?v=PrNet_UT99o</link>
-      <guid>https://www.youtube.com/watch?v=PrNet_UT99o</guid>
-      <pubDate>2026-06-03T16:15:29+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>🚨✅  La commission des finances a rejeté la loi d’approbation des comptes de la Sécurité sociale pour 2025.
-
-Ce projet c'est -21,6 milliards d’euros de déficit entretenu par des choix politiques, puis utilisé comme prétexte pour réduire nos droits sociaux.
-
-Plutôt que de fragiliser notre modèle social, commençons par aller chercher les recettes là où elles sont.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>PrNet_UT99o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PrNet_UT99o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
