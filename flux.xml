@@ -4,7 +4,42 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 15 Jun 2026 07:01:03 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 07:15:38 -0000</lastBuildDate>
+    <item>
+      <title>GABRIEL ATTAL SUR BFMTV｜IRAN, JUSTICE, IA</title>
+      <link>https://www.youtube.com/watch?v=UQ4t0ySebDc</link>
+      <guid>https://www.youtube.com/watch?v=UQ4t0ySebDc</guid>
+      <pubDate>2026-06-15T07:13:52+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal était l'invité d'Apolline de Malherbe sur BFMTV.
+
+Rejoignez les équipes de campagne sur attalpresident.fr
+
+Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>UQ4t0ySebDc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UQ4t0ySebDc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Proche-Orient, G7, démission de Darmanin, Présidentielle 202... Mathilde Panot dans Les 4 vérités</title>
+      <link>https://www.youtube.com/watch?v=EFV_1YnNE0Y</link>
+      <guid>https://www.youtube.com/watch?v=EFV_1YnNE0Y</guid>
+      <pubDate>2026-06-15T07:08:04+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Revivez l'interview de Mathilde Panot sur france2, le lundi 15 juin 2026 à 8h10.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>EFV_1YnNE0Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EFV_1YnNE0Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jordan Bardella sur BFMTV : « J’accuse Emmanuel Macron d’avoir échoué à protéger les Français ! »</title>
       <link>https://www.youtube.com/watch?v=PwTjcRosNIE</link>
@@ -1673,30 +1708,6 @@ Plutôt que de fragiliser notre modèle social, commençons par aller chercher l
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>PrNet_UT99o</videoId>
       <enclosure url="https://i.ytimg.com/vi/PrNet_UT99o/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[AUDITION] Audition de Benjamin Fiorini, auteur de "Sauvons le jury populaire"</title>
-      <link>https://www.youtube.com/watch?v=s717ZZ4_lQc</link>
-      <guid>https://www.youtube.com/watch?v=s717ZZ4_lQc</guid>
-      <pubDate>2026-06-03T15:53:45+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>Pour préparer les débats autour du projet de loi justice criminelle de Gérald Darmanin nous avons mené avec mon collègue Jean-François Coulhomme plusieurs auditions pour entendre le point de vue des professionnels sur ce texte. 
-Retrouvez l'audition en intégralité de Benjamin Fiorini, maître de conférences en Droit privé et sciences criminelles, directeur de l'institut d'études judiciaires de l'Université Paris 8, auteur de "Sauvons le jury populaire ! Pour une justice humaine, démocratique et citoyenne"</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>s717ZZ4_lQc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/s717ZZ4_lQc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[AUDITION] Syndicat de la Magistrature et Syndicat des Avocat-es de France</title>
-      <link>https://www.youtube.com/watch?v=hUwdB0HJNyA</link>
-      <guid>https://www.youtube.com/watch?v=hUwdB0HJNyA</guid>
-      <pubDate>2026-06-03T15:29:43+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>Pour préparer les débats autour du projet de loi justice criminelle de Gérald Darmanin nous avons mené avec mon collègue Jean-François Coulhomme plusieurs auditions pour entendre le point de vue des professionnels sur ce texte. 
-Retrouvez ici l'intégralité de notre audition du Syndicat de la Magistrature et du Syndicat des Avocat-es de France.</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>hUwdB0HJNyA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hUwdB0HJNyA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
