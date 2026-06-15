@@ -4,7 +4,22 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 15 Jun 2026 16:30:56 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:45:41 -0000</lastBuildDate>
+    <item>
+      <title>🇱🇧 Conférence de presse de clôture de la délégation insoumise au Liban. (direct depuis le Liban)</title>
+      <link>https://www.youtube.com/watch?v=C-AKEyO8qkc</link>
+      <guid>https://www.youtube.com/watch?v=C-AKEyO8qkc</guid>
+      <pubDate>2026-06-15T16:28:30+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>🇱🇧 Conférence de presse de clôture de la délégation insoumise au Liban en direct depuis le Liban. Vendredi 12 juin 2026.
+
+Après plusieurs jours sur le terrain, aux côtés des populations touchées, retrouvez notre conférence de presse de conclusion depuis Beyrouth.
+
+Avec Manon Aubry, Rima Hassan, Arnaud Le Gall et Andrée Taurinya.</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>C-AKEyO8qkc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/C-AKEyO8qkc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jordan Bardella sur Politico : « Nous réduirons de moitié notre contribution au budget de l'UE ! »</title>
       <link>https://www.youtube.com/watch?v=VOH30R_jnUQ</link>
@@ -1689,21 +1704,6 @@ Mon passage sur Europe 1</description>
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>mpjXaRpP-XM</videoId>
       <enclosure url="https://i.ytimg.com/vi/mpjXaRpP-XM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🚨 Sécurité sociale : le déficit comme prétexte pour réduire nos droits ?</title>
-      <link>https://www.youtube.com/watch?v=PrNet_UT99o</link>
-      <guid>https://www.youtube.com/watch?v=PrNet_UT99o</guid>
-      <pubDate>2026-06-03T16:15:29+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>🚨✅  La commission des finances a rejeté la loi d’approbation des comptes de la Sécurité sociale pour 2025.
-
-Ce projet c'est -21,6 milliards d’euros de déficit entretenu par des choix politiques, puis utilisé comme prétexte pour réduire nos droits sociaux.
-
-Plutôt que de fragiliser notre modèle social, commençons par aller chercher les recettes là où elles sont.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>PrNet_UT99o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PrNet_UT99o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
