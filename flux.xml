@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 15 Jun 2026 16:01:13 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:15:54 -0000</lastBuildDate>
     <item>
       <title>Jordan Bardella sur Politico : « Nous réduirons de moitié notre contribution au budget de l'UE ! »</title>
       <link>https://www.youtube.com/watch?v=VOH30R_jnUQ</link>
@@ -1396,29 +1396,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <enclosure url="https://i.ytimg.com/vi/tRZ_k1fU3Pw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>🔴 Meeting de Jean-Luc Mélenchon à Saint-Denis</title>
-      <link>https://www.youtube.com/watch?v=1dkY_JVFx9I</link>
-      <guid>https://www.youtube.com/watch?v=1dkY_JVFx9I</guid>
-      <pubDate>2026-06-07T15:09:57+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion du meeting national de lancement de la campagne présidentielle 2027 à Saint-Denis, le 7 juin 2026.
-
-Retrouvez la version accessible aux personnes sourdes et malentendantes (vélotypie et LSF) ici : https://youtube.com/live/Z5YIa1QD178
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>1dkY_JVFx9I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1dkY_JVFx9I/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>7 juin : une démonstration de force populaire !</title>
       <link>https://www.youtube.com/watch?v=LoufL2ioqzk</link>
       <guid>https://www.youtube.com/watch?v=LoufL2ioqzk</guid>
@@ -1712,6 +1689,21 @@ Mon passage sur Europe 1</description>
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>mpjXaRpP-XM</videoId>
       <enclosure url="https://i.ytimg.com/vi/mpjXaRpP-XM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🚨 Sécurité sociale : le déficit comme prétexte pour réduire nos droits ?</title>
+      <link>https://www.youtube.com/watch?v=PrNet_UT99o</link>
+      <guid>https://www.youtube.com/watch?v=PrNet_UT99o</guid>
+      <pubDate>2026-06-03T16:15:29+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>🚨✅  La commission des finances a rejeté la loi d’approbation des comptes de la Sécurité sociale pour 2025.
+
+Ce projet c'est -21,6 milliards d’euros de déficit entretenu par des choix politiques, puis utilisé comme prétexte pour réduire nos droits sociaux.
+
+Plutôt que de fragiliser notre modèle social, commençons par aller chercher les recettes là où elles sont.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>PrNet_UT99o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PrNet_UT99o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
