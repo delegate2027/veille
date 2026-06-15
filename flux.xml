@@ -4,7 +4,22 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 15 Jun 2026 13:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:30:47 -0000</lastBuildDate>
+    <item>
+      <title>Coût du travail, autorité, immigration : Échanges sans filtre avec le chef Thierry Marx.</title>
+      <link>https://www.youtube.com/watch?v=qJl6dnHT1U8</link>
+      <guid>https://www.youtube.com/watch?v=qJl6dnHT1U8</guid>
+      <pubDate>2026-06-15T13:20:53+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Merci au chef Thierry Marx de m’avoir reçue dans l’un de ses ateliers de cuisine.
+
+Nous avons échangé sans filtre du coût du travail, de l’autorité et de l’immigration.
+
+Notre système est à bout de souffle, il est temps d’en changer. Regardez nos échanges. ⬆️</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>qJl6dnHT1U8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qJl6dnHT1U8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>GABRIEL ATTAL SUR BFMTV｜IRAN, JUSTICE, IA</title>
       <link>https://www.youtube.com/watch?v=UQ4t0ySebDc</link>
@@ -1684,18 +1699,6 @@ Plutôt que de fragiliser notre modèle social, commençons par aller chercher l
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>PrNet_UT99o</videoId>
       <enclosure url="https://i.ytimg.com/vi/PrNet_UT99o/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[AUDITION] Audition de Benjamin Fiorini, auteur de "Sauvons le jury populaire"</title>
-      <link>https://www.youtube.com/watch?v=s717ZZ4_lQc</link>
-      <guid>https://www.youtube.com/watch?v=s717ZZ4_lQc</guid>
-      <pubDate>2026-06-03T15:53:45+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>Pour préparer les débats autour du projet de loi justice criminelle de Gérald Darmanin nous avons mené avec mon collègue Jean-François Coulhomme plusieurs auditions pour entendre le point de vue des professionnels sur ce texte. 
-Retrouvez l'audition en intégralité de Benjamin Fiorini, maître de conférences en Droit privé et sciences criminelles, directeur de l'institut d'études judiciaires de l'Université Paris 8, auteur de "Sauvons le jury populaire ! Pour une justice humaine, démocratique et citoyenne"</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>s717ZZ4_lQc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/s717ZZ4_lQc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
