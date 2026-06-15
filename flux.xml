@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 15 Jun 2026 20:30:55 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 20:45:40 -0000</lastBuildDate>
+    <item>
+      <title>JÉRÔME GUEDJ SUR LCI｜IRAN, PRIMAIRES...</title>
+      <link>https://www.youtube.com/watch?v=Fxb9bGw2mLQ</link>
+      <guid>https://www.youtube.com/watch?v=Fxb9bGw2mLQ</guid>
+      <pubDate>2026-06-15T20:35:29+00:00</pubDate>
+      <author>Jérôme Guedj</author>
+      <description />
+      <channelTitle>Jérôme Guedj</channelTitle>
+      <videoId>Fxb9bGw2mLQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Fxb9bGw2mLQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURENT JACOBELLI : « Aujourd'hui, la France est diplomatiquement isolée » (France Info)</title>
       <link>https://www.youtube.com/watch?v=QNNQspj7WZM</link>
@@ -1674,32 +1685,6 @@ Pourtant, l’ampleur de ces baisses appelle un véritable débat devant le Parl
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>e7Tl7hfk37U</videoId>
       <enclosure url="https://i.ytimg.com/vi/e7Tl7hfk37U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>C’est l’ensemble du sport qui souffre encore d’un manque de féminisation | Marina Ferrari</title>
-      <link>https://www.youtube.com/watch?v=SfAV5kKTtO0</link>
-      <guid>https://www.youtube.com/watch?v=SfAV5kKTtO0</guid>
-      <pubDate>2026-06-04T11:01:34+00:00</pubDate>
-      <author>MoDem</author>
-      <description>C’est l’ensemble du sport qui souffre encore d’un manque de féminisation | Marina Ferrari
-
-Invitée des 4 Vérités sur France 2 ce jeudi 5 juin, Marina Ferrari, ministre des Sports, de la Jeunesse et de la Vie associative, est revenue sur les violences observées en marge de la finale de Ligue des champions avant d’évoquer l’un de ses grands combats : la féminisation de la pratique sportive.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/marina-ferrari-cest-lensemble-du-sport-qui-souffre-encore-dun-manque-de
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>SfAV5kKTtO0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SfAV5kKTtO0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
