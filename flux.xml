@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 15 Jun 2026 07:31:06 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 07:45:45 -0000</lastBuildDate>
     <item>
       <title>GABRIEL ATTAL SUR BFMTV｜IRAN, JUSTICE, IA</title>
       <link>https://www.youtube.com/watch?v=UQ4t0ySebDc</link>
@@ -561,30 +561,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>zYabSIyfdng</videoId>
       <enclosure url="https://i.ytimg.com/vi/zYabSIyfdng/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Il existe des drames qui dépassent les faits divers.</title>
-      <link>https://www.youtube.com/watch?v=b-craoKTXis</link>
-      <guid>https://www.youtube.com/watch?v=b-craoKTXis</guid>
-      <pubDate>2026-06-11T15:16:18+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Nous refusons que, dans notre pays, des parents puissent avoir le sentiment que l’État ne protège plus leurs enfants.
- 
-La première mission de l’État est pourtant simple : protéger les siens. Protéger les innocents. Protéger les honnêtes gens. Protéger les enfants face aux prédateurs.
- 
-Cette exigence impose une rupture profonde avec des décennies de laxisme pénal et d’impuissance administrative. Nous devons cette réforme à Lyhanna. Nous la devons à toutes les familles brisées par la violence.
-
-Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>b-craoKTXis</videoId>
-      <enclosure url="https://i.ytimg.com/vi/b-craoKTXis/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Sauvons l'acier français, sauvons nos emplois : nationalisons ArcelorMittal !</title>
@@ -1708,6 +1684,18 @@ Plutôt que de fragiliser notre modèle social, commençons par aller chercher l
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>PrNet_UT99o</videoId>
       <enclosure url="https://i.ytimg.com/vi/PrNet_UT99o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[AUDITION] Audition de Benjamin Fiorini, auteur de "Sauvons le jury populaire"</title>
+      <link>https://www.youtube.com/watch?v=s717ZZ4_lQc</link>
+      <guid>https://www.youtube.com/watch?v=s717ZZ4_lQc</guid>
+      <pubDate>2026-06-03T15:53:45+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>Pour préparer les débats autour du projet de loi justice criminelle de Gérald Darmanin nous avons mené avec mon collègue Jean-François Coulhomme plusieurs auditions pour entendre le point de vue des professionnels sur ce texte. 
+Retrouvez l'audition en intégralité de Benjamin Fiorini, maître de conférences en Droit privé et sciences criminelles, directeur de l'institut d'études judiciaires de l'Université Paris 8, auteur de "Sauvons le jury populaire ! Pour une justice humaine, démocratique et citoyenne"</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>s717ZZ4_lQc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/s717ZZ4_lQc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
