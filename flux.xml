@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 16 Jun 2026 09:45:49 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:01:06 -0000</lastBuildDate>
+    <item>
+      <title>Audition de Patrick Pouyanné - PDG de TotalEnergies en commission des Finances</title>
+      <link>https://www.youtube.com/watch?v=Nim3ePRYTFg</link>
+      <guid>https://www.youtube.com/watch?v=Nim3ePRYTFg</guid>
+      <pubDate>2026-06-16T09:48:42+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>🔴 Suivez l’audition de Patrick Pouyanné, président-directeur général de TotalEnergies, sur la fiscalité de Total et la hausse des prix du carburants.
+
+A suivre en direct le mercredi 17 juin dès 10h.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>Nim3ePRYTFg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Nim3ePRYTFg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Affaire Lyhanna, violences sexuelles sur les enfants : Sandrine Rousseau est l'invitée de Sam Zirah</title>
       <link>https://www.youtube.com/watch?v=CzJcVwpzO7k</link>
@@ -1688,25 +1701,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Clémentine Autain</channelTitle>
       <videoId>_7H26gp9s1E</videoId>
       <enclosure url="https://i.ytimg.com/vi/_7H26gp9s1E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Retraites agricoles : le député communiste Julien Brugerolles veut réparer une injustice historique</title>
-      <link>https://www.youtube.com/watch?v=ZSTWpVdbBbQ</link>
-      <guid>https://www.youtube.com/watch?v=ZSTWpVdbBbQ</guid>
-      <pubDate>2026-06-04T14:20:02+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>À l'Assemblée nationale, Julien Brugerolles, député communiste, présente une proposition de loi visant à améliorer les retraites agricoles et à poursuivre le combat engagé par André Chassaigne.
-
-Ce texte vise notamment à :
-• Corriger les exclusions créées par les précédentes réformes ;
-• Garantir un minimum de pension aux conjoints collaborateurs et aides familiaux ;
-• Améliorer les droits de milliers de femmes retraitées du monde agricole ;
-• Renforcer la justice sociale pour les anciens exploitants agricoles.
-
-Après les lois Chassaigne de 2020 et 2021, cette nouvelle étape entend permettre à toutes celles et ceux qui ont travaillé toute leur vie dans l'agriculture de bénéficier d'une retraite digne.</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>ZSTWpVdbBbQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ZSTWpVdbBbQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
