@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 16 Jun 2026 11:15:39 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:30:54 -0000</lastBuildDate>
+    <item>
+      <title>Présidentielle, Trump, nationaliser Total, affaire Lyhanna : Fabien Roussel sur SudRadio 16/06/26</title>
+      <link>https://www.youtube.com/watch?v=Mj9HWEmD-ls</link>
+      <guid>https://www.youtube.com/watch?v=Mj9HWEmD-ls</guid>
+      <pubDate>2026-06-16T11:16:19+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Fabien Roussel, secrétaire national du PCF était l'invité ce matin de SudRadio. 
+
+International, accord de paix entre l'Iran et les Etats-Unis et visite de Donald Trump à Versailles, superprofits de Total et de ses actionnaires, défense de la nationalisation des géants de l'énergie mais aussi retour sur notre participation à la marche pour demander des moyens pour la protection de l'enfance : Fabien Roussel reviens sur les principaux sujets de l'actualité.</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>Mj9HWEmD-ls</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Mj9HWEmD-ls/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Discours de David Lisnard à Bayeux</title>
       <link>https://www.youtube.com/watch?v=72DH6G4TXS4</link>
@@ -1670,27 +1683,6 @@ Antoine Alibert, Adjoint au maire de Paris chargé de la santé, de la santé pu
       <channelTitle>Sarah Knafo</channelTitle>
       <videoId>i7uh6iOBhNc</videoId>
       <enclosure url="https://i.ytimg.com/vi/i7uh6iOBhNc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🟠 CADMIUM : L'EXPLICATION DE VOTE DE CLÉMENTINE AUTAIN</title>
-      <link>https://www.youtube.com/watch?v=RinZ62EjDXw</link>
-      <guid>https://www.youtube.com/watch?v=RinZ62EjDXw</guid>
-      <pubDate>2026-06-04T16:45:27+00:00</pubDate>
-      <author>Clémentine Autain</author>
-      <description>Après des années d'alerte des scientifiques, après des mois de lutte politique, notre proposition de loi visant à limiter la teneur en cadmium dans les engrais est adoptée.
-
-Retrouvez moi sur mes réseaux sociaux :
-
-👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
-👉 Twitter / X : https://x.com/Clem_Autain 
-👉 Instagram :  https://www.instagram.com/clementineautain/  
-👉 Telegram : https://t.me/clementineautain
-👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
-👉 TikTok :   https://www.tiktok.com/@clementine_autain
-👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
-      <channelTitle>Clémentine Autain</channelTitle>
-      <videoId>RinZ62EjDXw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/RinZ62EjDXw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
