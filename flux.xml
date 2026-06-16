@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 16 Jun 2026 20:15:44 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:30:57 -0000</lastBuildDate>
+    <item>
+      <title>🏛️🇫🇷 SÉBASTIEN HUMBERT : « Les urgences ferment, les déserts médicaux se multiplient » (QAG)</title>
+      <link>https://www.youtube.com/watch?v=GC_GJ4mXU0g</link>
+      <guid>https://www.youtube.com/watch?v=GC_GJ4mXU0g</guid>
+      <pubDate>2026-06-16T20:09:05+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>GC_GJ4mXU0g</videoId>
+      <enclosure url="https://i.ytimg.com/vi/GC_GJ4mXU0g/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pour une Corse autonome au sein de la République : le discours en intégralité de Marine Le Pen</title>
       <link>https://www.youtube.com/watch?v=rut6ISgGLUg</link>
@@ -1689,17 +1700,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Clémentine Autain</channelTitle>
       <videoId>ZJ9YzQlW5bY</videoId>
       <enclosure url="https://i.ytimg.com/vi/ZJ9YzQlW5bY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>«Je crois que ce serait normal que les magistrats ne puissent pas se syndiquer» - FX Bellamy sur TF1</title>
-      <link>https://www.youtube.com/watch?v=Fd11m8K278E</link>
-      <guid>https://www.youtube.com/watch?v=Fd11m8K278E</guid>
-      <pubDate>2026-06-08T08:46:27+00:00</pubDate>
-      <author>François-Xavier Bellamy</author>
-      <description>François-Xavier Bellamy était l’invité de la matinale de TF1 ce matin. Il est revenu sur l’affaire Lyhanna et notamment la nécessité de revoir l’organisation de la magistrature, en supprimant le droit de se syndiquer et en instaurant des personnes extérieures à la magistrature pour étudier les manquements de la profession.</description>
-      <channelTitle>François-Xavier Bellamy</channelTitle>
-      <videoId>Fd11m8K278E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Fd11m8K278E/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
