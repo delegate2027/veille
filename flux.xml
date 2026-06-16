@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 16 Jun 2026 09:30:56 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:45:49 -0000</lastBuildDate>
+    <item>
+      <title>Affaire Lyhanna, violences sexuelles sur les enfants : Sandrine Rousseau est l'invitée de Sam Zirah</title>
+      <link>https://www.youtube.com/watch?v=CzJcVwpzO7k</link>
+      <guid>https://www.youtube.com/watch?v=CzJcVwpzO7k</guid>
+      <pubDate>2026-06-16T09:45:24+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description>@samzirah</description>
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>CzJcVwpzO7k</videoId>
+      <enclosure url="https://i.ytimg.com/vi/CzJcVwpzO7k/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
       <link>https://www.youtube.com/watch?v=zbWTdJa4jaM</link>
@@ -1696,25 +1707,6 @@ Après les lois Chassaigne de 2020 et 2021, cette nouvelle étape entend permett
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>ZSTWpVdbBbQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/ZSTWpVdbBbQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Comment les géants du numérique manipulent nos vies | Alexandre Basquin</title>
-      <link>https://www.youtube.com/watch?v=U4-6a-bhW-s</link>
-      <guid>https://www.youtube.com/watch?v=U4-6a-bhW-s</guid>
-      <pubDate>2026-06-04T14:07:31+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Entretien avec Alexandre Basquin, Sénateur communiste du Nord, autour de son essai Numérique : stop à l’exploitation !.
-
-Réseaux sociaux, captation de l’attention, intelligence artificielle, surveillance de masse, pouvoir des géants de la tech, manipulation politique : il décrypte les mécanismes du capitalisme numérique et appelle à reprendre le contrôle de nos vies et de nos données.
-
-📚 Commander le livre :
-Numérique : Stop à l'exploitation ! - Le Temps des Cerises
-https://letempsdescerises.net/products/numerique-stop-a-lexploitation
-
-👍 N'hésitez pas à aimer la vidéo, vous abonner et partager cet entretien autour de vous. Le débat sur le numérique mérite d'être porté par toutes et tous.</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>U4-6a-bhW-s</videoId>
-      <enclosure url="https://i.ytimg.com/vi/U4-6a-bhW-s/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
