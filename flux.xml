@@ -4,7 +4,45 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 16 Jun 2026 19:15:45 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 19:30:53 -0000</lastBuildDate>
+    <item>
+      <title>Pour une Corse autonome au sein de la République : le discours en intégralité de Marine Le Pen</title>
+      <link>https://www.youtube.com/watch?v=rut6ISgGLUg</link>
+      <guid>https://www.youtube.com/watch?v=rut6ISgGLUg</guid>
+      <pubDate>2026-06-16T19:27:21+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Le mot "autonomie" ne nous fait pas peur.
+
+Il correspond non seulement à une demande démocratique, mais aussi à la nécessité de prendre en compte la singularité insulaire, les problèmes spécifiques, mais aussi l'âme corse que des siècles d'histoire, l'attachement à la terre, des valeurs et une identité propre ont façonné.
+
+Pour autant, nous le disons tout net : l'autonomie ne peut s'exercer qu'au sein de la République et non contre elle.
+
+L'autonomie doit s'envisager comme un acte de confiance mutuelle, dans une logique de responsabilité partagée. Elle ne doit pas non plus être qu'un slogan.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>rut6ISgGLUg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/rut6ISgGLUg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Jean-Luc Mélenchon invité de l'émission « Face aux Outre-mer »</title>
+      <link>https://www.youtube.com/watch?v=0cQxCslnc60</link>
+      <guid>https://www.youtube.com/watch?v=0cQxCslnc60</guid>
+      <pubDate>2026-06-16T19:13:22+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu sur Outre-mer La 1ère pour l'émission « Face aux Outre-mer », le 17 juin 2026.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>0cQxCslnc60</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0cQxCslnc60/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>J'espère une prise de conscience du pays sur l'état de ses finances | François Bayrou</title>
       <link>https://www.youtube.com/watch?v=-nM4TQIcfnM</link>
@@ -1662,39 +1700,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>François-Xavier Bellamy</channelTitle>
       <videoId>Fd11m8K278E</videoId>
       <enclosure url="https://i.ytimg.com/vi/Fd11m8K278E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>#Mélenchon2027 : la dynamique ne fait que commencer !</title>
-      <link>https://www.youtube.com/watch?v=HaojZ_v3yqA</link>
-      <guid>https://www.youtube.com/watch?v=HaojZ_v3yqA</guid>
-      <pubDate>2026-06-08T07:44:50+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot sur franceinfo, le lundi 8 juin 2026 à 8h30.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>HaojZ_v3yqA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HaojZ_v3yqA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Affaire Lyhanna, meeting à Saint-Denis, présidentielles : Manuel Bompard, invité de BFM TV !</title>
-      <link>https://www.youtube.com/watch?v=PzR2X5rNnNw</link>
-      <guid>https://www.youtube.com/watch?v=PzR2X5rNnNw</guid>
-      <pubDate>2026-06-08T07:30:55+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur BFM TV du lundi 8 juin 2026.
-
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>PzR2X5rNnNw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PzR2X5rNnNw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
