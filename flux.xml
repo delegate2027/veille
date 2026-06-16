@@ -4,7 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 16 Jun 2026 18:30:56 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 18:45:44 -0000</lastBuildDate>
+    <item>
+      <title>J'espère une prise de conscience du pays sur l'état de ses finances | François Bayrou</title>
+      <link>https://www.youtube.com/watch?v=-nM4TQIcfnM</link>
+      <guid>https://www.youtube.com/watch?v=-nM4TQIcfnM</guid>
+      <pubDate>2026-06-16T18:41:03+00:00</pubDate>
+      <author>MoDem</author>
+      <description>J'espère une prise de conscience du pays sur l'état de ses finances | François Bayrou
+
+François Bayrou était l'invité de C à Vous sur France 5 ce mardi 16 juin.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 [Lien vers l'article]
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>-nM4TQIcfnM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-nM4TQIcfnM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nous allons durcir la politique migratoire de l'Union européenne !</title>
       <link>https://www.youtube.com/watch?v=qbGO4UPNclI</link>
@@ -1669,17 +1695,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>PzR2X5rNnNw</videoId>
       <enclosure url="https://i.ytimg.com/vi/PzR2X5rNnNw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>C'est une immense démonstration de force !</title>
-      <link>https://www.youtube.com/watch?v=tRZ_k1fU3Pw</link>
-      <guid>https://www.youtube.com/watch?v=tRZ_k1fU3Pw</guid>
-      <pubDate>2026-06-07T17:28:35+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description />
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>tRZ_k1fU3Pw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/tRZ_k1fU3Pw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
