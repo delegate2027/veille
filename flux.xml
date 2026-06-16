@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 16 Jun 2026 10:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:30:53 -0000</lastBuildDate>
+    <item>
+      <title>Discours de David Lisnard à Bayeux</title>
+      <link>https://www.youtube.com/watch?v=72DH6G4TXS4</link>
+      <guid>https://www.youtube.com/watch?v=72DH6G4TXS4</guid>
+      <pubDate>2026-06-16T10:26:58+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>80 ans après le discours du Général de Gaulle à Bayeux, David Lisnard propose de refonder les institutions de la Ve République</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>72DH6G4TXS4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/72DH6G4TXS4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Audition de Patrick Pouyanné - PDG de TotalEnergies en commission des Finances</title>
       <link>https://www.youtube.com/watch?v=Nim3ePRYTFg</link>
@@ -1680,27 +1691,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Clémentine Autain</channelTitle>
       <videoId>RinZ62EjDXw</videoId>
       <enclosure url="https://i.ytimg.com/vi/RinZ62EjDXw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🟠 CADMIUM : VICTOIRE À L'ASSEMBLÉE NATIONALE</title>
-      <link>https://www.youtube.com/watch?v=_7H26gp9s1E</link>
-      <guid>https://www.youtube.com/watch?v=_7H26gp9s1E</guid>
-      <pubDate>2026-06-04T15:19:54+00:00</pubDate>
-      <author>Clémentine Autain</author>
-      <description>Après des années d'alerte des scientifiques, après des mois de lutte politique, notre proposition de loi visant à limiter la teneur en cadmium dans les engrais a été adoptée ce mercredi 3 juin 2026. 
-
-Retrouvez moi sur mes réseaux sociaux :
-
-👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
-👉 Twitter / X : https://x.com/Clem_Autain 
-👉 Instagram :  https://www.instagram.com/clementineautain/  
-👉 Telegram : https://t.me/clementineautain
-👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
-👉 TikTok :   https://www.tiktok.com/@clementine_autain
-👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
-      <channelTitle>Clémentine Autain</channelTitle>
-      <videoId>_7H26gp9s1E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_7H26gp9s1E/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
