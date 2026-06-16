@@ -4,7 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 16 Jun 2026 08:15:40 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:30:47 -0000</lastBuildDate>
+    <item>
+      <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
+      <link>https://www.youtube.com/watch?v=zbWTdJa4jaM</link>
+      <guid>https://www.youtube.com/watch?v=zbWTdJa4jaM</guid>
+      <pubDate>2026-06-16T08:29:25+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Rendez-vous ce mardi 16 juin pour suivre le Point Presse Hebdo du groupe parlementaire La France insoumise avec Mathilde Panot !
+
+_________________________________________________ 
+
+Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
+
+☞ X (Twitter) : https://x.com/FiAssemblee
+☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
+☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
+☞ YouTube :  / @FranceinsoumiseAN
+☞ Instagram : https://instagram.com/FranceinsoumiseAN/
+☞ Threads : https://www.threads.net/@FranceinsoumiseAN
+☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
+☞ Telegram : https://t.me/FranceinsoumiseAN
+
+Abonnez-vous !</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>zbWTdJa4jaM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zbWTdJa4jaM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>GAËTAN DUSSAUSAYE : « Gérald Darmanin ajoute du déshonneur à son incompétence » (LCP)</title>
       <link>https://www.youtube.com/watch?v=XGzIhUgkSXk</link>
@@ -1672,19 +1698,6 @@ Sur Telegram : @gabriel_attal</description>
       <channelTitle>Renaissance</channelTitle>
       <videoId>N8t7QePhOAs</videoId>
       <enclosure url="https://i.ytimg.com/vi/N8t7QePhOAs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nouvelles mesures d'économies : Audition du ministre David Amiel</title>
-      <link>https://www.youtube.com/watch?v=e7Tl7hfk37U</link>
-      <guid>https://www.youtube.com/watch?v=e7Tl7hfk37U</guid>
-      <pubDate>2026-06-04T14:00:29+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Annuler des crédits en cours d'année est devenu la réponse systématique du gouvernement aux difficultés budgétaires. Une méthode contestable démocratiquement, mais aussi inefficace pour réduire les déficits ou relancer l'activité économique.
-
-Pourtant, l’ampleur de ces baisses appelle un véritable débat devant le Parlement à travers une loi de finances rectificative.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>e7Tl7hfk37U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/e7Tl7hfk37U/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
