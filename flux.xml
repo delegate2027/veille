@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 16 Jun 2026 15:01:15 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 15:15:46 -0000</lastBuildDate>
+    <item>
+      <title>Glucksmann, le macron bis !</title>
+      <link>https://www.youtube.com/watch?v=oyqr0O74S-Q</link>
+      <guid>https://www.youtube.com/watch?v=oyqr0O74S-Q</guid>
+      <pubDate>2026-06-16T15:04:02+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Mon intervention sur Europe 1 du lundi 15 juin 2026</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>oyqr0O74S-Q</videoId>
+      <enclosure url="https://i.ytimg.com/vi/oyqr0O74S-Q/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🏛️🇫🇷 GABRIEL TOMATIS : « Comme toujours, c’est Nicolas qui payera vos folies migratoires ! » (QAG)</title>
       <link>https://www.youtube.com/watch?v=SzKuHaChMz4</link>
@@ -1675,17 +1686,6 @@ Chapitres :
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>69iyfthqw0A</videoId>
       <enclosure url="https://i.ytimg.com/vi/69iyfthqw0A/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sarah Knafo : CLASH avec le commissaire européen à l'énergie ⚡️</title>
-      <link>https://www.youtube.com/watch?v=560rrvBIUSg</link>
-      <guid>https://www.youtube.com/watch?v=560rrvBIUSg</guid>
-      <pubDate>2026-06-05T10:00:36+00:00</pubDate>
-      <author>Sarah Knafo</author>
-      <description>Sarah Knafo est députée européenne Reconquête.</description>
-      <channelTitle>Sarah Knafo</channelTitle>
-      <videoId>560rrvBIUSg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/560rrvBIUSg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
