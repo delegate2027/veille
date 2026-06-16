@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 16 Jun 2026 13:45:49 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 14:01:05 -0000</lastBuildDate>
+    <item>
+      <title>Conférence de presse du groupe de la Gauche - juin 2026</title>
+      <link>https://www.youtube.com/watch?v=YekT5ELhBh8</link>
+      <guid>https://www.youtube.com/watch?v=YekT5ELhBh8</guid>
+      <pubDate>2026-06-16T13:53:37+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>L'Europe va voter le texte le plus cruel de son histoire.</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>YekT5ELhBh8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YekT5ELhBh8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Présidentielle, Trump, nationaliser Total, affaire Lyhanna : Fabien Roussel sur SudRadio 16/06/26</title>
       <link>https://www.youtube.com/watch?v=Mj9HWEmD-ls</link>
@@ -1672,17 +1683,6 @@ Antoine Alibert, Adjoint au maire de Paris chargé de la santé, de la santé pu
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>FWJfeBe6yuQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/FWJfeBe6yuQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les supportes du chaos doivent dormir en prison !</title>
-      <link>https://www.youtube.com/watch?v=i7uh6iOBhNc</link>
-      <guid>https://www.youtube.com/watch?v=i7uh6iOBhNc</guid>
-      <pubDate>2026-06-04T20:24:04+00:00</pubDate>
-      <author>Sarah Knafo</author>
-      <description>Sarah Knafo, députée européenne de Reconquête!, était l’invitée de LCI pour parler de la justice en France.</description>
-      <channelTitle>Sarah Knafo</channelTitle>
-      <videoId>i7uh6iOBhNc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/i7uh6iOBhNc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
