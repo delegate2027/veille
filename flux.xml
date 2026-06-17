@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 17 Jun 2026 18:45:43 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 19:01:08 -0000</lastBuildDate>
     <item>
       <title>Oui à l'autonomie de la Corse, mais pas sans contre-pouvoirs !</title>
       <link>https://www.youtube.com/watch?v=jmfpHWET-Oo</link>
@@ -1537,19 +1537,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <enclosure url="https://i.ytimg.com/vi/Ymx1mJamZ_w/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Marine Le Pen : "Le chagrin du peuple français à la mort de Lyhanna a laissé place à la colère."</title>
-      <link>https://www.youtube.com/watch?v=D9FYahkkuzE</link>
-      <guid>https://www.youtube.com/watch?v=D9FYahkkuzE</guid>
-      <pubDate>2026-06-09T13:43:08+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Monsieur le Premier ministre,
-
-Le chagrin du peuple français à l’annonce de la mort de Lyhanna, onze ans, assassinée par un homme déjà connu comme pédophile, un prédateur identifié mais jamais interpellé, jamais neutralisé, a laissé place à la colère, et elle est justifiée.Monsieur le Premier ministre, comptez-vous tout remettre à plat pour permettre aux Français de retrouver la confiance aujourd’hui terriblement entamée dans la justice de leur pays ?</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>D9FYahkkuzE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/D9FYahkkuzE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Lyhanna, Présidentielle 2027, Gauche et écologistes : Sandrine Rousseau invitée de Sud Radio</title>
       <link>https://www.youtube.com/watch?v=CeJSC7ir46k</link>
       <guid>https://www.youtube.com/watch?v=CeJSC7ir46k</guid>
@@ -1679,6 +1666,17 @@ Il m’a accordé une interview pour revenir sur cette nuit, et sur le lynchage 
       <channelTitle>Louis Boyard</channelTitle>
       <videoId>KTIR3VetM4Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/KTIR3VetM4Q/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fin de vie : "Le mot « suicide » est une douleur pour bien des gens" rappelle Sandrine Rousseau</title>
+      <link>https://www.youtube.com/watch?v=LeSgoL_RE14</link>
+      <guid>https://www.youtube.com/watch?v=LeSgoL_RE14</guid>
+      <pubDate>2026-06-08T15:56:07+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description />
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>LeSgoL_RE14</videoId>
+      <enclosure url="https://i.ytimg.com/vi/LeSgoL_RE14/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
