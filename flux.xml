@@ -4,7 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 17 Jun 2026 16:30:53 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 16:45:37 -0000</lastBuildDate>
+    <item>
+      <title>Oui à l'autonomie de la Corse, mais pas sans contre-pouvoirs !</title>
+      <link>https://www.youtube.com/watch?v=jmfpHWET-Oo</link>
+      <guid>https://www.youtube.com/watch?v=jmfpHWET-Oo</guid>
+      <pubDate>2026-06-17T16:41:08+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Nous sommes en désaccord avec le fait de transférer des pouvoirs législatifs de manière directe à la collectivité de Corse, sans contre-pouvoirs.
+
+Nous souhaitons par conséquent faire revivre des collectivités historiques de la Corse : pièves du Nord et pièves du Sud.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>jmfpHWET-Oo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jmfpHWET-Oo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Oui à l'autonomie de la Corse, non au terme de "communauté" !</title>
+      <link>https://www.youtube.com/watch?v=zF58jphw6JE</link>
+      <guid>https://www.youtube.com/watch?v=zF58jphw6JE</guid>
+      <pubDate>2026-06-17T16:37:37+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Tout le monde dans cet hémicycle est d'accord pour accorder l'autonomie à la Corse.
+
+Nous devons en revanche trouver un consensus pour permettre à la Corse d'atteindre cette autonomie, tout en écartant les éléments qui font le plus débat, notamment en ce qui concerne ce terme de "communauté".</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>zF58jphw6JE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zF58jphw6JE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Julie Laernoes : "Mon cœur d'écologiste et de maman saigne face à votre abandon du monde qui vient."</title>
       <link>https://www.youtube.com/watch?v=y8TomvbdEdY</link>
@@ -1546,19 +1572,6 @@ Le chagrin du peuple français à l’annonce de la mort de Lyhanna, onze ans, a
       <enclosure url="https://i.ytimg.com/vi/wZWgXQ6tO6s/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Marine Le Pen : "Il y a en France un problème concernant la protection de l'enfance !"</title>
-      <link>https://www.youtube.com/watch?v=rFZFSh3TpFM</link>
-      <guid>https://www.youtube.com/watch?v=rFZFSh3TpFM</guid>
-      <pubDate>2026-06-09T10:17:04+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Il faut revoir le fonctionnement de la Justice, lui redonner des moyens et revoir le sens des priorités.
-
-À Auch, des procédures ont été engagées de manière prioritaire contre des agriculteurs, et dans le même temps, le dossier concernant M. Barella est resté dans les tiroirs.</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>rFZFSh3TpFM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/rFZFSh3TpFM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
       <link>https://www.youtube.com/watch?v=0U1NrmRXbk0</link>
       <guid>https://www.youtube.com/watch?v=0U1NrmRXbk0</guid>
@@ -1666,17 +1679,6 @@ Il m’a accordé une interview pour revenir sur cette nuit, et sur le lynchage 
       <channelTitle>Louis Boyard</channelTitle>
       <videoId>KTIR3VetM4Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/KTIR3VetM4Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fin de vie : "Le mot « suicide » est une douleur pour bien des gens" rappelle Sandrine Rousseau</title>
-      <link>https://www.youtube.com/watch?v=LeSgoL_RE14</link>
-      <guid>https://www.youtube.com/watch?v=LeSgoL_RE14</guid>
-      <pubDate>2026-06-08T15:56:07+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description />
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>LeSgoL_RE14</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LeSgoL_RE14/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
