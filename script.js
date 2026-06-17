@@ -194,44 +194,34 @@ async function loadRSS() {
       })
       .slice(0, 100);
 
+    // Build elements for new items only (preserve sorted order: most recent first)
+    const newDivs = [];
     items.forEach((item) => {
       const link = item.querySelector("link")?.textContent || "#";
-
-      // Skip items already displayed
       if (renderedLinks.has(link)) return;
       renderedLinks.add(link);
-
-      const div = buildItemElement(item, feed);
-
-      // Insert new items at the top; for the very first load append normally
-      if (feed.children.length === 0) {
-        feed.appendChild(div);
-        // Auto-open first video on initial load
-        const videoLink = div.querySelector(".video-link");
-        if (videoLink && div.querySelector) {
-          // trigger the first player only when it's a YouTube link
-          const href = videoLink.getAttribute("href") || "";
-          if (href.includes("youtube.com") || href.includes("youtu.be")) {
-            const player = div.querySelector ? null : null;
-            // handled inside buildItemElement already; skip here
-          }
-        }
-      } else {
-        // Prepend new item with a visual highlight
-        div.classList.add("item--new");
-        feed.insertBefore(div, feed.firstChild);
-
-        // Remove highlight after animation completes (3 s)
-        setTimeout(() => div.classList.remove("item--new"), 3000);
-      }
+      newDivs.push(buildItemElement(item, feed));
     });
 
+    const isFirstLoad = feed.children.length === 0;
+
+    if (isFirstLoad) {
+      // Append all items in sorted order (most recent first)
+      newDivs.forEach((div) => feed.appendChild(div));
+    } else {
+      // Prepend new items at the top, maintaining their relative order
+      newDivs.reverse().forEach((div) => {
+        div.classList.add("item--new");
+        feed.insertBefore(div, feed.firstChild);
+        setTimeout(() => div.classList.remove("item--new"), 3000);
+      });
+    }
+
     // Auto-open first video on very first load
-    if (feed.children.length === 1) {
-      const firstItem = feed.firstElementChild;
-      const videoLink = firstItem?.querySelector(".video-link");
-      if (videoLink) {
-        videoLink.dispatchEvent(new MouseEvent("click", { bubbles: true }));
+    if (isFirstLoad && newDivs.length > 0) {
+      const firstVideoLink = newDivs[0].querySelector(".video-link");
+      if (firstVideoLink) {
+        firstVideoLink.dispatchEvent(new MouseEvent("click", { bubbles: true }));
       }
     }
 
