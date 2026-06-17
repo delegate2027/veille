@@ -46,7 +46,7 @@ const renderedLinks = new Set();
 let lastModifiedSeen = null;
 
 // Poll interval in milliseconds (15 minutes)
-const POLL_INTERVAL = 15 * 60 * 1000;
+const POLL_INTERVAL = 1 * 60 * 1000;
 
 function buildItemElement(item, feed) {
   const title = removeExcessiveRepeats(
