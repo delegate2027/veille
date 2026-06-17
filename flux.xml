@@ -4,7 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 17 Jun 2026 15:15:40 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:30:52 -0000</lastBuildDate>
+    <item>
+      <title>Ambiance de folie lors du match France - Sénégal à la Fan Zone de Roubaix</title>
+      <link>https://www.youtube.com/watch?v=kuGSSTyIGiw</link>
+      <guid>https://www.youtube.com/watch?v=kuGSSTyIGiw</guid>
+      <pubDate>2026-06-17T15:15:39+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>kuGSSTyIGiw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/kuGSSTyIGiw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Discours de David Lisnard à Bayeux sur les institutions</title>
       <link>https://www.youtube.com/watch?v=EExU20Hua9Q</link>
@@ -1661,27 +1677,6 @@ Il m’a accordé une interview pour revenir sur cette nuit, et sur le lynchage 
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>LeSgoL_RE14</videoId>
       <enclosure url="https://i.ytimg.com/vi/LeSgoL_RE14/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🟠 CLÉMENTINE AUTAIN SUR FRANCE INTER - CADMIUM ET SÉCURITÉ SOCIALE DE L'ALIMENTATION</title>
-      <link>https://www.youtube.com/watch?v=ZJ9YzQlW5bY</link>
-      <guid>https://www.youtube.com/watch?v=ZJ9YzQlW5bY</guid>
-      <pubDate>2026-06-08T11:23:03+00:00</pubDate>
-      <author>Clémentine Autain</author>
-      <description>Clémentine Autain était dans la matinale de France Inter lundi 8 juin 2026.
-
-Retrouvez moi sur mes réseaux sociaux :
-
-👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
-👉 Twitter / X : https://x.com/Clem_Autain 
-👉 Instagram :  https://www.instagram.com/clementineautain/  
-👉 Telegram : https://t.me/clementineautain
-👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
-👉 TikTok :   https://www.tiktok.com/@clementine_autain
-👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
-      <channelTitle>Clémentine Autain</channelTitle>
-      <videoId>ZJ9YzQlW5bY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ZJ9YzQlW5bY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
