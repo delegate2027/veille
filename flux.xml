@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 17 Jun 2026 07:15:43 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 07:30:54 -0000</lastBuildDate>
+    <item>
+      <title>Audition de Total, PLFR, foot, Trump : Eric Coquerel, invité de la matinale France Info TV</title>
+      <link>https://www.youtube.com/watch?v=DEyjenl4TVg</link>
+      <guid>https://www.youtube.com/watch?v=DEyjenl4TVg</guid>
+      <pubDate>2026-06-17T07:23:02+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Éric Coquerel était l’invité de la matinale de France Info TV le mercredi 17 juin 2026.
+
+Il est revenu sur plusieurs sujets d’actualité : l’audition de Patrick Pouyanné, PDG de TotalEnergies, à l’Assemblée nationale, la victoire de l’équipe de France pour son premier match du Mondial, sa demande de projet de loi de finances rectificative (PLFR), ainsi que le dîner entre Emmanuel Macron et Donald Trump à Versailles.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>DEyjenl4TVg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DEyjenl4TVg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🏛️🇫🇷 SÉBASTIEN HUMBERT : « Les urgences ferment, les déserts médicaux se multiplient » (QAG)</title>
       <link>https://www.youtube.com/watch?v=GC_GJ4mXU0g</link>
@@ -1679,27 +1692,6 @@ Il m’a accordé une interview pour revenir sur cette nuit, et sur le lynchage 
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>LeSgoL_RE14</videoId>
       <enclosure url="https://i.ytimg.com/vi/LeSgoL_RE14/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🟠 CLÉMENTINE AUTAIN SUR FRANCE INTER - CADMIUM ET SÉCURITÉ SOCIALE DE L'ALIMENTATION</title>
-      <link>https://www.youtube.com/watch?v=ZJ9YzQlW5bY</link>
-      <guid>https://www.youtube.com/watch?v=ZJ9YzQlW5bY</guid>
-      <pubDate>2026-06-08T11:23:03+00:00</pubDate>
-      <author>Clémentine Autain</author>
-      <description>Clémentine Autain était dans la matinale de France Inter lundi 8 juin 2026.
-
-Retrouvez moi sur mes réseaux sociaux :
-
-👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
-👉 Twitter / X : https://x.com/Clem_Autain 
-👉 Instagram :  https://www.instagram.com/clementineautain/  
-👉 Telegram : https://t.me/clementineautain
-👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
-👉 TikTok :   https://www.tiktok.com/@clementine_autain
-👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
-      <channelTitle>Clémentine Autain</channelTitle>
-      <videoId>ZJ9YzQlW5bY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ZJ9YzQlW5bY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
