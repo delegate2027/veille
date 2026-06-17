@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 17 Jun 2026 09:15:39 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 09:30:47 -0000</lastBuildDate>
     <item>
       <title>LAURENT JACOBELLI : « L'immigration doit arrêter de PLOMBER les finances publiques ! » (France 2)</title>
       <link>https://www.youtube.com/watch?v=ibSk8xPzNpA</link>
@@ -475,17 +475,6 @@ Avec Manon Aubry, Rima Hassan, Arnaud Le Gall et Andrée Taurinya.</description>
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>VOH30R_jnUQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/VOH30R_jnUQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MATTHIEU VALET: « Les gauchistes défendent les délinquants plutôt que les honnêtes gens » (Europe 1)</title>
-      <link>https://www.youtube.com/watch?v=TltJo1yHu80</link>
-      <guid>https://www.youtube.com/watch?v=TltJo1yHu80</guid>
-      <pubDate>2026-06-15T15:30:37+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>TltJo1yHu80</videoId>
-      <enclosure url="https://i.ytimg.com/vi/TltJo1yHu80/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
@@ -1692,6 +1681,17 @@ Il m’a accordé une interview pour revenir sur cette nuit, et sur le lynchage 
       <channelTitle>Louis Boyard</channelTitle>
       <videoId>KTIR3VetM4Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/KTIR3VetM4Q/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fin de vie : "Le mot « suicide » est une douleur pour bien des gens" rappelle Sandrine Rousseau</title>
+      <link>https://www.youtube.com/watch?v=LeSgoL_RE14</link>
+      <guid>https://www.youtube.com/watch?v=LeSgoL_RE14</guid>
+      <pubDate>2026-06-08T15:56:07+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description />
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>LeSgoL_RE14</videoId>
+      <enclosure url="https://i.ytimg.com/vi/LeSgoL_RE14/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
