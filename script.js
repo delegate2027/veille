@@ -217,13 +217,7 @@ async function loadRSS() {
       });
     }
 
-    // Auto-open first video on very first load
-    if (isFirstLoad && newDivs.length > 0) {
-      const firstVideoLink = newDivs[0].querySelector(".video-link");
-      if (firstVideoLink) {
-        firstVideoLink.dispatchEvent(new MouseEvent("click", { bubbles: true }));
-      }
-    }
+
 
   } catch (err) {
     if (feed.children.length === 0) {
