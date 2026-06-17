@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 17 Jun 2026 22:45:30 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 23:03:00 -0000</lastBuildDate>
+    <item>
+      <title>🔴 EN DIRECT | Discours de David Lisnard à Bayeux sur les institutions</title>
+      <link>https://www.youtube.com/watch?v=72DH6G4TXS4</link>
+      <guid>https://www.youtube.com/watch?v=72DH6G4TXS4</guid>
+      <pubDate>2026-06-17T22:52:03+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>80 ans après le discours du Général de Gaulle à Bayeux, David Lisnard propose de refonder les institutions de la Ve République</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>72DH6G4TXS4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/72DH6G4TXS4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Oui à l'autonomie de la Corse, mais pas sans contre-pouvoirs !</title>
       <link>https://www.youtube.com/watch?v=jmfpHWET-Oo</link>
@@ -397,17 +408,6 @@ International, accord de paix entre l'Iran et les Etats-Unis et visite de Donald
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>Mj9HWEmD-ls</videoId>
       <enclosure url="https://i.ytimg.com/vi/Mj9HWEmD-ls/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 EN DIRECT | Discours de David Lisnard à Bayeux sur les institutions</title>
-      <link>https://www.youtube.com/watch?v=72DH6G4TXS4</link>
-      <guid>https://www.youtube.com/watch?v=72DH6G4TXS4</guid>
-      <pubDate>2026-06-16T10:26:58+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>80 ans après le discours du Général de Gaulle à Bayeux, David Lisnard propose de refonder les institutions de la Ve République</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>72DH6G4TXS4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/72DH6G4TXS4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Affaire Lyhanna, violences sexuelles sur les enfants : Sandrine Rousseau est l'invitée de Sam Zirah</title>
