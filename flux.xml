@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 17 Jun 2026 11:00:57 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:15:38 -0000</lastBuildDate>
+    <item>
+      <title>Audition de Patrick Pouyanné - PDG de TotalEnergies en commission des Finances</title>
+      <link>https://www.youtube.com/watch?v=Nim3ePRYTFg</link>
+      <guid>https://www.youtube.com/watch?v=Nim3ePRYTFg</guid>
+      <pubDate>2026-06-17T11:02:29+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>🔴 Suivez l’audition de Patrick Pouyanné, président-directeur général de TotalEnergies, sur la fiscalité de Total et la hausse des prix des carburants.
+
+A suivre en direct le mercredi 17 juin dès 10h.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>Nim3ePRYTFg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Nim3ePRYTFg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Présidentielles 2027 : François Ruffin invité de Public Sénat</title>
       <link>https://www.youtube.com/watch?v=zFxkKPGVslc</link>
@@ -331,19 +344,6 @@ International, accord de paix entre l'Iran et les Etats-Unis et visite de Donald
       <channelTitle>David Lisnard</channelTitle>
       <videoId>72DH6G4TXS4</videoId>
       <enclosure url="https://i.ytimg.com/vi/72DH6G4TXS4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Audition de Patrick Pouyanné - PDG de TotalEnergies en commission des Finances</title>
-      <link>https://www.youtube.com/watch?v=Nim3ePRYTFg</link>
-      <guid>https://www.youtube.com/watch?v=Nim3ePRYTFg</guid>
-      <pubDate>2026-06-16T09:48:42+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>🔴 Suivez l’audition de Patrick Pouyanné, président-directeur général de TotalEnergies, sur la fiscalité de Total et la hausse des prix des carburants.
-
-A suivre en direct le mercredi 17 juin dès 10h.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>Nim3ePRYTFg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Nim3ePRYTFg/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Affaire Lyhanna, violences sexuelles sur les enfants : Sandrine Rousseau est l'invitée de Sam Zirah</title>
