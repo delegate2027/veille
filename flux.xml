@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 17 Jun 2026 15:30:52 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:45:42 -0000</lastBuildDate>
+    <item>
+      <title>Julie Laernoes : "Mon cœur d'écologiste et de maman saigne face à votre abandon du monde qui vient."</title>
+      <link>https://www.youtube.com/watch?v=y8TomvbdEdY</link>
+      <guid>https://www.youtube.com/watch?v=y8TomvbdEdY</guid>
+      <pubDate>2026-06-17T15:44:14+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>y8TomvbdEdY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/y8TomvbdEdY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Ambiance de folie lors du match France - Sénégal à la Fan Zone de Roubaix</title>
       <link>https://www.youtube.com/watch?v=kuGSSTyIGiw</link>
@@ -1618,17 +1629,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>dKcbdvnkRuk</videoId>
       <enclosure url="https://i.ytimg.com/vi/dKcbdvnkRuk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier : "Gérald Darmanin est d'une lâcheté absolue de se défausser sur les magistrats"</title>
-      <link>https://www.youtube.com/watch?v=zKw-mW1ne7k</link>
-      <guid>https://www.youtube.com/watch?v=zKw-mW1ne7k</guid>
-      <pubDate>2026-06-08T21:28:50+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Duplex du 8 juin 2026 sur BFM, en direct de la mobilisation en hommage à Lyhanna à Paris.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>zKw-mW1ne7k</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zKw-mW1ne7k/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>En finir avec l'omerta.</title>
