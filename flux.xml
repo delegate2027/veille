@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 18 Jun 2026 13:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 14:01:06 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>PHILIPPE BALLARD : « Sans consommateurs, il n’y a pas de narcotrafic » (Europe 1)</title>
@@ -288,7 +288,7 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <enclosure url="https://i.ytimg.com/vi/zFxkKPGVslc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>SÉBASTIEN CHENU : « Quelqu’un qui tue ou viole un enfant doit rester derrière les barreaux » (CNEWS)</title>
+      <title>SÉBASTIEN CHENU : « Jean-Luc Mélenchon est DANGEREUX pour le pays ! » (CNEWS)</title>
       <link>https://www.youtube.com/watch?v=GrdqeeMM6Ic</link>
       <guid>https://www.youtube.com/watch?v=GrdqeeMM6Ic</guid>
       <pubDate>2026-06-17T09:37:24+00:00</pubDate>
@@ -554,17 +554,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>P75k3aBIoRY</videoId>
       <enclosure url="https://i.ytimg.com/vi/P75k3aBIoRY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JULIEN ODOUL : « Jordan Bardella est totalement en phase avec les Français » (Europe 1)</title>
-      <link>https://www.youtube.com/watch?v=7AsUkP4aMhI</link>
-      <guid>https://www.youtube.com/watch?v=7AsUkP4aMhI</guid>
-      <pubDate>2026-06-16T14:10:39+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>7AsUkP4aMhI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7AsUkP4aMhI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Conférence de presse du groupe de la Gauche - juin 2026</title>
@@ -1712,6 +1701,17 @@ Abonnez-vous !</description>
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>0U1NrmRXbk0</videoId>
       <enclosure url="https://i.ytimg.com/vi/0U1NrmRXbk0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Face à face BFM, mardi 9 juin 2026 | Laurent Wauquiez</title>
+      <link>https://www.youtube.com/watch?v=PqhtOceA1L4</link>
+      <guid>https://www.youtube.com/watch?v=PqhtOceA1L4</guid>
+      <pubDate>2026-06-09T07:53:24+00:00</pubDate>
+      <author>Laurent Wauquiez</author>
+      <description>Drame de Lyhanna, faillite de la justice, rassemblement de la droite… j’étais l’invitée d’Apolline de Malherbe dans le Face à face sur BFMTV ce mardi 9 juin 2026. Retrouvez l’intégralité de mon interview.</description>
+      <channelTitle>Laurent Wauquiez</channelTitle>
+      <videoId>PqhtOceA1L4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PqhtOceA1L4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
