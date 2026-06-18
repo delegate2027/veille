@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 18 Jun 2026 19:30:50 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 19:45:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>International : je réponds à Macron</title>
+      <link>https://www.youtube.com/watch?v=z8oZuItcWmc</link>
+      <guid>https://www.youtube.com/watch?v=z8oZuItcWmc</guid>
+      <pubDate>2026-06-18T19:27:41+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu sur France 2 dans l'émission L'Evenement pour réagir à l'interview d'Emmanuel Macron, le 18 juin 2026.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>z8oZuItcWmc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/z8oZuItcWmc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
       <link>https://www.youtube.com/watch?v=fl10wIW1Mi8</link>
@@ -1692,17 +1713,6 @@ Tout cela doit cesser. Il faut un budget rectificatif pour aller chercher des re
       <channelTitle>Laurent Wauquiez</channelTitle>
       <videoId>PqhtOceA1L4</videoId>
       <enclosure url="https://i.ytimg.com/vi/PqhtOceA1L4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Antoinette Guhl : "C'est un rapport d'alerte sur des pratiques abusives, violentes et brutales !"</title>
-      <link>https://www.youtube.com/watch?v=jiL5vXpWuWU</link>
-      <guid>https://www.youtube.com/watch?v=jiL5vXpWuWU</guid>
-      <pubDate>2026-06-09T07:49:56+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>jiL5vXpWuWU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/jiL5vXpWuWU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
