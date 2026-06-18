@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 18 Jun 2026 17:30:43 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 17:45:40 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Inauguration du local insoumis à Saintes</title>
+      <link>https://www.youtube.com/watch?v=_68R2TT1Lqw</link>
+      <guid>https://www.youtube.com/watch?v=_68R2TT1Lqw</guid>
+      <pubDate>2026-06-18T17:41:29+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>Ce mercredi 17 juin nous étions plus de 400 pour inaugurer le nouveau local de la France insoumise à Saintes en Charente Maritime. 
+
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>_68R2TT1Lqw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_68R2TT1Lqw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UNE AUTRE VOIE POUR 2027 | Léon Deffontaines | Europe 1</title>
       <link>https://www.youtube.com/watch?v=0Le26wuMlJs</link>
@@ -1681,19 +1703,6 @@ Tout cela doit cesser. Il faut un budget rectificatif pour aller chercher des re
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>jiL5vXpWuWU</videoId>
       <enclosure url="https://i.ytimg.com/vi/jiL5vXpWuWU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présidentielles 2027 : François Ruffin invité de la matinale de TF1</title>
-      <link>https://www.youtube.com/watch?v=lUGoi-YpiXI</link>
-      <guid>https://www.youtube.com/watch?v=lUGoi-YpiXI</guid>
-      <pubDate>2026-06-09T06:58:57+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>➡️ Soutenez François Ruffin : nouspresident.fr
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>lUGoi-YpiXI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/lUGoi-YpiXI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
