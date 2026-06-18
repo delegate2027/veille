@@ -4,7 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 18 Jun 2026 09:01:44 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 09:15:38 -0000</lastBuildDate>
+    <item>
+      <title>L'accord USA/Iran montre la fin des hostilités et le début d'un nouveau processus | Bruno Fuchs</title>
+      <link>https://www.youtube.com/watch?v=PfnMTceRgSo</link>
+      <guid>https://www.youtube.com/watch?v=PfnMTceRgSo</guid>
+      <pubDate>2026-06-18T09:04:45+00:00</pubDate>
+      <author>MoDem</author>
+      <description>L'accord États-Unis-Iran montre la fin des hostilités et le début d'un nouveau processus | Bruno Fuchs
+
+Bruno Fuchs, député du Haut-Rhin et président de la commission des affaires étrangères à l'Assemblée nationale, était l'invité de France 24 pour évoquer l'actualité internationale. 
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/bruno-fuchs-laccord-etats-unis-iran-montre-la-fin-des-hostilites-et-le-debut-dun
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>PfnMTceRgSo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PfnMTceRgSo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>GABRIEL ATTAL SUR FRANCEINFO | IRAN, UKRAINE, INTELLIGENCE ARTIFICIELLE</title>
       <link>https://www.youtube.com/watch?v=3rN5CFsdWSY</link>
@@ -1683,19 +1709,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>lUGoi-YpiXI</videoId>
       <enclosure url="https://i.ytimg.com/vi/lUGoi-YpiXI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>En finir avec l'omerta.</title>
-      <link>https://www.youtube.com/watch?v=DKVUUYMHTgc</link>
-      <guid>https://www.youtube.com/watch?v=DKVUUYMHTgc</guid>
-      <pubDate>2026-06-08T18:15:52+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>Darmanin a préféré ses obsessions sécuritaires aux violences faites aux enfants.
-
-Des choix politiques ont été faits, et leurs responsables doivent rendre des comptes.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>DKVUUYMHTgc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DKVUUYMHTgc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
