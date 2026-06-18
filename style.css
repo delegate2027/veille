@@ -421,11 +421,25 @@ footer {
 }
 
 /* ── Nouveaux éléments (ajoutés sans rechargement) ── */
-@keyframes highlight-new {
-  0%   { background-color: rgba(255, 220, 80, 0.35); }
-  100% { background-color: transparent; }
+@keyframes item-enter {
+  0% {
+    opacity: 0;
+    transform: translateY(-8px) scaleY(0.97);
+    box-shadow: 0 0 0 2px rgba(255, 200, 40, 0.5);
+  }
+  40% {
+    opacity: 1;
+    transform: translateY(0) scaleY(1);
+    box-shadow: 0 0 0 2px rgba(255, 200, 40, 0.5);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scaleY(1);
+    box-shadow: 0 0 0 2px rgba(255, 200, 40, 0);
+  }
 }
 
 .item--new {
-  animation: highlight-new 3s ease-out forwards;
+  animation: item-enter 1.4s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  transform-origin: top center;
 }
