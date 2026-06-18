@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 18 Jun 2026 18:30:56 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 18:45:33 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
+      <link>https://www.youtube.com/watch?v=fl10wIW1Mi8</link>
+      <guid>https://www.youtube.com/watch?v=fl10wIW1Mi8</guid>
+      <pubDate>2026-06-18T18:41:15+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'une conférence sur le moment politique, le 18 juin 2026. 
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>fl10wIW1Mi8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/fl10wIW1Mi8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nous sommes au bord de la catastrophe | François Bayrou</title>
       <link>https://www.youtube.com/watch?v=3VjjfLnd96A</link>
@@ -766,27 +787,6 @@ Avec Manon Aubry, Rima Hassan, Arnaud Le Gall et Andrée Taurinya.</description>
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>VOH30R_jnUQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/VOH30R_jnUQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
-      <link>https://www.youtube.com/watch?v=fl10wIW1Mi8</link>
-      <guid>https://www.youtube.com/watch?v=fl10wIW1Mi8</guid>
-      <pubDate>2026-06-15T15:27:07+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Ce jeudi 18 juin, rendez-vous à 19h15 pour suivre en direct une conférence de Jean-Luc Mélenchon sur le moment politique.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>fl10wIW1Mi8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/fl10wIW1Mi8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Coût du travail, autorité, immigration : Échanges sans filtre avec le chef Thierry Marx.</title>
