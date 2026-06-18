@@ -4,7 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 18 Jun 2026 07:45:34 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:00:55 -0000</lastBuildDate>
+    <item>
+      <title>GABRIEL ATTAL SUR FRANCEINFO | IRAN, UKRAINE, INTELLIGENCE ARTIFICIELLE</title>
+      <link>https://www.youtube.com/watch?v=3rN5CFsdWSY</link>
+      <guid>https://www.youtube.com/watch?v=3rN5CFsdWSY</guid>
+      <pubDate>2026-06-18T08:00:41+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal était sur franceinfo pour répondre à toutes les questions d'Agathe Lambret et de Paul Larrouturou.
+
+Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   / gabrielattal  
+Instagram :   / gabrielattal  
+TikTok :   / gabriel_attal  
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin :   / gabrielattal
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : @gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>3rN5CFsdWSY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/3rN5CFsdWSY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Daniel Salmon : "À quand un plan massif d’isolation des logements, écoles et  hôpitaux ?"</title>
       <link>https://www.youtube.com/watch?v=dpp9hwmBBRU</link>
@@ -1674,17 +1696,6 @@ Des choix politiques ont été faits, et leurs responsables doivent rendre des c
       <channelTitle>Clémence Guetté</channelTitle>
       <videoId>DKVUUYMHTgc</videoId>
       <enclosure url="https://i.ytimg.com/vi/DKVUUYMHTgc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présidentielle : Sandrine Rousseau appelle au débat stratégique chez les écologistes</title>
-      <link>https://www.youtube.com/watch?v=DchEK4717js</link>
-      <guid>https://www.youtube.com/watch?v=DchEK4717js</guid>
-      <pubDate>2026-06-08T17:45:30+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description />
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>DchEK4717js</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DchEK4717js/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
