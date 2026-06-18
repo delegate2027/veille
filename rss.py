@@ -234,6 +234,7 @@ def build_xml(entries):
     ET.SubElement(channel, "description").text = "Flux RSS agrégé YouTube"
     ET.SubElement(channel, "link").text        = "https://youtube.com"
     ET.SubElement(channel, "lastBuildDate").text = formatdate()  # RFC 2822, date/heure courante
+    ET.SubElement(channel, "feedCount").text = str(len(RSS_FEEDS))
 
     for entry in entries:
         item = ET.SubElement(channel, "item")
