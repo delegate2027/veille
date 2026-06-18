@@ -156,7 +156,7 @@ async function loadRSS() {
       throw new Error(`HTTP ${response.status}`);
     }
 
-   const lastModified = response.headers.get("Last-Modified");
+    const lastModified = response.headers.get("Last-Modified");
     if (lastModified) {
       const updateDate = new Date(lastModified);
       document.getElementById("lastUpdate").innerHTML =
@@ -170,12 +170,6 @@ async function loadRSS() {
       lastModifiedSeen = lastModified;
     }
 
-    const feedCount = xml.querySelector("feedCount")?.textContent;
-    if (feedCount) {
-      document.getElementById("lastUpdate").innerHTML +=
-        "&nbsp;|&nbsp; Flux agrégés : " + feedCount;
-    }
-
     const xmlText = await response.text();
     const parser  = new DOMParser();
     const xml     = parser.parseFromString(xmlText, "text/xml");
@@ -183,6 +177,12 @@ async function loadRSS() {
     const parseError = xml.querySelector("parsererror");
     if (parseError) {
       throw new Error("Erreur de parsing XML");
+    }
+
+    const feedCount = xml.querySelector("feedCount")?.textContent;
+    if (feedCount) {
+      document.getElementById("feedCountDisplay").textContent =
+        "Flux agrégés : " + feedCount;
     }
 
     const items = [...xml.querySelectorAll("item")]
@@ -262,7 +262,7 @@ async function pollRSS() {
 
       lastModifiedSeen = lastModified;
 
-     const updateDate = new Date(lastModified);
+      const updateDate = new Date(lastModified);
       document.getElementById("lastUpdate").innerHTML =
         "&nbsp; Dernière mise à jour : " +
         updateDate.toLocaleDateString("fr-FR", {
@@ -271,12 +271,6 @@ async function pollRSS() {
           day:    "2-digit",
           month:  "2-digit",
         });
-
-      const feedCount = xml.querySelector("feedCount")?.textContent;
-      if (feedCount) {
-        document.getElementById("lastUpdate").innerHTML +=
-          "&nbsp;|&nbsp; Flux agrégés : " + feedCount;
-      }
     }
 
     const xmlText = await response.text();
@@ -285,6 +279,12 @@ async function pollRSS() {
 
     const parseError = xml.querySelector("parsererror");
     if (parseError) throw new Error("Erreur de parsing XML");
+
+    const feedCount = xml.querySelector("feedCount")?.textContent;
+    if (feedCount) {
+      document.getElementById("feedCountDisplay").textContent =
+        "Flux agrégés : " + feedCount;
+    }
 
     const items = [...xml.querySelectorAll("item")]
       .sort((a, b) => (
