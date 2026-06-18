@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 18 Jun 2026 16:01:31 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 16:15:46 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>UNE AUTRE VOIE POUR 2027 | Léon Deffontaines | Europe 1</title>
@@ -535,17 +535,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>ilrYkxW08sM</videoId>
       <enclosure url="https://i.ytimg.com/vi/ilrYkxW08sM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🏛️🇫🇷 MAXIME AMBLARD : « Continuer à déployer des éoliennes dont nous n’avons pas besoin ? » (QAG)</title>
-      <link>https://www.youtube.com/watch?v=PRJ4Gzbo3wM</link>
-      <guid>https://www.youtube.com/watch?v=PRJ4Gzbo3wM</guid>
-      <pubDate>2026-06-16T14:24:06+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>PRJ4Gzbo3wM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PRJ4Gzbo3wM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Notre société a un problème avec les violences sexistes et sexuelles | Erwan Balanant</title>
@@ -1692,6 +1681,19 @@ Tout cela doit cesser. Il faut un budget rectificatif pour aller chercher des re
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>jiL5vXpWuWU</videoId>
       <enclosure url="https://i.ytimg.com/vi/jiL5vXpWuWU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Présidentielles 2027 : François Ruffin invité de la matinale de TF1</title>
+      <link>https://www.youtube.com/watch?v=lUGoi-YpiXI</link>
+      <guid>https://www.youtube.com/watch?v=lUGoi-YpiXI</guid>
+      <pubDate>2026-06-09T06:58:57+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>lUGoi-YpiXI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/lUGoi-YpiXI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
