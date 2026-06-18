@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 18 Jun 2026 14:30:49 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 14:45:39 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>UNE AUTRE VOIE POUR 2027 | Léon Deffontaines | Europe 1</title>
@@ -1672,32 +1672,6 @@ Tout cela doit cesser. Il faut un budget rectificatif pour aller chercher des re
       <enclosure url="https://i.ytimg.com/vi/wZWgXQ6tO6s/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
-      <link>https://www.youtube.com/watch?v=0U1NrmRXbk0</link>
-      <guid>https://www.youtube.com/watch?v=0U1NrmRXbk0</guid>
-      <pubDate>2026-06-09T08:59:54+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Rendez-vous ce mardi 9 juin pour suivre le Point Presse Hebdo du groupe parlementaire La France insoumise de l'année avec Mathilde Panot !
-
-_________________________________________________ 
-
-Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
-
-☞ X (Twitter) : https://x.com/FiAssemblee
-☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
-☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
-☞ YouTube :  / @FranceinsoumiseAN
-☞ Instagram : https://instagram.com/FranceinsoumiseAN/
-☞ Threads : https://www.threads.net/@FranceinsoumiseAN
-☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
-☞ Telegram : https://t.me/FranceinsoumiseAN
-
-Abonnez-vous !</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>0U1NrmRXbk0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0U1NrmRXbk0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Face à face BFM, mardi 9 juin 2026 | Laurent Wauquiez</title>
       <link>https://www.youtube.com/watch?v=PqhtOceA1L4</link>
       <guid>https://www.youtube.com/watch?v=PqhtOceA1L4</guid>
@@ -1707,6 +1681,17 @@ Abonnez-vous !</description>
       <channelTitle>Laurent Wauquiez</channelTitle>
       <videoId>PqhtOceA1L4</videoId>
       <enclosure url="https://i.ytimg.com/vi/PqhtOceA1L4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Antoinette Guhl : "C'est un rapport d'alerte sur des pratiques abusives, violentes et brutales !"</title>
+      <link>https://www.youtube.com/watch?v=jiL5vXpWuWU</link>
+      <guid>https://www.youtube.com/watch?v=jiL5vXpWuWU</guid>
+      <pubDate>2026-06-09T07:49:56+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>jiL5vXpWuWU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jiL5vXpWuWU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
