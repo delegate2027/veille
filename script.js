@@ -156,7 +156,7 @@ async function loadRSS() {
       throw new Error(`HTTP ${response.status}`);
     }
 
-    const lastModified = response.headers.get("Last-Modified");
+   const lastModified = response.headers.get("Last-Modified");
     if (lastModified) {
       const updateDate = new Date(lastModified);
       document.getElementById("lastUpdate").innerHTML =
@@ -168,6 +168,12 @@ async function loadRSS() {
           month:  "2-digit",
         });
       lastModifiedSeen = lastModified;
+    }
+
+    const feedCount = xml.querySelector("feedCount")?.textContent;
+    if (feedCount) {
+      document.getElementById("lastUpdate").innerHTML +=
+        "&nbsp;|&nbsp; Flux agrégés : " + feedCount;
     }
 
     const xmlText = await response.text();
@@ -256,7 +262,7 @@ async function pollRSS() {
 
       lastModifiedSeen = lastModified;
 
-      const updateDate = new Date(lastModified);
+     const updateDate = new Date(lastModified);
       document.getElementById("lastUpdate").innerHTML =
         "&nbsp; Dernière mise à jour : " +
         updateDate.toLocaleDateString("fr-FR", {
@@ -265,6 +271,12 @@ async function pollRSS() {
           day:    "2-digit",
           month:  "2-digit",
         });
+
+      const feedCount = xml.querySelector("feedCount")?.textContent;
+      if (feedCount) {
+        document.getElementById("lastUpdate").innerHTML +=
+          "&nbsp;|&nbsp; Flux agrégés : " + feedCount;
+      }
     }
 
     const xmlText = await response.text();
