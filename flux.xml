@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 19 Jun 2026 20:31:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:45:33 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>On ne censure pas la fête de la musique !</title>
+      <link>https://www.youtube.com/watch?v=Gbmib9qIUZg</link>
+      <guid>https://www.youtube.com/watch?v=Gbmib9qIUZg</guid>
+      <pubDate>2026-06-19T20:36:34+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>BFM TV le 19 juin 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>Gbmib9qIUZg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Gbmib9qIUZg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LIBAN : J'AI VU LA REALITE DES CRIMES DE NETANYAHOU - AQC 139</title>
       <link>https://www.youtube.com/watch?v=ghel9Don49o</link>
@@ -1702,25 +1713,6 @@ Merci aux Jeunes Agriculteurs pour leur invitation.</description>
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>PQoHMeLbxas</videoId>
       <enclosure url="https://i.ytimg.com/vi/PQoHMeLbxas/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Compte de l'Etat 2025 : L’Assemblée refuse de donner quitus au gouvernement</title>
-      <link>https://www.youtube.com/watch?v=sIglnhi73Rk</link>
-      <guid>https://www.youtube.com/watch?v=sIglnhi73Rk</guid>
-      <pubDate>2026-06-09T15:49:58+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez le discours sur l'approbation des comptes de l'état de l'année 2025 d'Eric Coquerel, le mardi 9 juin 2026.
-
-🔴 Cette loi d’approbation des comptes de 2025 va être battue par toutes les oppositions.
-
-Le budget 2025 a été un recul majeur pour le pays. Tout ça pour respecter des critères maastrichtiens d’un autre temps, que vous n’êtes même pas capable de tenir, et pour augmenter de 11% le budget militaire.
-
-Cela rappelle que le gouvernement est minoritaire et qu’il compte sur les mêmes artifices pour nous imposer des coupes budgétaires pour 2026.
-
-Tout cela doit cesser. Il faut un budget rectificatif pour aller chercher des recettes nouvelles.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>sIglnhi73Rk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/sIglnhi73Rk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
