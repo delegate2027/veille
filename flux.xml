@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 19 Jun 2026 07:15:38 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 07:30:50 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>FRANCK ALLISIO : « La France serait un PARADIS énergétique grâce au NUCLÉAIRE ! » (France 2)</title>
+      <link>https://www.youtube.com/watch?v=QvZXcOJouZ4</link>
+      <guid>https://www.youtube.com/watch?v=QvZXcOJouZ4</guid>
+      <pubDate>2026-06-19T07:19:36+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>QvZXcOJouZ4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/QvZXcOJouZ4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>International : je réponds à Macron</title>
       <link>https://www.youtube.com/watch?v=z8oZuItcWmc</link>
@@ -588,17 +599,6 @@ Face à cette politique de sécurité qu'il juge raciste et inefficace, Antoine 
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>oyqr0O74S-Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/oyqr0O74S-Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🏛️🇫🇷 GABRIEL TOMATIS : « Comme toujours, c’est Nicolas qui payera vos folies migratoires ! » (QAG)</title>
-      <link>https://www.youtube.com/watch?v=SzKuHaChMz4</link>
-      <guid>https://www.youtube.com/watch?v=SzKuHaChMz4</guid>
-      <pubDate>2026-06-16T14:32:17+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>SzKuHaChMz4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SzKuHaChMz4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Comme toute avancée technologique, l’IA peut également être un poison | Erwan Balanant</title>
