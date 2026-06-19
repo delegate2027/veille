@@ -115,8 +115,10 @@ footer {
   align-items: center;
   margin-left: 10px;
   background: #EBEBEB;
-  padding-left:     5px;
+  padding-left:      5px;
   padding-right:     5px;
+  padding-top:       5px;
+  padding-bottom:    5px;
 }
 
 .last-update {
