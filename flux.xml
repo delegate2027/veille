@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 19 Jun 2026 08:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:00:52 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>FRANCK ALLISIO : « La France serait un PARADIS énergétique grâce au NUCLÉAIRE ! » (France 2)</title>
@@ -440,17 +440,6 @@ Il est revenu sur plusieurs sujets d’actualité : l’audition de Patrick Pouy
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>DEyjenl4TVg</videoId>
       <enclosure url="https://i.ytimg.com/vi/DEyjenl4TVg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🏛️🇫🇷 SÉBASTIEN HUMBERT : « Les urgences ferment, les déserts médicaux se multiplient » (QAG)</title>
-      <link>https://www.youtube.com/watch?v=GC_GJ4mXU0g</link>
-      <guid>https://www.youtube.com/watch?v=GC_GJ4mXU0g</guid>
-      <pubDate>2026-06-16T20:09:05+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>GC_GJ4mXU0g</videoId>
-      <enclosure url="https://i.ytimg.com/vi/GC_GJ4mXU0g/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Pour une Corse autonome au sein de la République : le discours en intégralité de Marine Le Pen</title>
@@ -1713,6 +1702,17 @@ Tout cela doit cesser. Il faut un budget rectificatif pour aller chercher des re
       <channelTitle>Laurent Wauquiez</channelTitle>
       <videoId>PqhtOceA1L4</videoId>
       <enclosure url="https://i.ytimg.com/vi/PqhtOceA1L4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Antoinette Guhl : "C'est un rapport d'alerte sur des pratiques abusives, violentes et brutales !"</title>
+      <link>https://www.youtube.com/watch?v=jiL5vXpWuWU</link>
+      <guid>https://www.youtube.com/watch?v=jiL5vXpWuWU</guid>
+      <pubDate>2026-06-09T07:49:56+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>jiL5vXpWuWU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jiL5vXpWuWU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
