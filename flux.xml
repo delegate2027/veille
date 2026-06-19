@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 19 Jun 2026 09:30:48 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:45:44 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Sarah Knafo sur RMC : Le vote sur l’expulsion des étrangers est une victoire !</title>
+      <link>https://www.youtube.com/watch?v=V4HOIgsTYSY</link>
+      <guid>https://www.youtube.com/watch?v=V4HOIgsTYSY</guid>
+      <pubDate>2026-06-19T09:41:33+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo, députée européenne Reconquête!, était l’invitée des Grandes Gueules sur RMC ce vendredi 19 juin à 11h. 
+
+Elle a pu débattre notamment du scandale du périscolaire parisien, de l’élection présidentielle de 2027, de l’intelligence artificielle, de l’union des droites et de l’immigration.</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>V4HOIgsTYSY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/V4HOIgsTYSY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>« Plus de liberté pour retrouver un État plus fort » David Lisnard sur BFMTV</title>
+      <link>https://www.youtube.com/watch?v=Q509tbCdRt8</link>
+      <guid>https://www.youtube.com/watch?v=Q509tbCdRt8</guid>
+      <pubDate>2026-06-19T09:34:46+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Invité de BFMTV face à Marc Fauvelle, David Lisnard a livré un diagnostic sans concession sur l’état de la justice, de la sécurité et de l’action publique en France. Son constat est clair : la crise que traverse notre pays n’est pas une fatalité, mais la conséquence d’un système bureaucratique devenu incapable d’assurer ses missions essentielles.</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>Q509tbCdRt8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Q509tbCdRt8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>FRANCK ALLISIO : « La France serait un PARADIS énergétique grâce au NUCLÉAIRE ! » (France 2)</title>
       <link>https://www.youtube.com/watch?v=QvZXcOJouZ4</link>
@@ -1691,28 +1715,6 @@ Tout cela doit cesser. Il faut un budget rectificatif pour aller chercher des re
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>wZWgXQ6tO6s</videoId>
       <enclosure url="https://i.ytimg.com/vi/wZWgXQ6tO6s/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face à face BFM, mardi 9 juin 2026 | Laurent Wauquiez</title>
-      <link>https://www.youtube.com/watch?v=PqhtOceA1L4</link>
-      <guid>https://www.youtube.com/watch?v=PqhtOceA1L4</guid>
-      <pubDate>2026-06-09T07:53:24+00:00</pubDate>
-      <author>Laurent Wauquiez</author>
-      <description>Drame de Lyhanna, faillite de la justice, rassemblement de la droite… j’étais l’invitée d’Apolline de Malherbe dans le Face à face sur BFMTV ce mardi 9 juin 2026. Retrouvez l’intégralité de mon interview.</description>
-      <channelTitle>Laurent Wauquiez</channelTitle>
-      <videoId>PqhtOceA1L4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PqhtOceA1L4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Antoinette Guhl : "C'est un rapport d'alerte sur des pratiques abusives, violentes et brutales !"</title>
-      <link>https://www.youtube.com/watch?v=jiL5vXpWuWU</link>
-      <guid>https://www.youtube.com/watch?v=jiL5vXpWuWU</guid>
-      <pubDate>2026-06-09T07:49:56+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>jiL5vXpWuWU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/jiL5vXpWuWU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
