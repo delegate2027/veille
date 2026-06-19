@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 19 Jun 2026 16:15:37 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:30:43 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>LIBAN : J'AI VU LA REALITE DES CRIMES DE NETANYAHOU - AQC 139</title>
+      <link>https://www.youtube.com/watch?v=ghel9Don49o</link>
+      <guid>https://www.youtube.com/watch?v=ghel9Don49o</guid>
+      <pubDate>2026-06-19T16:26:35+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>J'ai vu de mes yeux les horreurs et les crimes commis par l'armée de Netanyahou au Liban. 
+
+J'ai vu les décombres, j'ai vu les réfugiés, j'ai vu les orphelins, j'ai vu les enfants amputés, j'ai vu les écoles détruites. 
+
+Mais j'ai aussi vu l'espoir d'un peuple. Et j'ai vu notre pouvoir de mettre fin à ces massacres en exigeant de nos dirigeants qu'ils cessent leur complicité et face enfin appliquer le droit international contre les criminels de guerre et les génocidaires. 
+
+Dans cet AQC, je vous raconte ce que j'ai vu au Liban. Et qui peut ne laisser personne indifférent.</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>ghel9Don49o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ghel9Don49o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🤥 BAYROU MENT ENCORE à propos de Bétharram.</title>
       <link>https://www.youtube.com/watch?v=ojOQnR94mms</link>
@@ -1704,25 +1721,6 @@ Merci aux Jeunes Agriculteurs pour leur invitation.</description>
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>PQoHMeLbxas</videoId>
       <enclosure url="https://i.ytimg.com/vi/PQoHMeLbxas/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Compte de l'Etat 2025 : L’Assemblée refuse de donner quitus au gouvernement</title>
-      <link>https://www.youtube.com/watch?v=sIglnhi73Rk</link>
-      <guid>https://www.youtube.com/watch?v=sIglnhi73Rk</guid>
-      <pubDate>2026-06-09T15:49:58+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez le discours sur l'approbation des comptes de l'état de l'année 2025 d'Eric Coquerel, le mardi 9 juin 2026.
-
-🔴 Cette loi d’approbation des comptes de 2025 va être battue par toutes les oppositions.
-
-Le budget 2025 a été un recul majeur pour le pays. Tout ça pour respecter des critères maastrichtiens d’un autre temps, que vous n’êtes même pas capable de tenir, et pour augmenter de 11% le budget militaire.
-
-Cela rappelle que le gouvernement est minoritaire et qu’il compte sur les mêmes artifices pour nous imposer des coupes budgétaires pour 2026.
-
-Tout cela doit cesser. Il faut un budget rectificatif pour aller chercher des recettes nouvelles.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>sIglnhi73Rk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/sIglnhi73Rk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
