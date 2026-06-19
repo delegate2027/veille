@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 19 Jun 2026 14:45:31 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:01:00 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Message de Shawan Jabarin, directeur de l’ONG palestinienne de défense des droits humains Al-Haq 🇵🇸</title>
+      <link>https://www.youtube.com/watch?v=5EwxWOWmcNU</link>
+      <guid>https://www.youtube.com/watch?v=5EwxWOWmcNU</guid>
+      <pubDate>2026-06-19T14:45:54+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description />
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>5EwxWOWmcNU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5EwxWOWmcNU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>MATHIEU VALLET : « Il n’y a rien qui justifie qu’on siffle la Marseillaise » (Europe 1)</title>
       <link>https://www.youtube.com/watch?v=ORsqBPGefRM</link>
@@ -508,17 +519,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>GrdqeeMM6Ic</videoId>
       <enclosure url="https://i.ytimg.com/vi/GrdqeeMM6Ic/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURENT JACOBELLI : « L'immigration doit arrêter de PLOMBER les finances publiques ! » (France 2)</title>
-      <link>https://www.youtube.com/watch?v=ibSk8xPzNpA</link>
-      <guid>https://www.youtube.com/watch?v=ibSk8xPzNpA</guid>
-      <pubDate>2026-06-17T08:15:39+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>ibSk8xPzNpA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ibSk8xPzNpA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Audition de Total, PLFR, foot, Trump : Eric Coquerel, invité de la matinale France Info TV</title>
