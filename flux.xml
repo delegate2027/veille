@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 20 Jun 2026 16:30:43 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 16:45:34 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Robots, IA, Espace - Vlog au salon VivaTech</title>
+      <link>https://www.youtube.com/watch?v=8xUoG4BRkqU</link>
+      <guid>https://www.youtube.com/watch?v=8xUoG4BRkqU</guid>
+      <pubDate>2026-06-20T16:31:50+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon s'est rendu au salon Vivatech à Paris, le 19 juin 2026.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>8xUoG4BRkqU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8xUoG4BRkqU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Grand meeting du Parc Floral</title>
       <link>https://www.youtube.com/watch?v=VzRDBabkhOg</link>
@@ -1394,27 +1415,6 @@ Lors de son audition, la ministre déléguée chargée de la Mer et de la Pêche
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>zYabSIyfdng</videoId>
       <enclosure url="https://i.ytimg.com/vi/zYabSIyfdng/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sauvons l'acier français, sauvons nos emplois : nationalisons ArcelorMittal !</title>
-      <link>https://www.youtube.com/watch?v=73dR5vv9hIk</link>
-      <guid>https://www.youtube.com/watch?v=73dR5vv9hIk</guid>
-      <pubDate>2026-06-11T14:23:58+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un rassemblement en soutien à la nationalisation d'ArcelorMittal à Paris le 11 juin 2026.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>73dR5vv9hIk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/73dR5vv9hIk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Affaire Lyhanna, violences sur les enfants : Sandrine Rousseau était l'invitée de BFM le 5/06</title>
