@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 21 Jun 2026 10:15:29 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 10:30:43 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Manon Aubry face à Cnews !</title>
+      <link>https://www.youtube.com/watch?v=NHraCMEkXcc</link>
+      <guid>https://www.youtube.com/watch?v=NHraCMEkXcc</guid>
+      <pubDate>2026-06-21T10:25:11+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Grande Rendez-vous sur Europe 1 et Cnews le 21 juin 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>NHraCMEkXcc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/NHraCMEkXcc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier : "j'ai une pensée pour les éditorialistes climatosceptiques aujourd'hui" (LCI)</title>
       <link>https://www.youtube.com/watch?v=b4D7hX3WPE0</link>
@@ -1696,20 +1707,6 @@ Bruno Retailleau était l'invité de BFM TV ce mardi 9 juin 2026.</description>
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>nzP0pW3vilk</videoId>
       <enclosure url="https://i.ytimg.com/vi/nzP0pW3vilk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le déficit de la Sécu n’est pas une fatalité, c’est un choix politique !</title>
-      <link>https://www.youtube.com/watch?v=ECg1hUSBXXI</link>
-      <guid>https://www.youtube.com/watch?v=ECg1hUSBXXI</guid>
-      <pubDate>2026-06-10T13:50:24+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>🔴🗣La loi d’approbation des comptes de la Sécurité sociale 2025 a été rejetée.
-
-« Vous nous dites que la sécurité sociale est en déficit. Pourtant ce n’est pas une fatalité comptable, mais bien un choix politique. 
-Ce n’est pas lié à un défaut irréversible du modèle social français, mais bien à des choix réversibles faits par l’Etat et qu’il met au bilan de la sécurité sociale. »</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>ECg1hUSBXXI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ECg1hUSBXXI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
