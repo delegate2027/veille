@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 21 Jun 2026 14:30:46 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 14:45:33 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Pour la liberté des peuples, et la souveraineté des nations.</title>
+      <link>https://www.youtube.com/watch?v=A4ykusA6_uE</link>
+      <guid>https://www.youtube.com/watch?v=A4ykusA6_uE</guid>
+      <pubDate>2026-06-21T14:32:09+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>De victoires électorales en victoires politiques, l'alliance des Patriotes pour l'Europe, désormais troisième force politique du Parlement européen, représente un espoir pour toute l'Europe.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>A4ykusA6_uE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/A4ykusA6_uE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Canicule, Lyhanna, fête de la musique : Manuel Bompard, invité de RTL !</title>
       <link>https://www.youtube.com/watch?v=fAgy9lek9Fw</link>
@@ -1132,19 +1143,6 @@ Vive les salariés Decathlon en lutte : 13:15</description>
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>ORp-OA7ARy4</videoId>
       <enclosure url="https://i.ytimg.com/vi/ORp-OA7ARy4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Le Pen, invitée de Dimanche en Politique sur France 3</title>
-      <link>https://www.youtube.com/watch?v=7ckSh9Q-8LA</link>
-      <guid>https://www.youtube.com/watch?v=7ckSh9Q-8LA</guid>
-      <pubDate>2026-06-14T12:35:40+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Dans l'affaire du drame de Lyhanna, il y a avant tout une responsabilité du politique.
-
-Il faut une grande refondation de la Justice, tous les sujets doivent être revus - et notamment la réforme de la police judiciaire de Gérald Darmanin qui est une catastrophe - en raison de la faillite de l'État et de l'institution judiciaire.</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>7ckSh9Q-8LA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7ckSh9Q-8LA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Jordan Bardella sur VRT : « Nous sommes des partisans de la tolérance zéro ! »</title>
