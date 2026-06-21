@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 21 Jun 2026 09:00:54 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:15:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Marine Tondelier : "j'ai une pensée pour les éditorialistes climatosceptiques aujourd'hui" (LCI)</title>
+      <link>https://www.youtube.com/watch?v=b4D7hX3WPE0</link>
+      <guid>https://www.youtube.com/watch?v=b4D7hX3WPE0</guid>
+      <pubDate>2026-06-21T09:08:41+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Dimanche 21 juin 2026, Marine Tondelier était l'invitée d'En Toute Franchise, l'émission politique dominicale de LCI.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>b4D7hX3WPE0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/b4D7hX3WPE0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Grand meeting du Parc Floral</title>
       <link>https://www.youtube.com/watch?v=VzRDBabkhOg</link>
@@ -1699,18 +1710,6 @@ Ce n’est pas lié à un défaut irréversible du modèle social français, mai
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>ECg1hUSBXXI</videoId>
       <enclosure url="https://i.ytimg.com/vi/ECg1hUSBXXI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Affaire Lyhanna : Le ministre Darmanin doit démissionner ! - Alexis Corbière sur LCI</title>
-      <link>https://www.youtube.com/watch?v=XLRbConXiDg</link>
-      <guid>https://www.youtube.com/watch?v=XLRbConXiDg</guid>
-      <pubDate>2026-06-10T09:36:48+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député Alexis Corbière était l'invité de Darius Rochebrun pour parler des moyens dont dispose la Justice.
-Le débat était face à l'ancienne ministre Marlène Schiappa et le député RN Phillipe Ballard.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>XLRbConXiDg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/XLRbConXiDg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
