@@ -4,8 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 22 Jun 2026 16:01:13 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 16:15:38 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>⛵️KIDNAPPÉE PAR L'ARMÉE ISRAÉLIENNE, ELLE RACONTE. Entretien avec Yasmine Scola</title>
+      <link>https://www.youtube.com/watch?v=SUh-MIW74Io</link>
+      <guid>https://www.youtube.com/watch?v=SUh-MIW74Io</guid>
+      <pubDate>2026-06-22T16:14:42+00:00</pubDate>
+      <author>Paul Vannier</author>
+      <description>Yasmine Scola est habitante de Bezons, dans ma circonscription. Elle a navigué sur la dernière flottille humanitaire pour Gaza visant à briser le blocus illégal imposé par Israël. Elle a été kidnappée dans les eaux internationales par l'armée israélienne, puis emprisonnée illégalement. Elle nous raconte aujourd'hui ce qu'elle a vécu.
+
+📲 RETROUVEZ PAUL VANNIER SUR :
+
+🔗 Telegram : https://t.me/paulvannier
+🔗 Facebook : https://bit.ly/3PD1FZ1
+🔗 Twitter : https://twitter.com/PaulVannierFI
+🔗 Instagram : https://www.instagram.com/paulvannier_/
+🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
+      <channelTitle>Paul Vannier</channelTitle>
+      <videoId>SUh-MIW74Io</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SUh-MIW74Io/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jordan Bardella sur Telewizja Republika : « Je crains que la France ne soit plus la France ! »</title>
       <link>https://www.youtube.com/watch?v=n3Nwg_aXnuE</link>
@@ -1663,49 +1682,6 @@ Pinterest : https://www.pinterest.fr/zemmoureric/</description>
       <channelTitle>Éric Zemmour</channelTitle>
       <videoId>yaUKnAinh58</videoId>
       <enclosure url="https://i.ytimg.com/vi/yaUKnAinh58/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>💥 Après Saint-Denis : en route pour la victoire - Manu refait l'actu n°25</title>
-      <link>https://www.youtube.com/watch?v=LV3jeJbpncU</link>
-      <guid>https://www.youtube.com/watch?v=LV3jeJbpncU</guid>
-      <pubDate>2026-06-10T16:24:28+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>🗣 On parle du meeting de Jean-Luc Mélenchon à Saint-Denis et des prochaines étapes de la campagne présidentielle.
-
-Parrainez la candidature de Jean-Luc Mélenchon : https://melenchon2027.fr
-
-Inscription aux AMFIS Jeunes du 16 au 20 août 2026 : https://actionpopulaire.fr/evenements/46514466-26eb-4a42-a1b5-5f1a63af3804/ 
-Inscription aux AMFIS du 20 au 23 août : https://amfis.fr
-
-Vérifiez votre inscription sur les listes électorales : https://jevoteilsdegagent.fr 
-
-Pour commander le maillot Coupe du monde - Mélenchon 2027 :  https://materiel.actionpopulaire.fr/produit/maillot-coupe-du-monde-melenchon-27/
-
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr
-
-00:00 : Intro 
-00:08 : Générique
-00:16 : Retour sur le meeting de Saint-Denis
-03:08 : AMFIS &amp; AMFIS Jeunes 
-05:10 : Batailles parlementaires
-05:39 : Inscription sur les listes électorales
-07:44 : Marche contre le racisme et l'extrême droite 
-08:14 : Fête de la musique 
-08:28 : Marches des fiertés
-09:13 : Parrainages citoyens
-10:14 : Maillots coupe du monde Mélenchon 2027</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>LV3jeJbpncU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LV3jeJbpncU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
