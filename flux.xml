@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 22 Jun 2026 11:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:00:56 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Autonomie de la corse : contre la vision ethnique portée par le RN</title>
+      <link>https://www.youtube.com/watch?v=lbv9r9t-kIw</link>
+      <guid>https://www.youtube.com/watch?v=lbv9r9t-kIw</guid>
+      <pubDate>2026-06-22T11:51:44+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Intervention d'Eric Coquerel lors du débat sur le projet de loi constitutionnel pour l'autonomie de la Corse.
+
+Il dénonce les amendements du RN qui défendent une conception ethnique de la citoyenneté au nom d’une prétendue âme corse, qui n’est revendiquée par personne sauf eux. C’est une vision folklorique, passéiste, une vision qui ne peut répondre à ce qu’est la Corse aujourd’hui."</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>lbv9r9t-kIw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/lbv9r9t-kIw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de presse face aux nouveaux médias</title>
       <link>https://www.youtube.com/watch?v=OwDqYp64dLQ</link>
@@ -1500,23 +1513,6 @@ Lors de son audition, la ministre déléguée chargée de la Mer et de la Pêche
       <channelTitle>David Lisnard</channelTitle>
       <videoId>XR7cwQgaX68</videoId>
       <enclosure url="https://i.ytimg.com/vi/XR7cwQgaX68/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Arcelor Mittal : L'heure est venue, il faut nationaliser</title>
-      <link>https://www.youtube.com/watch?v=sJtJiKEUp0U</link>
-      <guid>https://www.youtube.com/watch?v=sJtJiKEUp0U</guid>
-      <pubDate>2026-06-11T10:17:04+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez le discours d'Eric Coquerel à l'occasion de la 2e lecture du texte de loi pour nationaliser Arcelor Mittal, lors de la niche du groupe GDR, le jeudi 11 juin 2026 à l'Assemblée nationale.
-
-🔴🗣 Si nous n’avons pas l’acier, nous n’aurons ni l’industrie, ni l’écologie, ni la souveraineté.
-
-Comment croire que la solution viendra de l’initiative des gouvernements avocats de la politique de l’offre et responsables de la désindustrialisation menée depuis 2017 ?
-
-Il serait irresponsable de laisser la loi du profit organiser le désarmement industriel du pays. Les ouvriers d’Arcelor luttent pour un acier français. L’heure est venue, il faut nationaliser.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>sJtJiKEUp0U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/sJtJiKEUp0U/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>ArcelorMittal : Édouard Bénard appelle l'Assemblée à voter la nationalisation</title>
