@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 22 Jun 2026 09:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:30:49 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>LAURENT JACOBELLI : « Plan climatisation : c’est une URGENCE ! » (France Info)</title>
+      <link>https://www.youtube.com/watch?v=85DeR4TBjgo</link>
+      <guid>https://www.youtube.com/watch?v=85DeR4TBjgo</guid>
+      <pubDate>2026-06-22T09:26:23+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>85DeR4TBjgo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/85DeR4TBjgo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jordan Bardella sur wPolsce24 : « La France doit réapprendre à être fière d'elle-même ! »</title>
       <link>https://www.youtube.com/watch?v=hxD9SStrwEc</link>
@@ -464,17 +475,6 @@ Il revient sur le G7, la visite de Donald Trump à Versailles, la guerre en Ukra
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>0Le26wuMlJs</videoId>
       <enclosure url="https://i.ytimg.com/vi/0Le26wuMlJs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>PHILIPPE BALLARD : « Il faut que les Français ouvrent les yeux sur LFI » (Europe 1)</title>
-      <link>https://www.youtube.com/watch?v=N7XBIAqlmno</link>
-      <guid>https://www.youtube.com/watch?v=N7XBIAqlmno</guid>
-      <pubDate>2026-06-18T13:24:02+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>N7XBIAqlmno</videoId>
-      <enclosure url="https://i.ytimg.com/vi/N7XBIAqlmno/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>On ne censure pas les voix de la paix ! (meeting justice pour la Palestine)</title>
