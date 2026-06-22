@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 22 Jun 2026 15:30:55 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:45:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Présidentielles 2027 : François Ruffin invité de "Made in Montebourg"</title>
+      <link>https://www.youtube.com/watch?v=MSf5al0pzdU</link>
+      <guid>https://www.youtube.com/watch?v=MSf5al0pzdU</guid>
+      <pubDate>2026-06-22T15:35:56+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>MSf5al0pzdU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/MSf5al0pzdU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Autonomie de la corse : contre la vision ethnique portée par le RN</title>
       <link>https://www.youtube.com/watch?v=lbv9r9t-kIw</link>
@@ -1695,27 +1708,6 @@ Pour commander le maillot Coupe du monde - Mélenchon 2027 :  https://materiel.a
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>LV3jeJbpncU</videoId>
       <enclosure url="https://i.ytimg.com/vi/LV3jeJbpncU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 IL FAUT SUPPRIMER LES STAGES D'OBSERVATION DE 3e ET 2de ! Conférence de presse</title>
-      <link>https://www.youtube.com/watch?v=Dm0dd9fuNvM</link>
-      <guid>https://www.youtube.com/watch?v=Dm0dd9fuNvM</guid>
-      <pubDate>2026-06-10T16:03:02+00:00</pubDate>
-      <author>Paul Vannier</author>
-      <description>À quelques jours du début de la période de stages pour les élèves de seconde, Paul Vannier dépose une proposition de loi pour supprimer les stages d’observation obligatoires en troisième et en seconde.
-
-Retrouvez sa conférence de presse avec Anthony Smith, député européen, et Arnaud Darthenay, père d’Axel, décédé au cours d’un stage d’observation.
-
-📲 RETROUVEZ PAUL VANNIER SUR :
-
-🔗 Telegram : https://t.me/paulvannier
-🔗 Facebook : https://bit.ly/3PD1FZ1
-🔗 Twitter : https://twitter.com/PaulVannierFI
-🔗 Instagram : https://www.instagram.com/paulvannier_/
-🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
-      <channelTitle>Paul Vannier</channelTitle>
-      <videoId>Dm0dd9fuNvM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Dm0dd9fuNvM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
