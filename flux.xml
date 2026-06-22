@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 22 Jun 2026 10:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:01:02 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Conférence de presse face aux nouveaux médias</title>
+      <link>https://www.youtube.com/watch?v=OwDqYp64dLQ</link>
+      <guid>https://www.youtube.com/watch?v=OwDqYp64dLQ</guid>
+      <pubDate>2026-06-22T10:35:02+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Ce mercredi 24 juin, rendez-vous à 17h pour suivre en direct une conférence de presse face aux nouveaux médias.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>OwDqYp64dLQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/OwDqYp64dLQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURENT JACOBELLI : « Plan climatisation : c’est une URGENCE ! » (France Info)</title>
       <link>https://www.youtube.com/watch?v=85DeR4TBjgo</link>
@@ -1699,17 +1720,6 @@ Retrouvez sa conférence de presse avec Anthony Smith, député européen, et Ar
       <channelTitle>Paul Vannier</channelTitle>
       <videoId>Dm0dd9fuNvM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Dm0dd9fuNvM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nous n'acceptons pas de vivre dans une société où les hommes violent battent et tuent, Mélanie Vogel</title>
-      <link>https://www.youtube.com/watch?v=S_Jq7W2slkA</link>
-      <guid>https://www.youtube.com/watch?v=S_Jq7W2slkA</guid>
-      <pubDate>2026-06-10T15:25:11+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>S_Jq7W2slkA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/S_Jq7W2slkA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
