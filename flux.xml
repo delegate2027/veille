@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 23 Jun 2026 08:15:37 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:31:04 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
+      <link>https://www.youtube.com/watch?v=USBGdJPMZOQ</link>
+      <guid>https://www.youtube.com/watch?v=USBGdJPMZOQ</guid>
+      <pubDate>2026-06-23T08:29:44+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Rendez-vous ce mardi 23 juin pour suivre le Point Presse Hebdo du groupe parlementaire La France insoumise avec Mathilde Panot !
+
+_________________________________________________ 
+
+Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
+
+☞ X (Twitter) : https://x.com/FiAssemblee
+☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
+☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
+☞ YouTube :  / @FranceinsoumiseAN
+☞ Instagram : https://instagram.com/FranceinsoumiseAN/
+☞ Threads : https://www.threads.net/@FranceinsoumiseAN
+☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
+☞ Telegram : https://t.me/FranceinsoumiseAN
+
+Abonnez-vous !</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>USBGdJPMZOQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/USBGdJPMZOQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Éric Zemmour sur CNews : C’est tout le système judiciaire que nous devons révolutionner.</title>
       <link>https://www.youtube.com/watch?v=p9SFlX2btBA</link>
@@ -1647,17 +1673,6 @@ Retrouvez mon intervention au sujet de cette mesure de répression ignoble sur S
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>AZsCzwk51nk</videoId>
       <enclosure url="https://i.ytimg.com/vi/AZsCzwk51nk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Lyhanna : il faut enrayer la fabrique des agresseurs</title>
-      <link>https://www.youtube.com/watch?v=wOPfkq2IFYU</link>
-      <guid>https://www.youtube.com/watch?v=wOPfkq2IFYU</guid>
-      <pubDate>2026-06-10T21:45:13+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot sur BFMTV, le mercredi 10 juin 2026 à 23h20.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>wOPfkq2IFYU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/wOPfkq2IFYU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>GABRIEL ATTAL SUR BFMTV｜AUTORITÉ ET JUSTICE.</title>
