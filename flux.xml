@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 23 Jun 2026 13:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:01:03 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>🏛️🇫🇷 SERGE MÜLLER : « À gauche, on préfère l’idéologie au bon sens ! » (QAG)</title>
+      <link>https://www.youtube.com/watch?v=ODUSG5vve1o</link>
+      <guid>https://www.youtube.com/watch?v=ODUSG5vve1o</guid>
+      <pubDate>2026-06-23T13:46:30+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>ODUSG5vve1o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ODUSG5vve1o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🏛️🇫🇷 ANNE SICARD : « Le peuple français réclame une révolution pénale ! » (QAG)</title>
       <link>https://www.youtube.com/watch?v=pDylooknsRM</link>
@@ -490,17 +501,6 @@ Dans cet AQC, je vous raconte ce que j'ai vu au Liban. Et qui peut ne laisser pe
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>5EwxWOWmcNU</videoId>
       <enclosure url="https://i.ytimg.com/vi/5EwxWOWmcNU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MATHIEU VALLET : « Gabriel Attal est obsédé par Jordan Bardella ! » (Europe 1)</title>
-      <link>https://www.youtube.com/watch?v=ORsqBPGefRM</link>
-      <guid>https://www.youtube.com/watch?v=ORsqBPGefRM</guid>
-      <pubDate>2026-06-19T13:42:11+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>ORsqBPGefRM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ORsqBPGefRM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Vladimir Poutine a déjà perdu | Jean-Noël Barrot</title>
