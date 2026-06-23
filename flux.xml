@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 23 Jun 2026 16:01:11 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:15:34 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY : « Le rapport sur l’affaire Lyhanna est consternant ! » (TF1)</title>
+      <link>https://www.youtube.com/watch?v=kExU-2AaAE8</link>
+      <guid>https://www.youtube.com/watch?v=kExU-2AaAE8</guid>
+      <pubDate>2026-06-23T16:00:28+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>kExU-2AaAE8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/kExU-2AaAE8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Les Français qui vivent ces rodéos au quotidien n'en peuvent plus | Isabelle Florennes</title>
       <link>https://www.youtube.com/watch?v=a4iMKUl6Sag</link>
@@ -1673,19 +1684,6 @@ Emploi, industrie, décarbonation, souveraineté : il appelle les députés à r
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>sCyFRd0mMaM</videoId>
       <enclosure url="https://i.ytimg.com/vi/sCyFRd0mMaM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Je réponds à toutes les questions d'Apolline de Malherbe et de Maxime Switek sur BFMTV.</title>
-      <link>https://www.youtube.com/watch?v=XvNN8kW9yFk</link>
-      <guid>https://www.youtube.com/watch?v=XvNN8kW9yFk</guid>
-      <pubDate>2026-06-11T09:22:51+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Autorité, justice, protection des victimes, écoute de la parole des enfants, je réponds à toutes les questions d'Apolline de Malherbe et de Maxime Switek sur BFMTV.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>XvNN8kW9yFk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/XvNN8kW9yFk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
