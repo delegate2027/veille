@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 23 Jun 2026 17:45:35 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 18:01:08 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Fin de vie : Sandrine Rousseau défend la libre administration de la substance létale</title>
+      <link>https://www.youtube.com/watch?v=sHnMAoMnTyk</link>
+      <guid>https://www.youtube.com/watch?v=sHnMAoMnTyk</guid>
+      <pubDate>2026-06-23T17:50:48+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description />
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>sHnMAoMnTyk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/sHnMAoMnTyk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pou l’autonomie de la Corse dans la République - Mon discours</title>
       <link>https://www.youtube.com/watch?v=Q4XXR8Q4-aw</link>
@@ -1675,19 +1686,6 @@ Chapitres :
       <channelTitle>David Lisnard</channelTitle>
       <videoId>XR7cwQgaX68</videoId>
       <enclosure url="https://i.ytimg.com/vi/XR7cwQgaX68/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ArcelorMittal : Édouard Bénard appelle l'Assemblée à voter la nationalisation</title>
-      <link>https://www.youtube.com/watch?v=sCyFRd0mMaM</link>
-      <guid>https://www.youtube.com/watch?v=sCyFRd0mMaM</guid>
-      <pubDate>2026-06-11T09:28:47+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>À l'occasion de la niche parlementaire du groupe GDR à l'Assemblée nationale, le député communiste Édouard Bénard défend la proposition de loi visant à nationaliser les sites français d'ArcelorMittal.
-
-Emploi, industrie, décarbonation, souveraineté : il appelle les députés à reprendre le contrôle d'un secteur stratégique pour l'avenir du pays.</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>sCyFRd0mMaM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/sCyFRd0mMaM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
