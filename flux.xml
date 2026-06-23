@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 23 Jun 2026 10:45:37 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 11:01:04 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>⚽️ La coupe du Monde est politique !</title>
+      <link>https://www.youtube.com/watch?v=WJwQ_wYM_wU</link>
+      <guid>https://www.youtube.com/watch?v=WJwQ_wYM_wU</guid>
+      <pubDate>2026-06-23T10:50:53+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>WJwQ_wYM_wU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WJwQ_wYM_wU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Les règles de sécurité sont essentielles en cette période de canicule | Marina Ferrari</title>
       <link>https://www.youtube.com/watch?v=zchuiWJzHOw</link>
@@ -1686,17 +1697,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>SD1DTSjKbs0</videoId>
       <enclosure url="https://i.ytimg.com/vi/SD1DTSjKbs0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sarah Knafo sur BFMTV : Combattons le plus grand scandale pédophile français du siècle</title>
-      <link>https://www.youtube.com/watch?v=tGPSLgPiPyo</link>
-      <guid>https://www.youtube.com/watch?v=tGPSLgPiPyo</guid>
-      <pubDate>2026-06-10T20:07:30+00:00</pubDate>
-      <author>Sarah Knafo</author>
-      <description>Sarah Knafo, députée européenne Reconquête, était l’invitée de BFMTV en duplex depuis New York pour une émission spéciale consacrée à la justice.</description>
-      <channelTitle>Sarah Knafo</channelTitle>
-      <videoId>tGPSLgPiPyo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/tGPSLgPiPyo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
