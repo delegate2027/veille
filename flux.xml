@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 23 Jun 2026 20:01:06 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:15:36 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>BFMTV DANS LE DÉNI CLIMATIQUE</title>
+      <link>https://www.youtube.com/watch?v=EQ6CzNNStBc</link>
+      <guid>https://www.youtube.com/watch?v=EQ6CzNNStBc</guid>
+      <pubDate>2026-06-23T20:06:23+00:00</pubDate>
+      <author>Louis Boyard</author>
+      <description>BFMTV dans le déni climatique</description>
+      <channelTitle>Louis Boyard</channelTitle>
+      <videoId>EQ6CzNNStBc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EQ6CzNNStBc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Fin de vie : Sandrine Rousseau défend la libre administration de la substance létale</title>
       <link>https://www.youtube.com/watch?v=sHnMAoMnTyk</link>
@@ -1675,17 +1686,6 @@ Chapitres :
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>9Awd4p6-LY0</videoId>
       <enclosure url="https://i.ytimg.com/vi/9Awd4p6-LY0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le Grand Oral de David Lisnard par Michaël Darmon sur I24 News</title>
-      <link>https://www.youtube.com/watch?v=XR7cwQgaX68</link>
-      <guid>https://www.youtube.com/watch?v=XR7cwQgaX68</guid>
-      <pubDate>2026-06-11T12:27:09+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>David Lisnard était l’invité de Michaël Darmon dans Le Grand Oral, mardi 9 juin 2026.</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>XR7cwQgaX68</videoId>
-      <enclosure url="https://i.ytimg.com/vi/XR7cwQgaX68/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
