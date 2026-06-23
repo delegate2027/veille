@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 23 Jun 2026 09:45:39 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:00:59 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
@@ -518,17 +518,6 @@ Elle a pu débattre notamment du scandale du périscolaire parisien, de l’éle
       <channelTitle>David Lisnard</channelTitle>
       <videoId>Q509tbCdRt8</videoId>
       <enclosure url="https://i.ytimg.com/vi/Q509tbCdRt8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>FRANCK ALLISIO : « La France serait un PARADIS énergétique grâce au NUCLÉAIRE ! » (France 2)</title>
-      <link>https://www.youtube.com/watch?v=QvZXcOJouZ4</link>
-      <guid>https://www.youtube.com/watch?v=QvZXcOJouZ4</guid>
-      <pubDate>2026-06-19T07:19:36+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>QvZXcOJouZ4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QvZXcOJouZ4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>International : je réponds à Macron</title>
@@ -1697,6 +1686,17 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>SD1DTSjKbs0</videoId>
       <enclosure url="https://i.ytimg.com/vi/SD1DTSjKbs0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sarah Knafo sur BFMTV : Combattons le plus grand scandale pédophile français du siècle</title>
+      <link>https://www.youtube.com/watch?v=tGPSLgPiPyo</link>
+      <guid>https://www.youtube.com/watch?v=tGPSLgPiPyo</guid>
+      <pubDate>2026-06-10T20:07:30+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo, députée européenne Reconquête, était l’invitée de BFMTV en duplex depuis New York pour une émission spéciale consacrée à la justice.</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>tGPSLgPiPyo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/tGPSLgPiPyo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
