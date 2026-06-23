@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 23 Jun 2026 16:15:34 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:30:57 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Pou l’autonomie de la Corse dans la République - Mon discours</title>
+      <link>https://www.youtube.com/watch?v=Q4XXR8Q4-aw</link>
+      <guid>https://www.youtube.com/watch?v=Q4XXR8Q4-aw</guid>
+      <pubDate>2026-06-23T16:29:11+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez le discours d'explication de vote d'Eric Coquerel sur projet de loi constitutionnelle pour l'autonomie de la Corse (adopté) le mardi 23 juin 2026.
+
+🗣 "Nous ne serons jamais ceux qui contournent l’expression souveraine du peuple ni à fortiori ne le contraindrons par la force à faire l’inverse de ce qu’il a choisi.
+
+Nous votons POUR l’autonomie de la Corse dans la République aujourd’hui et nous le concrétiserons en 2027 sous la présidence de Jean-Luc Mélenchon dans le cadre d’une 6ème république et toujours dans la confiance avec les autonomistes corses. 
+
+Pour l’intérêt des Corses et de la République française que nous voulons sociale, écologique et fraternelle."</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>Q4XXR8Q4-aw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Q4XXR8Q4-aw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY : « Le rapport sur l’affaire Lyhanna est consternant ! » (TF1)</title>
       <link>https://www.youtube.com/watch?v=kExU-2AaAE8</link>
@@ -1582,19 +1599,6 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>mvSD-5YHhlk</videoId>
       <enclosure url="https://i.ytimg.com/vi/mvSD-5YHhlk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Affaires maritimes : le grand décalage entre discours et actes du gouvernement</title>
-      <link>https://www.youtube.com/watch?v=5O31Akwbq2k</link>
-      <guid>https://www.youtube.com/watch?v=5O31Akwbq2k</guid>
-      <pubDate>2026-06-12T17:00:36+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>🔴⚓️Le gouvernement affiche de grandes ambitions pour la mer. Mais comment passer des discours aux actes quand les budgets diminuent ?
-
-Lors de son audition, la ministre déléguée chargée de la Mer et de la Pêche,  Catherine Chabaud a reconnu que les moyens actuels atteignent leurs limites pour garantir la sécurité maritime, accompagner les pêcheurs et préparer l'avenir du secteur. Je l'ai interrogée sur ce décalage.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>5O31Akwbq2k</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5O31Akwbq2k/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>« L’égalité d’accès aux soins est compromise dans les territoires ultramarins » | Sandrine Rousseau</title>
