@@ -4,50 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 23 Jun 2026 04:00:58 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 04:15:29 -0000</lastBuildDate>
     <feedCount>42</feedCount>
-    <item>
-      <title>Couvre-feu ou fan-zone : le maire de Toulouse a choisi</title>
-      <link>https://www.youtube.com/watch?v=AZsCzwk51nk</link>
-      <guid>https://www.youtube.com/watch?v=AZsCzwk51nk</guid>
-      <pubDate>2026-06-11T06:01:39+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description>Un couvre-feu à Toulouse ? 
-J'ai cru à une mauvaise blague.
-Ces mesures de répression des jeunes pendant la coupe du monde font honte à notre ville et notre pays.
-
-Retrouvez mon intervention au sujet de cette mesure de répression ignoble sur Sud Radio.</description>
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>AZsCzwk51nk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/AZsCzwk51nk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Payer son loyer ou manger à sa faim ?</title>
-      <link>https://www.youtube.com/watch?v=mpjXaRpP-XM</link>
-      <guid>https://www.youtube.com/watch?v=mpjXaRpP-XM</guid>
-      <pubDate>2026-06-03T17:10:30+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description>Payer son loyer ou manger à sa faim ?
-
-L’encadrement des loyers doit être généralisé! C’est une mesure de justice sociale
-
-Mon passage sur Europe 1</description>
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>mpjXaRpP-XM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/mpjXaRpP-XM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Immigration : accueillir dignement grandit notre pays, voilà quelle est notre boussole</title>
-      <link>https://www.youtube.com/watch?v=jWS3WOMX4QA</link>
-      <guid>https://www.youtube.com/watch?v=jWS3WOMX4QA</guid>
-      <pubDate>2026-05-21T17:02:57+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description>Immigration : accueillir dignement grandit notre pays, voilà quelle est notre boussole.
-
-La France est un pays riche de ses habitant•e•s venu•e•s des 4 coins du monde.</description>
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>jWS3WOMX4QA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/jWS3WOMX4QA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
