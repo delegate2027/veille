@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 23 Jun 2026 21:15:46 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:31:01 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>BFMTV DANS LE DÉNI CLIMATIQUE</title>
@@ -1200,17 +1200,6 @@ Face à cette politique de sécurité qu'il juge raciste et inefficace, Antoine 
       <enclosure url="https://i.ytimg.com/vi/7MeVro5HoJg/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Glucksmann, le macron bis !</title>
-      <link>https://www.youtube.com/watch?v=oyqr0O74S-Q</link>
-      <guid>https://www.youtube.com/watch?v=oyqr0O74S-Q</guid>
-      <pubDate>2026-06-16T15:04:02+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Mon intervention sur Europe 1 du lundi 15 juin 2026</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>oyqr0O74S-Q</videoId>
-      <enclosure url="https://i.ytimg.com/vi/oyqr0O74S-Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Conférence de presse du groupe de la Gauche - juin 2026</title>
       <link>https://www.youtube.com/watch?v=YekT5ELhBh8</link>
       <guid>https://www.youtube.com/watch?v=YekT5ELhBh8</guid>
@@ -1409,20 +1398,6 @@ https://www.youtube.com/playlist?list=PLjHU9VmGMG_erosdzp7dSID87N8RRU_FS
       <channelTitle>Paul Vannier</channelTitle>
       <videoId>sz0UqfoP5HA</videoId>
       <enclosure url="https://i.ytimg.com/vi/sz0UqfoP5HA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face cam' #5 : Défendre nos retraites, protéger les enfants !</title>
-      <link>https://www.youtube.com/watch?v=ORp-OA7ARy4</link>
-      <guid>https://www.youtube.com/watch?v=ORp-OA7ARy4</guid>
-      <pubDate>2026-06-14T15:00:39+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Introduction : 00:00
-Ils disent n'importe quoi sur les retraites : 00:35
-Affaire Lyhanna, un drame systémique : 07:12
-Vive les salariés Decathlon en lutte : 13:15</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>ORp-OA7ARy4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ORp-OA7ARy4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>🔴 Affaire Lyhanna, présidentielle, Trump : Manuel Bompard, invité de BFMTV</title>
@@ -1686,6 +1661,30 @@ Chapitres :
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>9Awd4p6-LY0</videoId>
       <enclosure url="https://i.ytimg.com/vi/9Awd4p6-LY0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Le Grand Oral de David Lisnard par Michaël Darmon sur I24 News</title>
+      <link>https://www.youtube.com/watch?v=XR7cwQgaX68</link>
+      <guid>https://www.youtube.com/watch?v=XR7cwQgaX68</guid>
+      <pubDate>2026-06-11T12:27:09+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>David Lisnard était l’invité de Michaël Darmon dans Le Grand Oral, mardi 9 juin 2026.</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>XR7cwQgaX68</videoId>
+      <enclosure url="https://i.ytimg.com/vi/XR7cwQgaX68/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>ArcelorMittal : Édouard Bénard appelle l'Assemblée à voter la nationalisation</title>
+      <link>https://www.youtube.com/watch?v=sCyFRd0mMaM</link>
+      <guid>https://www.youtube.com/watch?v=sCyFRd0mMaM</guid>
+      <pubDate>2026-06-11T09:28:47+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>À l'occasion de la niche parlementaire du groupe GDR à l'Assemblée nationale, le député communiste Édouard Bénard défend la proposition de loi visant à nationaliser les sites français d'ArcelorMittal.
+
+Emploi, industrie, décarbonation, souveraineté : il appelle les députés à reprendre le contrôle d'un secteur stratégique pour l'avenir du pays.</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>sCyFRd0mMaM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/sCyFRd0mMaM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
