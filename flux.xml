@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 24 Jun 2026 07:01:00 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:15:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Marine Tondelier : "le RN remettait encore en cause les rapports du GIEC en 2023" (BFM)</title>
+      <link>https://www.youtube.com/watch?v=7AvNHSBfnUI</link>
+      <guid>https://www.youtube.com/watch?v=7AvNHSBfnUI</guid>
+      <pubDate>2026-06-24T07:05:30+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Mercredi 24 juin 2026, Marine Tondelier était l'invitée d'Apolline de Malherbe dans la matinale de BFM.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>7AvNHSBfnUI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7AvNHSBfnUI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Canicule, bouilloires thermiques, climatisation : Manuel Bompard, invité de TF1 !</title>
       <link>https://www.youtube.com/watch?v=yMJBDSBx1WQ</link>
@@ -1684,19 +1695,6 @@ Chapitres :
       <channelTitle>Paul Vannier</channelTitle>
       <videoId>IJ5SdG2_vHg</videoId>
       <enclosure url="https://i.ytimg.com/vi/IJ5SdG2_vHg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"L’algorithme de Twitter est une ingérence étrangère." (Marine Tondelier et Guillaume Gontard)</title>
-      <link>https://www.youtube.com/watch?v=zYabSIyfdng</link>
-      <guid>https://www.youtube.com/watch?v=zYabSIyfdng</guid>
-      <pubDate>2026-06-11T15:53:42+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Une réunion extraordinaire s’est tenue ce jeudi 11 juin  à Matignon, réunissant les différentes forces politiques et le Premier ministre, Sébastien Lecornu.
-
-À l’issue de cet échange, réaction de la délégation écologiste composé de Marine Tondelier, Secrétaire nationale et Guillaume Gontard, Président du groupe Écologiste - Solidarité et Territoires au Sénat.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>zYabSIyfdng</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zYabSIyfdng/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
