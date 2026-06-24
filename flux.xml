@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 24 Jun 2026 09:00:57 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:15:33 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Ma réaction au vote pour l'autonomie de la Corse</title>
+      <link>https://www.youtube.com/watch?v=6ruS-hrujhI</link>
+      <guid>https://www.youtube.com/watch?v=6ruS-hrujhI</guid>
+      <pubDate>2026-06-24T09:14:51+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu sur France 3 Corse ViaStella pour réagir au vote du projet de loi pour l'autonomie de la Corse, le 23 juin 2026. 
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>6ruS-hrujhI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/6ruS-hrujhI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier : "le RN remettait encore en cause les rapports du GIEC en 2023" (BFM)</title>
       <link>https://www.youtube.com/watch?v=wTue3PBgWRY</link>
@@ -1126,27 +1147,6 @@ L'autonomie doit s'envisager comme un acte de confiance mutuelle, dans une logiq
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>rut6ISgGLUg</videoId>
       <enclosure url="https://i.ytimg.com/vi/rut6ISgGLUg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jean-Luc Mélenchon invité de l'émission « Face aux Outre-mer »</title>
-      <link>https://www.youtube.com/watch?v=0cQxCslnc60</link>
-      <guid>https://www.youtube.com/watch?v=0cQxCslnc60</guid>
-      <pubDate>2026-06-16T19:13:22+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu sur Outre-mer La 1ère pour l'émission « Face aux Outre-mer », le 17 juin 2026.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>0cQxCslnc60</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0cQxCslnc60/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Nous allons durcir la politique migratoire de l'Union européenne !</title>
