@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 24 Jun 2026 08:01:04 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:15:45 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Marine Tondelier : "le RN remettait encore en cause les rapports du GIEC en 2023" (BFM)</title>
@@ -16,6 +16,17 @@
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>wTue3PBgWRY</videoId>
       <enclosure url="https://i.ytimg.com/vi/wTue3PBgWRY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>SÉBASTIEN CHENU : « La climatisation empêcherait 47 % des décès » (France Info)</title>
+      <link>https://www.youtube.com/watch?v=reU8k_q5YWE</link>
+      <guid>https://www.youtube.com/watch?v=reU8k_q5YWE</guid>
+      <pubDate>2026-06-24T07:48:39+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>reU8k_q5YWE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/reU8k_q5YWE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>THOMAS MÉNAGÉ : « Le nucléaire est une chance pour améliorer la situation du climat ! » (France 5)</title>
@@ -429,17 +440,6 @@ Il dénonce les amendements du RN qui défendent une conception ethnique de la c
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>hxD9SStrwEc</videoId>
       <enclosure url="https://i.ytimg.com/vi/hxD9SStrwEc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>THOMAS MÉNAGÉ : « Quand il fait 40 degrés, la sobriété n'est plus une réponse ! » (France Info)</title>
-      <link>https://www.youtube.com/watch?v=du9KRgOZMok</link>
-      <guid>https://www.youtube.com/watch?v=du9KRgOZMok</guid>
-      <pubDate>2026-06-22T08:23:33+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>du9KRgOZMok</videoId>
-      <enclosure url="https://i.ytimg.com/vi/du9KRgOZMok/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Il faut une réorganisation complète de notre action publique | François Bayrou</title>
