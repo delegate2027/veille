@@ -4,15 +4,26 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 24 Jun 2026 18:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 18:15:33 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>LAURENT JACOBELLI : « Ce pays manque de politique, sûrement pas de technocrates » (RMC)</title>
+      <link>https://www.youtube.com/watch?v=TKw89wCWo8k</link>
+      <guid>https://www.youtube.com/watch?v=TKw89wCWo8k</guid>
+      <pubDate>2026-06-24T18:00:20+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>TKw89wCWo8k</videoId>
+      <enclosure url="https://i.ytimg.com/vi/TKw89wCWo8k/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de presse face aux nouveaux médias</title>
       <link>https://www.youtube.com/watch?v=OwDqYp64dLQ</link>
       <guid>https://www.youtube.com/watch?v=OwDqYp64dLQ</guid>
       <pubDate>2026-06-24T17:23:36+00:00</pubDate>
       <author>JEAN-LUC MÉLENCHON</author>
-      <description>Ce mercredi 24 juin, rendez-vous à 17h pour suivre en direct une conférence de presse face aux nouveaux médias.
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'une conférence de presse face aux nouveaux médias le 24 juin 2026.
 
 **SUIVEZ-MOI SUR**
 - Twitch : https://www.twitch.tv/jlmelenchon 
@@ -324,17 +335,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>cD8aZ6c8TJk</videoId>
       <enclosure url="https://i.ytimg.com/vi/cD8aZ6c8TJk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🏛️🇫🇷 SERGE MÜLLER : « À gauche, on préfère l’idéologie au bon sens ! » (QAG)</title>
-      <link>https://www.youtube.com/watch?v=ODUSG5vve1o</link>
-      <guid>https://www.youtube.com/watch?v=ODUSG5vve1o</guid>
-      <pubDate>2026-06-23T13:46:30+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>ODUSG5vve1o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ODUSG5vve1o/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Revivez le GRAND MEETING de BRUNO RETAILLEAU</title>
