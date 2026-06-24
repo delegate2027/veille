@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 24 Jun 2026 11:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:00:59 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Marine Le Pen sur France Culture, l'intégralité de l'entretien</title>
+      <link>https://www.youtube.com/watch?v=h8jOCHokyEM</link>
+      <guid>https://www.youtube.com/watch?v=h8jOCHokyEM</guid>
+      <pubDate>2026-06-24T11:31:08+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Force doit rester à la loi, et au législateur, choisi par le peuple.
+
+C'est le fondement de la démocratie, et ni le Conseil d'État, ni le Conseil constitutionnel ne doivent mettre en place des jurisprudences qui se substituent à la loi.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>h8jOCHokyEM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/h8jOCHokyEM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Ma réaction au vote pour l'autonomie de la Corse</title>
       <link>https://www.youtube.com/watch?v=6ruS-hrujhI</link>
@@ -1130,23 +1143,6 @@ Il est revenu sur plusieurs sujets d’actualité : l’audition de Patrick Pouy
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>DEyjenl4TVg</videoId>
       <enclosure url="https://i.ytimg.com/vi/DEyjenl4TVg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Pour une Corse autonome au sein de la République : le discours en intégralité de Marine Le Pen</title>
-      <link>https://www.youtube.com/watch?v=rut6ISgGLUg</link>
-      <guid>https://www.youtube.com/watch?v=rut6ISgGLUg</guid>
-      <pubDate>2026-06-16T19:27:21+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Le mot "autonomie" ne nous fait pas peur.
-
-Il correspond non seulement à une demande démocratique, mais aussi à la nécessité de prendre en compte la singularité insulaire, les problèmes spécifiques, mais aussi l'âme corse que des siècles d'histoire, l'attachement à la terre, des valeurs et une identité propre ont façonné.
-
-Pour autant, nous le disons tout net : l'autonomie ne peut s'exercer qu'au sein de la République et non contre elle.
-
-L'autonomie doit s'envisager comme un acte de confiance mutuelle, dans une logique de responsabilité partagée. Elle ne doit pas non plus être qu'un slogan.</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>rut6ISgGLUg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/rut6ISgGLUg/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Nous allons durcir la politique migratoire de l'Union européenne !</title>
