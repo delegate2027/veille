@@ -4,8 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 24 Jun 2026 16:30:47 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:45:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Conférence de presse sur les mesures d’adaptation des Écologistes face aux canicules</title>
+      <link>https://www.youtube.com/watch?v=Q6Xf5xl763M</link>
+      <guid>https://www.youtube.com/watch?v=Q6Xf5xl763M</guid>
+      <pubDate>2026-06-24T16:31:35+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Ce mercredi 24 juin les écologistes ont présenté des propositions suite aux vagues de chaleur de mai et juin 2026.
+En présence de Grégory Doucet, Thomas Dossus, Damien Girard et Marine Tondelier.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>Q6Xf5xl763M</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Q6Xf5xl763M/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY : « 50 % de l’empreinte carbone, ce sont les importations ! » (France Inter)</title>
       <link>https://www.youtube.com/watch?v=EJEr0WSXNiw</link>
@@ -1687,19 +1699,6 @@ Chapitres :
       <channelTitle>Paul Vannier</channelTitle>
       <videoId>IJ5SdG2_vHg</videoId>
       <enclosure url="https://i.ytimg.com/vi/IJ5SdG2_vHg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"L’algorithme de Twitter est une ingérence étrangère." (Marine Tondelier et Guillaume Gontard)</title>
-      <link>https://www.youtube.com/watch?v=zYabSIyfdng</link>
-      <guid>https://www.youtube.com/watch?v=zYabSIyfdng</guid>
-      <pubDate>2026-06-11T15:53:42+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Une réunion extraordinaire s’est tenue ce jeudi 11 juin  à Matignon, réunissant les différentes forces politiques et le Premier ministre, Sébastien Lecornu.
-
-À l’issue de cet échange, réaction de la délégation écologiste composé de Marine Tondelier, Secrétaire nationale et Guillaume Gontard, Président du groupe Écologiste - Solidarité et Territoires au Sénat.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>zYabSIyfdng</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zYabSIyfdng/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
