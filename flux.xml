@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 24 Jun 2026 08:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:00:57 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Marine Tondelier : "le RN remettait encore en cause les rapports du GIEC en 2023" (BFM)</title>
@@ -411,17 +411,6 @@ Il dénonce les amendements du RN qui défendent une conception ethnique de la c
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>OwDqYp64dLQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/OwDqYp64dLQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURENT JACOBELLI : « Il y a une voie entre l’écologie dingo et le fatalisme ! » (France Info)</title>
-      <link>https://www.youtube.com/watch?v=85DeR4TBjgo</link>
-      <guid>https://www.youtube.com/watch?v=85DeR4TBjgo</guid>
-      <pubDate>2026-06-22T09:26:23+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>85DeR4TBjgo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/85DeR4TBjgo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Jordan Bardella sur wPolsce24 : « La France doit réapprendre à être fière d'elle-même ! »</title>
@@ -1695,6 +1684,19 @@ Chapitres :
       <channelTitle>Paul Vannier</channelTitle>
       <videoId>IJ5SdG2_vHg</videoId>
       <enclosure url="https://i.ytimg.com/vi/IJ5SdG2_vHg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"L’algorithme de Twitter est une ingérence étrangère." (Marine Tondelier et Guillaume Gontard)</title>
+      <link>https://www.youtube.com/watch?v=zYabSIyfdng</link>
+      <guid>https://www.youtube.com/watch?v=zYabSIyfdng</guid>
+      <pubDate>2026-06-11T15:53:42+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Une réunion extraordinaire s’est tenue ce jeudi 11 juin  à Matignon, réunissant les différentes forces politiques et le Premier ministre, Sébastien Lecornu.
+
+À l’issue de cet échange, réaction de la délégation écologiste composé de Marine Tondelier, Secrétaire nationale et Guillaume Gontard, Président du groupe Écologiste - Solidarité et Territoires au Sénat.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>zYabSIyfdng</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zYabSIyfdng/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
