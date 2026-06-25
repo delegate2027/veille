@@ -4,7 +4,73 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 25 Jun 2026 05:30:38 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 05:45:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Il est temps de reprendre le contrôle !</title>
+      <link>https://www.youtube.com/watch?v=WYRB5z6Rqt0</link>
+      <guid>https://www.youtube.com/watch?v=WYRB5z6Rqt0</guid>
+      <pubDate>2026-06-20T12:01:37+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description />
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>WYRB5z6Rqt0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WYRB5z6Rqt0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>« Plus de liberté pour retrouver un État plus fort » David Lisnard sur BFMTV</title>
+      <link>https://www.youtube.com/watch?v=Q509tbCdRt8</link>
+      <guid>https://www.youtube.com/watch?v=Q509tbCdRt8</guid>
+      <pubDate>2026-06-19T09:34:46+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Invité de BFMTV face à Marc Fauvelle, David Lisnard a livré un diagnostic sans concession sur l’état de la justice, de la sécurité et de l’action publique en France. Son constat est clair : la crise que traverse notre pays n’est pas une fatalité, mais la conséquence d’un système bureaucratique devenu incapable d’assurer ses missions essentielles.</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>Q509tbCdRt8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Q509tbCdRt8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴 EN DIRECT | Discours de David Lisnard à Bayeux sur les institutions</title>
+      <link>https://www.youtube.com/watch?v=72DH6G4TXS4</link>
+      <guid>https://www.youtube.com/watch?v=72DH6G4TXS4</guid>
+      <pubDate>2026-06-17T22:52:03+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>80 ans après le discours du Général de Gaulle à Bayeux, David Lisnard propose de refonder les institutions de la Ve République</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>72DH6G4TXS4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/72DH6G4TXS4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Discours de David Lisnard à Bayeux sur les institutions</title>
+      <link>https://www.youtube.com/watch?v=EExU20Hua9Q</link>
+      <guid>https://www.youtube.com/watch?v=EExU20Hua9Q</guid>
+      <pubDate>2026-06-17T12:45:55+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>80 ans après le discours du Général de Gaulle à Bayeux, David Lisnard propose de refonder les institutions de la Ve République</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>EExU20Hua9Q</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EExU20Hua9Q/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>« La mère des batailles, c’est la réforme de l’État. » : David Lisnard sur Sud Radio</title>
+      <link>https://www.youtube.com/watch?v=QGD6trTL2Fk</link>
+      <guid>https://www.youtube.com/watch?v=QGD6trTL2Fk</guid>
+      <pubDate>2026-06-12T06:00:26+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>David Lisnard est l'invité politique de Jean-François Achilli sur Sud Radio, jeudi 11 juin 2026</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>QGD6trTL2Fk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/QGD6trTL2Fk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Le Grand Oral de David Lisnard par Michaël Darmon sur I24 News</title>
+      <link>https://www.youtube.com/watch?v=XR7cwQgaX68</link>
+      <guid>https://www.youtube.com/watch?v=XR7cwQgaX68</guid>
+      <pubDate>2026-06-11T12:27:09+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>David Lisnard était l’invité de Michaël Darmon dans Le Grand Oral, mardi 9 juin 2026.</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>XR7cwQgaX68</videoId>
+      <enclosure url="https://i.ytimg.com/vi/XR7cwQgaX68/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
