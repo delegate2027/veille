@@ -4,29 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 25 Jun 2026 05:15:36 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 05:30:38 -0000</lastBuildDate>
     <feedCount>42</feedCount>
-    <item>
-      <title>« Pas d'économies sur notre sécurité dans un monde dangereux. » | Édouard Philippe</title>
-      <link>https://www.youtube.com/watch?v=upXpVUJWwK4</link>
-      <guid>https://www.youtube.com/watch?v=upXpVUJWwK4</guid>
-      <pubDate>2026-05-28T07:34:13+00:00</pubDate>
-      <author>Horizons</author>
-      <description>Édouard Philippe était l'invité de Benjamin Duhamel ce jeudi 28 mai, sur @FranceInter.
-
----
-Pour découvrir nos autres contenus, suivez #Horizons sur les réseaux sociaux !
-
-→ Twitter (X) : https://x.com/HorizonsLeParti
-→ Facebook : https://www.facebook.com/HorizonsLeParti/
-→ Instagram : https://www.instagram.com/horizonsleparti/
-→ TikTok : https://www.tiktok.com/@horizonsleparti/
-→ LinkedIn : https://www.linkedin.com/company/horizonsleparti/
-→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R
-→ Telegram : https://t.me/HorizonsOff</description>
-      <channelTitle>Horizons</channelTitle>
-      <videoId>upXpVUJWwK4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/upXpVUJWwK4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
