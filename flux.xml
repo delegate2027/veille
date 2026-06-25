@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 25 Jun 2026 07:45:28 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:01:02 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JULIEN ODOUL : « On laisse les personnes âgées crever de chaud » (Sud Radio)</title>
+      <link>https://www.youtube.com/watch?v=mUinDpABxp0</link>
+      <guid>https://www.youtube.com/watch?v=mUinDpABxp0</guid>
+      <pubDate>2026-06-25T07:32:48+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>mUinDpABxp0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/mUinDpABxp0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"On est dirigés par des nuls !" - François Ruffin sur BFM TV</title>
       <link>https://www.youtube.com/watch?v=F-hsYpOya0M</link>
@@ -358,17 +369,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>y3j4nUZLrxs</videoId>
       <enclosure url="https://i.ytimg.com/vi/y3j4nUZLrxs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🏛️🇫🇷 THÉO BERNHARDT : « Assumez-vous d'avoir fait de la préférence étrangère une priorité ? » (QAG)</title>
-      <link>https://www.youtube.com/watch?v=cD8aZ6c8TJk</link>
-      <guid>https://www.youtube.com/watch?v=cD8aZ6c8TJk</guid>
-      <pubDate>2026-06-23T14:47:34+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>cD8aZ6c8TJk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/cD8aZ6c8TJk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Revivez le GRAND MEETING de BRUNO RETAILLEAU</title>
