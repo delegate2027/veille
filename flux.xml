@@ -4,8 +4,54 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 25 Jun 2026 18:30:45 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 18:45:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Éric Zemmour : Nous devons remplacer les immigrés par des robots !</title>
+      <link>https://www.youtube.com/watch?v=ybh7vJGLA2w</link>
+      <guid>https://www.youtube.com/watch?v=ybh7vJGLA2w</guid>
+      <pubDate>2026-06-25T18:35:36+00:00</pubDate>
+      <author>Éric Zemmour</author>
+      <description>1️⃣ Likez la vidéo, Abonnez-vous à ma chaîne YouTube en cliquant sur le bouton « s'abonner » et sur la cloche grise. Partagez cette vidéo à tous vos proches !
+2️⃣ Adhérez à RECONQUÊTE : https://www.parti-reconquete.fr/adhesions
+3️⃣ Faites un don : https://don.zemmour2022.fr/
+4️⃣ Suivez Éric Zemmour : https://www.zemmour2022.fr/jeminforme
+5️⃣ Recevez mes informations en avant-première : https://www.zemmour2022.fr/
+
+#EricZemmour #Villepinte #Presidentielle
+
+Restez connecté avec moi sur les Réseaux Sociaux :
+Facebook : https://www.facebook.com/ZemmourEric
+Twitter : https://twitter.com/ZemmourEric
+Instagram : https://www.instagram.com/ericzemmour_/
+LinkedIn : https://www.linkedin.com/in/eric-zemmour/
+Dailymotion : https://www.dailymotion.com/Eric-Zemmour
+Telegram : https://t.me/EricZemmourOfficiel
+TikTok : https://www.tiktok.com/@zemmour_eric
+Gettr : https://www.gettr.com/user/zemmoureric
+Pinterest : https://www.pinterest.fr/zemmoureric/</description>
+      <channelTitle>Éric Zemmour</channelTitle>
+      <videoId>ybh7vJGLA2w</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ybh7vJGLA2w/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nous referons de la Nouvelle-Calédonie une terre où il fait bon travailler, vivre et investir !</title>
+      <link>https://www.youtube.com/watch?v=5u2zUoQScko</link>
+      <guid>https://www.youtube.com/watch?v=5u2zUoQScko</guid>
+      <pubDate>2026-06-25T18:23:06+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>5u2zUoQScko</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5u2zUoQScko/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>L'extrême droite a pour politique de dresser les 🇫🇷 les uns contre les autres | Jean-Noël Barrot</title>
       <link>https://www.youtube.com/watch?v=91T_AyQOz5M</link>
@@ -1644,28 +1690,6 @@ Signez et faites signer : https://melenchon2027.fr/</description>
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>6h8iJIxB9s4</videoId>
       <enclosure url="https://i.ytimg.com/vi/6h8iJIxB9s4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« L’égalité d’accès aux soins est compromise dans les territoires ultramarins » | Sandrine Rousseau</title>
-      <link>https://www.youtube.com/watch?v=G2n8a0FUDUw</link>
-      <guid>https://www.youtube.com/watch?v=G2n8a0FUDUw</guid>
-      <pubDate>2026-06-12T16:11:21+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description>Intervention de soutien à la proposition de loi" Égalité d’accès aux soins des ressortissants ultramarins en hexagone" proposée par Mereana Reid Arbelot</description>
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>G2n8a0FUDUw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/G2n8a0FUDUw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« La mère des batailles, c’est la réforme de l’État. » : David Lisnard sur Sud Radio</title>
-      <link>https://www.youtube.com/watch?v=QGD6trTL2Fk</link>
-      <guid>https://www.youtube.com/watch?v=QGD6trTL2Fk</guid>
-      <pubDate>2026-06-12T06:00:26+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>David Lisnard est l'invité politique de Jean-François Achilli sur Sud Radio, jeudi 11 juin 2026</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>QGD6trTL2Fk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QGD6trTL2Fk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
