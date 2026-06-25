@@ -4,8 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 25 Jun 2026 13:45:36 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:01:05 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>🤡 La niche de l’UDR de Ciotti est un fiasco !</title>
+      <link>https://www.youtube.com/watch?v=tcVpn-_NVts</link>
+      <guid>https://www.youtube.com/watch?v=tcVpn-_NVts</guid>
+      <pubDate>2026-06-25T14:00:18+00:00</pubDate>
+      <author>Paul Vannier</author>
+      <description>Ce jeudi 25 juin 2026 a lieu la niche de groupe UDR à l'Assemblée nationale. Toute la journée, la représentation nationale examine les textes inscrits à l'ordre du jour à la demande du groupe parlementaire d'Éric Ciotti. Pourtant, les députés d'extrême droite, qui souhaitent interdire certains mariage par haine des étrangers, sont absents de l'Assemblée nationale.
+
+📲 RETROUVEZ PAUL VANNIER SUR :
+
+🔗 Telegram : https://t.me/paulvannier
+🔗 Facebook : https://bit.ly/3PD1FZ1
+🔗 Twitter : https://twitter.com/PaulVannierFI
+🔗 Instagram : https://www.instagram.com/paulvannier_/
+🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
+      <channelTitle>Paul Vannier</channelTitle>
+      <videoId>tcVpn-_NVts</videoId>
+      <enclosure url="https://i.ytimg.com/vi/tcVpn-_NVts/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier répond aux critiques sur le congé climatique</title>
       <link>https://www.youtube.com/watch?v=kmUMgHxdQBI</link>
@@ -1686,17 +1705,6 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>mvSD-5YHhlk</videoId>
       <enclosure url="https://i.ytimg.com/vi/mvSD-5YHhlk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« L’égalité d’accès aux soins est compromise dans les territoires ultramarins » | Sandrine Rousseau</title>
-      <link>https://www.youtube.com/watch?v=G2n8a0FUDUw</link>
-      <guid>https://www.youtube.com/watch?v=G2n8a0FUDUw</guid>
-      <pubDate>2026-06-12T16:11:21+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description>Intervention de soutien à la proposition de loi" Égalité d’accès aux soins des ressortissants ultramarins en hexagone" proposée par Mereana Reid Arbelot</description>
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>G2n8a0FUDUw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/G2n8a0FUDUw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
