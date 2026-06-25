@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 25 Jun 2026 10:45:30 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:01:02 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Darmanin jette des magistrats en pâture dans l’affaire Lyhanna</title>
+      <link>https://www.youtube.com/watch?v=8Zl7EgxVLvg</link>
+      <guid>https://www.youtube.com/watch?v=8Zl7EgxVLvg</guid>
+      <pubDate>2026-06-25T10:59:39+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>Suite à la publication d’un pré-rapport de deux inspections sur la mort de Lyhanna, M. Darmanin a de nouveau fait le choix de jeter en pâture une magistrate au JT de 20h sur TF1 et d’annoncer des sanctions sans attendre les conclusions de l’enquête administrative en cours, sans avoir même consulté le Conseil supérieur de la magistrature. 
+
+Le tout pour éviter de s’attaquer aux causes structurelles qui conduisent à ce type de drame et tenter de dédouaner les principaux responsables de cette situation : lui-même et l’ensemble des gouvernements dont il a fait partie.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>8Zl7EgxVLvg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8Zl7EgxVLvg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Refusons l’écologie de l’âge de pierre !</title>
       <link>https://www.youtube.com/watch?v=ZXdF3Ivdyxk</link>
@@ -1684,17 +1697,6 @@ Chapitres :
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>G2n8a0FUDUw</videoId>
       <enclosure url="https://i.ytimg.com/vi/G2n8a0FUDUw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« La mère des batailles, c’est la réforme de l’État. » : David Lisnard sur Sud Radio</title>
-      <link>https://www.youtube.com/watch?v=QGD6trTL2Fk</link>
-      <guid>https://www.youtube.com/watch?v=QGD6trTL2Fk</guid>
-      <pubDate>2026-06-12T06:00:26+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>David Lisnard est l'invité politique de Jean-François Achilli sur Sud Radio, jeudi 11 juin 2026</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>QGD6trTL2Fk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QGD6trTL2Fk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
