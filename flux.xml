@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 25 Jun 2026 11:01:02 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:15:41 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>ALEKSANDAR NIKOLIC : « Les erreurs de certains magistrats peuvent TUER ! » (Frontières)</title>
+      <link>https://www.youtube.com/watch?v=n2MCjjixT5o</link>
+      <guid>https://www.youtube.com/watch?v=n2MCjjixT5o</guid>
+      <pubDate>2026-06-25T11:03:16+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>n2MCjjixT5o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/n2MCjjixT5o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Darmanin jette des magistrats en pâture dans l’affaire Lyhanna</title>
       <link>https://www.youtube.com/watch?v=8Zl7EgxVLvg</link>
@@ -353,17 +364,6 @@ Pour l’intérêt des Corses et de la République française que nous voulons s
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>Q4XXR8Q4-aw</videoId>
       <enclosure url="https://i.ytimg.com/vi/Q4XXR8Q4-aw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY : « Le rapport sur l’affaire Lyhanna est consternant ! » (TF1)</title>
-      <link>https://www.youtube.com/watch?v=kExU-2AaAE8</link>
-      <guid>https://www.youtube.com/watch?v=kExU-2AaAE8</guid>
-      <pubDate>2026-06-23T16:00:28+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>kExU-2AaAE8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/kExU-2AaAE8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Les Français qui vivent ces rodéos au quotidien n'en peuvent plus | Isabelle Florennes</title>
