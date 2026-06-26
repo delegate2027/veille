@@ -4,8 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 26 Jun 2026 16:45:41 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:00:54 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Vive la Fête ! – En Campagne #1 du 26 juin 2026</title>
+      <link>https://www.youtube.com/watch?v=Ma589dxPcXw</link>
+      <guid>https://www.youtube.com/watch?v=Ma589dxPcXw</guid>
+      <pubDate>2026-06-26T17:00:13+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Retrouvez l'épisode pilote de la nouvelle émission de Mathilde Panot pour la campagne présidentielle de 2027, co-animée avec Danièle Obono.
+
+0:00 : Générique
+0:12 : Édito de Mathilde Panot
+7:24 : Le dossier du jour : les free party, avec Les Comploteurs et Pierre-Yves Cadalen
+39:37 : 3615 Clouet
+45:38 : La France qui lutte : avec Gaëtan Lecoq, délégué CGT d'Arcelor Dunkerque
+01:01:01 : L'artiste et sa performance : Dinaa
+01:17:05 : La Nouvelle France : avec Alexandra Mortet et Ana</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>Ma589dxPcXw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Ma589dxPcXw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>C’est absolument dangereux de pratiquer du sport avec ces températures | Marina Ferrari</title>
       <link>https://www.youtube.com/watch?v=zOdJRcL-Tkw</link>
@@ -1657,25 +1676,6 @@ TikTok : aurore_berge</description>
       <channelTitle>Aurore Bergé</channelTitle>
       <videoId>GImTssvH8t0</videoId>
       <enclosure url="https://i.ytimg.com/vi/GImTssvH8t0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur RTL - 10 juin 2026</title>
-      <link>https://www.youtube.com/watch?v=0tRHopMk_I8</link>
-      <guid>https://www.youtube.com/watch?v=0tRHopMk_I8</guid>
-      <pubDate>2026-06-13T17:01:18+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur RTL - 10 juin 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>0tRHopMk_I8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0tRHopMk_I8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
