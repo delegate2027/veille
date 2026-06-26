@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 26 Jun 2026 12:00:57 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 12:15:34 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Face à la canicule, l'urgence est de préparer la France. Dieynaba Diop sur France Info</title>
+      <link>https://www.youtube.com/watch?v=uZmGNWCKudw</link>
+      <guid>https://www.youtube.com/watch?v=uZmGNWCKudw</guid>
+      <pubDate>2026-06-26T12:09:43+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>Ce matin sur Franceinfo, Dieynaba Diop, députée socialiste, est revenue sur les conséquences de la canicule et l'urgence d'adapter notre pays au dérèglement climatique. Elle a insisté sur la nécessité de préparer dès aujourd'hui la France aux épisodes climatiques extrêmes qui vont se multiplier.
+----
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste/?hl=fr
+➡️  https://www.facebook.com/partisocialiste
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDv...
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>uZmGNWCKudw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/uZmGNWCKudw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SÉBASTIEN CHENU : « Le gouvernement est totalement à côté de la plaque ! » (France 2)</title>
       <link>https://www.youtube.com/watch?v=jbf9BaFG558</link>
@@ -1654,25 +1676,6 @@ TikTok : aurore_berge</description>
       <channelTitle>Aurore Bergé</channelTitle>
       <videoId>0tRHopMk_I8</videoId>
       <enclosure url="https://i.ytimg.com/vi/0tRHopMk_I8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé dans les 4V sur Télématin - 9 juin 2026</title>
-      <link>https://www.youtube.com/watch?v=IFoPMt7HO6k</link>
-      <guid>https://www.youtube.com/watch?v=IFoPMt7HO6k</guid>
-      <pubDate>2026-06-13T16:55:40+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé dans les 4V sur Télématin - 9 juin 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>IFoPMt7HO6k</videoId>
-      <enclosure url="https://i.ytimg.com/vi/IFoPMt7HO6k/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
