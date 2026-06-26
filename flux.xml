@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 26 Jun 2026 07:15:36 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:30:45 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Canicule : voilà ce qu'il faut faire.</title>
+      <link>https://www.youtube.com/watch?v=DYRYg9gf6QE</link>
+      <guid>https://www.youtube.com/watch?v=DYRYg9gf6QE</guid>
+      <pubDate>2026-06-26T07:19:59+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>J'étais ce matin l'invitée de la matinale de France Info.
+
+Canicule, adaptation au changement climatique, santé, énergie : à revoir en intégralité.</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>DYRYg9gf6QE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DYRYg9gf6QE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Éric Zemmour : Nous devons remplacer les immigrés par des robots !</title>
       <link>https://www.youtube.com/watch?v=ybh7vJGLA2w</link>
@@ -1668,28 +1681,6 @@ TikTok : aurore_berge</description>
       <channelTitle>Aurore Bergé</channelTitle>
       <videoId>-2zshFiNQAk</videoId>
       <enclosure url="https://i.ytimg.com/vi/-2zshFiNQAk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mort de Lyhanna : Darmanin doit démissionner. – Panorama #91</title>
-      <link>https://www.youtube.com/watch?v=6h8iJIxB9s4</link>
-      <guid>https://www.youtube.com/watch?v=6h8iJIxB9s4</guid>
-      <pubDate>2026-06-13T16:32:06+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Retrouvez le point de la semaine de Mathilde Panot.
-
-0:00 : Introduction
-0:27 : Situation au Proche-Orient
-5:44 : Mort de Lyhanna : Darmanin doit démissionner.
-20:30 : 2ème vote victorieux sur la nationalisation d'ArcelorMittal 
-21:52 : La Coupe du Monde de la honte
-25:39 : Meeting de Saint-Denis : un succès mémorable
-29:52 : Bardella, le gendre idéal du MEDEF
-32:26 : Marche des fiertés à Metz en hommage à Noahm
-
-Signez et faites signer : https://melenchon2027.fr/</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>6h8iJIxB9s4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/6h8iJIxB9s4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
