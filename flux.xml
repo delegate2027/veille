@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 26 Jun 2026 10:00:55 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:15:36 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>SÉBASTIEN CHENU : « Le gouvernement est totalement à côté de la plaque ! » (France 2)</title>
+      <link>https://www.youtube.com/watch?v=jbf9BaFG558</link>
+      <guid>https://www.youtube.com/watch?v=jbf9BaFG558</guid>
+      <pubDate>2026-06-26T10:07:02+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>jbf9BaFG558</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jbf9BaFG558/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Les intérêts de la dette vont enlever l’argent dont on aurait besoin ailleurs | François Bayrou</title>
       <link>https://www.youtube.com/watch?v=qXrE34sB1IY</link>
@@ -1662,25 +1673,6 @@ TikTok : aurore_berge</description>
       <channelTitle>Aurore Bergé</channelTitle>
       <videoId>IFoPMt7HO6k</videoId>
       <enclosure url="https://i.ytimg.com/vi/IFoPMt7HO6k/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur Public Sénat - 28 mai 2026</title>
-      <link>https://www.youtube.com/watch?v=0Hrl5LwrRss</link>
-      <guid>https://www.youtube.com/watch?v=0Hrl5LwrRss</guid>
-      <pubDate>2026-06-13T16:47:41+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur Public Sénat - 28 mai 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>0Hrl5LwrRss</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0Hrl5LwrRss/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
