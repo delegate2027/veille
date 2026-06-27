@@ -4,8 +4,31 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 27 Jun 2026 11:45:29 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 12:00:52 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>« La nouvelle géopolitique – la France, l’Europe et le monde » - Introduction de Jean-Luc Mélenchon</title>
+      <link>https://www.youtube.com/watch?v=7F8wvt4QxoE</link>
+      <guid>https://www.youtube.com/watch?v=7F8wvt4QxoE</guid>
+      <pubDate>2026-06-27T11:55:32+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu pour introduire le colloque « La nouvelle géopolitique – la France, l’Europe et le monde » de l'Institut La Boétie, le 27 juin 2026.
+
+Retrouvez l'intégralité du colloque sur : https://www.youtube.com/watch?v=0q0-WYrc3hM&amp;amp;list=PLXmNPgcneFMHpC-4xJpSI10H-0J0dm4IM&amp;amp;index=4
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>7F8wvt4QxoE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7F8wvt4QxoE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La déroute de l’extrême droite</title>
       <link>https://www.youtube.com/watch?v=gTHP8f0WcbY</link>
@@ -1650,20 +1673,6 @@ https://www.youtube.com/playlist?list=PLjHU9VmGMG_erosdzp7dSID87N8RRU_FS
       <channelTitle>Paul Vannier</channelTitle>
       <videoId>sz0UqfoP5HA</videoId>
       <enclosure url="https://i.ytimg.com/vi/sz0UqfoP5HA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face cam' #5 : Défendre nos retraites, protéger les enfants !</title>
-      <link>https://www.youtube.com/watch?v=ORp-OA7ARy4</link>
-      <guid>https://www.youtube.com/watch?v=ORp-OA7ARy4</guid>
-      <pubDate>2026-06-14T15:00:39+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Introduction : 00:00
-Ils disent n'importe quoi sur les retraites : 00:35
-Affaire Lyhanna, un drame systémique : 07:12
-Vive les salariés Decathlon en lutte : 13:15</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>ORp-OA7ARy4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ORp-OA7ARy4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
