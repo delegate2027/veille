@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 28 Jun 2026 11:15:37 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 11:30:55 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Bardella, c'est une bulle médiatique</title>
+      <link>https://www.youtube.com/watch?v=L5JU_1h_ahc</link>
+      <guid>https://www.youtube.com/watch?v=L5JU_1h_ahc</guid>
+      <pubDate>2026-06-28T11:15:49+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>Canicule, hôpitaux, Venezuela, Iran, présidentielle : j'étais aujourd'hui l'invitée de Dimanche en Politique, face à Francis Letellier.</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>L5JU_1h_ahc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/L5JU_1h_ahc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | ÉCHANGE AVEC LA JEUNESSE DE FRANCE</title>
       <link>https://www.youtube.com/watch?v=283pxAy-trY</link>
@@ -1648,31 +1659,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>EFV_1YnNE0Y</videoId>
       <enclosure url="https://i.ytimg.com/vi/EFV_1YnNE0Y/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🟥 DU SCANDALE D'ÉTAT À LA LOI : 1 an de travail pour protéger les enfants à l’école (Épisode 7)</title>
-      <link>https://www.youtube.com/watch?v=sz0UqfoP5HA</link>
-      <guid>https://www.youtube.com/watch?v=sz0UqfoP5HA</guid>
-      <pubDate>2026-06-14T16:00:36+00:00</pubDate>
-      <author>Paul Vannier</author>
-      <description>Vous avez été nombreuses et nombreux à suivre les travaux de Paul Vannier et Violette Spillebout à la suite de l'affaire Bétharram, débutée par la question posée le 11 février 2025 par le député Vannier au Premier ministre d'alors, François Bayrou.
-
-Dans les 6 épisodes précédents, que vous pouvez retrouver sur cette chaîne YouTube, vous avez pu découvrir le déroulement et les coulisses de la commission d'enquête menée par les deux députés sur le contrôle par l'État et la prévention des violences dans les établissements scolaires.
-
-Dans cet ultime épisode, Paul Vannier vous explique comment, avec Violette Spillebout, il a porté une proposition de loi découlant des travaux de leur commission d'enquête, allant jusqu'à la faire adopter par l'Assemblée nationale, le 1er juin 2026.
-
-👉 Retrouvez tous les épisodes de cette série :
-https://www.youtube.com/playlist?list=PLjHU9VmGMG_erosdzp7dSID87N8RRU_FS
-
-📲 RETROUVEZ PAUL VANNIER SUR :
-
-🔗 Telegram : https://t.me/paulvannier
-🔗 Facebook : https://bit.ly/3PD1FZ1
-🔗 Twitter : https://twitter.com/PaulVannierFI
-🔗 Instagram : https://www.instagram.com/paulvannier_/</description>
-      <channelTitle>Paul Vannier</channelTitle>
-      <videoId>sz0UqfoP5HA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/sz0UqfoP5HA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
