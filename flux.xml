@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 28 Jun 2026 15:30:46 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 15:45:29 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Canicule, nucléaire... Comment nous ferons quand nous gouvernerons ? Retrouvez mon interview sur LCI</title>
+      <link>https://www.youtube.com/watch?v=GjDerkDg4jI</link>
+      <guid>https://www.youtube.com/watch?v=GjDerkDg4jI</guid>
+      <pubDate>2026-06-28T15:43:22+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description>Alors que la vague de chaleur touche à sa fin, Aurélie Trouvé, députée de Seine-Saint-Denis, revient sur les solutions que propose la France insoumise face à la vague de chaleur qui se multiplient et pour engager la bifurcation écologique.
+
+Bon visionnage !</description>
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>GjDerkDg4jI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/GjDerkDg4jI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>GAËTAN DUSSAUSSAYE : « Nous souhaitons que Marine Le Pen soit candidate » (LCI)</title>
       <link>https://www.youtube.com/watch?v=oyOo-4skEOU</link>
@@ -1648,17 +1661,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>UQ4t0ySebDc</videoId>
       <enclosure url="https://i.ytimg.com/vi/UQ4t0ySebDc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Proche-Orient, G7, démission de Darmanin, Présidentielle 202... Mathilde Panot dans Les 4 vérités</title>
-      <link>https://www.youtube.com/watch?v=EFV_1YnNE0Y</link>
-      <guid>https://www.youtube.com/watch?v=EFV_1YnNE0Y</guid>
-      <pubDate>2026-06-15T07:08:04+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot sur france2, le lundi 15 juin 2026 à 8h10.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>EFV_1YnNE0Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/EFV_1YnNE0Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
