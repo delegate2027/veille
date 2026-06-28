@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 28 Jun 2026 13:00:54 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 13:15:34 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>GAËTAN DUSSAUSSAYE : « Nous souhaitons que Marine Le Pen soit candidate » (LCI)</title>
+      <link>https://www.youtube.com/watch?v=oyOo-4skEOU</link>
+      <guid>https://www.youtube.com/watch?v=oyOo-4skEOU</guid>
+      <pubDate>2026-06-28T13:02:34+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>oyOo-4skEOU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/oyOo-4skEOU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Bardella, c'est une bulle médiatique</title>
       <link>https://www.youtube.com/watch?v=L5JU_1h_ahc</link>
@@ -515,17 +526,6 @@ En présence de Grégory Doucet, Thomas Dossus, Damien Girard et Marine Tondelie
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>Q6Xf5xl763M</videoId>
       <enclosure url="https://i.ytimg.com/vi/Q6Xf5xl763M/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY : « 50 % de l’empreinte carbone, ce sont les importations ! » (France Inter)</title>
-      <link>https://www.youtube.com/watch?v=EJEr0WSXNiw</link>
-      <guid>https://www.youtube.com/watch?v=EJEr0WSXNiw</guid>
-      <pubDate>2026-06-24T16:00:18+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>EJEr0WSXNiw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/EJEr0WSXNiw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Avec cet épisode de chaleur extrême, le constat dans nos territoires est sans appel | Mickaël Cosson</title>
