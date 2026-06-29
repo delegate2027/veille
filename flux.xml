@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 29 Jun 2026 12:30:48 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 12:45:29 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Canicule, affaire Lyhanna, dette écologique : Eric Coquerel invité sur Cnews/E1</title>
@@ -481,17 +481,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>AakRD6JP5Xk</videoId>
       <enclosure url="https://i.ytimg.com/vi/AakRD6JP5Xk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JULIEN ODOUL : « Le RN incarne la concorde et la paix civile » (Sud Radio)</title>
-      <link>https://www.youtube.com/watch?v=mUinDpABxp0</link>
-      <guid>https://www.youtube.com/watch?v=mUinDpABxp0</guid>
-      <pubDate>2026-06-25T07:32:48+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>mUinDpABxp0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/mUinDpABxp0/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>"On est dirigés par des nuls !" - François Ruffin sur BFM TV</title>
@@ -1646,6 +1635,30 @@ Notre système est à bout de souffle, il est temps d’en changer. Regardez nos
       <channelTitle>Sarah Knafo</channelTitle>
       <videoId>qJl6dnHT1U8</videoId>
       <enclosure url="https://i.ytimg.com/vi/qJl6dnHT1U8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>GABRIEL ATTAL SUR BFMTV｜IRAN, JUSTICE, IA</title>
+      <link>https://www.youtube.com/watch?v=UQ4t0ySebDc</link>
+      <guid>https://www.youtube.com/watch?v=UQ4t0ySebDc</guid>
+      <pubDate>2026-06-15T07:13:52+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal était l'invité d'Apolline de Malherbe sur BFMTV.
+
+Rejoignez les équipes de campagne sur attalpresident.fr
+
+Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>UQ4t0ySebDc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UQ4t0ySebDc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
