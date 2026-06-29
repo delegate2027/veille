@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 29 Jun 2026 17:00:56 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 17:15:30 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Talents de France - 30 juin 2026</title>
+      <link>https://www.youtube.com/watch?v=AsfS5Yag9HI</link>
+      <guid>https://www.youtube.com/watch?v=AsfS5Yag9HI</guid>
+      <pubDate>2026-06-29T17:06:19+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description />
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>AsfS5Yag9HI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/AsfS5Yag9HI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY : « La surmortalité est absolument insupportable ! » (BFM)</title>
       <link>https://www.youtube.com/watch?v=aa7AK4ndzLk</link>
@@ -1641,21 +1652,6 @@ Avec Manon Aubry, Rima Hassan, Arnaud Le Gall et Andrée Taurinya.</description>
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>VOH30R_jnUQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/VOH30R_jnUQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Coût du travail, autorité, immigration : Échanges sans filtre avec le chef Thierry Marx.</title>
-      <link>https://www.youtube.com/watch?v=qJl6dnHT1U8</link>
-      <guid>https://www.youtube.com/watch?v=qJl6dnHT1U8</guid>
-      <pubDate>2026-06-15T13:20:53+00:00</pubDate>
-      <author>Sarah Knafo</author>
-      <description>Merci au chef Thierry Marx de m’avoir reçue dans l’un de ses ateliers de cuisine.
-
-Nous avons échangé sans filtre du coût du travail, de l’autorité et de l’immigration.
-
-Notre système est à bout de souffle, il est temps d’en changer. Regardez nos échanges. ⬆️</description>
-      <channelTitle>Sarah Knafo</channelTitle>
-      <videoId>qJl6dnHT1U8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qJl6dnHT1U8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
