@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 29 Jun 2026 15:30:42 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 15:45:41 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY : « La surmortalité est absolument insupportable ! » (BFM)</title>
+      <link>https://www.youtube.com/watch?v=aa7AK4ndzLk</link>
+      <guid>https://www.youtube.com/watch?v=aa7AK4ndzLk</guid>
+      <pubDate>2026-06-29T15:30:30+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>aa7AK4ndzLk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/aa7AK4ndzLk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Canicule, affaire Lyhanna, dette écologique : Eric Coquerel invité sur Cnews/E1</title>
       <link>https://www.youtube.com/watch?v=gYB2mvkkhCI</link>
@@ -1648,17 +1659,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>UQ4t0ySebDc</videoId>
       <enclosure url="https://i.ytimg.com/vi/UQ4t0ySebDc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Proche-Orient, G7, démission de Darmanin, Présidentielle 202... Mathilde Panot dans Les 4 vérités</title>
-      <link>https://www.youtube.com/watch?v=EFV_1YnNE0Y</link>
-      <guid>https://www.youtube.com/watch?v=EFV_1YnNE0Y</guid>
-      <pubDate>2026-06-15T07:08:04+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot sur france2, le lundi 15 juin 2026 à 8h10.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>EFV_1YnNE0Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/EFV_1YnNE0Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
