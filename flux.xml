@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 29 Jun 2026 21:30:49 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 21:45:31 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>💥 Je confronte Gabriel Attal à son bilan.</title>
@@ -26,6 +26,17 @@
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>VNdtWvWh6_o</videoId>
       <enclosure url="https://i.ytimg.com/vi/VNdtWvWh6_o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>SÉBASTIEN CHENU &amp; GABRIEL ATTAL : le face à face sur LCI !</title>
+      <link>https://www.youtube.com/watch?v=YVieSVnR1Yw</link>
+      <guid>https://www.youtube.com/watch?v=YVieSVnR1Yw</guid>
+      <pubDate>2026-06-29T21:25:50+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>YVieSVnR1Yw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YVieSVnR1Yw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>EN DIRECT | Je réponds à toutes les questions de Darius Rochebin et son équipe sur LCI.</title>
@@ -311,17 +322,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>uZmGNWCKudw</videoId>
       <enclosure url="https://i.ytimg.com/vi/uZmGNWCKudw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU : « Le gouvernement est totalement à côté de la plaque ! » (France 2)</title>
-      <link>https://www.youtube.com/watch?v=jbf9BaFG558</link>
-      <guid>https://www.youtube.com/watch?v=jbf9BaFG558</guid>
-      <pubDate>2026-06-26T10:07:02+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>jbf9BaFG558</videoId>
-      <enclosure url="https://i.ytimg.com/vi/jbf9BaFG558/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Les intérêts de la dette vont enlever l’argent dont on aurait besoin ailleurs | François Bayrou</title>
