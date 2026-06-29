@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 29 Jun 2026 16:15:39 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 16:30:41 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>JEAN-PHILIPPE TANGUY : « La surmortalité est absolument insupportable ! » (BFM)</title>
@@ -186,6 +186,27 @@ Chapitres :
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>Ma589dxPcXw</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ma589dxPcXw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴  Le Projet socialiste est adopté - Conférence de presse</title>
+      <link>https://www.youtube.com/watch?v=BrF9GrA6gkU</link>
+      <guid>https://www.youtube.com/watch?v=BrF9GrA6gkU</guid>
+      <pubDate>2026-06-26T15:03:55+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>Chloé Ridel, Secrétaire nationale à la coordination du projet et Olivier Faure, Premier secrétaire, présentent le Projet socialiste adopté par les militant·es.
+
+—
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste
+➡️  https://www.facebook.com/partisocialiste  
+➡️  https://www.tiktok.com/@partisocialiste
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>BrF9GrA6gkU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/BrF9GrA6gkU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>C’est absolument dangereux de pratiquer du sport avec ces températures | Marina Ferrari</title>
@@ -1635,30 +1656,6 @@ Notre système est à bout de souffle, il est temps d’en changer. Regardez nos
       <channelTitle>Sarah Knafo</channelTitle>
       <videoId>qJl6dnHT1U8</videoId>
       <enclosure url="https://i.ytimg.com/vi/qJl6dnHT1U8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>GABRIEL ATTAL SUR BFMTV｜IRAN, JUSTICE, IA</title>
-      <link>https://www.youtube.com/watch?v=UQ4t0ySebDc</link>
-      <guid>https://www.youtube.com/watch?v=UQ4t0ySebDc</guid>
-      <pubDate>2026-06-15T07:13:52+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Gabriel Attal était l'invité d'Apolline de Malherbe sur BFMTV.
-
-Rejoignez les équipes de campagne sur attalpresident.fr
-
-Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>UQ4t0ySebDc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/UQ4t0ySebDc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
