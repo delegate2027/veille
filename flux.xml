@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 29 Jun 2026 18:45:35 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 19:00:52 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>EN DIRECT | Je réponds à toutes les questions de Darius Rochebin et son équipe sur LCI.</title>
+      <link>https://www.youtube.com/watch?v=vFTIF1SQH3U</link>
+      <guid>https://www.youtube.com/watch?v=vFTIF1SQH3U</guid>
+      <pubDate>2026-06-29T18:54:46+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal est l'invité de LCI pour répondre à toutes les questions de Darius Rochebin et son équipe avant de débattre face à Manuel Bompard et Sébastien Chenu.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>vFTIF1SQH3U</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vFTIF1SQH3U/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>« L'Algérie vit sur la VICTIMISATION permanente ! » : JULIEN ODOUL est face à J-M APHATIE sur LCI</title>
       <link>https://www.youtube.com/watch?v=xsnoXNwclng</link>
@@ -1634,24 +1647,6 @@ Avec Manon Aubry, Rima Hassan, Arnaud Le Gall et Andrée Taurinya.</description>
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>C-AKEyO8qkc</videoId>
       <enclosure url="https://i.ytimg.com/vi/C-AKEyO8qkc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella sur Politico : « Nous réduirons de moitié notre contribution au budget de l'UE ! »</title>
-      <link>https://www.youtube.com/watch?v=VOH30R_jnUQ</link>
-      <guid>https://www.youtube.com/watch?v=VOH30R_jnUQ</guid>
-      <pubDate>2026-06-15T16:00:27+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>VOH30R_jnUQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/VOH30R_jnUQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
