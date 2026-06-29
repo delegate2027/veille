@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 29 Jun 2026 09:30:45 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 09:45:29 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Canicule, affaire Lyhanna, dette écologique : Eric Coquerel invité sur Cnews/E1</title>
+      <link>https://www.youtube.com/watch?v=gYB2mvkkhCI</link>
+      <guid>https://www.youtube.com/watch?v=gYB2mvkkhCI</guid>
+      <pubDate>2026-06-29T09:36:53+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Canicule, affaire Lyhanna, dette écologique : retrouvez l’interview d’Eric Coquerel sur Cnews et Europe 1, le vendredi 26 juin 2026.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>gYB2mvkkhCI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gYB2mvkkhCI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SÉBASTIEN CHENU : « Je suis hostile à ce que l'Assemblée nationale ressemble à une ZAD ! » (RTL)</title>
       <link>https://www.youtube.com/watch?v=O_gipArryBQ</link>
@@ -1462,19 +1473,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>zFxkKPGVslc</videoId>
       <enclosure url="https://i.ytimg.com/vi/zFxkKPGVslc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Audition de Total, PLFR, foot, Trump : Eric Coquerel, invité de la matinale France Info TV</title>
-      <link>https://www.youtube.com/watch?v=DEyjenl4TVg</link>
-      <guid>https://www.youtube.com/watch?v=DEyjenl4TVg</guid>
-      <pubDate>2026-06-17T07:23:02+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Éric Coquerel était l’invité de la matinale de France Info TV le mercredi 17 juin 2026.
-
-Il est revenu sur plusieurs sujets d’actualité : l’audition de Patrick Pouyanné, PDG de TotalEnergies, à l’Assemblée nationale, la victoire de l’équipe de France pour son premier match du Mondial, sa demande de projet de loi de finances rectificative (PLFR), ainsi que le dîner entre Emmanuel Macron et Donald Trump à Versailles.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>DEyjenl4TVg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DEyjenl4TVg/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Nous allons durcir la politique migratoire de l'Union européenne !</title>
