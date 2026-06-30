@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 10:01:11 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:15:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Talents de France - 30 juin 2026 - Partie 3</title>
+      <link>https://www.youtube.com/watch?v=CwdXEpUu3eI</link>
+      <guid>https://www.youtube.com/watch?v=CwdXEpUu3eI</guid>
+      <pubDate>2026-06-30T10:13:18+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description />
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>CwdXEpUu3eI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/CwdXEpUu3eI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JULIEN ODOUL : « La justice des mineurs est quasiment un permis de tuer ! » (RMC)</title>
       <link>https://www.youtube.com/watch?v=2HNJVCplPRc</link>
@@ -1647,22 +1658,6 @@ Votez pour la liste “France-Calédonie, une Patrie”, soutenue par le Rassemb
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>y8TomvbdEdY</videoId>
       <enclosure url="https://i.ytimg.com/vi/y8TomvbdEdY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ambiance de folie lors du match France - Sénégal à la Fan Zone de Roubaix</title>
-      <link>https://www.youtube.com/watch?v=kuGSSTyIGiw</link>
-      <guid>https://www.youtube.com/watch?v=kuGSSTyIGiw</guid>
-      <pubDate>2026-06-17T15:15:39+00:00</pubDate>
-      <author>David Guiraud</author>
-      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
-
-Sur Tiktok : @davidguiraudlfi
-Twitter : https://twitter.com/guiraudind
-Instagram : https://www.instagram.com/guirauddavid/
-Facebook : https://www.facebook.com/david.guiraud.50</description>
-      <channelTitle>David Guiraud</channelTitle>
-      <videoId>kuGSSTyIGiw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/kuGSSTyIGiw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
