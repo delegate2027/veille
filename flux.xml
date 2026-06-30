@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 07:00:56 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:15:34 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Talents de France - 30 juin 2026</title>
+      <link>https://www.youtube.com/watch?v=M2IJtGMvXzI</link>
+      <guid>https://www.youtube.com/watch?v=M2IJtGMvXzI</guid>
+      <pubDate>2026-06-30T07:04:24+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description />
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>M2IJtGMvXzI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/M2IJtGMvXzI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Gabriel Attal sur LCI  I Je réponds à toutes les questions de Darius Rochebin et son équipe.</title>
       <link>https://www.youtube.com/watch?v=A9bsTZcaMuc</link>
@@ -1652,17 +1663,6 @@ Abonnez-vous !</description>
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>zbWTdJa4jaM</videoId>
       <enclosure url="https://i.ytimg.com/vi/zbWTdJa4jaM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JÉRÔME GUEDJ SUR LCI｜IRAN, PRIMAIRES...</title>
-      <link>https://www.youtube.com/watch?v=Fxb9bGw2mLQ</link>
-      <guid>https://www.youtube.com/watch?v=Fxb9bGw2mLQ</guid>
-      <pubDate>2026-06-15T20:35:29+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>Fxb9bGw2mLQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Fxb9bGw2mLQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
