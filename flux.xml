@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 12:15:38 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:30:50 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Faire face à la canicule : un projet de loi de finances rectificative d'urgence !</title>
@@ -186,7 +186,7 @@ Il revient également sur la protection de l'enfance, les moyens des services pu
       <enclosure url="https://i.ytimg.com/vi/4CTziAZ05JQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Talents de France - 30 juin 2026 - Partie 1</title>
+      <title>Talents de France - 30 juin 2026</title>
       <link>https://www.youtube.com/watch?v=zT2gI7WG18Y</link>
       <guid>https://www.youtube.com/watch?v=zT2gI7WG18Y</guid>
       <pubDate>2026-06-30T07:41:15+00:00</pubDate>
@@ -353,17 +353,6 @@ Bon visionnage !</description>
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>GjDerkDg4jI</videoId>
       <enclosure url="https://i.ytimg.com/vi/GjDerkDg4jI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>GAËTAN DUSSAUSSAYE : « Nous souhaitons que Marine Le Pen soit candidate » (LCI)</title>
-      <link>https://www.youtube.com/watch?v=oyOo-4skEOU</link>
-      <guid>https://www.youtube.com/watch?v=oyOo-4skEOU</guid>
-      <pubDate>2026-06-28T13:02:34+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>oyOo-4skEOU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/oyOo-4skEOU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Bardella, c'est une bulle médiatique</title>
@@ -1662,6 +1651,22 @@ Votez pour la liste “France-Calédonie, une Patrie”, soutenue par le Rassemb
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>y8TomvbdEdY</videoId>
       <enclosure url="https://i.ytimg.com/vi/y8TomvbdEdY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ambiance de folie lors du match France - Sénégal à la Fan Zone de Roubaix</title>
+      <link>https://www.youtube.com/watch?v=kuGSSTyIGiw</link>
+      <guid>https://www.youtube.com/watch?v=kuGSSTyIGiw</guid>
+      <pubDate>2026-06-17T15:15:39+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>kuGSSTyIGiw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/kuGSSTyIGiw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
