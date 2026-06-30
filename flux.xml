@@ -4,8 +4,40 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 20:45:31 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:00:54 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Talents de France - 30 juin 2026 - Partie 1</title>
+      <link>https://www.youtube.com/watch?v=zT2gI7WG18Y</link>
+      <guid>https://www.youtube.com/watch?v=zT2gI7WG18Y</guid>
+      <pubDate>2026-06-30T20:46:51+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description />
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>zT2gI7WG18Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zT2gI7WG18Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴  Le Projet socialiste est adopté - Conférence de presse</title>
+      <link>https://www.youtube.com/watch?v=BrF9GrA6gkU</link>
+      <guid>https://www.youtube.com/watch?v=BrF9GrA6gkU</guid>
+      <pubDate>2026-06-30T20:46:34+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>Chloé Ridel, Secrétaire nationale à la coordination du projet et Olivier Faure, Premier secrétaire, présentent le Projet socialiste adopté par les militant·es.
+
+—
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste
+➡️  https://www.facebook.com/partisocialiste  
+➡️  https://www.tiktok.com/@partisocialiste
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>BrF9GrA6gkU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/BrF9GrA6gkU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Talents de France - 30 juin 2026 - Ouverture</title>
       <link>https://www.youtube.com/watch?v=M2IJtGMvXzI</link>
@@ -282,17 +314,6 @@ Il revient également sur la protection de l'enfance, les moyens des services pu
       <enclosure url="https://i.ytimg.com/vi/4CTziAZ05JQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Talents de France - 30 juin 2026 - Partie 1</title>
-      <link>https://www.youtube.com/watch?v=zT2gI7WG18Y</link>
-      <guid>https://www.youtube.com/watch?v=zT2gI7WG18Y</guid>
-      <pubDate>2026-06-30T07:41:15+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description />
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>zT2gI7WG18Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zT2gI7WG18Y/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Je n'aurais pas voté ce texte sur la fin de vie | François Bayrou</title>
       <link>https://www.youtube.com/watch?v=uRJFk49NDTg</link>
       <guid>https://www.youtube.com/watch?v=uRJFk49NDTg</guid>
@@ -540,27 +561,6 @@ Chapitres :
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>Ma589dxPcXw</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ma589dxPcXw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴  Le Projet socialiste est adopté - Conférence de presse</title>
-      <link>https://www.youtube.com/watch?v=BrF9GrA6gkU</link>
-      <guid>https://www.youtube.com/watch?v=BrF9GrA6gkU</guid>
-      <pubDate>2026-06-26T15:03:55+00:00</pubDate>
-      <author>PS - Parti socialiste</author>
-      <description>Chloé Ridel, Secrétaire nationale à la coordination du projet et Olivier Faure, Premier secrétaire, présentent le Projet socialiste adopté par les militant·es.
-
-—
-Suivez-nous sur les réseaux sociaux :
-➡️  https://x.com/partisocialiste
-➡️  https://bsky.app/profile/partisocialiste
-➡️  https://www.instagram.com/partisocialiste
-➡️  https://www.facebook.com/partisocialiste  
-➡️  https://www.tiktok.com/@partisocialiste
-
-🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
-      <channelTitle>PS - Parti socialiste</channelTitle>
-      <videoId>BrF9GrA6gkU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BrF9GrA6gkU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>C’est absolument dangereux de pratiquer du sport avec ces températures | Marina Ferrari</title>
