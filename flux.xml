@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 15:45:42 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 16:00:59 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>En campagne : L'édito de Mathilde Panot</title>
+      <link>https://www.youtube.com/watch?v=I5VBb08EDcQ</link>
+      <guid>https://www.youtube.com/watch?v=I5VBb08EDcQ</guid>
+      <pubDate>2026-06-30T15:49:47+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Retrouvez l'émission En Campagne dans son entièreté : https://www.youtube.com/watch?v=Ma589dxPcXw</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>I5VBb08EDcQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/I5VBb08EDcQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La forêt a besoin qu'on s'occupe d'elle | Sophie Mette</title>
       <link>https://www.youtube.com/watch?v=f3rv48aBr4A</link>
@@ -1651,17 +1662,6 @@ Votez pour la liste “France-Calédonie, une Patrie”, soutenue par le Rassemb
       <channelTitle>David Lisnard</channelTitle>
       <videoId>72DH6G4TXS4</videoId>
       <enclosure url="https://i.ytimg.com/vi/72DH6G4TXS4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Julie Laernoes : "Mon cœur d'écologiste et de maman saigne face à votre abandon du monde qui vient."</title>
-      <link>https://www.youtube.com/watch?v=y8TomvbdEdY</link>
-      <guid>https://www.youtube.com/watch?v=y8TomvbdEdY</guid>
-      <pubDate>2026-06-17T15:44:14+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>y8TomvbdEdY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/y8TomvbdEdY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
