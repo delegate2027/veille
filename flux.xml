@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 07:30:45 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:45:40 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Talents de France - 30 juin 2026</title>
+      <link>https://www.youtube.com/watch?v=zT2gI7WG18Y</link>
+      <guid>https://www.youtube.com/watch?v=zT2gI7WG18Y</guid>
+      <pubDate>2026-06-30T07:41:15+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description />
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>zT2gI7WG18Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zT2gI7WG18Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Je n'aurais pas voté ce texte sur la fin de vie | François Bayrou</title>
       <link>https://www.youtube.com/watch?v=uRJFk49NDTg</link>
@@ -1636,32 +1647,6 @@ International, accord de paix entre l'Iran et les Etats-Unis et visite de Donald
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>CzJcVwpzO7k</videoId>
       <enclosure url="https://i.ytimg.com/vi/CzJcVwpzO7k/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
-      <link>https://www.youtube.com/watch?v=zbWTdJa4jaM</link>
-      <guid>https://www.youtube.com/watch?v=zbWTdJa4jaM</guid>
-      <pubDate>2026-06-16T09:17:18+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Rendez-vous ce mardi 16 juin pour suivre le Point Presse Hebdo du groupe parlementaire La France insoumise avec Mathilde Panot !
-
-_________________________________________________ 
-
-Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
-
-☞ X (Twitter) : https://x.com/FiAssemblee
-☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
-☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
-☞ YouTube :  / @FranceinsoumiseAN
-☞ Instagram : https://instagram.com/FranceinsoumiseAN/
-☞ Threads : https://www.threads.net/@FranceinsoumiseAN
-☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
-☞ Telegram : https://t.me/FranceinsoumiseAN
-
-Abonnez-vous !</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>zbWTdJa4jaM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zbWTdJa4jaM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
