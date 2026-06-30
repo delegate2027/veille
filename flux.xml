@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 21:31:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:45:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY : « Les Verts ont raconté absolument n'importe quoi ! » (BFM)</title>
+      <link>https://www.youtube.com/watch?v=-rsWckExgd0</link>
+      <guid>https://www.youtube.com/watch?v=-rsWckExgd0</guid>
+      <pubDate>2026-06-30T21:41:31+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>-rsWckExgd0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-rsWckExgd0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Talents de France - 30 juin 2026 - Partie 1</title>
       <link>https://www.youtube.com/watch?v=zT2gI7WG18Y</link>
@@ -424,17 +435,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>gYB2mvkkhCI</videoId>
       <enclosure url="https://i.ytimg.com/vi/gYB2mvkkhCI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU : « Je suis hostile à ce que l'Assemblée nationale ressemble à une ZAD ! » (RTL)</title>
-      <link>https://www.youtube.com/watch?v=O_gipArryBQ</link>
-      <guid>https://www.youtube.com/watch?v=O_gipArryBQ</guid>
-      <pubDate>2026-06-29T09:12:35+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>O_gipArryBQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/O_gipArryBQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Canicule, nucléaire... Comment nous ferons quand nous gouvernerons ? Retrouvez mon interview sur LCI</title>
