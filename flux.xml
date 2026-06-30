@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 09:15:39 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:30:46 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>EN DIRECT | Je réponds à toutes les questions de Darius Rochebin et son équipe sur LCI.</title>
+      <link>https://www.youtube.com/watch?v=vFTIF1SQH3U</link>
+      <guid>https://www.youtube.com/watch?v=vFTIF1SQH3U</guid>
+      <pubDate>2026-06-30T09:18:05+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal est l'invité de LCI pour répondre à toutes les questions de Darius Rochebin et son équipe avant de débattre face à Manuel Bompard et Sébastien Chenu.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>vFTIF1SQH3U</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vFTIF1SQH3U/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Talents de France - 30 juin 2026 - Partie 2</title>
       <link>https://www.youtube.com/watch?v=nRIIeeIK1RE</link>
@@ -235,19 +248,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>YVieSVnR1Yw</videoId>
       <enclosure url="https://i.ytimg.com/vi/YVieSVnR1Yw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Je réponds à toutes les questions de Darius Rochebin et son équipe sur LCI.</title>
-      <link>https://www.youtube.com/watch?v=vFTIF1SQH3U</link>
-      <guid>https://www.youtube.com/watch?v=vFTIF1SQH3U</guid>
-      <pubDate>2026-06-29T18:54:46+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Gabriel Attal est l'invité de LCI pour répondre à toutes les questions de Darius Rochebin et son équipe avant de débattre face à Manuel Bompard et Sébastien Chenu.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>vFTIF1SQH3U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vFTIF1SQH3U/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>« L'Algérie vit sur la VICTIMISATION permanente ! » : JULIEN ODOUL est face à J-M APHATIE sur LCI</title>
