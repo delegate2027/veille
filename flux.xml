@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 13:45:31 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:01:06 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Cyrielle Chatelain : "La canicule est politique. Les morts, vous les avez sur la conscience !"</title>
+      <link>https://www.youtube.com/watch?v=gEfZ_VwM01s</link>
+      <guid>https://www.youtube.com/watch?v=gEfZ_VwM01s</guid>
+      <pubDate>2026-06-30T13:49:50+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>gEfZ_VwM01s</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gEfZ_VwM01s/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Fin de vie : Sandrine Rousseau fait le bilan des débats avant le vote</title>
       <link>https://www.youtube.com/watch?v=iG9_udgYGkw</link>
@@ -340,17 +351,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>O_gipArryBQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/O_gipArryBQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>FRANCK ALLISIO : « Ce gouvernement et la Macronie tout entière arrivent à bout de souffle ! » (TF1)</title>
-      <link>https://www.youtube.com/watch?v=HkSuHz1AK2M</link>
-      <guid>https://www.youtube.com/watch?v=HkSuHz1AK2M</guid>
-      <pubDate>2026-06-29T08:13:23+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>HkSuHz1AK2M</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HkSuHz1AK2M/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Canicule, nucléaire... Comment nous ferons quand nous gouvernerons ? Retrouvez mon interview sur LCI</title>
