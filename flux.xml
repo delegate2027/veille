@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 18:00:58 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 18:15:41 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Sarah Knafo et David Lisnard débattent devant 200 entrepreneurs</title>
+      <link>https://www.youtube.com/watch?v=aW47JFCeTWo</link>
+      <guid>https://www.youtube.com/watch?v=aW47JFCeTWo</guid>
+      <pubDate>2026-06-30T18:05:01+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>À l'invitation du cercle ETHIC, Sarah Knafo et David Lisnard ont débattu devant 200 entrepreneurs.
+
+Les débats portaient sur l'économie, la situation financière du pays et sur comment s'en sortir pour redresser la France.
+
+Regardez leur débat !</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>aW47JFCeTWo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/aW47JFCeTWo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Damien Girard : "Ce qui nous glace le sang, c’est l’odeur de la mort dans nos campagnes."</title>
       <link>https://www.youtube.com/watch?v=1V7GZB6XShM</link>
@@ -1649,19 +1664,6 @@ Pendant ce temps, la solidarité publique disparaît au profit d’un modèle pr
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>AnkCT4NH3Os</videoId>
       <enclosure url="https://i.ytimg.com/vi/AnkCT4NH3Os/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le 28 juin, votez pour la liste “France-Calédonie, une Patrie”, soutenue par le RN !</title>
-      <link>https://www.youtube.com/watch?v=j2TnkdXoPYI</link>
-      <guid>https://www.youtube.com/watch?v=j2TnkdXoPYI</guid>
-      <pubDate>2026-06-18T05:02:45+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Mes chers compatriotes, Français de Nouvelle-Calédonie, le 28 juin, vous allez élire vos représentants provinciaux.
-
-Votez pour la liste “France-Calédonie, une Patrie”, soutenue par le Rassemblement national, et menée par Alain Descombels et ses colistiers ! 🇫🇷</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>j2TnkdXoPYI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/j2TnkdXoPYI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
