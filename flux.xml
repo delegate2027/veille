@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 09:30:46 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:45:38 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JULIEN ODOUL : « La justice des mineurs est quasiment un permis de tuer ! » (RMC)</title>
+      <link>https://www.youtube.com/watch?v=2HNJVCplPRc</link>
+      <guid>https://www.youtube.com/watch?v=2HNJVCplPRc</guid>
+      <pubDate>2026-06-30T09:44:47+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>2HNJVCplPRc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2HNJVCplPRc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Je réponds à toutes les questions de Darius Rochebin et son équipe sur LCI.</title>
       <link>https://www.youtube.com/watch?v=vFTIF1SQH3U</link>
@@ -1652,17 +1663,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>David Guiraud</channelTitle>
       <videoId>kuGSSTyIGiw</videoId>
       <enclosure url="https://i.ytimg.com/vi/kuGSSTyIGiw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Discours de David Lisnard à Bayeux sur les institutions</title>
-      <link>https://www.youtube.com/watch?v=EExU20Hua9Q</link>
-      <guid>https://www.youtube.com/watch?v=EExU20Hua9Q</guid>
-      <pubDate>2026-06-17T12:45:55+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>80 ans après le discours du Général de Gaulle à Bayeux, David Lisnard propose de refonder les institutions de la Ve République</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>EExU20Hua9Q</videoId>
-      <enclosure url="https://i.ytimg.com/vi/EExU20Hua9Q/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
