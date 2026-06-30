@@ -4,8 +4,43 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 08:45:32 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:00:58 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Talents de France - 30 juin 2026</title>
+      <link>https://www.youtube.com/watch?v=cw4UBpoYzmU</link>
+      <guid>https://www.youtube.com/watch?v=cw4UBpoYzmU</guid>
+      <pubDate>2026-06-30T08:50:35+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description />
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>cw4UBpoYzmU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/cw4UBpoYzmU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Talents de France - 30 juin 2026</title>
+      <link>https://www.youtube.com/watch?v=GLLojqkJEdg</link>
+      <guid>https://www.youtube.com/watch?v=GLLojqkJEdg</guid>
+      <pubDate>2026-06-30T08:48:50+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description />
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>GLLojqkJEdg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/GLLojqkJEdg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pour une séparation de l'Argent et de l'État - Conférence de presse</title>
+      <link>https://www.youtube.com/watch?v=NRCUtfCFp8w</link>
+      <guid>https://www.youtube.com/watch?v=NRCUtfCFp8w</guid>
+      <pubDate>2026-06-30T08:47:57+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>Suivez en direct la conférence de presse de François Ruffin et Sophie Taillé-Polian pour la publication du 2ᵉ Cahier de campagne consacré à la Probité. Au programme : une proposition de loi de séparation de l'Argent et de l'État, pour en finir avec les conflits d'intérêts, le pantouflage et la grande braderie de nos fleurons industriels. De l'abolition des privilèges présidentiels à la mise « au frigo » des ministres sortants, découvrez toutes nos propositions pour rétablir la confiance entre les citoyens et leurs représentants. Rendez-vous le jeudi 2 juillet 2026 à 11h00.
+
+➡️ Soutenez François Ruffin : nouspresident.fr</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>NRCUtfCFp8w</videoId>
+      <enclosure url="https://i.ytimg.com/vi/NRCUtfCFp8w/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
       <link>https://www.youtube.com/watch?v=H8HoP5QQRx8</link>
@@ -1638,39 +1673,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>UVLcUIbfElw</videoId>
       <enclosure url="https://i.ytimg.com/vi/UVLcUIbfElw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Christine Arrighi : "J'ai une pensée pour les 19 agent·es de la DGFiP qui ont mis fin à leurs jours"</title>
-      <link>https://www.youtube.com/watch?v=7MeVro5HoJg</link>
-      <guid>https://www.youtube.com/watch?v=7MeVro5HoJg</guid>
-      <pubDate>2026-06-16T15:27:39+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>7MeVro5HoJg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7MeVro5HoJg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Glucksmann, le macron bis !</title>
-      <link>https://www.youtube.com/watch?v=oyqr0O74S-Q</link>
-      <guid>https://www.youtube.com/watch?v=oyqr0O74S-Q</guid>
-      <pubDate>2026-06-16T15:04:02+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Mon intervention sur Europe 1 du lundi 15 juin 2026</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>oyqr0O74S-Q</videoId>
-      <enclosure url="https://i.ytimg.com/vi/oyqr0O74S-Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de presse du groupe de la Gauche - juin 2026</title>
-      <link>https://www.youtube.com/watch?v=YekT5ELhBh8</link>
-      <guid>https://www.youtube.com/watch?v=YekT5ELhBh8</guid>
-      <pubDate>2026-06-16T13:53:37+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>L'Europe va voter le texte le plus cruel de son histoire.</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>YekT5ELhBh8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YekT5ELhBh8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
