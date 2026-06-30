@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 21:45:32 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 22:00:56 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Talents de France - 30 juin 2026 - Partie 2</title>
+      <link>https://www.youtube.com/watch?v=nRIIeeIK1RE</link>
+      <guid>https://www.youtube.com/watch?v=nRIIeeIK1RE</guid>
+      <pubDate>2026-06-30T21:55:41+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description />
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>nRIIeeIK1RE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nRIIeeIK1RE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY : « Les Verts ont raconté absolument n'importe quoi ! » (BFM)</title>
       <link>https://www.youtube.com/watch?v=-rsWckExgd0</link>
@@ -194,17 +205,6 @@ Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>vFTIF1SQH3U</videoId>
       <enclosure url="https://i.ytimg.com/vi/vFTIF1SQH3U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Talents de France - 30 juin 2026 - Partie 2</title>
-      <link>https://www.youtube.com/watch?v=nRIIeeIK1RE</link>
-      <guid>https://www.youtube.com/watch?v=nRIIeeIK1RE</guid>
-      <pubDate>2026-06-30T09:06:29+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description />
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>nRIIeeIK1RE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nRIIeeIK1RE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Talents de France - 30 juin 2026 - Partie 2</title>
