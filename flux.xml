@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 30 Jun 2026 13:15:31 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 13:30:46 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Fin de vie : Sandrine Rousseau fait le bilan des débats avant le vote</title>
+      <link>https://www.youtube.com/watch?v=iG9_udgYGkw</link>
+      <guid>https://www.youtube.com/watch?v=iG9_udgYGkw</guid>
+      <pubDate>2026-06-30T13:23:56+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description />
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>iG9_udgYGkw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/iG9_udgYGkw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Faire face à la canicule : un projet de loi de finances rectificative d'urgence !</title>
       <link>https://www.youtube.com/watch?v=cXoGG1n7NxI</link>
@@ -1651,22 +1662,6 @@ Votez pour la liste “France-Calédonie, une Patrie”, soutenue par le Rassemb
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>y8TomvbdEdY</videoId>
       <enclosure url="https://i.ytimg.com/vi/y8TomvbdEdY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ambiance de folie lors du match France - Sénégal à la Fan Zone de Roubaix</title>
-      <link>https://www.youtube.com/watch?v=kuGSSTyIGiw</link>
-      <guid>https://www.youtube.com/watch?v=kuGSSTyIGiw</guid>
-      <pubDate>2026-06-17T15:15:39+00:00</pubDate>
-      <author>David Guiraud</author>
-      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
-
-Sur Tiktok : @davidguiraudlfi
-Twitter : https://twitter.com/guiraudind
-Instagram : https://www.instagram.com/guirauddavid/
-Facebook : https://www.facebook.com/david.guiraud.50</description>
-      <channelTitle>David Guiraud</channelTitle>
-      <videoId>kuGSSTyIGiw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/kuGSSTyIGiw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
