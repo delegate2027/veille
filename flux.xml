@@ -4,7 +4,120 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 01 Jul 2026 04:00:49 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 04:15:31 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Damien Girard : "Ce qui nous glace le sang, c’est l’odeur de la mort dans nos campagnes."</title>
+      <link>https://www.youtube.com/watch?v=1V7GZB6XShM</link>
+      <guid>https://www.youtube.com/watch?v=1V7GZB6XShM</guid>
+      <pubDate>2026-06-30T16:10:36+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>1V7GZB6XShM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/1V7GZB6XShM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cyrielle Chatelain : "La canicule est politique. Les morts, vous les avez sur la conscience !"</title>
+      <link>https://www.youtube.com/watch?v=gEfZ_VwM01s</link>
+      <guid>https://www.youtube.com/watch?v=gEfZ_VwM01s</guid>
+      <pubDate>2026-06-30T13:49:50+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>gEfZ_VwM01s</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gEfZ_VwM01s/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Tondelier répond aux critiques sur le congé climatique</title>
+      <link>https://www.youtube.com/watch?v=kmUMgHxdQBI</link>
+      <guid>https://www.youtube.com/watch?v=kmUMgHxdQBI</guid>
+      <pubDate>2026-06-25T12:41:35+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>kmUMgHxdQBI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/kmUMgHxdQBI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Conférence de presse sur les mesures d’adaptation des Écologistes face aux canicules</title>
+      <link>https://www.youtube.com/watch?v=Q6Xf5xl763M</link>
+      <guid>https://www.youtube.com/watch?v=Q6Xf5xl763M</guid>
+      <pubDate>2026-06-24T16:31:35+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Ce mercredi 24 juin les écologistes ont présenté des propositions suite aux vagues de chaleur de mai et juin 2026.
+En présence de Grégory Doucet, Thomas Dossus, Damien Girard et Marine Tondelier.
+
+🔗 Le dossier de presse est à retrouver à sur lesecologistes.fr : https://lesecologistes.fr/document/3kIfTFw9mdlGi1dyCdUoUN/dossierdeprese-fraicheur-2.pdf</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>Q6Xf5xl763M</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Q6Xf5xl763M/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Tondelier : "le RN remettait encore en cause les rapports du GIEC en 2023" (BFM)</title>
+      <link>https://www.youtube.com/watch?v=wTue3PBgWRY</link>
+      <guid>https://www.youtube.com/watch?v=wTue3PBgWRY</guid>
+      <pubDate>2026-06-24T07:55:42+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Mercredi 24 juin 2026, Marine Tondelier était l'invitée d'Apolline de Malherbe dans la matinale de BFM.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>wTue3PBgWRY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/wTue3PBgWRY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Tondelier : "j'ai une pensée pour les éditorialistes climatosceptiques aujourd'hui" (LCI)</title>
+      <link>https://www.youtube.com/watch?v=b4D7hX3WPE0</link>
+      <guid>https://www.youtube.com/watch?v=b4D7hX3WPE0</guid>
+      <pubDate>2026-06-21T09:08:41+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Dimanche 21 juin 2026, Marine Tondelier était l'invitée d'En Toute Franchise, l'émission politique dominicale de LCI.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>b4D7hX3WPE0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/b4D7hX3WPE0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Daniel Salmon : "À quand un plan massif d’isolation des logements, écoles et  hôpitaux ?"</title>
+      <link>https://www.youtube.com/watch?v=dpp9hwmBBRU</link>
+      <guid>https://www.youtube.com/watch?v=dpp9hwmBBRU</guid>
+      <pubDate>2026-06-18T07:34:28+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>dpp9hwmBBRU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dpp9hwmBBRU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Julie Laernoes : "Mon cœur d'écologiste et de maman saigne face à votre abandon du monde qui vient."</title>
+      <link>https://www.youtube.com/watch?v=y8TomvbdEdY</link>
+      <guid>https://www.youtube.com/watch?v=y8TomvbdEdY</guid>
+      <pubDate>2026-06-17T15:44:14+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>y8TomvbdEdY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/y8TomvbdEdY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Jean Claude Raux : "Quand nous défendons la qualité de l'eau, Annie Genevard ne nous écoute jamais"</title>
+      <link>https://www.youtube.com/watch?v=UVLcUIbfElw</link>
+      <guid>https://www.youtube.com/watch?v=UVLcUIbfElw</guid>
+      <pubDate>2026-06-16T15:41:35+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>UVLcUIbfElw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UVLcUIbfElw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Christine Arrighi : "J'ai une pensée pour les 19 agent·es de la DGFiP qui ont mis fin à leurs jours"</title>
+      <link>https://www.youtube.com/watch?v=7MeVro5HoJg</link>
+      <guid>https://www.youtube.com/watch?v=7MeVro5HoJg</guid>
+      <pubDate>2026-06-16T15:27:39+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>7MeVro5HoJg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7MeVro5HoJg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
