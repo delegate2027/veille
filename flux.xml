@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 01 Jul 2026 09:45:32 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:01:05 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Allocution de Jean-Luc Mélenchon - Écorégions et 6e République</title>
@@ -511,17 +511,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>xsnoXNwclng</videoId>
       <enclosure url="https://i.ytimg.com/vi/xsnoXNwclng/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY : « La surmortalité est absolument insupportable ! » (BFM)</title>
-      <link>https://www.youtube.com/watch?v=aa7AK4ndzLk</link>
-      <guid>https://www.youtube.com/watch?v=aa7AK4ndzLk</guid>
-      <pubDate>2026-06-29T15:30:30+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>aa7AK4ndzLk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/aa7AK4ndzLk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Canicule, affaire Lyhanna, dette écologique : Eric Coquerel invité sur Cnews/E1</title>
@@ -1666,6 +1655,24 @@ Elle a pu débattre notamment du scandale du périscolaire parisien, de l’éle
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>_68R2TT1Lqw</videoId>
       <enclosure url="https://i.ytimg.com/vi/_68R2TT1Lqw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UNE AUTRE VOIE POUR 2027 | Léon Deffontaines | Europe 1</title>
+      <link>https://www.youtube.com/watch?v=0Le26wuMlJs</link>
+      <guid>https://www.youtube.com/watch?v=0Le26wuMlJs</guid>
+      <pubDate>2026-06-18T13:52:08+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Invité d'Europe 1, Léon Deffontaines, porte-parole national du Parti communiste français, réagit à l'actualité internationale et politique.
+
+Il revient sur le G7, la visite de Donald Trump à Versailles, la guerre en Ukraine et le rôle que pourrait jouer la France pour construire la paix. Il répond également à la polémique autour de la Marseillaise avant d'aborder les enjeux de la présidentielle de 2027, la reconstruction de la gauche, l'écologie et la réindustrialisation du pays.
+
+00:00 La France face au G7 et à Donald Trump
+04:50 Ukraine : pour une initiative de paix française
+07:58 Marseillaise et polémique à gauche
+12:21 Présidentielle 2027 : quelle gauche pour demain ?</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>0Le26wuMlJs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0Le26wuMlJs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
