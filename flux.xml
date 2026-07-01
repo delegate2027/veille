@@ -4,119 +4,94 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 01 Jul 2026 05:15:29 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 05:30:38 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
-      <title>Talents de France - 30 juin 2026 - Partie 3</title>
-      <link>https://www.youtube.com/watch?v=CwdXEpUu3eI</link>
-      <guid>https://www.youtube.com/watch?v=CwdXEpUu3eI</guid>
-      <pubDate>2026-06-30T23:09:53+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description />
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>CwdXEpUu3eI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/CwdXEpUu3eI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Talents de France - 30 juin 2026 - Partie 2</title>
-      <link>https://www.youtube.com/watch?v=nRIIeeIK1RE</link>
-      <guid>https://www.youtube.com/watch?v=nRIIeeIK1RE</guid>
-      <pubDate>2026-06-30T21:55:41+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description />
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>nRIIeeIK1RE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nRIIeeIK1RE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Talents de France - 30 juin 2026 - Partie 1</title>
-      <link>https://www.youtube.com/watch?v=zT2gI7WG18Y</link>
-      <guid>https://www.youtube.com/watch?v=zT2gI7WG18Y</guid>
-      <pubDate>2026-06-30T20:46:51+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description />
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>zT2gI7WG18Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zT2gI7WG18Y/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Talents de France - 30 juin 2026 - Ouverture</title>
-      <link>https://www.youtube.com/watch?v=M2IJtGMvXzI</link>
-      <guid>https://www.youtube.com/watch?v=M2IJtGMvXzI</guid>
-      <pubDate>2026-06-30T19:54:47+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description />
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>M2IJtGMvXzI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/M2IJtGMvXzI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Talents de France - 30 juin 2026 - Partie 2</title>
-      <link>https://www.youtube.com/watch?v=T60ugcJFDaQ</link>
-      <guid>https://www.youtube.com/watch?v=T60ugcJFDaQ</guid>
-      <pubDate>2026-06-30T09:05:40+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description />
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>T60ugcJFDaQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/T60ugcJFDaQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Talents de France - 30 juin 2026 - Partie 2</title>
-      <link>https://www.youtube.com/watch?v=2pvLhA54fhI</link>
-      <guid>https://www.youtube.com/watch?v=2pvLhA54fhI</guid>
-      <pubDate>2026-06-30T09:04:43+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description />
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>2pvLhA54fhI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/2pvLhA54fhI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Talents de France - 30 juin 2026</title>
-      <link>https://www.youtube.com/watch?v=cw4UBpoYzmU</link>
-      <guid>https://www.youtube.com/watch?v=cw4UBpoYzmU</guid>
-      <pubDate>2026-06-30T08:50:35+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description />
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>cw4UBpoYzmU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/cw4UBpoYzmU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Talents de France - 30 juin 2026</title>
-      <link>https://www.youtube.com/watch?v=GLLojqkJEdg</link>
-      <guid>https://www.youtube.com/watch?v=GLLojqkJEdg</guid>
-      <pubDate>2026-06-30T08:48:50+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description />
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>GLLojqkJEdg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/GLLojqkJEdg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Canicule, nucléaire... Comment nous ferons quand nous gouvernerons ? Retrouvez mon interview sur LCI</title>
-      <link>https://www.youtube.com/watch?v=GjDerkDg4jI</link>
-      <guid>https://www.youtube.com/watch?v=GjDerkDg4jI</guid>
-      <pubDate>2026-06-28T15:43:22+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Alors que la vague de chaleur touche à sa fin, Aurélie Trouvé, députée de Seine-Saint-Denis, revient sur les solutions que propose la France insoumise face à la vague de chaleur qui se multiplient et pour engager la bifurcation écologique.
+      <title>💥 Je confronte Gabriel Attal à son bilan.</title>
+      <link>https://www.youtube.com/watch?v=VNdtWvWh6_o</link>
+      <guid>https://www.youtube.com/watch?v=VNdtWvWh6_o</guid>
+      <pubDate>2026-06-29T21:29:33+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>Retrouvez en intégralité mon débat face à Gabriel Attal du lundi 29 juin sur LCI. 
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
 
-Bon visionnage !</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>GjDerkDg4jI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/GjDerkDg4jI/maxresdefault.jpg" type="image/jpeg" />
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>VNdtWvWh6_o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/VNdtWvWh6_o/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>JÉRÔME GUEDJ SUR BFMTV｜CANICULE, CONGÉS CLIMATIQUES...</title>
-      <link>https://www.youtube.com/watch?v=FQpX5UcSNeU</link>
-      <guid>https://www.youtube.com/watch?v=FQpX5UcSNeU</guid>
-      <pubDate>2026-06-26T18:03:36+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>FQpX5UcSNeU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/FQpX5UcSNeU/maxresdefault.jpg" type="image/jpeg" />
+      <title>🔴 Canicule, bouilloires thermiques, climatisation : Manuel Bompard, invité de TF1 !</title>
+      <link>https://www.youtube.com/watch?v=yMJBDSBx1WQ</link>
+      <guid>https://www.youtube.com/watch?v=yMJBDSBx1WQ</guid>
+      <pubDate>2026-06-24T06:52:20+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage dans Bonjour la matinale sur TF1 du mercredi 24 juin 2026. 
+
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>yMJBDSBx1WQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/yMJBDSBx1WQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴 Canicule, Lyhanna, fête de la musique : Manuel Bompard, invité de RTL !</title>
+      <link>https://www.youtube.com/watch?v=fAgy9lek9Fw</link>
+      <guid>https://www.youtube.com/watch?v=fAgy9lek9Fw</guid>
+      <pubDate>2026-06-21T11:18:53+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur RTL et Public Sénat du dimanche 21 juin 2026.
+
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>fAgy9lek9Fw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/fAgy9lek9Fw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Inauguration du local insoumis à Saintes</title>
+      <link>https://www.youtube.com/watch?v=_68R2TT1Lqw</link>
+      <guid>https://www.youtube.com/watch?v=_68R2TT1Lqw</guid>
+      <pubDate>2026-06-18T17:41:29+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>Ce mercredi 17 juin nous étions plus de 400 pour inaugurer le nouveau local de la France insoumise à Saintes en Charente Maritime. 
+
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>_68R2TT1Lqw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_68R2TT1Lqw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Ambiance de folie lors du match France - Sénégal à la Fan Zone de Roubaix</title>
@@ -135,75 +110,26 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <enclosure url="https://i.ytimg.com/vi/kuGSSTyIGiw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>JÉRÔME GUEDJ SUR LCI｜IRAN, PRIMAIRES...</title>
-      <link>https://www.youtube.com/watch?v=Fxb9bGw2mLQ</link>
-      <guid>https://www.youtube.com/watch?v=Fxb9bGw2mLQ</guid>
-      <pubDate>2026-06-15T20:35:29+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>Fxb9bGw2mLQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Fxb9bGw2mLQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur France Info - 12 juin 2026</title>
-      <link>https://www.youtube.com/watch?v=GImTssvH8t0</link>
-      <guid>https://www.youtube.com/watch?v=GImTssvH8t0</guid>
-      <pubDate>2026-06-13T17:01:22+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur France Info - 12 juin 2026
+      <title>🔴 Affaire Lyhanna, présidentielle, Trump : Manuel Bompard, invité de BFMTV</title>
+      <link>https://www.youtube.com/watch?v=OpLF2hpRv28</link>
+      <guid>https://www.youtube.com/watch?v=OpLF2hpRv28</guid>
+      <pubDate>2026-06-14T11:25:22+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur BFMTV du dimanche 14 juin 2026.
 
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>GImTssvH8t0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/GImTssvH8t0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur RTL - 10 juin 2026</title>
-      <link>https://www.youtube.com/watch?v=0tRHopMk_I8</link>
-      <guid>https://www.youtube.com/watch?v=0tRHopMk_I8</guid>
-      <pubDate>2026-06-13T17:01:18+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur RTL - 10 juin 2026
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
 
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>0tRHopMk_I8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0tRHopMk_I8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj En Toute Franchise face à Elisabeth Martichoux - LCI</title>
-      <link>https://www.youtube.com/watch?v=HPfg9hozxdk</link>
-      <guid>https://www.youtube.com/watch?v=HPfg9hozxdk</guid>
-      <pubDate>2026-05-31T15:41:52+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>HPfg9hozxdk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HPfg9hozxdk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj face à Consigny (BFMTV)</title>
-      <link>https://www.youtube.com/watch?v=6fRO_4PGTcA</link>
-      <guid>https://www.youtube.com/watch?v=6fRO_4PGTcA</guid>
-      <pubDate>2026-05-21T13:05:52+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>6fRO_4PGTcA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/6fRO_4PGTcA/maxresdefault.jpg" type="image/jpeg" />
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>OpLF2hpRv28</videoId>
+      <enclosure url="https://i.ytimg.com/vi/OpLF2hpRv28/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>David Guiraud, ciblé par une ingérence étrangère, alerte pour les élections présidentielles</title>
@@ -222,43 +148,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <enclosure url="https://i.ytimg.com/vi/8XzAhFS1_RI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>7h40 FranceInfo : l'interview de Jérôme Guedj</title>
-      <link>https://www.youtube.com/watch?v=-f9lBiwyP3s</link>
-      <guid>https://www.youtube.com/watch?v=-f9lBiwyP3s</guid>
-      <pubDate>2026-05-20T12:43:06+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>-f9lBiwyP3s</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-f9lBiwyP3s/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La commission d'enquête sur les fonds prédateurs. Mon passage dans Le Média.</title>
-      <link>https://www.youtube.com/watch?v=ZgVy3v56zc4</link>
-      <guid>https://www.youtube.com/watch?v=ZgVy3v56zc4</guid>
-      <pubDate>2026-05-18T15:30:25+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Dans cette interview, Aurélie Trouvé revient sur la Commission d'Enquête sur les fonds prédateurs dont elle est la rapporteure.
-
-Face à ces fonds qui rachètent nos entreprises en difficulté et qui les pillent, nous devons protéger nos entreprises stratégiques, notre industrie et les salariés qui sont les premières victimes.
-
-Je vous explique tout. Bon visionnage !</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>ZgVy3v56zc4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ZgVy3v56zc4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj : la grande interview Europe1/CNEWS</title>
-      <link>https://www.youtube.com/watch?v=Yedii60i7z4</link>
-      <guid>https://www.youtube.com/watch?v=Yedii60i7z4</guid>
-      <pubDate>2026-05-06T14:11:52+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>Yedii60i7z4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Yedii60i7z4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Face à la problématique des stages, la ville de Roubaix prend ses responsabilités</title>
       <link>https://www.youtube.com/watch?v=J6HeWuP7C_M</link>
       <guid>https://www.youtube.com/watch?v=J6HeWuP7C_M</guid>
@@ -273,43 +162,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>David Guiraud</channelTitle>
       <videoId>J6HeWuP7C_M</videoId>
       <enclosure url="https://i.ytimg.com/vi/J6HeWuP7C_M/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj - l'invité d'Apolline Malherbe (BFM TV)</title>
-      <link>https://www.youtube.com/watch?v=HyqjIqQhrYo</link>
-      <guid>https://www.youtube.com/watch?v=HyqjIqQhrYo</guid>
-      <pubDate>2026-05-04T15:14:41+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>HyqjIqQhrYo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HyqjIqQhrYo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj face à Adrien Gindre - En toute franchise (TF1)</title>
-      <link>https://www.youtube.com/watch?v=N9PU5csOcm4</link>
-      <guid>https://www.youtube.com/watch?v=N9PU5csOcm4</guid>
-      <pubDate>2026-05-04T15:05:57+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>N9PU5csOcm4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/N9PU5csOcm4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Il est urgent de bloquer les prix du carburants !</title>
-      <link>https://www.youtube.com/watch?v=4nuox3nBjuU</link>
-      <guid>https://www.youtube.com/watch?v=4nuox3nBjuU</guid>
-      <pubDate>2026-04-30T17:40:05+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Dans cette émission, la députée Aurélie Trouvé réagit aux profits record de TotalEnergies qui a fait plus de 2 milliards d'euros de profits.
-
-Face aux profiteurs de guerre, la France insoumise propose le blocage des prix du carburant et la taxation des superprofits.
-
-Bon visionnage !</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>4nuox3nBjuU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4nuox3nBjuU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>L'interview politique de David Guiraud, Maire de Roubaix</title>
@@ -328,77 +180,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <enclosure url="https://i.ytimg.com/vi/K_oQlvXnCYk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Carburants : il fait taxer les profiteurs de guerre !</title>
-      <link>https://www.youtube.com/watch?v=mZPJKhH5vms</link>
-      <guid>https://www.youtube.com/watch?v=mZPJKhH5vms</guid>
-      <pubDate>2026-04-27T13:08:15+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Dans cette émission diffusée jeudi sur LCI, Aurélie Trouvé, député LFI de Seine-Saint-Denis, reviens sur les profits des multinationales de l'énergie en période de guerre au Moyen-Orient.
-
-La réalité des pratiques : des profits qui explosent pendant que la situation se dégrade pour le plus grand nombre.
-
-Depuis le début du conflit, les marges ont été multipliées par quatre. Le groupe TotalEnergies a déjà engrangé plus de 2 milliards d’euros de superprofits.
-
-Pendant ce temps, en France, des millions de personnes peinent à faire le plein, certaines renoncent à voir leurs proches à cause du coût de l’essence, le pouvoir d’achat baisse.
-
-Il fait bloquer les prix de l'énergie et des carburants et taxer les superprofits !
-
-Bon visionnage !</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>mZPJKhH5vms</videoId>
-      <enclosure url="https://i.ytimg.com/vi/mZPJKhH5vms/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>8h30 franceinfo : l'interview complète de Jérôme Guedj</title>
-      <link>https://www.youtube.com/watch?v=Y9YYx-Ie-No</link>
-      <guid>https://www.youtube.com/watch?v=Y9YYx-Ie-No</guid>
-      <pubDate>2026-04-24T10:40:48+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>Y9YYx-Ie-No</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Y9YYx-Ie-No/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'agrobusiness tue ! Mon passage dans Very Important Paysans (VIP).</title>
-      <link>https://www.youtube.com/watch?v=U_7gldcNRyY</link>
-      <guid>https://www.youtube.com/watch?v=U_7gldcNRyY</guid>
-      <pubDate>2026-04-21T13:31:01+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Dans cette émission Very Important Paysans (VIP), la députée de Seine-Saint-Denis Aurélie Trouvé alerte sur l’urgence de transformer notre modèle agricole pour permettre aux agriculteurs et agricultrices de vivre dignement de leur travail.
-
-L’agriculture familiale est aujourd’hui menacée par une bascule vers un modèle capitalistique. Derrière cette évolution, c’est toute la question de notre alimentation qui se pose : produire mieux, consommer autrement, et repenser en profondeur les politiques publiques.
-
-En France, une personne sur huit n’a pas les moyens de manger à sa faim. Garantir ce droit fondamental implique des choix politiques forts et une transformation globale du système.
-
-Bon visionnage !</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>U_7gldcNRyY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/U_7gldcNRyY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jérôme Guedj face à la matinale de Sud Radio</title>
-      <link>https://www.youtube.com/watch?v=SiGbAlifDls</link>
-      <guid>https://www.youtube.com/watch?v=SiGbAlifDls</guid>
-      <pubDate>2026-04-15T10:04:25+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>SiGbAlifDls</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SiGbAlifDls/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hausse des prix des carburants - Mon débat face à Geoffroy Roux de Bézieux et Philippe Ballard ⚡</title>
-      <link>https://www.youtube.com/watch?v=HTraAIHvqC0</link>
-      <guid>https://www.youtube.com/watch?v=HTraAIHvqC0</guid>
-      <pubDate>2026-04-03T11:27:58+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>HTraAIHvqC0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HTraAIHvqC0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>David Guiraud élu Maire de Roubaix.</title>
       <link>https://www.youtube.com/watch?v=a1cgZRjfYpE</link>
       <guid>https://www.youtube.com/watch?v=a1cgZRjfYpE</guid>
@@ -413,17 +194,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>David Guiraud</channelTitle>
       <videoId>a1cgZRjfYpE</videoId>
       <enclosure url="https://i.ytimg.com/vi/a1cgZRjfYpE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🚨 Les prix des carburants flambent et le gouvernement ne fait rien !</title>
-      <link>https://www.youtube.com/watch?v=PdC_7Gspabw</link>
-      <guid>https://www.youtube.com/watch?v=PdC_7Gspabw</guid>
-      <pubDate>2026-03-30T05:50:58+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>PdC_7Gspabw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PdC_7Gspabw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>1er tour des Municipales 2026 à Roubaix : le discours de David Guiraud</title>
@@ -451,28 +221,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>David Guiraud</channelTitle>
       <videoId>gb-UyWodCaE</videoId>
       <enclosure url="https://i.ytimg.com/vi/gb-UyWodCaE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 EN DIRECT - Voeux de Lille insoumise avec Lahouaria Addouche, A. Trouvé, A. Le Coq, M. Aubry</title>
-      <link>https://www.youtube.com/watch?v=-IIl7EVNwlE</link>
-      <guid>https://www.youtube.com/watch?v=-IIl7EVNwlE</guid>
-      <pubDate>2026-01-14T08:37:22+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Suivez-nous sur nos réseaux sociaux !
-
-Lahouaria Addouche : 
-Instagram : https://www.instagram.com/lahouariaaddouche/ 
-X (ex-Twiter) : https://x.com/L_Addouche?lang=fr
-Facebook : https://www.facebook.com/p/Lahouaria-Addouche-61577379275297/
-Aurélie Trouvé :
-Instagram : https://www.instagram.com/trouveaurelie93/?hl=fr
-X (ex-Twitter) : https://x.com/TrouveAurelie
-Facbook : https://www.facebook.com/Trouveaurelie/?locale=fr_FR
-
-Toutes les actualités et toutes les infos sur La France insoumise : https://lafranceinsoumise.fr/</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>-IIl7EVNwlE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-IIl7EVNwlE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
