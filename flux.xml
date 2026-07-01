@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 01 Jul 2026 17:15:31 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:30:45 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>"La prochaine catastrophe sera budgétaire" - Bruno Retailleau</title>
+      <link>https://www.youtube.com/watch?v=KkXrtjXc3iI</link>
+      <guid>https://www.youtube.com/watch?v=KkXrtjXc3iI</guid>
+      <pubDate>2026-07-01T17:18:46+00:00</pubDate>
+      <author>Bruno Retailleau</author>
+      <description>Bruno Retailleau était l'invité ce mardi de #LaGrandeInterview sur CNEWS.</description>
+      <channelTitle>Bruno Retailleau</channelTitle>
+      <videoId>KkXrtjXc3iI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/KkXrtjXc3iI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Le dossier du jour : Les free party, avec la Cie Les Comploteurs – En Campagne #1</title>
+      <link>https://www.youtube.com/watch?v=YbkhRK2cPhs</link>
+      <guid>https://www.youtube.com/watch?v=YbkhRK2cPhs</guid>
+      <pubDate>2026-07-01T17:10:41+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Retrouvez l'émission En Campagne dans son entièreté : https://www.youtube.com/watch?v=Ma589dxPcXw</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>YbkhRK2cPhs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YbkhRK2cPhs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY : « Emmanuel Macron est climato-hypocrite ! » (France Info)</title>
       <link>https://www.youtube.com/watch?v=b79msjObiDM</link>
@@ -1644,39 +1666,6 @@ Elle a pu débattre notamment du scandale du périscolaire parisien, de l’éle
       <channelTitle>David Lisnard</channelTitle>
       <videoId>Q509tbCdRt8</videoId>
       <enclosure url="https://i.ytimg.com/vi/Q509tbCdRt8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>UNE AUTRE VOIE POUR 2027 | Léon Deffontaines | Europe 1</title>
-      <link>https://www.youtube.com/watch?v=0Le26wuMlJs</link>
-      <guid>https://www.youtube.com/watch?v=0Le26wuMlJs</guid>
-      <pubDate>2026-06-18T13:52:08+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Invité d'Europe 1, Léon Deffontaines, porte-parole national du Parti communiste français, réagit à l'actualité internationale et politique.
-
-Il revient sur le G7, la visite de Donald Trump à Versailles, la guerre en Ukraine et le rôle que pourrait jouer la France pour construire la paix. Il répond également à la polémique autour de la Marseillaise avant d'aborder les enjeux de la présidentielle de 2027, la reconstruction de la gauche, l'écologie et la réindustrialisation du pays.
-
-00:00 La France face au G7 et à Donald Trump
-04:50 Ukraine : pour une initiative de paix française
-07:58 Marseillaise et polémique à gauche
-12:21 Présidentielle 2027 : quelle gauche pour demain ?</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>0Le26wuMlJs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0Le26wuMlJs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>On ne censure pas les voix de la paix ! (meeting justice pour la Palestine)</title>
-      <link>https://www.youtube.com/watch?v=c-KnJoiz928</link>
-      <guid>https://www.youtube.com/watch?v=c-KnJoiz928</guid>
-      <pubDate>2026-06-18T10:39:38+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Ils ont voulu nous faire taire. Ils ont échoué.
-
-À Strasbourg, nous étions plus de 2000 réunis pour la justice en Palestine et contre la complicité de l’Union européenne.
-
-Strasbourg, 17 juin 2026.</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>c-KnJoiz928</videoId>
-      <enclosure url="https://i.ytimg.com/vi/c-KnJoiz928/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
