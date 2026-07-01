@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 01 Jul 2026 18:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 18:30:48 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>MATTHIEU VALET : « Hamza F., je l'appelle Ducobu le cancre ! » (France Info)</title>
+      <link>https://www.youtube.com/watch?v=Jta39CwyNvw</link>
+      <guid>https://www.youtube.com/watch?v=Jta39CwyNvw</guid>
+      <pubDate>2026-07-01T18:30:10+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>Jta39CwyNvw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Jta39CwyNvw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"La prochaine catastrophe sera budgétaire" - Bruno Retailleau</title>
       <link>https://www.youtube.com/watch?v=KkXrtjXc3iI</link>
@@ -1655,17 +1666,6 @@ Elle a pu débattre notamment du scandale du périscolaire parisien, de l’éle
       <channelTitle>Sarah Knafo</channelTitle>
       <videoId>V4HOIgsTYSY</videoId>
       <enclosure url="https://i.ytimg.com/vi/V4HOIgsTYSY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Plus de liberté pour retrouver un État plus fort » David Lisnard sur BFMTV</title>
-      <link>https://www.youtube.com/watch?v=Q509tbCdRt8</link>
-      <guid>https://www.youtube.com/watch?v=Q509tbCdRt8</guid>
-      <pubDate>2026-06-19T09:34:46+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>Invité de BFMTV face à Marc Fauvelle, David Lisnard a livré un diagnostic sans concession sur l’état de la justice, de la sécurité et de l’action publique en France. Son constat est clair : la crise que traverse notre pays n’est pas une fatalité, mais la conséquence d’un système bureaucratique devenu incapable d’assurer ses missions essentielles.</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>Q509tbCdRt8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Q509tbCdRt8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
