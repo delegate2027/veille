@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 01 Jul 2026 16:01:08 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:15:36 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY : « Emmanuel Macron est climato-hypocrite ! » (France Info)</title>
+      <link>https://www.youtube.com/watch?v=b79msjObiDM</link>
+      <guid>https://www.youtube.com/watch?v=b79msjObiDM</guid>
+      <pubDate>2026-07-01T16:00:23+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>b79msjObiDM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/b79msjObiDM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Canicule : des patients meurent à l'hôpital !</title>
       <link>https://www.youtube.com/watch?v=DvBRuS83ASs</link>
@@ -564,17 +575,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>VNdtWvWh6_o</videoId>
       <enclosure url="https://i.ytimg.com/vi/VNdtWvWh6_o/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU &amp; GABRIEL ATTAL : le face à face sur LCI !</title>
-      <link>https://www.youtube.com/watch?v=YVieSVnR1Yw</link>
-      <guid>https://www.youtube.com/watch?v=YVieSVnR1Yw</guid>
-      <pubDate>2026-06-29T21:25:50+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>YVieSVnR1Yw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YVieSVnR1Yw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Canicule, affaire Lyhanna, dette écologique : Eric Coquerel invité sur Cnews/E1</title>
