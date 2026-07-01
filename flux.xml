@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 01 Jul 2026 16:31:12 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:45:45 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>JEAN-PHILIPPE TANGUY : « Emmanuel Macron est climato-hypocrite ! » (France Info)</title>
@@ -1646,28 +1646,6 @@ Elle a pu débattre notamment du scandale du périscolaire parisien, de l’éle
       <enclosure url="https://i.ytimg.com/vi/Q509tbCdRt8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Inauguration du local insoumis à Saintes</title>
-      <link>https://www.youtube.com/watch?v=_68R2TT1Lqw</link>
-      <guid>https://www.youtube.com/watch?v=_68R2TT1Lqw</guid>
-      <pubDate>2026-06-18T17:41:29+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>Ce mercredi 17 juin nous étions plus de 400 pour inaugurer le nouveau local de la France insoumise à Saintes en Charente Maritime. 
-
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>_68R2TT1Lqw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_68R2TT1Lqw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>UNE AUTRE VOIE POUR 2027 | Léon Deffontaines | Europe 1</title>
       <link>https://www.youtube.com/watch?v=0Le26wuMlJs</link>
       <guid>https://www.youtube.com/watch?v=0Le26wuMlJs</guid>
@@ -1684,6 +1662,21 @@ Il revient sur le G7, la visite de Donald Trump à Versailles, la guerre en Ukra
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>0Le26wuMlJs</videoId>
       <enclosure url="https://i.ytimg.com/vi/0Le26wuMlJs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>On ne censure pas les voix de la paix ! (meeting justice pour la Palestine)</title>
+      <link>https://www.youtube.com/watch?v=c-KnJoiz928</link>
+      <guid>https://www.youtube.com/watch?v=c-KnJoiz928</guid>
+      <pubDate>2026-06-18T10:39:38+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Ils ont voulu nous faire taire. Ils ont échoué.
+
+À Strasbourg, nous étions plus de 2000 réunis pour la justice en Palestine et contre la complicité de l’Union européenne.
+
+Strasbourg, 17 juin 2026.</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>c-KnJoiz928</videoId>
+      <enclosure url="https://i.ytimg.com/vi/c-KnJoiz928/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
