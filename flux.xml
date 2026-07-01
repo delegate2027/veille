@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 01 Jul 2026 08:15:35 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:30:45 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>SÉBASTIEN CHENU : « Le gouvernement a laissé les Français devant la canicule ! » (France Info)</title>
+      <link>https://www.youtube.com/watch?v=yTIytGWKChc</link>
+      <guid>https://www.youtube.com/watch?v=yTIytGWKChc</guid>
+      <pubDate>2026-07-01T08:20:12+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>yTIytGWKChc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/yTIytGWKChc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Non à la loi Justice criminelle dite loi SURE ! M. Darmanin doit retirer ce texte.</title>
       <link>https://www.youtube.com/watch?v=l4McWH4xEOY</link>
@@ -1652,21 +1663,6 @@ Il revient sur le G7, la visite de Donald Trump à Versailles, la guerre en Ukra
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>0Le26wuMlJs</videoId>
       <enclosure url="https://i.ytimg.com/vi/0Le26wuMlJs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>On ne censure pas les voix de la paix ! (meeting justice pour la Palestine)</title>
-      <link>https://www.youtube.com/watch?v=c-KnJoiz928</link>
-      <guid>https://www.youtube.com/watch?v=c-KnJoiz928</guid>
-      <pubDate>2026-06-18T10:39:38+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Ils ont voulu nous faire taire. Ils ont échoué.
-
-À Strasbourg, nous étions plus de 2000 réunis pour la justice en Palestine et contre la complicité de l’Union européenne.
-
-Strasbourg, 17 juin 2026.</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>c-KnJoiz928</videoId>
-      <enclosure url="https://i.ytimg.com/vi/c-KnJoiz928/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
