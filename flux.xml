@@ -4,8 +4,31 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 01 Jul 2026 15:15:32 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 15:30:45 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Canicule : des patients meurent à l'hôpital !</title>
+      <link>https://www.youtube.com/watch?v=DvBRuS83ASs</link>
+      <guid>https://www.youtube.com/watch?v=DvBRuS83ASs</guid>
+      <pubDate>2026-07-01T15:27:52+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description>« Pour la première fois, on a des morts dans des chambres d’hôpital à cause des températures extrêmes », nous dit le vice-président de SAMU-Urgences de France.
+
+Aux 4 coins du pays, dans nos hôpitaux, patients comme soignants étouffent et sont mis en danger.
+
+Car 20 ans après la canicule de 2003, rien n’a changé, les bâtiments n’ont toujours pas été adaptés. 
+60% des établissements de santé sont vétustes, des milliers de chambres se transforment en étuves. 
+
+Car 6 ans après le Covid, rien n’a changé, et les soignants ne sont toujours pas respectés.
+Nous sommes passés des soignants héroïques, sans masque, qui se couvraient de sacs poubelle faute de blouses, à des soignants dans des services sans climatiseur, obligés d’installer des couvertures de survie aux fenêtres, faute d’isolation.
+
+En temps "normal", l'hôpital est constamment en crise : urgences fermées, lits supprimés, couloirs qui s'amassent dans les brancards.
+
+Alors quand la canicule frappe, sur des hôpitaux passoires thermiques, avec des milliers de lits fermés et des soignants débordés : les Français payent vos choix politiques au prix de leurs vies.</description>
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>DvBRuS83ASs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DvBRuS83ASs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>L'extrême droite et l'extrême gauche organisent la guerre civile | François Bayrou</title>
       <link>https://www.youtube.com/watch?v=SFwbzrWeSvI</link>
@@ -259,7 +282,7 @@ Regardez leur débat !</description>
       <enclosure url="https://i.ytimg.com/vi/1V7GZB6XShM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>En campagne : L'édito de Mathilde Panot</title>
+      <title>En campagne #1 : L'édito de Mathilde Panot</title>
       <link>https://www.youtube.com/watch?v=I5VBb08EDcQ</link>
       <guid>https://www.youtube.com/watch?v=I5VBb08EDcQ</guid>
       <pubDate>2026-06-30T15:49:47+00:00</pubDate>
@@ -1661,21 +1684,6 @@ Il revient sur le G7, la visite de Donald Trump à Versailles, la guerre en Ukra
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>0Le26wuMlJs</videoId>
       <enclosure url="https://i.ytimg.com/vi/0Le26wuMlJs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>On ne censure pas les voix de la paix ! (meeting justice pour la Palestine)</title>
-      <link>https://www.youtube.com/watch?v=c-KnJoiz928</link>
-      <guid>https://www.youtube.com/watch?v=c-KnJoiz928</guid>
-      <pubDate>2026-06-18T10:39:38+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Ils ont voulu nous faire taire. Ils ont échoué.
-
-À Strasbourg, nous étions plus de 2000 réunis pour la justice en Palestine et contre la complicité de l’Union européenne.
-
-Strasbourg, 17 juin 2026.</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>c-KnJoiz928</videoId>
-      <enclosure url="https://i.ytimg.com/vi/c-KnJoiz928/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
