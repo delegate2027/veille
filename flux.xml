@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 01 Jul 2026 07:30:42 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:45:30 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>«  La solution ce n'est pas l'impôt, c'est le contrôle de la dépense. » | Édouard Philippe sur RTL</title>
+      <link>https://www.youtube.com/watch?v=yf258UmqvJw</link>
+      <guid>https://www.youtube.com/watch?v=yf258UmqvJw</guid>
+      <pubDate>2026-07-01T07:41:53+00:00</pubDate>
+      <author>Horizons</author>
+      <description>Édouard Philippe était demain l'invité de Thomas Sotto dans #RTLMatin.
+
+---
+Pour découvrir nos autres contenus, suivez #Horizons sur les réseaux sociaux !
+
+→ Twitter (X) : https://x.com/HorizonsLeParti
+→ Facebook : https://www.facebook.com/HorizonsLeParti/
+→ Instagram : https://www.instagram.com/horizonsleparti/
+→ TikTok : https://www.tiktok.com/@horizonsleparti/
+→ LinkedIn : https://www.linkedin.com/company/horizonsleparti/
+→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R
+→ Telegram : https://t.me/HorizonsOff</description>
+      <channelTitle>Horizons</channelTitle>
+      <videoId>yf258UmqvJw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/yf258UmqvJw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Coupe du monde, canicule, censure : Manuel Bompard, invité de France 2 !</title>
       <link>https://www.youtube.com/watch?v=Sb67SPnLIlc</link>
@@ -1656,17 +1678,6 @@ Sur Telegram : @gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>3rN5CFsdWSY</videoId>
       <enclosure url="https://i.ytimg.com/vi/3rN5CFsdWSY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Daniel Salmon : "À quand un plan massif d’isolation des logements, écoles et  hôpitaux ?"</title>
-      <link>https://www.youtube.com/watch?v=dpp9hwmBBRU</link>
-      <guid>https://www.youtube.com/watch?v=dpp9hwmBBRU</guid>
-      <pubDate>2026-06-18T07:34:28+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>dpp9hwmBBRU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dpp9hwmBBRU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
