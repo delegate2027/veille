@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 16 Sep 2026 19:01:02 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:15:35 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>VSS : LOI DITE « INTÉGRALE » - JE VOUS EXPLIQUE TOUT EN MOINS DE 15 MINUTES !</title>
+      <link>https://www.youtube.com/watch?v=vmBBDkDKsi8</link>
+      <guid>https://www.youtube.com/watch?v=vmBBDkDKsi8</guid>
+      <pubDate>2026-09-16T19:01:08+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>La loi dite intégrale pour lutter contre les violences faites aux femmes et aux enfants arrive à l'Assemblée nationale. Que contient-elle ? Quelles sont les avancées et les limtes de cette proposition de loi ? Je vous explique en 15 minutes.
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>vmBBDkDKsi8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vmBBDkDKsi8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Le Pen est l'invitée de l'émission « Objectif 2027 » avec Darius Rochebin sur LCI !</title>
       <link>https://www.youtube.com/watch?v=aCkXbWB3-Ak</link>
@@ -1720,24 +1741,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>p2JoBzrDOaY</videoId>
       <enclosure url="https://i.ytimg.com/vi/p2JoBzrDOaY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella sur BFMTV : « Nous mettrons en place une politique dissuasive d'immigration ! »</title>
-      <link>https://www.youtube.com/watch?v=kART4UbzZqo</link>
-      <guid>https://www.youtube.com/watch?v=kART4UbzZqo</guid>
-      <pubDate>2026-09-06T06:57:04+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>kART4UbzZqo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/kART4UbzZqo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
