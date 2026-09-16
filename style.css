@@ -1,0 +1,599 @@
+:root {
+  --bg: #f5f7fb;
+  --surface: #ffffff;
+  --surface-soft: #f8f9fc;
+  --text: #172033;
+  --muted: #697386;
+  --line: #e5e9f1;
+  --accent: #6c63ff;
+  --accent-soft: #eeecff;
+  --cyan: #22b8cf;
+  --yellow: #ffc857;
+  --green: #35c98a;
+  --shadow: 0 8px 28px rgba(28, 39, 65, 0.07);
+  --shadow-hover: 0 12px 34px rgba(28, 39, 65, 0.11);
+
+  --meeting: #eef1f6;
+  --meeting-bg: #ffffff;
+  --lfi: #eeeaff;
+  --lfi-bg: #ffffff;
+  --eelv: #e8f8f0;
+  --eelv-bg: #ffffff;
+  --ps: #e9f0ff;
+  --ps-bg: #ffffff;
+  --centre: #fff3d9;
+  --centre-bg: #ffffff;
+  --ed: #fff0f0;
+  --ed-bg: #ffffff;
+  --lr: #edf2f7;
+  --lr-bg: #ffffff;
+  --pcf: #ffe9ed;
+  --pcf-bg: #ffffff;
+
+  --loader-color: #6c63ff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #111522;
+    --surface: #181d2b;
+    --surface-soft: #1d2332;
+    --text: #eef2f8;
+    --muted: #9aa5b8;
+    --line: #2a3244;
+    --accent-soft: #282450;
+    --shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    --shadow-hover: 0 14px 36px rgba(0, 0, 0, 0.28);
+
+    --meeting: #252b38;
+    --meeting-bg: #181d2b;
+    --lfi: #29234b;
+    --lfi-bg: #181d2b;
+    --eelv: #17382d;
+    --eelv-bg: #181d2b;
+    --ps: #1d2d4c;
+    --ps-bg: #181d2b;
+    --centre: #43371e;
+    --centre-bg: #181d2b;
+    --ed: #45272d;
+    --ed-bg: #181d2b;
+    --lr: #26303c;
+    --lr-bg: #181d2b;
+    --pcf: #45242b;
+    --pcf-bg: #181d2b;
+
+    --loader-color: #8b84ff;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background:
+    radial-gradient(circle at 10% 0%, rgba(108, 99, 255, 0.10), transparent 28rem),
+    radial-gradient(circle at 90% 4%, rgba(34, 184, 207, 0.08), transparent 24rem),
+    var(--bg);
+  color: var(--text);
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+a {
+  color: inherit;
+}
+
+.app-shell {
+  width: min(920px, 100%);
+  margin: 0 auto;
+  padding: 18px 16px 32px;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 14px;
+  padding: 12px 14px;
+  border: 1px solid color-mix(in srgb, var(--line) 88%, transparent);
+  border-radius: 20px;
+  background: color-mix(in srgb, var(--surface) 90%, transparent);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  gap: 11px;
+}
+
+.brand-copy h1 {
+  margin: 0;
+  color: var(--text);
+  font-size: clamp(17px, 3vw, 20px);
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+  font-weight: 800;
+}
+
+.brand-copy p {
+  margin: 3px 0 0;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.2;
+  font-weight: 500;
+}
+
+.status-bar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 5px;
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.2;
+  font-weight: 600;
+  text-align: right;
+}
+
+.status-dot {
+  width: 7px;
+  height: 7px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 0 4px rgba(53, 201, 138, 0.13);
+}
+
+.status-separator {
+  opacity: 0.55;
+}
+
+.loader {
+  display: inline-block;
+  width: 22px;
+  height: 8px;
+  margin-left: 2px;
+  background:
+    radial-gradient(circle closest-side, var(--loader-color) 82%, transparent 84%) 0 50% / 33.333% 100% no-repeat,
+    radial-gradient(circle closest-side, var(--loader-color) 82%, transparent 84%) 50% 50% / 33.333% 100% no-repeat,
+    radial-gradient(circle closest-side, var(--loader-color) 82%, transparent 84%) 100% 50% / 33.333% 100% no-repeat;
+  animation: loader 1.5s infinite linear;
+  opacity: 0.75;
+}
+
+@keyframes loader {
+  33% { background-size: 33.333% 30%, 33.333% 100%, 33.333% 100%; }
+  50% { background-size: 33.333% 100%, 33.333% 30%, 33.333% 100%; }
+  66% { background-size: 33.333% 100%, 33.333% 100%, 33.333% 30%; }
+}
+
+.feed {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.item {
+  position: relative;
+  overflow: hidden;
+  padding: 15px 16px 16px;
+  border: 1px solid var(--line);
+  border-radius: 17px;
+  background: var(--surface);
+  box-shadow: 0 3px 15px rgba(28, 39, 65, 0.035);
+}
+
+.item::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 4px;
+  background: var(--accent);
+  opacity: 0.72;
+}
+
+.item.expanded {
+  padding-bottom: 15px;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 0 0 10px 1px;
+}
+
+.author {
+  display: inline-flex;
+  align-items: center;
+  min-width: 0;
+  max-width: 72%;
+  padding: 5px 9px;
+  border: 1px solid rgba(23, 32, 51, 0.06);
+  border-radius: 999px;
+  color: var(--text);
+  background: var(--surface-soft);
+  font-size: 10px;
+  line-height: 1.1;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.date {
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.title {
+  margin: 0 4px 8px;
+  font-size: 15px;
+  line-height: 1.42;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+
+.title a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.title a:focus-visible {
+  outline: 3px solid rgba(108, 99, 255, 0.22);
+  outline-offset: 3px;
+  border-radius: 5px;
+}
+
+.desc {
+  margin: 0 4px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.55;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.author[data-author="meeting"] {
+  background: var(--meeting);
+}
+
+.item[data-author="meeting"] {
+  --accent: #8792a7;
+  background: var(--meeting-bg);
+}
+
+.author[data-author="Eric Coquerel"],
+.author[data-author="Louis Boyard"],
+.author[data-author="Manon Aubry"],
+.author[data-author="SOPHIA CHIKIROU"],
+.author[data-author="Mathilde Panot"],
+.author[data-author="JEAN-LUC MÉLENCHON"],
+.author[data-author="Paul Vannier"],
+.author[data-author="Manuel Bompard"],
+.author[data-author="Gabrielle Cathala"],
+.author[data-author="Hadrien Clouet"],
+.author[data-author="Antoine Léaument"],
+.author[data-author="DAMIEN MAUDET"],
+.author[data-author="Francois Piquemal"],
+.author[data-author="David Guiraud"],
+.author[data-author="Clémence Guetté"],
+.author[data-author="Aurélien Saintoul - Député des Hauts-de-Seine"],
+.author[data-author="Aurélie Trouvé - Députée"] {
+  background: var(--lfi);
+}
+
+.item[data-author="Eric Coquerel"],
+.item[data-author="Louis Boyard"],
+.item[data-author="Manon Aubry"],
+.item[data-author="SOPHIA CHIKIROU"],
+.item[data-author="Mathilde Panot"],
+.item[data-author="JEAN-LUC MÉLENCHON"],
+.item[data-author="Paul Vannier"],
+.item[data-author="Manuel Bompard"],
+.item[data-author="Gabrielle Cathala"],
+.item[data-author="Hadrien Clouet"],
+.item[data-author="Antoine Léaument"],
+.item[data-author="DAMIEN MAUDET"],
+.item[data-author="Francois Piquemal"],
+.item[data-author="David Guiraud"],
+.item[data-author="Clémence Guetté"],
+.item[data-author="Aurélien Saintoul - Député des Hauts-de-Seine"],
+.item[data-author="Aurélie Trouvé - Députée"] {
+  --accent: #7468e8;
+  background: var(--lfi-bg);
+}
+
+.author[data-author="Les Écologistes"],
+.author[data-author="Sandrine Rousseau"] {
+  background: var(--eelv);
+}
+
+.item[data-author="Les Écologistes"],
+.item[data-author="Sandrine Rousseau"] {
+  --accent: #35a972;
+  background: var(--eelv-bg);
+}
+
+.author[data-author="PS - Parti socialiste"],
+.author[data-author="Clémentine Autain"],
+.author[data-author="Alexis Corbière"],
+.author[data-author="L'APRÈS"],
+.author[data-author="Raphaël Glucksmann"],
+.author[data-author="FRANÇOIS RUFFIN"],
+.author[data-author="BorisVallaud"],
+.author[data-author="Jérôme Guedj"] {
+  background: var(--ps);
+}
+
+.item[data-author="PS - Parti socialiste"],
+.item[data-author="Clémentine Autain"],
+.item[data-author="Alexis Corbière"],
+.item[data-author="L'APRÈS"],
+.item[data-author="Raphaël Glucksmann"],
+.item[data-author="FRANÇOIS RUFFIN"],
+.item[data-author="BorisVallaud"],
+.item[data-author="Jérôme Guedj"] {
+  --accent: #5683d8;
+  background: var(--ps-bg);
+}
+
+.author[data-author="Horizons"],
+.author[data-author="MoDem"],
+.author[data-author="Gabriel Attal"],
+.author[data-author="Aurore Bergé"] {
+  background: var(--centre);
+}
+
+.item[data-author="Horizons"],
+.item[data-author="MoDem"],
+.item[data-author="Gabriel Attal"],
+.item[data-author="Aurore Bergé"] {
+  --accent: #e3aa39;
+  background: var(--centre-bg);
+}
+
+.author[data-author="Renaissance"],
+.author[data-author="Laurent Wauquiez"],
+.author[data-author="Bruno Retailleau"],
+.author[data-author="François-Xavier Bellamy"],
+.author[data-author="David Lisnard"] {
+  background: var(--lr);
+}
+
+.item[data-author="Renaissance"],
+.item[data-author="Laurent Wauquiez"],
+.item[data-author="Bruno Retailleau"],
+.item[data-author="François-Xavier Bellamy"],
+.item[data-author="David Lisnard"] {
+  --accent: #65768d;
+  background: var(--lr-bg);
+}
+
+.author[data-author="Éric Zemmour"],
+.author[data-author="Sarah Knafo"],
+.author[data-author="Marine Le Pen"],
+.author[data-author="Jordan Bardella"],
+.author[data-author="Rassemblement National"] {
+  background: var(--ed);
+}
+
+.item[data-author="Rassemblement National"],
+.item[data-author="Éric Zemmour"],
+.item[data-author="Sarah Knafo"],
+.item[data-author="Marine Le Pen"],
+.item[data-author="Jordan Bardella"] {
+  --accent: #e36c78;
+  background: var(--ed-bg);
+}
+
+.author[data-author="PCF - Parti communiste français (PCF)"] {
+  background: var(--pcf);
+}
+
+.item[data-author="PCF - Parti communiste français (PCF)"] {
+  --accent: #d95768;
+  background: var(--pcf-bg);
+}
+
+.youtube-player {
+  width: 100%;
+  margin-top: 13px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #000000;
+  box-shadow: var(--shadow);
+}
+
+.youtube-player iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
+
+.error {
+  padding: 15px;
+  border: 1px solid #ffd1d6;
+  border-radius: 15px;
+  color: #c23c4b;
+  background: #fff2f3;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+footer {
+  min-height: 4px;
+  margin-top: 18px;
+}
+
+@keyframes item-enter {
+  0% {
+    opacity: 0;
+    transform: translateY(-10px) scale(0.985);
+    box-shadow: 0 0 0 4px rgba(108, 99, 255, 0.12);
+  }
+  55% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    box-shadow: 0 0 0 4px rgba(108, 99, 255, 0.10);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    box-shadow: 0 0 0 4px rgba(108, 99, 255, 0);
+  }
+}
+
+.item--new {
+  animation: item-enter 1.2s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+@media (max-width: 700px) {
+  .app-shell {
+    padding: 10px 9px 24px;
+  }
+
+  .site-header {
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 9px;
+    margin-bottom: 10px;
+    padding: 11px;
+    border-radius: 17px;
+  }
+
+  .brand {
+    width: 100%;
+  }
+
+  .brand-copy h1 {
+    font-size: 17px;
+  }
+
+  .brand-copy p {
+    font-size: 10px;
+  }
+
+  .status-bar {
+    width: 100%;
+    justify-content: flex-start;
+    padding: 7px 9px;
+    border-radius: 10px;
+    background: var(--surface-soft);
+    font-size: 9px;
+  }
+
+  .feed {
+    gap: 8px;
+  }
+
+  .item {
+    padding: 13px 13px 14px;
+    border-radius: 15px;
+  }
+
+  .top {
+    align-items: flex-start;
+    margin-bottom: 8px;
+  }
+
+  .author {
+    max-width: 68%;
+    padding: 4px 8px;
+    font-size: 9px;
+  }
+
+  .date {
+    font-size: 9px;
+  }
+
+  .title {
+    margin: 0 2px 7px;
+    font-size: 14px;
+    line-height: 1.42;
+  }
+
+  .desc {
+    margin: 0 2px;
+    font-size: 11px;
+    line-height: 1.52;
+    -webkit-line-clamp: 4;
+  }
+
+  .youtube-player {
+    margin-top: 10px;
+    border-radius: 12px;
+  }
+}
+
+@media (max-width: 380px) {
+  .app-shell {
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+
+  .site-header {
+    padding: 9px;
+  }
+
+  .status-bar {
+    gap: 4px;
+  }
+
+  .item {
+    padding: 12px 12px 13px;
+  }
+
+  .title {
+    font-size: 13px;
+  }
+
+  .desc {
+    font-size: 10.5px;
+  }
+
+  .date {
+    font-size: 8.5px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
