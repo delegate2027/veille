@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 16 Sep 2026 14:30:49 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:45:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Manon Aubry face à Ursula von der Leyen</title>
+      <link>https://www.youtube.com/watch?v=nwc4Hd8pO8o</link>
+      <guid>https://www.youtube.com/watch?v=nwc4Hd8pO8o</guid>
+      <pubDate>2026-09-16T14:38:34+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>"Nous privilégierons les milliards d'êtres humains aux milliards d'euros de quelques humains."
+
+J'ai répondu à Ursula von der Leyen, la Présidente de la Commission européenne, complètement déconnectée de la réalité.
+
+Le 16 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>nwc4Hd8pO8o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nwc4Hd8pO8o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Violences faites aux femmes et aux enfants : pour une loi intégrale ! | Fête de l’Humanité 2026</title>
       <link>https://www.youtube.com/watch?v=HLZMdcjOElA</link>
@@ -1735,24 +1750,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>Y_FWab-YAn8</videoId>
       <enclosure url="https://i.ytimg.com/vi/Y_FWab-YAn8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella sur LCI : « La France est en danger, il faut sauver notre pays ! »</title>
-      <link>https://www.youtube.com/watch?v=wwf7vxkcVwE</link>
-      <guid>https://www.youtube.com/watch?v=wwf7vxkcVwE</guid>
-      <pubDate>2026-09-05T09:16:38+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>wwf7vxkcVwE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/wwf7vxkcVwE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
