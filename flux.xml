@@ -4,19 +4,8 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 16 Sep 2026 16:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:30:53 -0000</lastBuildDate>
     <feedCount>42</feedCount>
-    <item>
-      <title>Conférence de presse de Marine Tondelier et des eurodéputé·es écologistes au Parlement européen</title>
-      <link>https://www.youtube.com/watch?v=Kx9CDCYGVqU</link>
-      <guid>https://www.youtube.com/watch?v=Kx9CDCYGVqU</guid>
-      <pubDate>2026-09-16T16:14:30+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Le jour du discours sur l'état de l'union de la présidente de la commission européenne, Marine Tondelier et les eurodéputés écologistes ont présenté leur vision de l'Union européenne au Parlement européen.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>Kx9CDCYGVqU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Kx9CDCYGVqU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
     <item>
       <title>Conférence de presse de Marine Tondelier et des eurodéputé·es écologistes au Parlement européen</title>
       <link>https://www.youtube.com/watch?v=NeAAEPTCyZk</link>
@@ -1731,6 +1720,24 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>C6tIBth2lmU</videoId>
       <enclosure url="https://i.ytimg.com/vi/C6tIBth2lmU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Jordan Bardella à Cernobbio : « Le véritable danger serait de continuer comme avant ! »</title>
+      <link>https://www.youtube.com/watch?v=Y_FWab-YAn8</link>
+      <guid>https://www.youtube.com/watch?v=Y_FWab-YAn8</guid>
+      <pubDate>2026-09-05T14:07:21+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>Y_FWab-YAn8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Y_FWab-YAn8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
