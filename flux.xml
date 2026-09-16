@@ -4,8 +4,26 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 16 Sep 2026 17:45:35 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:00:58 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Le temps est venu d’inverser l’ordre des choses et de rendre le pouvoir au pouvoir !</title>
+      <link>https://www.youtube.com/watch?v=_eD8ivNU4cg</link>
+      <guid>https://www.youtube.com/watch?v=_eD8ivNU4cg</guid>
+      <pubDate>2026-09-16T17:47:30+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>_eD8ivNU4cg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_eD8ivNU4cg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de presse de Marine Tondelier et des eurodéputé·es écologistes au Parlement européen</title>
       <link>https://www.youtube.com/watch?v=NeAAEPTCyZk</link>
@@ -1720,24 +1738,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>C6tIBth2lmU</videoId>
       <enclosure url="https://i.ytimg.com/vi/C6tIBth2lmU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella à Cernobbio : « Le véritable danger serait de continuer comme avant ! »</title>
-      <link>https://www.youtube.com/watch?v=Y_FWab-YAn8</link>
-      <guid>https://www.youtube.com/watch?v=Y_FWab-YAn8</guid>
-      <pubDate>2026-09-05T14:07:21+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>Y_FWab-YAn8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Y_FWab-YAn8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
