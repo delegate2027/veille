@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 09:00:58 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:15:35 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>LAURE LAVALETTE est l'invité de LAURENCE FERRARI sur CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=2ZONfEWqNSg</link>
+      <guid>https://www.youtube.com/watch?v=2ZONfEWqNSg</guid>
+      <pubDate>2026-09-17T09:00:07+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>2ZONfEWqNSg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2ZONfEWqNSg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>David Lisnard sur franceinfo : « À chaque crise, on se rend compte que la France devient faible »</title>
       <link>https://www.youtube.com/watch?v=AH9CCz3cH10</link>
@@ -1721,17 +1734,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Jérôme Guedj</channelTitle>
       <videoId>hHx3QMJo41U</videoId>
       <enclosure url="https://i.ytimg.com/vi/hHx3QMJo41U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face à l'extrême droite, nous serons la seule alternative !</title>
-      <link>https://www.youtube.com/watch?v=_3xMe0dUCYs</link>
-      <guid>https://www.youtube.com/watch?v=_3xMe0dUCYs</guid>
-      <pubDate>2026-09-07T08:14:15+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>BFM TV le 07 septembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>_3xMe0dUCYs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_3xMe0dUCYs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
