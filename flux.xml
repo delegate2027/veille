@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 20:45:34 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:00:58 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Marine Le Pen, invitée d'Objectif 2027, avec Darius Rochebin, sur LCI</title>
+      <link>https://www.youtube.com/watch?v=ux3WEnVnaTU</link>
+      <guid>https://www.youtube.com/watch?v=ux3WEnVnaTU</guid>
+      <pubDate>2026-09-17T20:44:40+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description />
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>ux3WEnVnaTU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ux3WEnVnaTU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>C'est dans ces moments-là que la solidarité nationale prend tout son sens.</title>
       <link>https://www.youtube.com/watch?v=fzkkDiHDLeQ</link>
@@ -1744,24 +1755,6 @@ Retrouvez mon passage sur BFMTV le 18 août 2026.</description>
       <channelTitle>Jérôme Guedj</channelTitle>
       <videoId>U9ZdghnDQN8</videoId>
       <enclosure url="https://i.ytimg.com/vi/U9ZdghnDQN8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella sur Bloomberg : « Jean-Luc Mélenchon porte en lui la promesse de la désunion ! »</title>
-      <link>https://www.youtube.com/watch?v=ws8aQJaeLgc</link>
-      <guid>https://www.youtube.com/watch?v=ws8aQJaeLgc</guid>
-      <pubDate>2026-09-08T08:44:59+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>ws8aQJaeLgc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ws8aQJaeLgc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
