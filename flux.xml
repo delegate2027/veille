@@ -4,8 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 19:45:32 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:00:57 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>C'est dans ces moments-là que la solidarité nationale prend tout son sens.</title>
+      <link>https://www.youtube.com/watch?v=fzkkDiHDLeQ</link>
+      <guid>https://www.youtube.com/watch?v=fzkkDiHDLeQ</guid>
+      <pubDate>2026-09-17T19:44:59+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Marie a souhaité nous montrer sa maison dévastée par les flammes.
+
+Comme elle, des milliers de Français n’ont plus de maison à la suite des terribles incendies qui ont ravagé le sud-ouest de la France.
+
+Pour elle, c'est une partie de sa vie, des souvenirs, une histoire qui sont partis.
+
+Son courage force le respect et nous oblige à tout faire pour que la nation puisse lui apporter son soutien.
+
+C'est dans ces moments-là que la solidarité nationale prend tout son sens.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>fzkkDiHDLeQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/fzkkDiHDLeQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UR2026</title>
       <link>https://www.youtube.com/watch?v=sZO5SgNZT1U</link>
@@ -1743,27 +1762,6 @@ Retrouvez mon passage sur BFMTV le 18 août 2026.</description>
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>ws8aQJaeLgc</videoId>
       <enclosure url="https://i.ytimg.com/vi/ws8aQJaeLgc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Campagne présidentielle | « Chacun doit dire ce qu’il pense et ce qu’il propose. »</title>
-      <link>https://www.youtube.com/watch?v=gnsuqtXB0Qs</link>
-      <guid>https://www.youtube.com/watch?v=gnsuqtXB0Qs</guid>
-      <pubDate>2026-09-08T07:33:29+00:00</pubDate>
-      <author>Avec Édouard</author>
-      <description>Édouard Philippe était l'invité d'Agathe Lambret et de Simon Le Baron dans la matinale de franceinfo, à 8h30.
----
-Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
-
-→ Twitter (X) : https://x.com/https://x.com/Avec_Edouard?s=20
-→ Facebook : https://www.facebook.com/HorizonsLeParti/ (https://www.facebook.com/HorizonsLeParti)
-→ Instagram : https://www.instagram.com/horizonsleparti/ (https://www.instagram.com/avecedouard/)
-→ TikTok :https://www.tiktok.com/@avec_edouard?is_from_webapp=1&amp;amp;sender_device=pc
-→ LinkedIn : https://www.linkedin.com/company/horizonsleparti/ (https://www.linkedin.com/company/avecedouard/posts/?feedView=all)
-→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R
-→ Telegram : https://t.me/HorizonsOff</description>
-      <channelTitle>Avec Édouard</channelTitle>
-      <videoId>gnsuqtXB0Qs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gnsuqtXB0Qs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
