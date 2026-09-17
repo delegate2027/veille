@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 14:16:08 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:30:57 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>EN DIRECT | Bâtissons les États-Unis d'Europe.</title>
+      <link>https://www.youtube.com/watch?v=0PTy24vJfQE</link>
+      <guid>https://www.youtube.com/watch?v=0PTy24vJfQE</guid>
+      <pubDate>2026-09-17T14:28:14+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Face aux États-Unis. Face à la Chine. L'Europe doit assumer sa puissance et défendre ses intérêts.
+
+Depuis Reims, je prends la parole sur l'avenir de notre continent.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>0PTy24vJfQE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0PTy24vJfQE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nunez confirme qu’il a bafoué le secret de l’enquête !</title>
       <link>https://www.youtube.com/watch?v=cwTQq4d2jB4</link>
@@ -1536,30 +1551,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>9TNh79KNqM8</videoId>
       <enclosure url="https://i.ytimg.com/vi/9TNh79KNqM8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Gabriel Attal sur France Info | Je réponds à toutes les questions d'Agathe Lambret et Simon Le Baron</title>
-      <link>https://www.youtube.com/watch?v=_yigPizPdXI</link>
-      <guid>https://www.youtube.com/watch?v=_yigPizPdXI</guid>
-      <pubDate>2026-09-09T07:30:16+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Ce mercredi 9 septembre, Gabriel Attal est l'invité de Franceinfo.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr
-
-Suivez son action sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>_yigPizPdXI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_yigPizPdXI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Marine Tondelier est " pour un moratoire sur la chasse dans les zones incendiées" (Les 4 Vérités)</title>
