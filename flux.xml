@@ -4,8 +4,24 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 14:30:57 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:45:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Présentation du LIVRET ENFANCE - Marine Tondelier &amp; les auteur·ices du livret</title>
+      <link>https://www.youtube.com/watch?v=EbY02dtsne4</link>
+      <guid>https://www.youtube.com/watch?v=EbY02dtsne4</guid>
+      <pubDate>2026-09-17T14:44:34+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Avec :
+Marine Tondelier : secrétaire nationale des Écologistes
+Sophie Pascal-Lericq : maire d’Arcueil
+Arnaud Bonnet : député écologiste de Seine-et-Marne
+Jean-Baptiste Pegeon : membre du bureau politique des Écologistes
+Rania Kissi : porte parole de Marine Tondelier et conseillère de Paris, Membre de la 6e commission</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>EbY02dtsne4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EbY02dtsne4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Bâtissons les États-Unis d'Europe.</title>
       <link>https://www.youtube.com/watch?v=0PTy24vJfQE</link>
@@ -1726,17 +1742,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>UQATO71KxBQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/UQATO71KxBQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bruno Retailleau était l'invité de BFM TV</title>
-      <link>https://www.youtube.com/watch?v=EEcJauVcikU</link>
-      <guid>https://www.youtube.com/watch?v=EEcJauVcikU</guid>
-      <pubDate>2026-09-07T15:42:17+00:00</pubDate>
-      <author>Bruno Retailleau</author>
-      <description>Bruno Retailleau, candidat “Les Républicains” à l’élection présidentielle était l’invité de BFM Politique ce dimanche 6 septembre.</description>
-      <channelTitle>Bruno Retailleau</channelTitle>
-      <videoId>EEcJauVcikU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/EEcJauVcikU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
