@@ -4,8 +4,36 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 22:30:50 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:45:38 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Sécurité climatique : le plan d'Édouard Philippe pour adapter la France</title>
+      <link>https://www.youtube.com/watch?v=biaaBJ6Q02A</link>
+      <guid>https://www.youtube.com/watch?v=biaaBJ6Q02A</guid>
+      <pubDate>2026-09-17T22:43:48+00:00</pubDate>
+      <author>Avec Édouard</author>
+      <description>Discours prononcé à Angers – Les Ponts-de-Cé
+
+Après un été 2026 marqué par des feux d'une intensité inédite, des sécheresses records et des catastrophes climatiques qui ont touché tout le territoire, je propose une stratégie claire en trois axes : protéger, adapter, équiper.
+
+Ce n'est pas un discours de renoncement. C'est une feuille de route pour que la France ne subisse pas le changement climatique, mais s'y prépare — comme elle a toujours su le faire face aux défis de sa géographie.
+
+#SécuritéClimatique #Adaptation #Climat #France #Discours
+
+---
+Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
+
+→ Twitter (X) : https://x.com/https://x.com/Avec_Edouard?s=20
+→ Facebook : https://www.facebook.com/HorizonsLeParti/ (https://www.facebook.com/HorizonsLeParti)
+→ Instagram : https://www.instagram.com/horizonsleparti/ (https://www.instagram.com/avecedouard/)
+→ TikTok :https://www.tiktok.com/@avec_edouard?is_from_webapp=1&amp;amp;sender_device=pc
+→ LinkedIn : https://www.linkedin.com/company/horizonsleparti/ (https://www.linkedin.com/company/avecedouard/posts/?feedView=all)
+→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R
+→ Telegram : https://t.me/HorizonsOff</description>
+      <channelTitle>Avec Édouard</channelTitle>
+      <videoId>biaaBJ6Q02A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/biaaBJ6Q02A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Face à BFM avec Éric Zemmour</title>
       <link>https://www.youtube.com/watch?v=BPLXD1ZMlis</link>
@@ -1762,17 +1790,6 @@ Retrouvez mon passage sur BFMTV le 18 août 2026.</description>
       <channelTitle>DAMIEN MAUDET</channelTitle>
       <videoId>og4YZ8V9ooU</videoId>
       <enclosure url="https://i.ytimg.com/vi/og4YZ8V9ooU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Interview FranceInfo du 7 septembre 2026</title>
-      <link>https://www.youtube.com/watch?v=VgkKar5oUw0</link>
-      <guid>https://www.youtube.com/watch?v=VgkKar5oUw0</guid>
-      <pubDate>2026-09-08T09:27:12+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>🎙️Proposition de loi dite intégrale : Retour sur ma brève interview ce matin sur France Info radio.</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>VgkKar5oUw0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/VgkKar5oUw0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
