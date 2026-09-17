@@ -4,8 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 08:00:57 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:15:31 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>La mobilisation pour un budget intégral doit s'intensifier</title>
+      <link>https://www.youtube.com/watch?v=G93aiSi1M1Q</link>
+      <guid>https://www.youtube.com/watch?v=G93aiSi1M1Q</guid>
+      <pubDate>2026-09-17T08:06:36+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>« Monsieur Darmanin, Madame Bergé, où sont les maigres 3 milliards d’euros réclamés par les associations pour lutter contre les violences faites aux femmes et aux enfants ?
+
+Ce budget n’est nulle part.
+
+Qui est surpris lorsque le ministre de la Justice s’appelle Gérald Darmanin ? »
+
+La mobilisation doit s’amplifier !
+
+🎙️Ma question à Aurore Bergé et Gérald Darmanin sur la loi dite intégrale.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>G93aiSi1M1Q</videoId>
+      <enclosure url="https://i.ytimg.com/vi/G93aiSi1M1Q/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Je soutiens les appels à se mobiliser le 17 octobre !</title>
       <link>https://www.youtube.com/watch?v=43tI3Nti2aM</link>
@@ -1717,30 +1736,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>qCGBhpkGodU</videoId>
       <enclosure url="https://i.ytimg.com/vi/qCGBhpkGodU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>François Bayrou invité du Grand Rendez-vous d'Europe 1, Cnews et Les Échos</title>
-      <link>https://www.youtube.com/watch?v=4I3qQf21P1w</link>
-      <guid>https://www.youtube.com/watch?v=4I3qQf21P1w</guid>
-      <pubDate>2026-09-06T10:26:01+00:00</pubDate>
-      <author>MoDem</author>
-      <description>François Bayrou invité du Grand Rendez-vous d'Europe 1, Cnews et Les Échos
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/actualites/francois-bayrou-invite-du-grand-rendez-vous-europe-1-cnews-les-echos-image-8474-image
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>4I3qQf21P1w</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4I3qQf21P1w/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
