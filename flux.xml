@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 18:30:48 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:45:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Jordan Bardella sur BFMTV : « Il faut aborder tous les tabous de la dépense publique ! »</title>
+      <link>https://www.youtube.com/watch?v=a-U9kFTnHeU</link>
+      <guid>https://www.youtube.com/watch?v=a-U9kFTnHeU</guid>
+      <pubDate>2026-09-17T18:26:59+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Jordan Bardella etait l’invité de l’emission 100% Mabrouk sur BFMTV !
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>a-U9kFTnHeU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/a-U9kFTnHeU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Faut-il abolir la prison ? #FeteDeLHumanité</title>
       <link>https://www.youtube.com/watch?v=rLXxkpDPc5k</link>
@@ -1729,17 +1749,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>Jt6dwUYdofU</videoId>
       <enclosure url="https://i.ytimg.com/vi/Jt6dwUYdofU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les insoumis seront toujours antiracistes !</title>
-      <link>https://www.youtube.com/watch?v=UQATO71KxBQ</link>
-      <guid>https://www.youtube.com/watch?v=UQATO71KxBQ</guid>
-      <pubDate>2026-09-07T16:39:23+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Retrouvez mon passage de ce lundi 7 septembre sur le plateau de BFM TV.</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>UQATO71KxBQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/UQATO71KxBQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
