@@ -4,8 +4,37 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 21:15:34 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:30:43 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Face à BFM avec Éric Zemmour</title>
+      <link>https://www.youtube.com/watch?v=BPLXD1ZMlis</link>
+      <guid>https://www.youtube.com/watch?v=BPLXD1ZMlis</guid>
+      <pubDate>2026-09-17T21:09:50+00:00</pubDate>
+      <author>Éric Zemmour</author>
+      <description>Éric Zemmour, écrivain et président de Reconquête, était l’invité de BFMTV.
+
+1️⃣ Likez la vidéo, abonnez-vous à ma chaîne YouTube en cliquant sur le bouton « S’abonner », et activez la cloche 🔔 et partagez cette vidéo à vos proches !
+2️⃣ Adhérez à RECONQUÊTE : https://www.parti-reconquete.fr/adhesions
+3️⃣ Faites un don : https://soutien.ericzemmour.fr
+
+#EricZemmour
+
+📱 Suivez-moi sur les réseaux sociaux : 
+
+Facebook : https://www.facebook.com/ZemmourEric
+Twitter : https://twitter.com/ZemmourEric
+Instagram : https://www.instagram.com/ericzemmour_/
+LinkedIn : https://www.linkedin.com/in/eric-zemmour/
+WhatsApp : https://whatsapp.com/channel/0029Va8tObJE50UnrZc5c13h
+Telegram : https://t.me/EricZemmourOfficiel
+TikTok : https://www.tiktok.com/@zemmour_eric
+
+📖 Commandez la version augmentée de mon livre Le Suicide français : https://www.amazon.fr/suicide-français-Eric-Zemmour/dp/2818507928/ref=tmm_mmp_swatch_0?_encoding=UTF8&amp;amp;dib_tag=se&amp;amp;dib=eyJ2IjoiMSJ9.QHuIbjdvWA2uncNV0zlaju0WXY583mDf7emcwqB7FtL_TfQqKt_3JiXNJnmXYeDkHDQNONHP4dql9KQFUBqy0ISgUqLSQfVDY2JC9H1wi2lW7Zx-fjO5bjcUA7ulUiDh1L07Vr_bKBdea8snGZUWVA.9-Tjg4JBIAkQ_5nt-5pC1aOZRmdEIAt63SW00LnnFaI&amp;amp;qid=1789369244&amp;amp;sr=8-1</description>
+      <channelTitle>Éric Zemmour</channelTitle>
+      <videoId>BPLXD1ZMlis</videoId>
+      <enclosure url="https://i.ytimg.com/vi/BPLXD1ZMlis/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Le Pen, invitée d'Objectif 2027, avec Darius Rochebin, sur LCI</title>
       <link>https://www.youtube.com/watch?v=ux3WEnVnaTU</link>
@@ -1744,17 +1773,6 @@ Retrouvez mon passage sur BFMTV le 18 août 2026.</description>
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>VgkKar5oUw0</videoId>
       <enclosure url="https://i.ytimg.com/vi/VgkKar5oUw0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JÉRÔME GUEDJ FACE À JULIEN ARNAUD SUR BFMTV｜Pouvoir d'achat, Tour Eiffel, 2027...</title>
-      <link>https://www.youtube.com/watch?v=U9ZdghnDQN8</link>
-      <guid>https://www.youtube.com/watch?v=U9ZdghnDQN8</guid>
-      <pubDate>2026-09-08T09:24:31+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>U9ZdghnDQN8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/U9ZdghnDQN8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
