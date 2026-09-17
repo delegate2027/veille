@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 11:15:34 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:30:43 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Présentation du livre - Election sous influence</title>
+      <link>https://www.youtube.com/watch?v=WeAnXh4nn8o</link>
+      <guid>https://www.youtube.com/watch?v=WeAnXh4nn8o</guid>
+      <pubDate>2026-09-17T11:24:21+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Le 10 septembre, nous avons présenté Élection sous influence, le livre de François Piquemal, préfacé par Jean-Luc Mélenchon. 
+
+L’ouvrage revient sur les ingérences étrangères survenues durant la campagne des élections municipales à Toulouse. 
+
+Ce dernier expose les éléments recueillis concernant les liens entre certaines officines et la municipalité actuelle, ainsi que les rapports réalisés par des servies de l'Etat venant attestés de cela.</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>WeAnXh4nn8o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WeAnXh4nn8o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURE LAVALETTE est l'invité de LAURENCE FERRARI sur CNEWS !</title>
       <link>https://www.youtube.com/watch?v=2ZONfEWqNSg</link>
@@ -1721,17 +1736,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Jérôme Guedj</channelTitle>
       <videoId>hHx3QMJo41U</videoId>
       <enclosure url="https://i.ytimg.com/vi/hHx3QMJo41U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face à l'extrême droite, nous serons la seule alternative !</title>
-      <link>https://www.youtube.com/watch?v=_3xMe0dUCYs</link>
-      <guid>https://www.youtube.com/watch?v=_3xMe0dUCYs</guid>
-      <pubDate>2026-09-07T08:14:15+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>BFM TV le 07 septembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>_3xMe0dUCYs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_3xMe0dUCYs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
