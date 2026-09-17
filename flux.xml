@@ -4,18 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 15:45:36 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:01:05 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
-      <title>🔴 EN DIRECT | Discours d’Édouard Philippe sur l’adaptation des territoires au changement climatique</title>
-      <link>https://www.youtube.com/watch?v=Ms8suVtMZk8</link>
-      <guid>https://www.youtube.com/watch?v=Ms8suVtMZk8</guid>
-      <pubDate>2026-09-17T14:56:24+00:00</pubDate>
-      <author>Avec Édouard</author>
-      <description>Suivez le discours d’Édouard Philippe sur l’adaptation des territoires au changement climatique, depuis Les Ponts-de-Cé.</description>
-      <channelTitle>Avec Édouard</channelTitle>
-      <videoId>Ms8suVtMZk8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ms8suVtMZk8/maxresdefault.jpg" type="image/jpeg" />
+      <title>La France qui lutte : L'affaire Klodo (Claude Jean-Pierre) – En campagne #3</title>
+      <link>https://www.youtube.com/watch?v=oaVyXKifPv4</link>
+      <guid>https://www.youtube.com/watch?v=oaVyXKifPv4</guid>
+      <pubDate>2026-09-17T16:00:07+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Avec Fatia Alcabélard et Christophe Sinan.
+
+Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=yIXOxo0904Y</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>oaVyXKifPv4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/oaVyXKifPv4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Pour un pays pays à hauteur d'enfants : présentation de nos propositions pour l'enfance !</title>
