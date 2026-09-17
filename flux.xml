@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 12:01:03 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:15:44 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Nunez confirme qu’il a bafoué le secret de l’enquête !</title>
+      <link>https://www.youtube.com/watch?v=cwTQq4d2jB4</link>
+      <guid>https://www.youtube.com/watch?v=cwTQq4d2jB4</guid>
+      <pubDate>2026-09-17T12:12:28+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>Ce matin à l’Assemblée nationale, nous avons interpellé le ministre Nunez sur les fuites dans la presse concernant Rima Hassan suite aux informations accablantes pour lui révélées par l’émission Complément d’enquête !
+
+Très mal à l’aise, M. Nunez confirme qu’il a bafoué le secret de l’enquête en confirmant des informations (fausses) à des journalistes. Et cela en présence du Premier ministre Lecornu si l’on en croit Complément d’Enquête. Mais il a aussi LUI-MEME diffusé des informations sur la prétendue drogue dans le sac de Rima Hassan. Il accuse maintenant les journalistes de mentir.
+
+Le président de la commission me coupe ensuite la parole.
+
+Ces éléments sont inacceptables. Laurent Nuñez doit démissionner.
+
+Soutien à Rima Hassan @rimamobarak !
+
+#NunezDemission</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>cwTQq4d2jB4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/cwTQq4d2jB4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Présentation du livre - Election sous influence</title>
       <link>https://www.youtube.com/watch?v=WeAnXh4nn8o</link>
@@ -1725,17 +1746,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>EEcJauVcikU</videoId>
       <enclosure url="https://i.ytimg.com/vi/EEcJauVcikU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JÉRÔME GUEDJ EN DÉBAT FACE À JEAN-PHILIPPE TANGUY (RN) SUR LCI｜Laïcité, Ukraine, 2027...</title>
-      <link>https://www.youtube.com/watch?v=hHx3QMJo41U</link>
-      <guid>https://www.youtube.com/watch?v=hHx3QMJo41U</guid>
-      <pubDate>2026-09-07T09:33:36+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>hHx3QMJo41U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hHx3QMJo41U/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
