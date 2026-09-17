@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 08:15:31 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:30:51 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>David Lisnard sur franceinfo : « À chaque crise, on se rend compte que la France devient faible »</title>
+      <link>https://www.youtube.com/watch?v=AH9CCz3cH10</link>
+      <guid>https://www.youtube.com/watch?v=AH9CCz3cH10</guid>
+      <pubDate>2026-09-17T08:26:37+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>David Lisnard était l’invité du 7h30 de franceinfo, interrogé par Alix Bouilhaguet.
+
+Flambée des prix des carburants, mobilisation des pêcheurs, dépenses publiques, bureaucratie, retraites, collectivités locales et élection présidentielle de 2027 : le président de Nouvelle Énergie expose ses propositions pour sortir la France de la spirale de la dépense et retrouver un État plus efficace.
+
+« À chaque crise, on va se rendre compte que la France devient faible. »
+
+David Lisnard défend notamment un objectif de 80 milliards d’euros d’économies dès la première année, une réduction massive de la bureaucratie et un recentrage de la dépense publique sur les missions essentielles de l’État.</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>AH9CCz3cH10</videoId>
+      <enclosure url="https://i.ytimg.com/vi/AH9CCz3cH10/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La mobilisation pour un budget intégral doit s'intensifier</title>
       <link>https://www.youtube.com/watch?v=G93aiSi1M1Q</link>
@@ -1715,27 +1732,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>_3xMe0dUCYs</videoId>
       <enclosure url="https://i.ytimg.com/vi/_3xMe0dUCYs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Extrême droite en Allemagne, salaires, présidentielle : Manuel Bompard, invité de France 2 !</title>
-      <link>https://www.youtube.com/watch?v=qCGBhpkGodU</link>
-      <guid>https://www.youtube.com/watch?v=qCGBhpkGodU</guid>
-      <pubDate>2026-09-07T07:00:28+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur France 2 du lundi 7 septembre.
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>qCGBhpkGodU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qCGBhpkGodU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
