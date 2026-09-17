@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 17 Sep 2026 16:45:34 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:01:08 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Faut-il abolir la prison ? #FeteDeLHumanité</title>
@@ -1452,19 +1452,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <enclosure url="https://i.ytimg.com/vi/OQD7hgBZz1A/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Discours de rentrée de David Lisnard le 29 aout à Cannes</title>
-      <link>https://www.youtube.com/watch?v=YtG_wEYTLjA</link>
-      <guid>https://www.youtube.com/watch?v=YtG_wEYTLjA</guid>
-      <pubDate>2026-09-10T08:32:42+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>Retrouvez le discours de rentrée de David Lisnard à Cannes lors du campus de La Gagne ! 
-
-Adhérez à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>YtG_wEYTLjA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YtG_wEYTLjA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>François Bayrou invité d'Apolline de Malherbe sur BFMTV et RMC</title>
       <link>https://www.youtube.com/watch?v=kGF7Q4gIrqA</link>
       <guid>https://www.youtube.com/watch?v=kGF7Q4gIrqA</guid>
@@ -1742,6 +1729,17 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>Jt6dwUYdofU</videoId>
       <enclosure url="https://i.ytimg.com/vi/Jt6dwUYdofU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Les insoumis seront toujours antiracistes !</title>
+      <link>https://www.youtube.com/watch?v=UQATO71KxBQ</link>
+      <guid>https://www.youtube.com/watch?v=UQATO71KxBQ</guid>
+      <pubDate>2026-09-07T16:39:23+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Retrouvez mon passage de ce lundi 7 septembre sur le plateau de BFM TV.</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>UQATO71KxBQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UQATO71KxBQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
