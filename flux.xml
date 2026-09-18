@@ -4,8 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 20:01:24 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:15:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>UR 2026 : Défendre nos valeurs, défendre l'essentiel</title>
+      <link>https://www.youtube.com/watch?v=MVdsB--QzCs</link>
+      <guid>https://www.youtube.com/watch?v=MVdsB--QzCs</guid>
+      <pubDate>2026-09-18T20:14:58+00:00</pubDate>
+      <author>MoDem</author>
+      <description>🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/universite-de-rentree/ur-2026-defendre-nos-valeurs-defendre-lessentiel-image-8484-image
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+X : https://x.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/
+Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
+LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
+Telegram : @MouvementDemocrate</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>MVdsB--QzCs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/MVdsB--QzCs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UR 2026 : Intervention de Bernard Cazeneuve</title>
       <link>https://www.youtube.com/watch?v=va-QbGF1OQE</link>
@@ -1824,17 +1849,6 @@ Pour 90 % des gens, nous n'augmenterons pas, voire nous diminuerons les droits d
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>SXNPy1KCHks</videoId>
       <enclosure url="https://i.ytimg.com/vi/SXNPy1KCHks/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Tirer les conséquences de l'affaire Le Scouarnec : comment éviter les vi°l sériels</title>
-      <link>https://www.youtube.com/watch?v=F9DTLJL-s1E</link>
-      <guid>https://www.youtube.com/watch?v=F9DTLJL-s1E</guid>
-      <pubDate>2026-09-09T07:50:11+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>🎙️Après plusieurs semaines d’auditions, nous avons présenté aujourd’hui en commission des lois les conclusions des travaux de notre mission flash sur les suites à donner à l’affaire le Scouarnec.</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>F9DTLJL-s1E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/F9DTLJL-s1E/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
