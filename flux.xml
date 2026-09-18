@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 13:45:32 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 14:01:01 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Marine Le Pen dans l'Aude : « Les vraies économies sont dans le train de vie de l'État ! »</title>
+      <link>https://www.youtube.com/watch?v=jWdGqTE4Zx4</link>
+      <guid>https://www.youtube.com/watch?v=jWdGqTE4Zx4</guid>
+      <pubDate>2026-09-18T13:52:14+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description />
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>jWdGqTE4Zx4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jWdGqTE4Zx4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Réaction de Marine Tondelier à la sortie du rendez-vous à l'Élysée sur la crise internationale</title>
       <link>https://www.youtube.com/watch?v=Yyw5wvnWKbE</link>
@@ -1781,17 +1792,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>9TNh79KNqM8</videoId>
       <enclosure url="https://i.ytimg.com/vi/9TNh79KNqM8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier est " pour un moratoire sur la chasse dans les zones incendiées" (Les 4 Vérités)</title>
-      <link>https://www.youtube.com/watch?v=IOM9ETBBbIE</link>
-      <guid>https://www.youtube.com/watch?v=IOM9ETBBbIE</guid>
-      <pubDate>2026-09-09T06:36:45+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Interview du 9 septembre 2026 dans Télématin avec Francis Letellier.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>IOM9ETBBbIE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/IOM9ETBBbIE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
