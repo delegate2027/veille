@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 08:30:43 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:45:31 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>« On ne rafistole pas le Titanic, c’est le système qu’il faut revoir »</title>
+      <link>https://www.youtube.com/watch?v=AuPSNxJdvWo</link>
+      <guid>https://www.youtube.com/watch?v=AuPSNxJdvWo</guid>
+      <pubDate>2026-09-18T08:43:32+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Invité de LCI vendredi 18 septembre, David Lisnard est revenu sur la mobilisation des pêcheurs de Méditerranée, confrontés à l’envolée du prix du carburant, à l’accumulation des normes et aux distorsions de concurrence. Une crise sur laquelle il avait alerté dès son déplacement dans l’Hérault, les 5 et 6 août derniers, notamment lors de sa rencontre avec les professionnels de la criée de Sète.</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>AuPSNxJdvWo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/AuPSNxJdvWo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier : "la hausse du prix de l'essence crée un délitement social' (BFM TV)</title>
       <link>https://www.youtube.com/watch?v=hSso9fg-IiU</link>
@@ -1786,23 +1797,6 @@ Merci à nos pompiers pour leur courage et pour leur dévouement. Merci de nous 
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>xPahvGZfAak</videoId>
       <enclosure url="https://i.ytimg.com/vi/xPahvGZfAak/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« On nage en plein délire ! » Damien Maudet sur BFMTV</title>
-      <link>https://www.youtube.com/watch?v=og4YZ8V9ooU</link>
-      <guid>https://www.youtube.com/watch?v=og4YZ8V9ooU</guid>
-      <pubDate>2026-09-08T15:40:07+00:00</pubDate>
-      <author>DAMIEN MAUDET</author>
-      <description>À Limoges et à Panazol, on me le dit : Emmanuel Macron a tellement appauvri les Français que les retraités doivent donner de l'argent à leurs enfants et leurs petits-enfants ! 
-
-Et pourtant... les retraités sont une nouvelle fois la cible du Gouvernement pour aller faire des économies sur leur dos. 
-
-Alors que les ultra-riches de ce pays n'ont jamais été aussi riches. Allons prendre l'argent où il se trouve, dans leurs poches, plutôt que d'appauvrir encore plus les retraités et l'ensemble des Français !
-
-Retrouvez mon passage sur BFMTV le 18 août 2026.</description>
-      <channelTitle>DAMIEN MAUDET</channelTitle>
-      <videoId>og4YZ8V9ooU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/og4YZ8V9ooU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
