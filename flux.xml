@@ -4,8 +4,39 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 09:15:34 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:30:53 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Jordan Bardella : « Le gouvernement est déconnecté de la souffrance de la France du travail ! »</title>
+      <link>https://www.youtube.com/watch?v=AtzUnIioQ5U</link>
+      <guid>https://www.youtube.com/watch?v=AtzUnIioQ5U</guid>
+      <pubDate>2026-09-18T09:27:14+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>AtzUnIioQ5U</videoId>
+      <enclosure url="https://i.ytimg.com/vi/AtzUnIioQ5U/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>THOMAS MÉNAGÉ est face à CHARLES CONSIGNY sur BFMTV !</title>
+      <link>https://www.youtube.com/watch?v=juFN9FX0R6A</link>
+      <guid>https://www.youtube.com/watch?v=juFN9FX0R6A</guid>
+      <pubDate>2026-09-18T09:14:25+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>juFN9FX0R6A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/juFN9FX0R6A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>« On ne rafistole pas le Titanic, c’est le système qu’il faut revoir »</title>
       <link>https://www.youtube.com/watch?v=AuPSNxJdvWo</link>
@@ -1766,37 +1797,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>FZIo4CXYy6g</videoId>
       <enclosure url="https://i.ytimg.com/vi/FZIo4CXYy6g/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Au nom de tous les Français, merci à nos pompiers.</title>
-      <link>https://www.youtube.com/watch?v=BxXpFxVKfas</link>
-      <guid>https://www.youtube.com/watch?v=BxXpFxVKfas</guid>
-      <pubDate>2026-09-08T18:12:48+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Au nom de ceux que vous avez sauvés, parfois sans même connaître leur nom ; au nom de tous les Français, je vous dis merci.
-
-Merci à nos pompiers pour leur courage et pour leur dévouement. Merci de nous rappeler chaque jour, chaque nuit, ce que signifie vraiment servir.</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>BxXpFxVKfas</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BxXpFxVKfas/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella sur GB News : « Nous organiserons un référendum sur l'immigration ! »</title>
-      <link>https://www.youtube.com/watch?v=xPahvGZfAak</link>
-      <guid>https://www.youtube.com/watch?v=xPahvGZfAak</guid>
-      <pubDate>2026-09-08T16:00:32+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>xPahvGZfAak</videoId>
-      <enclosure url="https://i.ytimg.com/vi/xPahvGZfAak/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
