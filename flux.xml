@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 20:30:46 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:45:35 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>UR2026</title>
+      <link>https://www.youtube.com/watch?v=33mrmg09iY8</link>
+      <guid>https://www.youtube.com/watch?v=33mrmg09iY8</guid>
+      <pubDate>2026-09-18T20:33:13+00:00</pubDate>
+      <author>MoDem</author>
+      <description>UR2026
+
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+X : https://x.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/
+Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
+LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
+Telegram : @MouvementDemocrate</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>33mrmg09iY8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/33mrmg09iY8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UR 2026 : Revivez l'ouverture de notre Université de rentrée</title>
       <link>https://www.youtube.com/watch?v=6gB0aCuivps</link>
@@ -1860,19 +1886,6 @@ Marine Tondelier, Léa Balage (députée et porte-parole de campagne), Anne Souy
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>1xB8yvgkZWI</videoId>
       <enclosure url="https://i.ytimg.com/vi/1xB8yvgkZWI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Il faut bloquer les prix du carburant ! Mon passage sur RMC.</title>
-      <link>https://www.youtube.com/watch?v=1fWZHPdxWk4</link>
-      <guid>https://www.youtube.com/watch?v=1fWZHPdxWk4</guid>
-      <pubDate>2026-09-09T13:50:23+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Face à l'explosion des prix du carburants, Aurélie Trouvé rappelle sur RMC, l'importance de bloquer les prix des carburants.
-
-Les multinationales comme Total s'en mettent plein les poches et profitent de la guerre.</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>1fWZHPdxWk4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1fWZHPdxWk4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
