@@ -4,15 +4,15 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 12:01:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:15:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
-      <title>Marine Tondelier : "Il y a plusieurs fronts qui menacent la France et l'Europe..."</title>
+      <title>Réaction de Marine Tondelier à la sortie du rendez-vous à l'Élysée sur la crise internationale</title>
       <link>https://www.youtube.com/watch?v=Yyw5wvnWKbE</link>
       <guid>https://www.youtube.com/watch?v=Yyw5wvnWKbE</guid>
       <pubDate>2026-09-18T11:52:11+00:00</pubDate>
       <author>Les Écologistes</author>
-      <description>Diffusé sur BFM TV le 18 septembre</description>
+      <description>Micro tendu réalisé à la sortie du rendez-vous entre Emmanuel Macron et tous les partis politiques à l'Élysée le 18 septembre 2026.</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>Yyw5wvnWKbE</videoId>
       <enclosure url="https://i.ytimg.com/vi/Yyw5wvnWKbE/maxresdefault.jpg" type="image/jpeg" />
@@ -77,7 +77,7 @@ Fabien Roussel appelle également le Président de la République à prendre une
       <enclosure url="https://i.ytimg.com/vi/AuPSNxJdvWo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Marine Tondelier : "la hausse du prix de l'essence crée un délitement social' (BFM TV)</title>
+      <title>Marine Tondelier : "si on avait écouté les écologistes qui alertent, on n'en serait pas là" (BFM TV)</title>
       <link>https://www.youtube.com/watch?v=hSso9fg-IiU</link>
       <guid>https://www.youtube.com/watch?v=hSso9fg-IiU</guid>
       <pubDate>2026-09-18T07:33:38+00:00</pubDate>
