@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 07:30:51 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:45:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Marine Tondelier : "la hausse du prix de l'essence crée un délitement social' (BFM TV)</title>
+      <link>https://www.youtube.com/watch?v=hSso9fg-IiU</link>
+      <guid>https://www.youtube.com/watch?v=hSso9fg-IiU</guid>
+      <pubDate>2026-09-18T07:33:38+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Le 18 septembre 2026, Marine Tondelier était l'invitée du Face à face avec Apolline de Malherbe sur BFM TV et RMC.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>hSso9fg-IiU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hSso9fg-IiU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Sarah Knafo sur France 2 : Je propose 140 milliards d'euros d’économies !</title>
       <link>https://www.youtube.com/watch?v=4JfJHDSf5jY</link>
@@ -1788,23 +1799,6 @@ Merci à nos pompiers pour leur courage et pour leur dévouement. Merci de nous 
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>xPahvGZfAak</videoId>
       <enclosure url="https://i.ytimg.com/vi/xPahvGZfAak/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« On nage en plein délire ! » Damien Maudet sur BFMTV</title>
-      <link>https://www.youtube.com/watch?v=og4YZ8V9ooU</link>
-      <guid>https://www.youtube.com/watch?v=og4YZ8V9ooU</guid>
-      <pubDate>2026-09-08T15:40:07+00:00</pubDate>
-      <author>DAMIEN MAUDET</author>
-      <description>À Limoges et à Panazol, on me le dit : Emmanuel Macron a tellement appauvri les Français que les retraités doivent donner de l'argent à leurs enfants et leurs petits-enfants ! 
-
-Et pourtant... les retraités sont une nouvelle fois la cible du Gouvernement pour aller faire des économies sur leur dos. 
-
-Alors que les ultra-riches de ce pays n'ont jamais été aussi riches. Allons prendre l'argent où il se trouve, dans leurs poches, plutôt que d'appauvrir encore plus les retraités et l'ensemble des Français !
-
-Retrouvez mon passage sur BFMTV le 18 août 2026.</description>
-      <channelTitle>DAMIEN MAUDET</channelTitle>
-      <videoId>og4YZ8V9ooU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/og4YZ8V9ooU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
