@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 08:00:57 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:15:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Marine Tondelier : "la hausse du prix de l'essence crée un délitement social' (BFM TV)</title>
@@ -804,19 +804,6 @@ Abonnez-vous !</description>
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>Mh4wxY1zjk8</videoId>
       <enclosure url="https://i.ytimg.com/vi/Mh4wxY1zjk8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURENT JACOBELLI est face à HENRI GUAINO et DIEYNABA DIOP dans BFM GRAND SOIR !</title>
-      <link>https://www.youtube.com/watch?v=M_uzLLR-zL8</link>
-      <guid>https://www.youtube.com/watch?v=M_uzLLR-zL8</guid>
-      <pubDate>2026-09-15T08:08:44+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>M_uzLLR-zL8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/M_uzLLR-zL8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Faire souffrir les gens, ce sera sans nous ! - Mathilde Panot, invitée de la matinale de Franceinfo</title>
@@ -1799,6 +1786,23 @@ Merci à nos pompiers pour leur courage et pour leur dévouement. Merci de nous 
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>xPahvGZfAak</videoId>
       <enclosure url="https://i.ytimg.com/vi/xPahvGZfAak/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>« On nage en plein délire ! » Damien Maudet sur BFMTV</title>
+      <link>https://www.youtube.com/watch?v=og4YZ8V9ooU</link>
+      <guid>https://www.youtube.com/watch?v=og4YZ8V9ooU</guid>
+      <pubDate>2026-09-08T15:40:07+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description>À Limoges et à Panazol, on me le dit : Emmanuel Macron a tellement appauvri les Français que les retraités doivent donner de l'argent à leurs enfants et leurs petits-enfants ! 
+
+Et pourtant... les retraités sont une nouvelle fois la cible du Gouvernement pour aller faire des économies sur leur dos. 
+
+Alors que les ultra-riches de ce pays n'ont jamais été aussi riches. Allons prendre l'argent où il se trouve, dans leurs poches, plutôt que d'appauvrir encore plus les retraités et l'ensemble des Français !
+
+Retrouvez mon passage sur BFMTV le 18 août 2026.</description>
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>og4YZ8V9ooU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/og4YZ8V9ooU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
