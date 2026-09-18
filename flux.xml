@@ -4,8 +4,38 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 15:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:01:04 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Peut-on encore vivre dignement de son travail ? #FeteDeLHumanité</title>
+      <link>https://www.youtube.com/watch?v=4Ts3hCH7otU</link>
+      <guid>https://www.youtube.com/watch?v=4Ts3hCH7otU</guid>
+      <pubDate>2026-09-18T16:00:27+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>À la Fête de l'Humanité, on poursuit la rentrée politique avec des temps d'échanges et de débat avec nos partenaires de gauche !
+
+Une discussion avec :
+- Céline Gillier, déléguée régionale IdF de l’OPCO des entreprises de proximité
+- Alexane Riou, secrétaire nationale à l'enseignement supérieur et à la recherche
+- Stéphane Vernac, professeur de droit privé, spécialiste du pouvoir des entreprises et des voies de leur responsabilisation
+- Thomas Vacheron, secrétaire confédéral de la CGT
+- Gaston Laval, co-président de @Noûs-ThinkTank et conseiller municipal à Paris  
+
+---
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste 
+➡️  https://www.facebook.com/partisocialiste 
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>4Ts3hCH7otU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4Ts3hCH7otU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Le Pen dans l'Aude : « Les vraies économies à faire sont dans le train de vie de l'État ! »</title>
       <link>https://www.youtube.com/watch?v=jWdGqTE4Zx4</link>
@@ -1777,17 +1807,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>IOM9ETBBbIE</videoId>
       <enclosure url="https://i.ytimg.com/vi/IOM9ETBBbIE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Il ne faut pas d'IA avant le collège" - Bruno Retailleau</title>
-      <link>https://www.youtube.com/watch?v=nkm33cTzCAg</link>
-      <guid>https://www.youtube.com/watch?v=nkm33cTzCAg</guid>
-      <pubDate>2026-09-08T21:46:37+00:00</pubDate>
-      <author>Bruno Retailleau</author>
-      <description>Invité d’« Objectif Élysée 2027 » sur CNEWS, Bruno Retailleau présente son projet de rupture pour redresser la France : finances publiques, immigration, réforme pénale, école, natalité et interdiction du voile.</description>
-      <channelTitle>Bruno Retailleau</channelTitle>
-      <videoId>nkm33cTzCAg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nkm33cTzCAg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
