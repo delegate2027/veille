@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 16:01:04 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:15:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>3615 Clouet : pourquoi payez-vous moins d'impôts que les milliardaires ? – En campagne #3</title>
+      <link>https://www.youtube.com/watch?v=z9V1gNFOBGU</link>
+      <guid>https://www.youtube.com/watch?v=z9V1gNFOBGU</guid>
+      <pubDate>2026-09-18T16:00:29+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Avec Hadrien Clouet.
+
+Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=yIXOxo0904Y</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>z9V1gNFOBGU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/z9V1gNFOBGU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Peut-on encore vivre dignement de son travail ? #FeteDeLHumanité</title>
       <link>https://www.youtube.com/watch?v=4Ts3hCH7otU</link>
@@ -1707,17 +1720,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>kGF7Q4gIrqA</videoId>
       <enclosure url="https://i.ytimg.com/vi/kGF7Q4gIrqA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Au pouvoir, nous augmenterons le SMIC à 1700€ net ! – Mathilde Panot, invitée de la matinale de LCI</title>
-      <link>https://www.youtube.com/watch?v=havNcDqv2Pk</link>
-      <guid>https://www.youtube.com/watch?v=havNcDqv2Pk</guid>
-      <pubDate>2026-09-10T07:30:11+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot sur LCI, le jeudi 10 septembre à 8h10.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>havNcDqv2Pk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/havNcDqv2Pk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Conférence de presse : présentation de nos propositions sur la santé reproductive</title>
