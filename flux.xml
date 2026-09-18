@@ -4,8 +4,58 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 19:30:45 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 19:45:41 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>UR 2026 : Intervention de Bernard Cazeneuve</title>
+      <link>https://www.youtube.com/watch?v=va-QbGF1OQE</link>
+      <guid>https://www.youtube.com/watch?v=va-QbGF1OQE</guid>
+      <pubDate>2026-09-18T19:43:45+00:00</pubDate>
+      <author>MoDem</author>
+      <description>🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/universite-de-rentree/ur-2026-intervention-de-bernard-cazeneuve-image-8483-image
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+X : https://x.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/
+Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
+LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
+Telegram : @MouvementDemocrate</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>va-QbGF1OQE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/va-QbGF1OQE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UR 2026 : Discours d'ouverture de François Bayrou</title>
+      <link>https://www.youtube.com/watch?v=LlxQdaBZRoI</link>
+      <guid>https://www.youtube.com/watch?v=LlxQdaBZRoI</guid>
+      <pubDate>2026-09-18T19:39:01+00:00</pubDate>
+      <author>MoDem</author>
+      <description>🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/universite-de-rentree/ur-2026-discours-douverture-de-francois-bayrou-image-8482-image
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+X : https://x.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/
+Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
+LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
+Telegram : @MouvementDemocrate</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>LlxQdaBZRoI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/LlxQdaBZRoI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>3615 Clouet : pourquoi payez-vous plus d'impôts que les milliardaires ? – En campagne #3</title>
       <link>https://www.youtube.com/watch?v=z9V1gNFOBGU</link>
@@ -1785,30 +1835,6 @@ Pour 90 % des gens, nous n'augmenterons pas, voire nous diminuerons les droits d
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>F9DTLJL-s1E</videoId>
       <enclosure url="https://i.ytimg.com/vi/F9DTLJL-s1E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présidentielles 2027 : François Ruffin invité de RTL matin</title>
-      <link>https://www.youtube.com/watch?v=9TNh79KNqM8</link>
-      <guid>https://www.youtube.com/watch?v=9TNh79KNqM8</guid>
-      <pubDate>2026-09-09T07:40:58+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>➡️ Soutenez François Ruffin : nouspresident.fr
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>9TNh79KNqM8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/9TNh79KNqM8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier est " pour un moratoire sur la chasse dans les zones incendiées" (Les 4 Vérités)</title>
-      <link>https://www.youtube.com/watch?v=IOM9ETBBbIE</link>
-      <guid>https://www.youtube.com/watch?v=IOM9ETBBbIE</guid>
-      <pubDate>2026-09-09T06:36:45+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Interview du 9 septembre 2026 dans Télématin avec Francis Letellier.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>IOM9ETBBbIE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/IOM9ETBBbIE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
