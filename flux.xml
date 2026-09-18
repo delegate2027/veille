@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 14:45:32 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:01:04 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Marine Le Pen dans l'Aude : « Les vraies économies à faire sont dans le train de vie de l'État ! »</title>
@@ -719,32 +719,6 @@ Face à la colère sociale, Fabien Roussel défend un choix : être aux côtés 
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>c0EoWg5p0IE</videoId>
       <enclosure url="https://i.ytimg.com/vi/c0EoWg5p0IE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU est face à CHARLES CONSIGNY sur BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=Y69yByQrUqE</link>
-      <guid>https://www.youtube.com/watch?v=Y69yByQrUqE</guid>
-      <pubDate>2026-09-16T07:14:30+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>Y69yByQrUqE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Y69yByQrUqE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURENT JACOBELLI : « Pas de perte de pouvoir d'achat pour les Français ! » (FRANCE 2)</title>
-      <link>https://www.youtube.com/watch?v=-psD3iHjS7w</link>
-      <guid>https://www.youtube.com/watch?v=-psD3iHjS7w</guid>
-      <pubDate>2026-09-16T06:34:15+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>-psD3iHjS7w</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-psD3iHjS7w/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>L'avenir est à nous : Les tables rondes de l'Université de rentrée 2026 de Reconquête</title>
@@ -1792,6 +1766,28 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>9TNh79KNqM8</videoId>
       <enclosure url="https://i.ytimg.com/vi/9TNh79KNqM8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Tondelier est " pour un moratoire sur la chasse dans les zones incendiées" (Les 4 Vérités)</title>
+      <link>https://www.youtube.com/watch?v=IOM9ETBBbIE</link>
+      <guid>https://www.youtube.com/watch?v=IOM9ETBBbIE</guid>
+      <pubDate>2026-09-09T06:36:45+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Interview du 9 septembre 2026 dans Télématin avec Francis Letellier.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>IOM9ETBBbIE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/IOM9ETBBbIE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Il ne faut pas d'IA avant le collège" - Bruno Retailleau</title>
+      <link>https://www.youtube.com/watch?v=nkm33cTzCAg</link>
+      <guid>https://www.youtube.com/watch?v=nkm33cTzCAg</guid>
+      <pubDate>2026-09-08T21:46:37+00:00</pubDate>
+      <author>Bruno Retailleau</author>
+      <description>Invité d’« Objectif Élysée 2027 » sur CNEWS, Bruno Retailleau présente son projet de rupture pour redresser la France : finances publiques, immigration, réforme pénale, école, natalité et interdiction du voile.</description>
+      <channelTitle>Bruno Retailleau</channelTitle>
+      <videoId>nkm33cTzCAg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nkm33cTzCAg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
