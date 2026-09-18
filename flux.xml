@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 18 Sep 2026 10:45:30 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:01:09 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>À l’Élysée, Fabien Roussel interpelle Emmanuel Macron : « Il faut agir immédiatement »</title>
+      <link>https://www.youtube.com/watch?v=mMIxy-TuLoA</link>
+      <guid>https://www.youtube.com/watch?v=mMIxy-TuLoA</guid>
+      <pubDate>2026-09-18T11:00:01+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>À la sortie de l’Élysée, Fabien Roussel appelle Emmanuel Macron à agir face à une situation internationale et énergétique qui s’aggrave.
+
+Alors que les conflits en Ukraine et au Moyen-Orient s’enlisent et pèsent lourdement sur les prix de l’énergie, il demande au gouvernement de prendre des mesures immédiates pour protéger les Français : baisse des taxes sur l’énergie, blocage des prix lorsque c’est possible et soutien au pouvoir d’achat.
+
+Fabien Roussel appelle également le Président de la République à prendre une initiative diplomatique forte pour obtenir un cessez-le-feu et ouvrir la voie à des négociations.
+
+« Il faut agir immédiatement. »</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>mMIxy-TuLoA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/mMIxy-TuLoA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jordan Bardella : « Le gouvernement est déconnecté de la souffrance de la France du travail ! »</title>
       <link>https://www.youtube.com/watch?v=AtzUnIioQ5U</link>
@@ -1775,28 +1792,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>nkm33cTzCAg</videoId>
       <enclosure url="https://i.ytimg.com/vi/nkm33cTzCAg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manuel Bompard face à Thierry Breton sur LCI</title>
-      <link>https://www.youtube.com/watch?v=FZIo4CXYy6g</link>
-      <guid>https://www.youtube.com/watch?v=FZIo4CXYy6g</guid>
-      <pubDate>2026-09-08T20:34:14+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon débat avec Thierry Breton sur LCI, le 8 septembre 2026. 
-
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>FZIo4CXYy6g</videoId>
-      <enclosure url="https://i.ytimg.com/vi/FZIo4CXYy6g/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
