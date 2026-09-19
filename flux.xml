@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 19 Sep 2026 23:30:40 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 23:45:41 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>UR2026</title>
+      <link>https://www.youtube.com/watch?v=33mrmg09iY8</link>
+      <guid>https://www.youtube.com/watch?v=33mrmg09iY8</guid>
+      <pubDate>2026-09-19T23:37:58+00:00</pubDate>
+      <author>MoDem</author>
+      <description>UR2026
+
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+X : https://x.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/
+Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
+LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
+Telegram : @MouvementDemocrate</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>33mrmg09iY8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/33mrmg09iY8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UR 2026 : Intervention de Xavier Bertrand</title>
       <link>https://www.youtube.com/watch?v=1Z_etbqIaCw</link>
@@ -329,32 +355,6 @@ Telegram : @MouvementDemocrate</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>sZO5SgNZT1U</videoId>
       <enclosure url="https://i.ytimg.com/vi/sZO5SgNZT1U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>UR2026</title>
-      <link>https://www.youtube.com/watch?v=33mrmg09iY8</link>
-      <guid>https://www.youtube.com/watch?v=33mrmg09iY8</guid>
-      <pubDate>2026-09-18T20:33:13+00:00</pubDate>
-      <author>MoDem</author>
-      <description>UR2026
-
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-X : https://x.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/
-Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
-LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
-Telegram : @MouvementDemocrate</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>33mrmg09iY8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/33mrmg09iY8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>UR 2026 : Revivez l'ouverture de notre Université de rentrée</title>
