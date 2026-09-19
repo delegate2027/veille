@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 19 Sep 2026 16:15:40 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:30:41 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>À Pomas, auprès de ceux qui ont tout perdu.</title>
@@ -1226,19 +1226,6 @@ Abonnez-vous !</description>
       <enclosure url="https://i.ytimg.com/vi/NmHAQNHiMQU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Hénin-Beaumont : le discours de rentrée de Marine Le Pen</title>
-      <link>https://www.youtube.com/watch?v=axv_QAYe4Z8</link>
-      <guid>https://www.youtube.com/watch?v=axv_QAYe4Z8</guid>
-      <pubDate>2026-09-14T14:02:34+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Pour la France, il n’y a pas de rendez-vous plus important que la présidentielle qui vient.
-
-Nous allons vivre une campagne magnifique et exaltante. Engagez-vous à nos côtés ! 🇫🇷</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>axv_QAYe4Z8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/axv_QAYe4Z8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Fête de l'Humanité - Débat de Mathilde Panot avec Stéphane Peu, Cyrielle Chatelain et Boris Vallaud</title>
       <link>https://www.youtube.com/watch?v=s1rYv8OnMwg</link>
       <guid>https://www.youtube.com/watch?v=s1rYv8OnMwg</guid>
@@ -1861,6 +1848,19 @@ Marine Tondelier, Léa Balage (députée et porte-parole de campagne), Anne Souy
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>1xB8yvgkZWI</videoId>
       <enclosure url="https://i.ytimg.com/vi/1xB8yvgkZWI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴 Il faut bloquer les prix du carburant ! Mon passage sur RMC.</title>
+      <link>https://www.youtube.com/watch?v=1fWZHPdxWk4</link>
+      <guid>https://www.youtube.com/watch?v=1fWZHPdxWk4</guid>
+      <pubDate>2026-09-09T13:50:23+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description>Face à l'explosion des prix du carburants, Aurélie Trouvé rappelle sur RMC, l'importance de bloquer les prix des carburants.
+
+Les multinationales comme Total s'en mettent plein les poches et profitent de la guerre.</description>
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>1fWZHPdxWk4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/1fWZHPdxWk4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
