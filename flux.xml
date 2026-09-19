@@ -4,7 +4,46 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 19 Sep 2026 01:45:29 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 02:00:51 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>THOMAS MÉNAGÉ est face à CHARLES CONSIGNY sur BFMTV !</title>
+      <link>https://www.youtube.com/watch?v=juFN9FX0R6A</link>
+      <guid>https://www.youtube.com/watch?v=juFN9FX0R6A</guid>
+      <pubDate>2026-09-18T09:14:25+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>juFN9FX0R6A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/juFN9FX0R6A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>LAURE LAVALETTE est l'invité de LAURENCE FERRARI sur CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=2ZONfEWqNSg</link>
+      <guid>https://www.youtube.com/watch?v=2ZONfEWqNSg</guid>
+      <pubDate>2026-09-17T09:00:07+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>2ZONfEWqNSg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2ZONfEWqNSg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY est l'invité des GRANDES GUEULES sur RMC !</title>
+      <link>https://www.youtube.com/watch?v=aEdilzR3JZI</link>
+      <guid>https://www.youtube.com/watch?v=aEdilzR3JZI</guid>
+      <pubDate>2026-09-16T11:31:18+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>aEdilzR3JZI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/aEdilzR3JZI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
