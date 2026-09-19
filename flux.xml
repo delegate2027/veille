@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 19 Sep 2026 15:45:48 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:00:58 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Florence Mendez, l'invitée humoristique – En campagne #3</title>
+      <link>https://www.youtube.com/watch?v=S-QStfsPXUY</link>
+      <guid>https://www.youtube.com/watch?v=S-QStfsPXUY</guid>
+      <pubDate>2026-09-19T16:00:25+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=yIXOxo0904Y</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>S-QStfsPXUY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/S-QStfsPXUY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UR2026</title>
       <link>https://www.youtube.com/watch?v=tAJdpoYxP50</link>
@@ -1740,36 +1751,6 @@ Chapitres :
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>kp4uw9uy2TY</videoId>
       <enclosure url="https://i.ytimg.com/vi/kp4uw9uy2TY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rira bien qui rira le dernier ! – En Campagne à la Fête de l'Humanité</title>
-      <link>https://www.youtube.com/watch?v=yIXOxo0904Y</link>
-      <guid>https://www.youtube.com/watch?v=yIXOxo0904Y</guid>
-      <pubDate>2026-09-11T20:05:15+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'émission En Campagne présentée par Mathilde Panot à la Fête de l'Humanité, ce vendredi 11 septembre à 16h.
-
-Avec Louis Boyard, Hadrien Clouet, Stéphane Peu, Nora Bouazzouni, NicolasFramont, Florence Mendez, Christophe Sinan et Fatia Alcabélard.
-
-Rira bien qui rira le dernier. #EnCampagne
-
-_________________________________________________ 
-
-Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
-
-☞ X (Twitter) : https://x.com/FiAssemblee
-☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
-☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
-☞ YouTube :  / @FranceinsoumiseAN
-☞ Instagram : https://instagram.com/FranceinsoumiseAN/
-☞ Threads : https://www.threads.net/@FranceinsoumiseAN
-☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
-☞ Telegram : https://t.me/FranceinsoumiseAN
-
-Abonnez-vous !</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>yIXOxo0904Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/yIXOxo0904Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Hausse du prix des carburants, Total, ultra-riches : j’étais l’invité de Darius Rochebin sur LCI</title>
