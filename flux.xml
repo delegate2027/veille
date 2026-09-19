@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 19 Sep 2026 16:00:58 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:15:40 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>À Pomas, auprès de ceux qui ont tout perdu.</title>
+      <link>https://www.youtube.com/watch?v=0I2n_-6gcPM</link>
+      <guid>https://www.youtube.com/watch?v=0I2n_-6gcPM</guid>
+      <pubDate>2026-09-19T16:12:01+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>À Pomas, j’ai vu des Français profondément meurtris par la perte de leur foyer, de leur maison.
+
+Mais j’ai aussi vu une incroyable solidarité : celle d’une nation, celle d’un peuple uni, prêt à se relever, lorsque tout s'est effondré.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>0I2n_-6gcPM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0I2n_-6gcPM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Florence Mendez, l'invitée humoristique – En campagne #3</title>
       <link>https://www.youtube.com/watch?v=S-QStfsPXUY</link>
@@ -1362,17 +1375,6 @@ Pinterest : https://www.pinterest.fr/zemmoureric/
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>a2Jml8XxSEs</videoId>
       <enclosure url="https://i.ytimg.com/vi/a2Jml8XxSEs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Suivez mon discours de rentrée depuis Hénin-Beaumont</title>
-      <link>https://www.youtube.com/watch?v=DthzcS0u3LI</link>
-      <guid>https://www.youtube.com/watch?v=DthzcS0u3LI</guid>
-      <pubDate>2026-09-13T13:54:13+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>DthzcS0u3LI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DthzcS0u3LI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>💥 Racisme, « permis de tuer » : je demande des comptes au ministre de l'Intérieur.</title>
