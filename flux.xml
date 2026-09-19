@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 19 Sep 2026 19:15:29 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 19:30:43 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>UR 2026 : Intervention de Xavier Bertrand</title>
@@ -1763,17 +1763,6 @@ Chapitres :
       <enclosure url="https://i.ytimg.com/vi/FfFznhpL-rc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Carburants, budget, présidentielle, loi intégrale : Matinale de France Info avec Clémence Guetté</title>
-      <link>https://www.youtube.com/watch?v=1KxdoFcM0mY</link>
-      <guid>https://www.youtube.com/watch?v=1KxdoFcM0mY</guid>
-      <pubDate>2026-09-11T09:26:19+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description />
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>1KxdoFcM0mY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1KxdoFcM0mY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Présidentielle, Gauche écologie, viande, nucléaire : débat entre Sandrine Rousseau et Fabien Roussel</title>
       <link>https://www.youtube.com/watch?v=OSU1LB2VHMY</link>
       <guid>https://www.youtube.com/watch?v=OSU1LB2VHMY</guid>
@@ -1799,19 +1788,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>David Guiraud</channelTitle>
       <videoId>gRPOHaPkk04</videoId>
       <enclosure url="https://i.ytimg.com/vi/gRPOHaPkk04/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Discours de lancement de mon premier livre : Pour une politique de l'amitié</title>
-      <link>https://www.youtube.com/watch?v=HbmAIYKDm7o</link>
-      <guid>https://www.youtube.com/watch?v=HbmAIYKDm7o</guid>
-      <pubDate>2026-09-10T16:52:41+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>Hier soir, nous avons célébré l'amitié et ses droits nouveaux.
-
-Beaucoup de chemin reste à parcourir. Nous le ferons en 2027.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>HbmAIYKDm7o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HbmAIYKDm7o/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>LE PREMIER #1000BISTROTS DE GABRIEL ATTAL</title>
@@ -1860,6 +1836,32 @@ Les multinationales comme Total s'en mettent plein les poches et profitent de la
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>1fWZHPdxWk4</videoId>
       <enclosure url="https://i.ytimg.com/vi/1fWZHPdxWk4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴 La France devient un pays de grands héritiers ! Je dénonce les propositions de Sarah Knafo !</title>
+      <link>https://www.youtube.com/watch?v=sHs8_XTPb-I</link>
+      <guid>https://www.youtube.com/watch?v=sHs8_XTPb-I</guid>
+      <pubDate>2026-09-09T10:30:34+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description>"1 personne sur 1 000 hérite de plus de 13 millions d'euros ! Un tiers des Français n'hérite de rien. La moitié des Français hérite de moins de 70 000 euros." 
+
+Contrairement à ce qui est marqué dans la loi, elle n'est pas taxée à 45 %, mais seulement à 10 % du fait des multiples exonérations. 
+
+Pour 90 % des gens, nous n'augmenterons pas, voire nous diminuerons les droits de succession. Au-delà de 12 millions d'euros d'héritage, on prend tout ! Cela permet de financer une allocation d'autonomie pour les jeunes de notre pays !</description>
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>sHs8_XTPb-I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/sHs8_XTPb-I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>📺 Une équipe, un candidat, un programme - retraites, dette, chômage : j'en parle sur BFMTV</title>
+      <link>https://www.youtube.com/watch?v=SXNPy1KCHks</link>
+      <guid>https://www.youtube.com/watch?v=SXNPy1KCHks</guid>
+      <pubDate>2026-09-09T09:10:15+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description>🔴 Présidentielles 2027 - Sur la question des retraites nous avons toujours dit la même chose : nous abrogerons la réforme à 64 ans !</description>
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>SXNPy1KCHks</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SXNPy1KCHks/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
