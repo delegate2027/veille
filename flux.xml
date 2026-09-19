@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 19 Sep 2026 14:15:40 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 14:30:50 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>UR2026</title>
+      <link>https://www.youtube.com/watch?v=tAJdpoYxP50</link>
+      <guid>https://www.youtube.com/watch?v=tAJdpoYxP50</guid>
+      <pubDate>2026-09-19T14:23:47+00:00</pubDate>
+      <author>MoDem</author>
+      <description>UR2026
+
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+X : https://x.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/
+Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
+LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
+Telegram : @MouvementDemocrate</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>tAJdpoYxP50</videoId>
+      <enclosure url="https://i.ytimg.com/vi/tAJdpoYxP50/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UR2026</title>
       <link>https://www.youtube.com/watch?v=tg-gOpRreIY</link>
@@ -1282,32 +1308,6 @@ Telegram : https://t.me/Sarah_Knafo
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>yIQFzjn5vRA</videoId>
       <enclosure url="https://i.ytimg.com/vi/yIQFzjn5vRA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>François Bayrou invité de Darius Rochebin sur LCI</title>
-      <link>https://www.youtube.com/watch?v=QChRh4iu3nY</link>
-      <guid>https://www.youtube.com/watch?v=QChRh4iu3nY</guid>
-      <pubDate>2026-09-13T17:23:25+00:00</pubDate>
-      <author>MoDem</author>
-      <description>François Bayrou invité de Darius Rochebin sur LCI
-
-[Description]
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 [Lien vers l'article]
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>QChRh4iu3nY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QChRh4iu3nY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Grand meeting de rentrée d'Eric Zemmour à Port-Marly</title>
