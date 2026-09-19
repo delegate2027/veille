@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 19 Sep 2026 17:30:41 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:45:31 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Il n’y a aucune fatalité au matraquage fiscal !</title>
+      <link>https://www.youtube.com/watch?v=ukRB2FqtM0g</link>
+      <guid>https://www.youtube.com/watch?v=ukRB2FqtM0g</guid>
+      <pubDate>2026-09-19T17:41:17+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>ukRB2FqtM0g</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ukRB2FqtM0g/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>À Pomas, auprès de ceux qui ont tout perdu.</title>
       <link>https://www.youtube.com/watch?v=0I2n_-6gcPM</link>
@@ -950,19 +963,6 @@ Un débat pour mettre fin aux réponses fragmentées et construire une protectio
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>MovPbF39srU</videoId>
       <enclosure url="https://i.ytimg.com/vi/MovPbF39srU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY est l'invité des GRANDES GUEULES sur RMC !</title>
-      <link>https://www.youtube.com/watch?v=aEdilzR3JZI</link>
-      <guid>https://www.youtube.com/watch?v=aEdilzR3JZI</guid>
-      <pubDate>2026-09-16T11:31:18+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>aEdilzR3JZI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/aEdilzR3JZI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Industrie : reprenons le pouvoir sur la production ! | Fête de l’Humanité 2026</title>
