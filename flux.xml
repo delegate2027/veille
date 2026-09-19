@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 19 Sep 2026 11:45:29 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:01:00 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>UR2026</title>
+      <link>https://www.youtube.com/watch?v=tg-gOpRreIY</link>
+      <guid>https://www.youtube.com/watch?v=tg-gOpRreIY</guid>
+      <pubDate>2026-09-19T12:00:37+00:00</pubDate>
+      <author>MoDem</author>
+      <description>UR2026
+
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+X : https://x.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/
+Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
+LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
+Telegram : @MouvementDemocrate</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>tg-gOpRreIY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/tg-gOpRreIY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>À qui profite la dette ? #FeteDeLHumanité</title>
       <link>https://www.youtube.com/watch?v=UHQKVQwq6L0</link>
@@ -1870,32 +1896,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>OQD7hgBZz1A</videoId>
       <enclosure url="https://i.ytimg.com/vi/OQD7hgBZz1A/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>François Bayrou invité d'Apolline de Malherbe sur BFMTV et RMC</title>
-      <link>https://www.youtube.com/watch?v=kGF7Q4gIrqA</link>
-      <guid>https://www.youtube.com/watch?v=kGF7Q4gIrqA</guid>
-      <pubDate>2026-09-10T07:48:31+00:00</pubDate>
-      <author>MoDem</author>
-      <description>François Bayrou invité d'Apolline de Malherbe sur BFMTV et RMC
-
-François Bayrou était l'invité du Face à face d'Apolline de Malherbe sur BFMTV et RMC ce jeudi 10 septembre.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/actualites/francois-bayrou-invite-dapolline-de-malherbe-sur-bfm-tv-rmc-video-8476-video
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>kGF7Q4gIrqA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/kGF7Q4gIrqA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
