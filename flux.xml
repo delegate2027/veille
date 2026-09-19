@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 19 Sep 2026 15:30:42 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 15:45:48 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>UR2026</title>
@@ -1794,39 +1794,6 @@ Abonnez-vous !</description>
       <enclosure url="https://i.ytimg.com/vi/FfFznhpL-rc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>La culture peut-elle encore nous réunir ? - #CamPuS2026</title>
-      <link>https://www.youtube.com/watch?v=O9LtzD6V9tk</link>
-      <guid>https://www.youtube.com/watch?v=O9LtzD6V9tk</guid>
-      <pubDate>2026-09-11T10:00:10+00:00</pubDate>
-      <author>PS - Parti socialiste</author>
-      <description>Une table-ronde animée par Daphné Ronfard et Clément Sapin, délégué·es nationaux à la culture, chargé·es de l’animation de la commission nationale Culture.
-
-Avec :
-- Sylvie Robert, secrétaire nationale à la culture, vice-présidente du Sénat, sénatrice d’Ille-et-Vilaine
-- Victorien Bornéat, auteur du livre “l’exclusion culturelle : manifeste pour une riposte populaire” (Editions du Faubourg, 2026)
-- Yann Galut, maire de Bourges, capitale européenne de la culture 2028
-Florian Sitbon, adjoint au maire de Paris chargé de la culture, de la souveraineté culturelle et des médias libres
-- Jérôme Marbot, maire de Pau
-- Emma Rafowicz, députée européenne, vice-présidente de la commission de la culture et de l’éducation au Parlement européen
-
-#CamPuS2026
-
----
-Suivez-nous sur les réseaux sociaux :
-➡️  https://x.com/partisocialiste
-➡️  https://bsky.app/profile/partisocialiste
-➡️  https://www.instagram.com/partisocialiste 
-➡️  https://www.facebook.com/partisocialiste 
-➡️  https://www.tiktok.com/@partisocialiste
-➡️  https://t.me/partisocialiste
-➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
-
-🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
-      <channelTitle>PS - Parti socialiste</channelTitle>
-      <videoId>O9LtzD6V9tk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/O9LtzD6V9tk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Carburants, budget, présidentielle, loi intégrale : Matinale de France Info avec Clémence Guetté</title>
       <link>https://www.youtube.com/watch?v=1KxdoFcM0mY</link>
       <guid>https://www.youtube.com/watch?v=1KxdoFcM0mY</guid>
@@ -1896,6 +1863,21 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>OQD7hgBZz1A</videoId>
       <enclosure url="https://i.ytimg.com/vi/OQD7hgBZz1A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Conférence de presse : présentation de nos propositions sur la santé reproductive</title>
+      <link>https://www.youtube.com/watch?v=1xB8yvgkZWI</link>
+      <guid>https://www.youtube.com/watch?v=1xB8yvgkZWI</guid>
+      <pubDate>2026-09-09T22:00:41+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Et si la santé reproductive devenait enfin un sujet de la campagne présidentielle ? 
+
+De l’adolescence à la ménopause, de l’endométriose à l’infertilité, du post-partum aux violences gynécologiques et obstétricales, en passant par la contraception, la santé reproductive masculine et les effets des pollutions et du changement climatique, il y a aujourd’hui beaucoup à dire — et surtout beaucoup à changer. Trop souvent traitée par morceaux, trop tardivement et encore trop souvent comme une affaire individuelle, la santé reproductive touche pourtant à notre système de santé, à l’égalité, au travail, à l’environnement et à notre liberté de disposer de nos corps. 
+
+Marine Tondelier, Léa Balage (députée et porte-parole de campagne), Anne Souyris (sénatrice), Majdouline Sbaï (eurodéputée), Aminata Niakate (porte parole des Écologistes) et Marion Emi Alix (co-fondatrice de l'association Fertéa Santé) seront réunies pour présenter une vision politique globale de la santé reproductive, à chaque âge de la vie, et ouvrir un débat qui mérite pleinement sa place dans la campagne présidentielle.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>1xB8yvgkZWI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/1xB8yvgkZWI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
