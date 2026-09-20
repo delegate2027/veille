@@ -4,15 +4,53 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 20 Sep 2026 12:00:56 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:15:36 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>EN DIRECT | Je réponds à toutes les questions de Benjamin Duhamel sur France 2.</title>
+      <link>https://www.youtube.com/watch?v=Q4E11zOvT2c</link>
+      <guid>https://www.youtube.com/watch?v=Q4E11zOvT2c</guid>
+      <pubDate>2026-09-20T12:12:04+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal répond à toutes les questions de Benjamin Duhamel sur France 2 avant de débattre face à Marion Maréchal.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>Q4E11zOvT2c</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Q4E11zOvT2c/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UR 2026 : Revivez le discours de clôture de Maud Gatel</title>
+      <link>https://www.youtube.com/watch?v=yMCBlgYl-Fc</link>
+      <guid>https://www.youtube.com/watch?v=yMCBlgYl-Fc</guid>
+      <pubDate>2026-09-20T12:05:36+00:00</pubDate>
+      <author>MoDem</author>
+      <description>🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/universite-de-rentree/ur-2026-revivez-le-discours-de-cloture-de-maud-gatel-image-8499-image
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+X : https://x.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/
+Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
+LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
+Telegram : @MouvementDemocrate</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>yMCBlgYl-Fc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/yMCBlgYl-Fc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UR 2026 : Revivez le discours de clôture de Marc Fesneau</title>
       <link>https://www.youtube.com/watch?v=P1DrZzGVZOs</link>
       <guid>https://www.youtube.com/watch?v=P1DrZzGVZOs</guid>
       <pubDate>2026-09-20T12:00:06+00:00</pubDate>
       <author>MoDem</author>
-      <description>🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 [Lien vers l'article]
+      <description>🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/universite-de-rentree/ur-2026-revivez-le-discours-de-cloture-de-marc-fesneau-video-8500-video
 
 🔴 S'ABONNER
 N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
@@ -55,19 +93,6 @@ Telegram : @MouvementDemocrate</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>jpcYZSGApiE</videoId>
       <enclosure url="https://i.ytimg.com/vi/jpcYZSGApiE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Je réponds à toutes les questions de Benjamin Duhamel sur France 2.</title>
-      <link>https://www.youtube.com/watch?v=Q4E11zOvT2c</link>
-      <guid>https://www.youtube.com/watch?v=Q4E11zOvT2c</guid>
-      <pubDate>2026-09-20T11:18:05+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Gabriel Attal répond à toutes les questions de Benjamin Duhamel sur France 2 avant de débattre face à Marion Maréchal.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>Q4E11zOvT2c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Q4E11zOvT2c/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>"Les multinationales s'engraissent et Macron fait les poches des Français" - Alexis Corbière sur BFM</title>
@@ -283,32 +308,6 @@ Telegram : @MouvementDemocrate</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>tg-gOpRreIY</videoId>
       <enclosure url="https://i.ytimg.com/vi/tg-gOpRreIY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>UR2026</title>
-      <link>https://www.youtube.com/watch?v=33mrmg09iY8</link>
-      <guid>https://www.youtube.com/watch?v=33mrmg09iY8</guid>
-      <pubDate>2026-09-19T23:37:58+00:00</pubDate>
-      <author>MoDem</author>
-      <description>UR2026
-
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-X : https://x.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/
-Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
-LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
-Telegram : @MouvementDemocrate</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>33mrmg09iY8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/33mrmg09iY8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Il n’y a aucune fatalité au matraquage fiscal !</title>
