@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 20 Sep 2026 07:45:29 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:00:55 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Manon Aubry face à Sam Zirah</title>
+      <link>https://www.youtube.com/watch?v=SqT5e2GRgPA</link>
+      <guid>https://www.youtube.com/watch?v=SqT5e2GRgPA</guid>
+      <pubDate>2026-09-20T08:00:03+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Milliardaires, l'extrême droite en Europe et campagne présidentielle ! 
+
+Retrouvez mon entretien face à Sam Zirah</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>SqT5e2GRgPA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SqT5e2GRgPA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UR 2026 : Face à la brutalisation du monde, plus que jamais besoin d’Europe</title>
       <link>https://www.youtube.com/watch?v=0phX5lqaLLI</link>
@@ -1847,21 +1860,6 @@ Les multinationales comme Total s'en mettent plein les poches et profitent de la
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>1fWZHPdxWk4</videoId>
       <enclosure url="https://i.ytimg.com/vi/1fWZHPdxWk4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 La France devient un pays de grands héritiers ! Je dénonce les propositions de Sarah Knafo !</title>
-      <link>https://www.youtube.com/watch?v=sHs8_XTPb-I</link>
-      <guid>https://www.youtube.com/watch?v=sHs8_XTPb-I</guid>
-      <pubDate>2026-09-09T10:30:34+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>"1 personne sur 1 000 hérite de plus de 13 millions d'euros ! Un tiers des Français n'hérite de rien. La moitié des Français hérite de moins de 70 000 euros." 
-
-Contrairement à ce qui est marqué dans la loi, elle n'est pas taxée à 45 %, mais seulement à 10 % du fait des multiples exonérations. 
-
-Pour 90 % des gens, nous n'augmenterons pas, voire nous diminuerons les droits de succession. Au-delà de 12 millions d'euros d'héritage, on prend tout ! Cela permet de financer une allocation d'autonomie pour les jeunes de notre pays !</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>sHs8_XTPb-I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/sHs8_XTPb-I/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
