@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 20 Sep 2026 19:00:56 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 19:15:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>LOUIS ALIOT: « Il n'y a aucun argument qui fait qu'on pourrait soutenir la Russie ! » (RTL)</title>
@@ -1659,34 +1659,6 @@ Prévention, dépistage, recherche, accès aux traitements, avenir de l’hôpit
       <enclosure url="https://i.ytimg.com/vi/DwM7jwX5q6M/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Les milliardaires ont-ils pris le pouvoir ? #FeteDeLHumanité</title>
-      <link>https://www.youtube.com/watch?v=PNdGAz1XeOQ</link>
-      <guid>https://www.youtube.com/watch?v=PNdGAz1XeOQ</guid>
-      <pubDate>2026-09-12T12:37:52+00:00</pubDate>
-      <author>PS - Parti socialiste</author>
-      <description>À la Fête de l'Humanité, on poursuit la rentrée politique avec des temps d'échanges et de débat avec nos partenaires de gauche !
-
-Une discussion avec :
-- Emma Rafowicz, députée européenne
-- Alexis Corbière, fondateur de L'Après
-- Layla Abdelké Yakoub, responsable de plaidoyer justice fiscale et inégalités à Oxfam France
-
----
-Suivez-nous sur les réseaux sociaux :
-➡️  https://x.com/partisocialiste
-➡️  https://bsky.app/profile/partisocialiste
-➡️  https://www.instagram.com/partisocialiste 
-➡️  https://www.facebook.com/partisocialiste 
-➡️  https://www.tiktok.com/@partisocialiste
-➡️  https://t.me/partisocialiste
-➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
-
-🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
-      <channelTitle>PS - Parti socialiste</channelTitle>
-      <videoId>PNdGAz1XeOQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PNdGAz1XeOQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Prise de parole de François Ruffin à la Fête de l'Humanité !</title>
       <link>https://www.youtube.com/watch?v=Q031jLq1qrE</link>
       <guid>https://www.youtube.com/watch?v=Q031jLq1qrE</guid>
@@ -1849,6 +1821,19 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>David Guiraud</channelTitle>
       <videoId>gRPOHaPkk04</videoId>
       <enclosure url="https://i.ytimg.com/vi/gRPOHaPkk04/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Discours de lancement de mon premier livre : Pour une politique de l'amitié</title>
+      <link>https://www.youtube.com/watch?v=HbmAIYKDm7o</link>
+      <guid>https://www.youtube.com/watch?v=HbmAIYKDm7o</guid>
+      <pubDate>2026-09-10T16:52:41+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>Hier soir, nous avons célébré l'amitié et ses droits nouveaux.
+
+Beaucoup de chemin reste à parcourir. Nous le ferons en 2027.</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>HbmAIYKDm7o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/HbmAIYKDm7o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
