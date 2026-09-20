@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 20 Sep 2026 17:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:00:52 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>LOUIS ALIOT: « Il n'y a aucun argument qui fait qu'on pourrait soutenir la Russie ! » (RTL)</title>
+      <link>https://www.youtube.com/watch?v=qTEWc9zmC1s</link>
+      <guid>https://www.youtube.com/watch?v=qTEWc9zmC1s</guid>
+      <pubDate>2026-09-20T17:42:01+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>qTEWc9zmC1s</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qTEWc9zmC1s/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>MATTHIEU VALET : « Les criminels vont faire vaciller notre État de droit ! » (FRANCE INFO)</title>
       <link>https://www.youtube.com/watch?v=XuSFdCMEc74</link>
@@ -1836,19 +1849,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>David Guiraud</channelTitle>
       <videoId>gRPOHaPkk04</videoId>
       <enclosure url="https://i.ytimg.com/vi/gRPOHaPkk04/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Discours de lancement de mon premier livre : Pour une politique de l'amitié</title>
-      <link>https://www.youtube.com/watch?v=HbmAIYKDm7o</link>
-      <guid>https://www.youtube.com/watch?v=HbmAIYKDm7o</guid>
-      <pubDate>2026-09-10T16:52:41+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>Hier soir, nous avons célébré l'amitié et ses droits nouveaux.
-
-Beaucoup de chemin reste à parcourir. Nous le ferons en 2027.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>HbmAIYKDm7o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HbmAIYKDm7o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
