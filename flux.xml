@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 20 Sep 2026 19:15:32 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 19:30:43 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>LOUIS ALIOT: « Il n'y a aucun argument qui fait qu'on pourrait soutenir la Russie ! » (RTL)</title>
@@ -565,19 +565,6 @@ Fabien Roussel appelle également le Président de la République à prendre une
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>AtzUnIioQ5U</videoId>
       <enclosure url="https://i.ytimg.com/vi/AtzUnIioQ5U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>THOMAS MÉNAGÉ est face à CHARLES CONSIGNY sur BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=juFN9FX0R6A</link>
-      <guid>https://www.youtube.com/watch?v=juFN9FX0R6A</guid>
-      <pubDate>2026-09-18T09:14:25+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>juFN9FX0R6A</videoId>
-      <enclosure url="https://i.ytimg.com/vi/juFN9FX0R6A/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>David Lisnard : « On ne rafistole pas le Titanic, c’est le système qu’il faut revoir »</title>
@@ -1834,6 +1821,26 @@ Beaucoup de chemin reste à parcourir. Nous le ferons en 2027.</description>
       <channelTitle>Clémence Guetté</channelTitle>
       <videoId>HbmAIYKDm7o</videoId>
       <enclosure url="https://i.ytimg.com/vi/HbmAIYKDm7o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>LE PREMIER #1000BISTROTS DE GABRIEL ATTAL</title>
+      <link>https://www.youtube.com/watch?v=OQD7hgBZz1A</link>
+      <guid>https://www.youtube.com/watch?v=OQD7hgBZz1A</guid>
+      <pubDate>2026-09-10T15:05:55+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>OQD7hgBZz1A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/OQD7hgBZz1A/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
