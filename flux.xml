@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 20 Sep 2026 23:30:41 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 23:45:33 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>UR2026</title>
+      <link>https://www.youtube.com/watch?v=vmDGCpVVc9Y</link>
+      <guid>https://www.youtube.com/watch?v=vmDGCpVVc9Y</guid>
+      <pubDate>2026-09-20T23:30:44+00:00</pubDate>
+      <author>MoDem</author>
+      <description>UR2026
+
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+X : https://x.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/
+Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
+LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
+Telegram : @MouvementDemocrate</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>vmDGCpVVc9Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vmDGCpVVc9Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LOUIS ALIOT: « Il n'y a aucun argument qui fait qu'on pourrait soutenir la Russie ! » (RTL)</title>
       <link>https://www.youtube.com/watch?v=qTEWc9zmC1s</link>
@@ -319,31 +345,6 @@ Telegram : @MouvementDemocrate</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>lWs7nARmzxo</videoId>
       <enclosure url="https://i.ytimg.com/vi/lWs7nARmzxo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>UR 2026 : L'état de droit comme arme de la République avec Éric Dupond-Moretti</title>
-      <link>https://www.youtube.com/watch?v=5fDAXT6Dn-A</link>
-      <guid>https://www.youtube.com/watch?v=5fDAXT6Dn-A</guid>
-      <pubDate>2026-09-20T07:15:47+00:00</pubDate>
-      <author>MoDem</author>
-      <description>🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/universite-de-rentree/ur-2026-letat-de-droit-comme-arme-de-la-republique-avec-eric-dupond-moretti
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-X : https://x.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/
-Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
-LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
-Telegram : @MouvementDemocrate</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>5fDAXT6Dn-A</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5fDAXT6Dn-A/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Il n’y a aucune fatalité au matraquage fiscal !</title>
