@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 20 Sep 2026 15:45:34 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 16:01:03 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>L'instant militant : les collectes insoumises ! – En campagne #3</title>
+      <link>https://www.youtube.com/watch?v=rnbK4Bij_aE</link>
+      <guid>https://www.youtube.com/watch?v=rnbK4Bij_aE</guid>
+      <pubDate>2026-09-20T16:00:07+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Avec Margaux Tendy.
+
+Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=yIXOxo0904Y</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>rnbK4Bij_aE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/rnbK4Bij_aE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UR 2026 : Villages Démocrates : construisons ensemble !</title>
       <link>https://www.youtube.com/watch?v=N4XE0bJkJLQ</link>
@@ -1256,17 +1269,6 @@ Abonnez-vous !</description>
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>NmHAQNHiMQU</videoId>
       <enclosure url="https://i.ytimg.com/vi/NmHAQNHiMQU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fête de l'Humanité - Débat de Mathilde Panot avec Stéphane Peu, Cyrielle Chatelain et Boris Vallaud</title>
-      <link>https://www.youtube.com/watch?v=s1rYv8OnMwg</link>
-      <guid>https://www.youtube.com/watch?v=s1rYv8OnMwg</guid>
-      <pubDate>2026-09-14T12:02:22+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez le débat de Mathilde Panot avec Stéphane Peu, Cyrielle Chatelain et Boris Vallaud à l’Agora de l’Humanité, le 13 septembre 2026.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>s1rYv8OnMwg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/s1rYv8OnMwg/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>🔴 Les macronistes n'auront enrichi qu'une toute petite minorité de privilégiés !</title>
