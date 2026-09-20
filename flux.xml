@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 20 Sep 2026 11:15:31 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 11:30:41 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>EN DIRECT | Je réponds à toutes les questions de Benjamin Duhamel sur France 2.</title>
+      <link>https://www.youtube.com/watch?v=Q4E11zOvT2c</link>
+      <guid>https://www.youtube.com/watch?v=Q4E11zOvT2c</guid>
+      <pubDate>2026-09-20T11:18:05+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal répond à toutes les questions de Benjamin Duhamel sur France 2 avant de débattre face à Marion Maréchal.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>Q4E11zOvT2c</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Q4E11zOvT2c/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"Les multinationales s'engraissent et Macron fait les poches des Français" - Alexis Corbière sur BFM</title>
       <link>https://www.youtube.com/watch?v=IcJ0cP5oYkE</link>
@@ -1836,26 +1849,6 @@ Beaucoup de chemin reste à parcourir. Nous le ferons en 2027.</description>
       <channelTitle>Clémence Guetté</channelTitle>
       <videoId>HbmAIYKDm7o</videoId>
       <enclosure url="https://i.ytimg.com/vi/HbmAIYKDm7o/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LE PREMIER #1000BISTROTS DE GABRIEL ATTAL</title>
-      <link>https://www.youtube.com/watch?v=OQD7hgBZz1A</link>
-      <guid>https://www.youtube.com/watch?v=OQD7hgBZz1A</guid>
-      <pubDate>2026-09-10T15:05:55+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>OQD7hgBZz1A</videoId>
-      <enclosure url="https://i.ytimg.com/vi/OQD7hgBZz1A/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
