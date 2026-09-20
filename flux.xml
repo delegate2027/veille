@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 20 Sep 2026 09:30:52 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 09:45:41 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>"Les multinationales s'engraissent et Macron fait les poches des Français" - Alexis Corbière sur BFM</title>
+      <link>https://www.youtube.com/watch?v=IcJ0cP5oYkE</link>
+      <guid>https://www.youtube.com/watch?v=IcJ0cP5oYkE</guid>
+      <pubDate>2026-09-20T09:33:19+00:00</pubDate>
+      <author>Alexis Corbière</author>
+      <description>Le député de l'APRES Alexis Corbière était l'invité pour un face à face avec Marc Fauvel sur BFM. Ils ont débattu des mesures à mettre en place face à la hausse du coût de la vie, de la présidentielle future et de l'importance pour la gauche et les écologistes de s'unir et de la venue du Pape en France, la semaine prochaine</description>
+      <channelTitle>Alexis Corbière</channelTitle>
+      <videoId>IcJ0cP5oYkE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/IcJ0cP5oYkE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Budget : Souffrance au travail en hausse mais le gouvernement s’attaque aux travailleurs</title>
       <link>https://www.youtube.com/watch?v=6Y8D8MeHAVc</link>
@@ -1845,21 +1856,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>OQD7hgBZz1A</videoId>
       <enclosure url="https://i.ytimg.com/vi/OQD7hgBZz1A/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de presse : présentation de nos propositions sur la santé reproductive</title>
-      <link>https://www.youtube.com/watch?v=1xB8yvgkZWI</link>
-      <guid>https://www.youtube.com/watch?v=1xB8yvgkZWI</guid>
-      <pubDate>2026-09-09T22:00:41+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Et si la santé reproductive devenait enfin un sujet de la campagne présidentielle ? 
-
-De l’adolescence à la ménopause, de l’endométriose à l’infertilité, du post-partum aux violences gynécologiques et obstétricales, en passant par la contraception, la santé reproductive masculine et les effets des pollutions et du changement climatique, il y a aujourd’hui beaucoup à dire — et surtout beaucoup à changer. Trop souvent traitée par morceaux, trop tardivement et encore trop souvent comme une affaire individuelle, la santé reproductive touche pourtant à notre système de santé, à l’égalité, au travail, à l’environnement et à notre liberté de disposer de nos corps. 
-
-Marine Tondelier, Léa Balage (députée et porte-parole de campagne), Anne Souyris (sénatrice), Majdouline Sbaï (eurodéputée), Aminata Niakate (porte parole des Écologistes) et Marion Emi Alix (co-fondatrice de l'association Fertéa Santé) seront réunies pour présenter une vision politique globale de la santé reproductive, à chaque âge de la vie, et ouvrir un débat qui mérite pleinement sa place dans la campagne présidentielle.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>1xB8yvgkZWI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1xB8yvgkZWI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
