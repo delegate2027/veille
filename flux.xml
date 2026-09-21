@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 21 Sep 2026 19:15:34 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 19:30:49 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Total se gave sur le dos des gens !</title>
+      <link>https://www.youtube.com/watch?v=TsrYo8jUlJQ</link>
+      <guid>https://www.youtube.com/watch?v=TsrYo8jUlJQ</guid>
+      <pubDate>2026-09-21T19:24:10+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Revivez l'interview de Mathilde Panot sur LCP, le mardi 21 septembre 2026 à 19h30.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>TsrYo8jUlJQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/TsrYo8jUlJQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>MATTHIEU VALET est face à FRANÇOIS DE RUGY dans l'émission PUNCHLINE avec LAURENCE FERRARI sur CNEWS</title>
       <link>https://www.youtube.com/watch?v=r1MyyMWUYu4</link>
@@ -1333,32 +1344,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Jérôme Guedj</channelTitle>
       <videoId>P2NJCEcbW5o</videoId>
       <enclosure url="https://i.ytimg.com/vi/P2NJCEcbW5o/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
-      <link>https://www.youtube.com/watch?v=Mh4wxY1zjk8</link>
-      <guid>https://www.youtube.com/watch?v=Mh4wxY1zjk8</guid>
-      <pubDate>2026-09-15T09:04:45+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Rendez-vous ce mercredi 15 septembre pour suivre le Point Presse Hebdo du groupe parlementaire La France insoumise avec Mathilde Panot !
-
-_________________________________________________ 
-
-Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
-
-☞ X (Twitter) : https://x.com/FiAssemblee
-☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
-☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
-☞ YouTube :  / @FranceinsoumiseAN
-☞ Instagram : https://instagram.com/FranceinsoumiseAN/
-☞ Threads : https://www.threads.net/@FranceinsoumiseAN
-☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
-☞ Telegram : https://t.me/FranceinsoumiseAN
-
-Abonnez-vous !</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>Mh4wxY1zjk8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Mh4wxY1zjk8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>🔴 Les macronistes n'auront enrichi qu'une toute petite minorité de privilégiés !</title>
