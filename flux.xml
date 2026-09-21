@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 21 Sep 2026 15:46:14 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:01:03 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>EN DIRECT | Gabriel Attal présente son équipe de campagne.</title>
@@ -432,19 +432,6 @@ Telegram : @MouvementDemocrate</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>lWs7nARmzxo</videoId>
       <enclosure url="https://i.ytimg.com/vi/lWs7nARmzxo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Il n’y a aucune fatalité au matraquage fiscal !</title>
-      <link>https://www.youtube.com/watch?v=ukRB2FqtM0g</link>
-      <guid>https://www.youtube.com/watch?v=ukRB2FqtM0g</guid>
-      <pubDate>2026-09-19T17:41:17+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>ukRB2FqtM0g</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ukRB2FqtM0g/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>À Pomas, auprès de ceux qui ont tout perdu.</title>
@@ -1814,6 +1801,22 @@ Chapitres :
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>OSU1LB2VHMY</videoId>
       <enclosure url="https://i.ytimg.com/vi/OSU1LB2VHMY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>David Guiraud recadre un journaliste de Valeurs Actuelles</title>
+      <link>https://www.youtube.com/watch?v=gRPOHaPkk04</link>
+      <guid>https://www.youtube.com/watch?v=gRPOHaPkk04</guid>
+      <pubDate>2026-09-10T20:37:46+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>gRPOHaPkk04</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gRPOHaPkk04/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
