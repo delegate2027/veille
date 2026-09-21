@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 21 Sep 2026 17:15:33 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:30:46 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>MATTHIEU VALET est face à FRANÇOIS DE RUGY dans l'émission PUNCHLINE avec LAURENCE FERRARI sur CNEWS</title>
+      <link>https://www.youtube.com/watch?v=r1MyyMWUYu4</link>
+      <guid>https://www.youtube.com/watch?v=r1MyyMWUYu4</guid>
+      <pubDate>2026-09-21T17:30:31+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>r1MyyMWUYu4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/r1MyyMWUYu4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Gabriel Attal présente son équipe de campagne.</title>
       <link>https://www.youtube.com/watch?v=R7Nfd1Exn7A</link>
@@ -1801,22 +1814,6 @@ Chapitres :
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>OSU1LB2VHMY</videoId>
       <enclosure url="https://i.ytimg.com/vi/OSU1LB2VHMY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>David Guiraud recadre un journaliste de Valeurs Actuelles</title>
-      <link>https://www.youtube.com/watch?v=gRPOHaPkk04</link>
-      <guid>https://www.youtube.com/watch?v=gRPOHaPkk04</guid>
-      <pubDate>2026-09-10T20:37:46+00:00</pubDate>
-      <author>David Guiraud</author>
-      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
-
-Sur Tiktok : @davidguiraudlfi
-Twitter : https://twitter.com/guiraudind
-Instagram : https://www.instagram.com/guirauddavid/
-Facebook : https://www.facebook.com/david.guiraud.50</description>
-      <channelTitle>David Guiraud</channelTitle>
-      <videoId>gRPOHaPkk04</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gRPOHaPkk04/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
