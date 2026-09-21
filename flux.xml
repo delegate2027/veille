@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 21 Sep 2026 07:00:58 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:15:31 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>🔴 Prix des carburants, hausse du SMIC, mobilisations sociales : Manuel Bompard, invité de RTL !</title>
+      <link>https://www.youtube.com/watch?v=jkIdTMUcCMg</link>
+      <guid>https://www.youtube.com/watch?v=jkIdTMUcCMg</guid>
+      <pubDate>2026-09-21T07:14:23+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur RTL du lundi 21 septembre 2026.
+----------
+
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>jkIdTMUcCMg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jkIdTMUcCMg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Fabien Roussel sur France Inter : « Cette envie de se révolter est normale »</title>
       <link>https://www.youtube.com/watch?v=DrNE49YMkAQ</link>
@@ -1824,19 +1846,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>David Guiraud</channelTitle>
       <videoId>gRPOHaPkk04</videoId>
       <enclosure url="https://i.ytimg.com/vi/gRPOHaPkk04/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Discours de lancement de mon premier livre : Pour une politique de l'amitié</title>
-      <link>https://www.youtube.com/watch?v=HbmAIYKDm7o</link>
-      <guid>https://www.youtube.com/watch?v=HbmAIYKDm7o</guid>
-      <pubDate>2026-09-10T16:52:41+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>Hier soir, nous avons célébré l'amitié et ses droits nouveaux.
-
-Beaucoup de chemin reste à parcourir. Nous le ferons en 2027.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>HbmAIYKDm7o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HbmAIYKDm7o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
