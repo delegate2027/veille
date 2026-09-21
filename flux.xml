@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 21 Sep 2026 08:15:31 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 08:30:44 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>⚡🔴 Retrouver mon passage sur LCI ! Je réponds au RN</title>
+      <link>https://www.youtube.com/watch?v=Kca3zEkRfWM</link>
+      <guid>https://www.youtube.com/watch?v=Kca3zEkRfWM</guid>
+      <pubDate>2026-09-21T08:25:08+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description />
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>Kca3zEkRfWM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Kca3zEkRfWM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>MATTHIEU VALET est l'invité de l'HEURE DES PROS WEEK-END avec ELIOT DEVAL !</title>
+      <link>https://www.youtube.com/watch?v=BLy2wAsf0EA</link>
+      <guid>https://www.youtube.com/watch?v=BLy2wAsf0EA</guid>
+      <pubDate>2026-09-21T08:20:06+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>BLy2wAsf0EA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/BLy2wAsf0EA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Prix des carburants, hausse du SMIC, mobilisations sociales : Manuel Bompard, invité de RTL !</title>
       <link>https://www.youtube.com/watch?v=jkIdTMUcCMg</link>
@@ -1803,35 +1827,6 @@ Chapitres :
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>OSU1LB2VHMY</videoId>
       <enclosure url="https://i.ytimg.com/vi/OSU1LB2VHMY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>David Guiraud recadre un journaliste de Valeurs Actuelles</title>
-      <link>https://www.youtube.com/watch?v=gRPOHaPkk04</link>
-      <guid>https://www.youtube.com/watch?v=gRPOHaPkk04</guid>
-      <pubDate>2026-09-10T20:37:46+00:00</pubDate>
-      <author>David Guiraud</author>
-      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
-
-Sur Tiktok : @davidguiraudlfi
-Twitter : https://twitter.com/guiraudind
-Instagram : https://www.instagram.com/guirauddavid/
-Facebook : https://www.facebook.com/david.guiraud.50</description>
-      <channelTitle>David Guiraud</channelTitle>
-      <videoId>gRPOHaPkk04</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gRPOHaPkk04/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Discours de lancement de mon premier livre : Pour une politique de l'amitié</title>
-      <link>https://www.youtube.com/watch?v=HbmAIYKDm7o</link>
-      <guid>https://www.youtube.com/watch?v=HbmAIYKDm7o</guid>
-      <pubDate>2026-09-10T16:52:41+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>Hier soir, nous avons célébré l'amitié et ses droits nouveaux.
-
-Beaucoup de chemin reste à parcourir. Nous le ferons en 2027.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>HbmAIYKDm7o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HbmAIYKDm7o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
