@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 21 Sep 2026 09:00:59 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:15:36 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Les émeutes à Saint-Pierre-des-Corps sont un scandale absolu. Assez de ce renversement accusatoire.</title>
+      <link>https://www.youtube.com/watch?v=mjSRVpFCIIQ</link>
+      <guid>https://www.youtube.com/watch?v=mjSRVpFCIIQ</guid>
+      <pubDate>2026-09-21T09:13:08+00:00</pubDate>
+      <author>François-Xavier Bellamy</author>
+      <description>François-Xavier Bellamy était l'invité de LCI pour débattre face à Jean-Michel Aphatie.</description>
+      <channelTitle>François-Xavier Bellamy</channelTitle>
+      <videoId>mjSRVpFCIIQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/mjSRVpFCIIQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EN DIRECT | Gabriel Attal présente son équipe de campagne.</title>
+      <link>https://www.youtube.com/watch?v=R7Nfd1Exn7A</link>
+      <guid>https://www.youtube.com/watch?v=R7Nfd1Exn7A</guid>
+      <pubDate>2026-09-21T09:09:22+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>4 chantiers capitaux. Une équipe.
+
+Gabriel Attal dévoile la suite de la composition de son équipe de campagne qui portera notre projet à ses côtés.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>R7Nfd1Exn7A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/R7Nfd1Exn7A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>⚡🔴 Retrouver mon passage sur LCI ! Je réponds au RN</title>
       <link>https://www.youtube.com/watch?v=Kca3zEkRfWM</link>
@@ -1805,28 +1831,6 @@ Chapitres :
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>FfFznhpL-rc</videoId>
       <enclosure url="https://i.ytimg.com/vi/FfFznhpL-rc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Carburants, budget, présidentielle, loi intégrale : Matinale de France Info avec Clémence Guetté</title>
-      <link>https://www.youtube.com/watch?v=1KxdoFcM0mY</link>
-      <guid>https://www.youtube.com/watch?v=1KxdoFcM0mY</guid>
-      <pubDate>2026-09-11T09:26:19+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description />
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>1KxdoFcM0mY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1KxdoFcM0mY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présidentielle, Gauche écologie, viande, nucléaire : débat entre Sandrine Rousseau et Fabien Roussel</title>
-      <link>https://www.youtube.com/watch?v=OSU1LB2VHMY</link>
-      <guid>https://www.youtube.com/watch?v=OSU1LB2VHMY</guid>
-      <pubDate>2026-09-11T08:59:35+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description />
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>OSU1LB2VHMY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/OSU1LB2VHMY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
