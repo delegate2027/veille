@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 21 Sep 2026 11:30:43 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:45:38 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>EN DIRECT | Gabriel Attal présente son équipe de campagne.</title>
@@ -1489,34 +1489,6 @@ Un débat pour faire gagner le sport populaire et défendre son accès comme un 
       <enclosure url="https://i.ytimg.com/vi/dqOBrVjGRBI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Table ronde université de rentrée Reconquête 2026 : La liberté d'expression menacée</title>
-      <link>https://www.youtube.com/watch?v=mfrABsRetPQ</link>
-      <guid>https://www.youtube.com/watch?v=mfrABsRetPQ</guid>
-      <pubDate>2026-09-13T10:16:06+00:00</pubDate>
-      <author>Éric Zemmour</author>
-      <description>Suivez notre table ronde sur la liberté d'expression en direct.
-
-1️⃣ Likez la vidéo, Abonnez-vous à ma chaîne YouTube en cliquant sur le bouton « s'abonner » et sur la cloche grise. Partagez cette vidéo à tous vos proches !
-2️⃣ Adhérez à RECONQUÊTE : https://www.parti-reconquete.fr/adhesions
-3️⃣ Faites un don : https://don.zemmour2022.fr/
-4️⃣ Suivez Éric Zemmour : https://www.zemmour2022.fr/jeminforme
-5️⃣ Recevez mes informations en avant-première : https://www.zemmour2022.fr/
-
-#EricZemmour #Meeting #Rentrée
-
-Restez connecté avec moi sur les Réseaux Sociaux :
-Facebook : https://www.facebook.com/ZemmourEric
-Twitter : https://twitter.com/ZemmourEric
-Instagram : https://www.instagram.com/ericzemmour_/
-LinkedIn : https://www.linkedin.com/in/eric-zemmour/
-Telegram : https://t.me/EricZemmourOfficiel
-TikTok : https://www.tiktok.com/@zemmour_eric
-Gettr : https://www.gettr.com/user/zemmoureric</description>
-      <channelTitle>Éric Zemmour</channelTitle>
-      <videoId>mfrABsRetPQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/mfrABsRetPQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Non au coup d'État du RN :  refusons le prétendu référendum sur l'immigration</title>
       <link>https://www.youtube.com/watch?v=359X9-tHneU</link>
       <guid>https://www.youtube.com/watch?v=359X9-tHneU</guid>
@@ -1831,6 +1803,17 @@ Chapitres :
       <channelTitle>Clémence Guetté</channelTitle>
       <videoId>1KxdoFcM0mY</videoId>
       <enclosure url="https://i.ytimg.com/vi/1KxdoFcM0mY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Présidentielle, Gauche écologie, viande, nucléaire : débat entre Sandrine Rousseau et Fabien Roussel</title>
+      <link>https://www.youtube.com/watch?v=OSU1LB2VHMY</link>
+      <guid>https://www.youtube.com/watch?v=OSU1LB2VHMY</guid>
+      <pubDate>2026-09-11T08:59:35+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description />
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>OSU1LB2VHMY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/OSU1LB2VHMY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
