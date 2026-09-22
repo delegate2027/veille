@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 22 Sep 2026 07:30:57 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:45:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Urgent : il faut bloquer les prix de l'essence !</title>
+      <link>https://www.youtube.com/watch?v=l4nsniyvdIo</link>
+      <guid>https://www.youtube.com/watch?v=l4nsniyvdIo</guid>
+      <pubDate>2026-09-22T07:43:41+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Sud Radio le 22 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>l4nsniyvdIo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/l4nsniyvdIo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Il faut baisser les prix tout de suite !</title>
       <link>https://www.youtube.com/watch?v=tWrvL3Ao3MU</link>
@@ -1826,17 +1837,6 @@ Chapitres :
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>xJRcuTBSu94</videoId>
       <enclosure url="https://i.ytimg.com/vi/xJRcuTBSu94/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Vite le blocage des prix de l'essence ! (Manon Aubry sur LCI)</title>
-      <link>https://www.youtube.com/watch?v=FfFznhpL-rc</link>
-      <guid>https://www.youtube.com/watch?v=FfFznhpL-rc</guid>
-      <pubDate>2026-09-11T10:21:02+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Vite le blocage des prix de l'essence ! Manon Aubry sur LCI face à Darius Rochebin, Laure Lavalette et Jean-Charles Orsucci.</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>FfFznhpL-rc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/FfFznhpL-rc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
