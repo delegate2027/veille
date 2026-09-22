@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 22 Sep 2026 14:01:09 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:15:39 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Le coût dramatique du manque d'accompagnement de l'augmentation du carburant | Sandrine Rousseau</title>
+      <link>https://www.youtube.com/watch?v=d6DapNCq-P8</link>
+      <guid>https://www.youtube.com/watch?v=d6DapNCq-P8</guid>
+      <pubDate>2026-09-22T14:03:58+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description />
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>d6DapNCq-P8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/d6DapNCq-P8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JULIEN ODOUL est face à STÉPHANE LE FOLL dans BFM GRAND SOIR !</title>
       <link>https://www.youtube.com/watch?v=6AOiE3TpPdk</link>
@@ -1872,17 +1883,6 @@ Chapitres :
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>xJRcuTBSu94</videoId>
       <enclosure url="https://i.ytimg.com/vi/xJRcuTBSu94/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Vite le blocage des prix de l'essence ! (Manon Aubry sur LCI)</title>
-      <link>https://www.youtube.com/watch?v=FfFznhpL-rc</link>
-      <guid>https://www.youtube.com/watch?v=FfFznhpL-rc</guid>
-      <pubDate>2026-09-11T10:21:02+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Vite le blocage des prix de l'essence ! Manon Aubry sur LCI face à Darius Rochebin, Laure Lavalette et Jean-Charles Orsucci.</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>FfFznhpL-rc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/FfFznhpL-rc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
