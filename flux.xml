@@ -4,8 +4,24 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 22 Sep 2026 14:45:42 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:01:05 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Conférence de presse de Mélanie Vogel et Léa Balage: nos institutions peuvent-elles résister au RN ?</title>
+      <link>https://www.youtube.com/watch?v=oS9N4ZItdmM</link>
+      <guid>https://www.youtube.com/watch?v=oS9N4ZItdmM</guid>
+      <pubDate>2026-09-22T14:48:05+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Conférence de presse du 22 septembre 2026 avec :
+- Mélanie Vogel, Sénatrice des Français·es de l'étranger 
+- Léa Balage El Mariky, Députée de Paris
+- Mélissa Camara, Députée européenne
+- Laurent Pech, Professeur de droit européen, Sutherland School of Law, University College of Dublin
+- Sébastien Platon, Professeur de droit à l'Université de Bordeaux</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>oS9N4ZItdmM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/oS9N4ZItdmM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Sandrine Rousseau réagit à l'explosion des prix de carburant</title>
       <link>https://www.youtube.com/watch?v=d6DapNCq-P8</link>
@@ -1872,17 +1888,6 @@ Chapitres :
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>kp4uw9uy2TY</videoId>
       <enclosure url="https://i.ytimg.com/vi/kp4uw9uy2TY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hausse du prix des carburants, Total, ultra-riches : j’étais l’invité de Darius Rochebin sur LCI</title>
-      <link>https://www.youtube.com/watch?v=xJRcuTBSu94</link>
-      <guid>https://www.youtube.com/watch?v=xJRcuTBSu94</guid>
-      <pubDate>2026-09-11T14:35:36+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Éric Coquerel était l’invité de Darius Rochebin sur LCI, le jeudi 10 septembre 2026, pour évoquer la hausse du prix des carburants, les superprofits de Total et la taxation des ultra-riches.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>xJRcuTBSu94</videoId>
-      <enclosure url="https://i.ytimg.com/vi/xJRcuTBSu94/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
