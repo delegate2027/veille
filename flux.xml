@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 22 Sep 2026 16:15:46 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:30:52 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>PS, macronistes et LR ont supprimé une disposition centrale de la proposition de loi intégrale</title>
+      <link>https://www.youtube.com/watch?v=bvl4geGtw0M</link>
+      <guid>https://www.youtube.com/watch?v=bvl4geGtw0M</guid>
+      <pubDate>2026-09-22T16:18:37+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>PS, macronistes et LR ont supprimé ce matin une disposition centrale de la proposition de loi dite intégrale :
+
+L’entretien individuel annuel obligatoire mené par un adulte formé pour chaque élève de la maternelle à la terminale afin de détecter les violences.
+
+Le dispositif recommandé par la CIIVISE et la coalition féministe et enfantiste est donc supprimé et remplacé par une disposition bidon travaillée avec le gouvernement Lecornu ! Le ministre Geffray peut donc continuer avec son questionnaire inadapté et dangereux.
+
+Affligeant.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>bvl4geGtw0M</videoId>
+      <enclosure url="https://i.ytimg.com/vi/bvl4geGtw0M/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de presse de Mélanie Vogel et Léa Balage: nos institutions peuvent-elles résister au RN ?</title>
       <link>https://www.youtube.com/watch?v=oS9N4ZItdmM</link>
@@ -1867,27 +1884,6 @@ Chapitres :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>X4IoL3pAjOY</videoId>
       <enclosure url="https://i.ytimg.com/vi/X4IoL3pAjOY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jean-Luc Mélenchon face à la rédaction de l'Humanité</title>
-      <link>https://www.youtube.com/watch?v=kp4uw9uy2TY</link>
-      <guid>https://www.youtube.com/watch?v=kp4uw9uy2TY</guid>
-      <pubDate>2026-09-11T20:05:42+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion de son entretien face à la rédaction de l'Humanité à l'Agora de la Fête de l'Humanité, le 11 septembre 2026. 
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>kp4uw9uy2TY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/kp4uw9uy2TY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
