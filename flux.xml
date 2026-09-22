@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 22 Sep 2026 12:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:16:09 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JULIEN ODOUL est face à STÉPHANE LE FOLL dans BFM GRAND SOIR !</title>
+      <link>https://www.youtube.com/watch?v=6AOiE3TpPdk</link>
+      <guid>https://www.youtube.com/watch?v=6AOiE3TpPdk</guid>
+      <pubDate>2026-09-22T12:04:06+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>6AOiE3TpPdk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/6AOiE3TpPdk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"Ma place est aux côtés de celui à gauche qui peut gagner la présidentielle : Raphaël Glucksmann"</title>
       <link>https://www.youtube.com/watch?v=WbbJDJbAwhY</link>
@@ -911,8 +924,10 @@ Ce n'est pas un discours de renoncement. C'est une feuille de route pour que la 
 ---
 Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
 
-Twitter : https://x.com/Avec_EdouardFacebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
-Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qrLinkedin : https://www.linkedin.com/company/avecedouard
+Twitter : https://x.com/Avec_Edouard
+Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
+Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
+Linkedin : https://www.linkedin.com/company/avecedouard
 YouTube : https://www.youtube.com/@EdouardPhilippe
 TikTok : https://www.tiktok.com/@avec_edouard
 Telegram : https://t.me/HorizonsOff
@@ -1870,17 +1885,6 @@ Chapitres :
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>xJRcuTBSu94</videoId>
       <enclosure url="https://i.ytimg.com/vi/xJRcuTBSu94/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Vite le blocage des prix de l'essence ! (Manon Aubry sur LCI)</title>
-      <link>https://www.youtube.com/watch?v=FfFznhpL-rc</link>
-      <guid>https://www.youtube.com/watch?v=FfFznhpL-rc</guid>
-      <pubDate>2026-09-11T10:21:02+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Vite le blocage des prix de l'essence ! Manon Aubry sur LCI face à Darius Rochebin, Laure Lavalette et Jean-Charles Orsucci.</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>FfFznhpL-rc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/FfFznhpL-rc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
