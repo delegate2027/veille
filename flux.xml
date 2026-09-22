@@ -4,7 +4,72 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 22 Sep 2026 06:15:31 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:30:46 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>À Pomas, auprès de ceux qui ont tout perdu.</title>
+      <link>https://www.youtube.com/watch?v=0I2n_-6gcPM</link>
+      <guid>https://www.youtube.com/watch?v=0I2n_-6gcPM</guid>
+      <pubDate>2026-09-19T16:12:01+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>À Pomas, j’ai vu des Français profondément meurtris par la perte de leur foyer, de leur maison.
+
+Mais j’ai aussi vu une incroyable solidarité : celle d’une nation, celle d’un peuple uni, prêt à se relever, lorsque tout s'est effondré.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>0I2n_-6gcPM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0I2n_-6gcPM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Le Pen dans l'Aude : « Les vraies économies à faire sont dans le train de vie de l'État ! »</title>
+      <link>https://www.youtube.com/watch?v=jWdGqTE4Zx4</link>
+      <guid>https://www.youtube.com/watch?v=jWdGqTE4Zx4</guid>
+      <pubDate>2026-09-18T13:52:14+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description />
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>jWdGqTE4Zx4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jWdGqTE4Zx4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Le Pen, invitée d'Objectif 2027, avec Darius Rochebin, sur LCI</title>
+      <link>https://www.youtube.com/watch?v=ux3WEnVnaTU</link>
+      <guid>https://www.youtube.com/watch?v=ux3WEnVnaTU</guid>
+      <pubDate>2026-09-17T20:44:40+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description />
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>ux3WEnVnaTU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ux3WEnVnaTU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>C'est dans ces moments-là que la solidarité nationale prend tout son sens.</title>
+      <link>https://www.youtube.com/watch?v=fzkkDiHDLeQ</link>
+      <guid>https://www.youtube.com/watch?v=fzkkDiHDLeQ</guid>
+      <pubDate>2026-09-17T19:44:59+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Marie a souhaité nous montrer sa maison dévastée par les flammes.
+
+Comme elle, des milliers de Français n’ont plus de maison à la suite des terribles incendies qui ont ravagé le sud-ouest de la France.
+
+Pour elle, c'est une partie de sa vie, des souvenirs, une histoire qui sont partis.
+
+Son courage force le respect et nous oblige à tout faire pour que la nation puisse lui apporter son soutien.
+
+C'est dans ces moments-là que la solidarité nationale prend tout son sens.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>fzkkDiHDLeQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/fzkkDiHDLeQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Le Pen est l'invitée de l'émission « Objectif 2027 » avec Darius Rochebin sur LCI !</title>
+      <link>https://www.youtube.com/watch?v=aCkXbWB3-Ak</link>
+      <guid>https://www.youtube.com/watch?v=aCkXbWB3-Ak</guid>
+      <pubDate>2026-09-16T20:45:21+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description />
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>aCkXbWB3-Ak</videoId>
+      <enclosure url="https://i.ytimg.com/vi/aCkXbWB3-Ak/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
