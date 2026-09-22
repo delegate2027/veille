@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 22 Sep 2026 09:15:39 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:30:46 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>"Ma place est aux côtés de celui à gauche qui peut gagner la présidentielle : Raphaël Glucksmann"</title>
+      <link>https://www.youtube.com/watch?v=WbbJDJbAwhY</link>
+      <guid>https://www.youtube.com/watch?v=WbbJDJbAwhY</guid>
+      <pubDate>2026-09-22T09:29:36+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de la matinale de Public Sénat, en partenariat avec le groupe EBRA de la presse régionale, ce mardi 22 septembre 2026.
+
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>WbbJDJbAwhY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WbbJDJbAwhY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Je réponds à toutes les questions de Maxime Switek sur BFMTV.</title>
       <link>https://www.youtube.com/watch?v=6_rCp5pvaYk</link>
@@ -1841,17 +1862,6 @@ Chapitres :
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>kp4uw9uy2TY</videoId>
       <enclosure url="https://i.ytimg.com/vi/kp4uw9uy2TY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hausse du prix des carburants, Total, ultra-riches : j’étais l’invité de Darius Rochebin sur LCI</title>
-      <link>https://www.youtube.com/watch?v=xJRcuTBSu94</link>
-      <guid>https://www.youtube.com/watch?v=xJRcuTBSu94</guid>
-      <pubDate>2026-09-11T14:35:36+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Éric Coquerel était l’invité de Darius Rochebin sur LCI, le jeudi 10 septembre 2026, pour évoquer la hausse du prix des carburants, les superprofits de Total et la taxation des ultra-riches.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>xJRcuTBSu94</videoId>
-      <enclosure url="https://i.ytimg.com/vi/xJRcuTBSu94/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
