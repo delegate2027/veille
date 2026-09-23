@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 23 Sep 2026 10:01:06 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:15:35 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Face au racket, il faut bloquer les carburants à 1,70€ !</title>
+      <link>https://www.youtube.com/watch?v=RdLZf_OxP60</link>
+      <guid>https://www.youtube.com/watch?v=RdLZf_OxP60</guid>
+      <pubDate>2026-09-23T10:00:12+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'une conférence de presse, le 23 septembre 2026. 
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>RdLZf_OxP60</videoId>
+      <enclosure url="https://i.ytimg.com/vi/RdLZf_OxP60/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Présidentielles 2027 : François Ruffin "face aux outre-mer"</title>
       <link>https://www.youtube.com/watch?v=6NZf7tExU70</link>
@@ -1869,21 +1890,6 @@ VIVRE !</description>
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>JopC2VFol_8</videoId>
       <enclosure url="https://i.ytimg.com/vi/JopC2VFol_8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Cancer du sein, accès aux soins : comment garantir la santé pour toutes et tous ?</title>
-      <link>https://www.youtube.com/watch?v=5HTtTZ4nD8k</link>
-      <guid>https://www.youtube.com/watch?v=5HTtTZ4nD8k</guid>
-      <pubDate>2026-09-12T14:18:16+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>À la Fête de l’Humanité, un débat consacré à la lutte contre le cancer du sein et, plus largement, à l’accès aux soins pour toutes et tous.
-
-Avec Barbara Filhol, secrétaire générale de la CGT Santé, Anthony Gonçalves, oncologue, Fabrice André, directeur de la recherche à Gustave-Roussy, et Yannick Monnet, député PCF de l’Allier.
-
-Prévention, dépistage, recherche, accès aux traitements, avenir de l’hôpital public et conditions de travail des soignants : comment combattre les inégalités de santé et garantir à chacune et chacun le droit de se soigner ?</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>5HTtTZ4nD8k</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5HTtTZ4nD8k/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
