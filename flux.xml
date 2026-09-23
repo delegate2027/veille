@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 23 Sep 2026 16:15:45 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:45:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>GAËTAN DUSSAUSAYE  "Les Français demandent la baisse des taxes !" (BFM TV)</title>
+      <link>https://www.youtube.com/watch?v=Y798UQ-E6C0</link>
+      <guid>https://www.youtube.com/watch?v=Y798UQ-E6C0</guid>
+      <pubDate>2026-09-23T16:04:59+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>Y798UQ-E6C0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Y798UQ-E6C0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴🎥 Retour sur mon déplacement au Porge</title>
       <link>https://www.youtube.com/watch?v=F-vp_IvUTxI</link>
@@ -224,19 +237,6 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>zXUaTTFgcso</videoId>
       <enclosure url="https://i.ytimg.com/vi/zXUaTTFgcso/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>THOMAS MÉNAGÉ: « Il faut baisser la fiscalité quand près de 60% d'un plein ce sont des taxes » (LCI)</title>
-      <link>https://www.youtube.com/watch?v=TZOnJYrk3bU</link>
-      <guid>https://www.youtube.com/watch?v=TZOnJYrk3bU</guid>
-      <pubDate>2026-09-22T19:04:12+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>TZOnJYrk3bU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/TZOnJYrk3bU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Nationalisation de Total : le débat Sandrine Rousseau vs Alain Duhamel</title>
