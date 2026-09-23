@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 23 Sep 2026 10:15:35 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:31:21 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Je veux sauver notre système de retraite.</title>
+      <link>https://www.youtube.com/watch?v=XG7_RYQQ7Ko</link>
+      <guid>https://www.youtube.com/watch?v=XG7_RYQQ7Ko</guid>
+      <pubDate>2026-09-23T10:20:31+00:00</pubDate>
+      <author>Bruno Retailleau</author>
+      <description>Invité sur LCI, j’ai présenté la réforme des retraites que je souhaite porter : un âge minimal de départ à 63 ans, en tenant compte de la pénibilité des métiers. Je lancerai des consultations avec les partenaires sociaux pour définir les professions qui pourront bénéficier d’un départ anticipé.
+
+Retrouvez mon intervention.</description>
+      <channelTitle>Bruno Retailleau</channelTitle>
+      <videoId>XG7_RYQQ7Ko</videoId>
+      <enclosure url="https://i.ytimg.com/vi/XG7_RYQQ7Ko/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Face au racket, il faut bloquer les carburants à 1,70€ !</title>
       <link>https://www.youtube.com/watch?v=RdLZf_OxP60</link>
@@ -1868,28 +1881,6 @@ VIVRE !</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>_4mH1T6dJcU</videoId>
       <enclosure url="https://i.ytimg.com/vi/_4mH1T6dJcU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fabien Roussel à la Fête de l’Humanité : VIVRE ! | Meeting en direct</title>
-      <link>https://www.youtube.com/watch?v=JopC2VFol_8</link>
-      <guid>https://www.youtube.com/watch?v=JopC2VFol_8</guid>
-      <pubDate>2026-09-12T15:47:15+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>En direct de la Fête de l'Humanité. 
-
-Pouvoir vivre de son travail. Bien se loger, se soigner, se nourrir. Retrouver des services publics qui répondent présents. Produire en France. Protéger la planète. Vivre en sécurité et en paix.
-
-Une France qui permette enfin de vivre ensemble, mieux, heureux, en paix.
-
-Retrouvez le meeting de Fabien Roussel en direct de la grande scène Angela Davis.
-
-📍 Fête de l’Humanité
-🗓️ Samedi 12 septembre à 17h40
-
-VIVRE !</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>JopC2VFol_8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/JopC2VFol_8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
