@@ -1,299 +1,312 @@
+/* JavaScript volontairement compatible avec la syntaxe/ecosysteme des annees 1990-2000. */
+var renderedLinks = {};
+var lastModifiedSeen = null;
+var POLL_INTERVAL = 60000;
+
 function escapeHtml(str) {
-  return str
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&#39;");
+  str = String(str || "");
+  return str.replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#39;");
+}
+
+function trimString(str) {
+  return String(str || "").replace(/^\s+|\s+$/g, "");
+}
+
+function lower(str) {
+  return String(str || "").toLowerCase();
 }
 
 function isShort(title, link, desc) {
-  const t = title.toLowerCase();
-  const d = desc.toLowerCase();
-  const l = link.toLowerCase();
-
-  return (
-    t.includes("#shorts") ||
-    t.includes("shorts") ||
-    d.includes("#shorts") ||
-    l.includes("/shorts/")
-  );
+  var t = lower(title), d = lower(desc), l = lower(link);
+  return t.indexOf("#shorts") !== -1 ||
+         t.indexOf("shorts") !== -1 ||
+         d.indexOf("#shorts") !== -1 ||
+         l.indexOf("/shorts/") !== -1;
 }
 
 function removeEmojis(str) {
-  return str
-    .replace(
-      /[\u{1F000}-\u{1FFFF}]|[\u{2600}-\u{27BF}]\uFE0F?|[\u{FE00}-\u{FE0F}]|\p{Emoji_Presentation}|\p{Extended_Pictographic}|\u{200D}|\u{20E3}/gu,
-      ""
-    )
-    .replace(/\s{2,}/g, " ")
-    .trim();
+  /* Couvre les principales plages Unicode utilisees par les emojis (symboles, pictogrammes,
+     transport, drapeaux, visages/emoticones etendus, variation selectors, etc.). */
+  str = String(str || "");
+  str = str.replace(/[\u2600-\u27BF]/g, " ");           // symboles divers + dingbats (incl. ☀-➿)
+  str = str.replace(/[\u2190-\u21FF]/g, " ");           // fleches
+  str = str.replace(/[\u2300-\u23FF]/g, " ");           // symboles techniques (⌚, ⏰...)
+  str = str.replace(/[\u25A0-\u25FF]/g, " ");           // formes geometriques
+  str = str.replace(/[\u2B00-\u2BFF]/g, " ");           // fleches/etoiles supplementaires
+  str = str.replace(/[\uD83C-\uD83E][\uDC00-\uDFFF]/g, " "); // emojis sur paire surrogate (U+1F000-U+1FFFF : visages, objets, drapeaux...)
+  str = str.replace(/[\u2934\u2935\u3030\u303D\u3297\u3299]/g, " ");
+  str = str.replace(/[\uFE0E\uFE0F]/g, "");             // variation selectors (texte/emoji)
+  str = str.replace(/\u200D/g, "");                     // zero-width joiner (emojis composes)
+  return str.replace(/[ \t]{2,}/g, " ").replace(/^\s+|\s+$/g, "");
 }
 
 function replaceUrlsWithPlaceholder(text) {
-  const urlRegex = /(https?:\/\/[^\s]+|www\.[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(?:\/[^\s]*)?)/gi;
-  return text.replace(urlRegex, "url");
+  var re = /(https?:\/\/[^\s]+|www\.[^\s]+|[A-Za-z0-9.-]+\.[A-Za-z]{2,}(?:\/[^\s]*)?)/gi;
+  return String(text || "").replace(re, "url");
 }
 
 function removeExcessiveRepeats(str) {
-  return str.replace(/(.)\\1{3,}/g, "$1");
+  return String(str || "").replace(/(.)\1{3,}/g, "$1");
 }
 
 function capitalizeWords(str) {
-  return str
-    .split(" ")
-    .map((word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-    .join(" ");
+  var parts = String(str || "").split(" "), i, word, result = [];
+  for (i = 0; i < parts.length; i++) {
+    word = parts[i];
+    if (word.length) result.push(word.charAt(0).toUpperCase() + word.substr(1).toLowerCase());
+  }
+  return result.join(" ");
 }
 
-function formatDate(date) {
-  if (isNaN(date)) return "";
-
-  return date.toLocaleString("fr-FR", {
-    hour: "2-digit",
-    minute: "2-digit",
-    day: "2-digit",
-    month: "2-digit",
-  });
+function formatDate(dateText) {
+  var d = new Date(dateText), day, month, hour, minute;
+  if (isNaN(d.getTime())) return "";
+  day = d.getDate();
+  month = d.getMonth() + 1;
+  hour = d.getHours();
+  minute = d.getMinutes();
+  return (day < 10 ? "0" : "") + day + "/" +
+         (month < 10 ? "0" : "") + month + " " +
+         (hour < 10 ? "0" : "") + hour + ":" +
+         (minute < 10 ? "0" : "") + minute;
 }
 
 function extractVideoId(link) {
-  try {
-    const url = new URL(link);
-
-    if (url.hostname.includes("youtube.com")) {
-      return url.searchParams.get("v");
-    }
-
-    if (url.hostname.includes("youtu.be")) {
-      return url.pathname.slice(1);
-    }
-  } catch {
-    return null;
-  }
-
+  var m;
+  m = String(link || "").match(/[?&]v=([A-Za-z0-9_-]{6,})/);
+  if (m) return m[1];
+  m = String(link || "").match(/youtu\.be\/([A-Za-z0-9_-]{6,})/i);
+  if (m) return m[1];
   return null;
 }
 
-const renderedLinks = new Set();
+function getTagText(parent, tagName) {
+  var nodes = parent.getElementsByTagName(tagName);
+  if (!nodes || !nodes.length) return "";
+  return trimString(nodes[0].textContent || nodes[0].innerText || "");
+}
 
-let lastModifiedSeen = null;
+function getItemsFromXml(xml) {
+  var nodes = xml.getElementsByTagName("item"), result = [], i, node;
+  for (i = 0; i < nodes.length; i++) {
+    node = nodes[i];
+    result.push({
+      node: node,
+      title: getTagText(node, "title"),
+      link: getTagText(node, "link"),
+      author: getTagText(node, "author"),
+      description: getTagText(node, "description"),
+      pubDate: getTagText(node, "pubDate")
+    });
+  }
+  result.sort(function(a, b) {
+    return new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime();
+  });
+  return result;
+}
 
-const POLL_INTERVAL = 1 * 60 * 1000;
-
-const DATE_OPTIONS = {
-  hour: "2-digit",
-  minute: "2-digit",
-  day: "2-digit",
-  month: "2-digit",
-};
+function sourceClass(author) {
+  var a = lower(author);
+  if (a === "meeting") return "meeting";
+  if (a.indexOf("coquerel") !== -1 || a.indexOf("boyard") !== -1 || a.indexOf("aubry") !== -1 ||
+      a.indexOf("chikirou") !== -1 || a.indexOf("panot") !== -1 || a.indexOf("mélenchon") !== -1 ||
+      a.indexOf("melenchon") !== -1 || a.indexOf("vannier") !== -1 || a.indexOf("bompard") !== -1 ||
+      a.indexOf("cathala") !== -1 || a.indexOf("clouet") !== -1 || a.indexOf("léaument") !== -1 ||
+      a.indexOf("leaument") !== -1 || a.indexOf("maudet") !== -1 || a.indexOf("piquemal") !== -1 ||
+      a.indexOf("guiraud") !== -1 || a.indexOf("guetté") !== -1 || a.indexOf("guette") !== -1 ||
+      a.indexOf("saintoul") !== -1 || a.indexOf("trouvé") !== -1 || a.indexOf("trouve") !== -1) return "lfi";
+  if (a.indexOf("écologistes") !== -1 || a.indexOf("ecologistes") !== -1 || a.indexOf("rousseau") !== -1) return "eelv";
+  if (a.indexOf("parti socialiste") !== -1 || a.indexOf("autain") !== -1 || a.indexOf("corbière") !== -1 ||
+      a.indexOf("corbiere") !== -1 || a.indexOf("l'après") !== -1 || a.indexOf("glucksmann") !== -1 ||
+      a.indexOf("ruffin") !== -1 || a.indexOf("vallaud") !== -1 || a.indexOf("guedj") !== -1) return "ps";
+  if (a.indexOf("horizons") !== -1 || a.indexOf("modem") !== -1 || a.indexOf("attal") !== -1 || a.indexOf("bergé") !== -1 || a.indexOf("berge") !== -1) return "centre";
+  if (a.indexOf("renaissance") !== -1 || a.indexOf("wauquiez") !== -1 || a.indexOf("retailleau") !== -1 ||
+      a.indexOf("bellamy") !== -1 || a.indexOf("lisnard") !== -1) return "lr";
+  if (a.indexOf("zemmour") !== -1 || a.indexOf("knafo") !== -1 || a.indexOf("le pen") !== -1 ||
+      a.indexOf("bardella") !== -1 || a.indexOf("rassemblement national") !== -1) return "ed";
+  if (a.indexOf("communiste") !== -1 || a.indexOf("pcf") !== -1) return "pcf";
+  return "meeting";
+}
 
 function buildItemElement(item) {
-  const title = removeExcessiveRepeats(
-    removeEmojis(item.querySelector("title")?.textContent || "")
-  );
-  const link = item.querySelector("link")?.textContent || "#";
-  const author = item.querySelector("author")?.textContent || "Auteur";
-  const description = removeExcessiveRepeats(
-    removeEmojis(
-      replaceUrlsWithPlaceholder(
-        item.querySelector("description")?.textContent || ""
-      )
-    )
-  );
+  var title = removeExcessiveRepeats(removeEmojis(item.title));
+  var link = item.link || "#";
+  var author = trimString(item.author || "Auteur");
+  var description = removeExcessiveRepeats(removeEmojis(replaceUrlsWithPlaceholder(item.description || "")));
+  var displayAuthor = capitalizeWords(author);
+  var videoId = extractVideoId(link);
+  var div = document.createElement("div");
+  var html;
 
-  const pubDate = new Date(item.querySelector("pubDate")?.textContent || "");
-  const safeAuthor = author.normalize("NFC").trim();
-  const displayAuthor = capitalizeWords(safeAuthor);
-  const formattedDate = formatDate(pubDate);
-  const videoId = extractVideoId(link);
+  div.className = "item item-left " + sourceClass(author);
+  div.setAttribute("data-author", author);
 
-  const div = document.createElement("div");
-  div.className = "item";
-  div.setAttribute("data-author", safeAuthor);
+  html = '<div class="top">' +
+           '<span class="author ' + sourceClass(author) + '">' + escapeHtml(displayAuthor) + '</span>' +
+           '<span class="date">' + escapeHtml(formatDate(item.pubDate)) + '</span>' +
+         '</div>' +
+         '<div class="title"><a href="' + escapeHtml(link) + '" class="video-link">' + escapeHtml(title) + '</a></div>' +
+         '<div class="desc">' + escapeHtml(description.replace(/[\r\n]+/g, " ")) + '</div>';
 
-  div.innerHTML = `
-    <div class="top">
-      <span class="author" data-author="${escapeHtml(safeAuthor)}">${escapeHtml(displayAuthor)}</span>
-      <span class="date">${escapeHtml(formattedDate)}</span>
-    </div>
-    <div class="title">
-      <a href="${escapeHtml(link)}" class="video-link"
-        ${videoId ? "" : 'target="_blank" rel="noopener noreferrer"'}>
-        ${escapeHtml(title)}
-      </a>
-    </div>
-    <div class="desc">${escapeHtml(description.replace(/\n/g, " "))}</div>
-  `;
+  div.innerHTML = html;
 
-  if (!videoId) return div;
-
-  const videoLink = div.querySelector(".video-link");
-
-  const createPlayer = () => {
-    const player = document.createElement("div");
-    player.className = "youtube-player";
-    player.innerHTML = `
-      <iframe
-        src="https://www.youtube.com/embed/${encodeURIComponent(videoId)}"
-        title="${escapeHtml(title)}"
-        allowfullscreen
-        loading="lazy">
-      </iframe>
-    `;
-    return player;
-  };
-
-  videoLink.addEventListener("click", (e) => {
-    e.preventDefault();
-
-    const existing = div.querySelector(".youtube-player");
-    if (existing) {
-      existing.remove();
-      div.classList.remove("expanded");
-      return;
-    }
-
-    document.querySelectorAll(".youtube-player").forEach((p) => p.remove());
-    document.querySelectorAll(".item.expanded").forEach((i) => i.classList.remove("expanded"));
-
-    div.appendChild(createPlayer());
-    div.classList.add("expanded");
-    div.scrollIntoView({ behavior: "smooth", block: "nearest" });
-  });
+  if (videoId) {
+    var videoLink = div.getElementsByTagName("a")[0];
+    videoLink.onclick = function() {
+      var existing = findChildByClass(div, "youtube-player");
+      var players = document.getElementsByTagName("div");
+      var i;
+      if (existing) {
+        div.removeChild(existing);
+        return false;
+      }
+      for (i = 0; i < players.length; i++) {
+        if (hasClass(players[i], "youtube-player") && players[i].parentNode) {
+          players[i].parentNode.removeChild(players[i]);
+        }
+      }
+      div.appendChild(createPlayer(videoId, title));
+      return false;
+    };
+  } else {
+    videoLink.target = "_blank";
+  }
 
   return div;
 }
 
-async function fetchAndParseRSS(headers = {}) {
-  const response = await fetch("flux.xml", { cache: "no-store", headers });
-
-  if (response.status === 304) return { notModified: true };
-
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status}`);
-  }
-
-  const xmlText = await response.text();
-  const parser = new DOMParser();
-  const xml = parser.parseFromString(xmlText, "text/xml");
-
-  if (xml.querySelector("parsererror")) {
-    throw new Error("Erreur de parsing XML");
-  }
-
-  const feedCount = xml.querySelector("feedCount")?.textContent;
-  if (feedCount) {
-    document.getElementById("feedCountDisplay").textContent =
-      "Flux agrégés : " + feedCount;
-  }
-
-  const items = [...xml.querySelectorAll("item")]
-    .sort(
-      (a, b) =>
-        new Date(b.querySelector("pubDate")?.textContent || 0) -
-        new Date(a.querySelector("pubDate")?.textContent || 0)
-    )
-    .filter((item) => {
-      const title = item.querySelector("title")?.textContent || "";
-      const link = item.querySelector("link")?.textContent || "";
-      const desc = item.querySelector("description")?.textContent || "";
-      return !isShort(title, link, desc);
-    })
-    .slice(0, 100);
-
-  const lastModified = response.headers.get("Last-Modified");
-
-  return { xml, items, lastModified };
+function hasClass(el, cls) {
+  return (" " + el.className + " ").indexOf(" " + cls + " ") !== -1;
 }
 
-function updateLastModifiedHeader(lastModified) {
-  if (!lastModified) return;
-
-  lastModifiedSeen = lastModified;
-
-  const updateDate = new Date(lastModified);
-  document.getElementById("lastUpdate").innerHTML =
-    "&nbsp; Dernière mise à jour : " +
-    updateDate.toLocaleDateString("fr-FR", DATE_OPTIONS);
+function findChildByClass(parent, cls) {
+  var divs = parent.getElementsByTagName("div"), i;
+  for (i = 0; i < divs.length; i++) if (hasClass(divs[i], cls)) return divs[i];
+  return null;
 }
 
-function appendItem(div, { announce }) {
-  const feed = document.getElementById("feed");
+function createPlayer(videoId, title) {
+  var wrap = document.createElement("div");
+  var iframe = document.createElement("iframe");
+  wrap.className = "youtube-player";
+  iframe.src = "https://www.youtube.com/embed/" + videoId;
+  iframe.title = title;
+  iframe.setAttribute("frameborder", "0");
+  iframe.setAttribute("allowfullscreen", "allowfullscreen");
+  wrap.appendChild(iframe);
+  return wrap;
+}
 
-  if (announce) {
-    div.classList.add("item--new");
-    feed.insertBefore(div, feed.firstChild);
-    setTimeout(() => div.classList.remove("item--new"), 3000);
-  } else {
-    feed.appendChild(div);
+function getXmlHttp() {
+  if (window.XMLHttpRequest) return new XMLHttpRequest();
+  if (window.ActiveXObject) return new ActiveXObject("Microsoft.XMLHTTP");
+  return null;
+}
+
+function fetchAndParseRSS(callback, headers) {
+  var xhr = getXmlHttp();
+  if (!xhr) {
+    callback(new Error("Ce navigateur ne prend pas en charge les requêtes HTTP nécessaires."));
+    return;
   }
-}
 
-async function loadRSS() {
-  try {
-    const { items, lastModified } = await fetchAndParseRSS();
+  xhr.open("GET", "flux.xml", true);
+  xhr.setRequestHeader("Cache-Control", "no-cache");
+  if (headers && headers["If-Modified-Since"]) xhr.setRequestHeader("If-Modified-Since", headers["If-Modified-Since"]);
 
-    updateLastModifiedHeader(lastModified);
+  xhr.onreadystatechange = function() {
+    var xml, items, lastModified;
+    if (xhr.readyState !== 4) return;
 
-    const feed = document.getElementById("feed");
-    const newDivs = [];
-
-    items.forEach((item) => {
-      const link = item.querySelector("link")?.textContent || "#";
-      if (renderedLinks.has(link)) return;
-
-      renderedLinks.add(link);
-      newDivs.push(buildItemElement(item));
-    });
-
-    newDivs.forEach((div) => feed.appendChild(div));
-  } catch (err) {
-    const feed = document.getElementById("feed");
-
-    if (feed.children.length === 0) {
-      feed.innerHTML = `<div class="error">Impossible de charger le flux : ${escapeHtml(err.message)}</div>`;
+    if (xhr.status === 304) {
+      callback(null, { notModified: true });
+      return;
+    }
+    if (xhr.status !== 200 && xhr.status !== 0) {
+      callback(new Error("HTTP " + xhr.status));
+      return;
     }
 
-    console.error("loadRSS error:", err);
-  }
+    try {
+      xml = xhr.responseXML;
+      if (!xml || !xml.getElementsByTagName) {
+        callback(new Error("Impossible de lire le flux XML."));
+        return;
+      }
+      items = getItemsFromXml(xml);
+      lastModified = xhr.getResponseHeader("Last-Modified");
+      callback(null, { items: items, lastModified: lastModified });
+    } catch (e) {
+      callback(e);
+    }
+  };
+  xhr.send(null);
 }
 
-async function pollRSS() {
-  try {
-    const headers = {};
-    if (lastModifiedSeen) {
-      headers["If-Modified-Since"] = lastModifiedSeen;
-    }
-
-    const { notModified, items, lastModified } = await fetchAndParseRSS(headers);
-
-    if (notModified) return;
-
-    if (lastModified && lastModified === lastModifiedSeen) return;
-
-    updateLastModifiedHeader(lastModified);
-
-    let newCount = 0;
-
-    items.forEach((item) => {
-      const link = item.querySelector("link")?.textContent || "#";
-      if (renderedLinks.has(link)) return;
-
-      renderedLinks.add(link);
-      newCount++;
-
-      appendItem(buildItemElement(item), { announce: true });
-    });
-
-    if (newCount > 0) {
-      console.log(`[veille] ${newCount} nouvel(s) élément(s) ajouté(s)`);
-    }
-  } catch (err) {
-    console.warn("pollRSS error:", err);
+function updateStatus(lastModified) {
+  var update = document.getElementById("lastUpdate");
+  var loader = document.getElementById("loader");
+  if (lastModified) {
+    lastModifiedSeen = lastModified;
+    update.innerHTML = "Dernière mise à jour : " + escapeHtml(formatDate(lastModified));
   }
+  loader.className = "status-dot status-dot-ok";
+  loader.title = "À jour";
 }
 
-loadRSS().then(() => {
-  setInterval(pollRSS, POLL_INTERVAL);
-});
+function appendItem(div, first) {
+  var feed = document.getElementById("feed");
+  if (first && feed.firstChild) feed.insertBefore(div, feed.firstChild);
+  else feed.appendChild(div);
+}
+
+function loadRSS() {
+  fetchAndParseRSS(function(err, data) {
+    var i, item, link, div, feed;
+    if (err) {
+      feed = document.getElementById("feed");
+      if (!feed.getElementsByTagName(".item").length) feed.innerHTML = '<div class="error">Impossible de charger le flux : ' + escapeHtml(err.message) + '</div>';
+      var loader = document.getElementById("loader");
+      loader.className = "status-dot status-dot-error";
+      loader.title = "Erreur de chargement";
+      return;
+    }
+    if (data.notModified) return;
+    updateStatus(data.lastModified);
+    feed = document.getElementById("feed");
+    feed.innerHTML = "";
+    for (i = 0; i < data.items.length && i < 100; i++) {
+      item = data.items[i];
+      if (isShort(item.title, item.link, item.description)) continue;
+      link = item.link || "#";
+      if (renderedLinks[link]) continue;
+      renderedLinks[link] = true;
+      div = buildItemElement(item);
+      appendItem(div, false);
+    }
+  }, null);
+}
+
+function pollRSS() {
+  fetchAndParseRSS(function(err, data) {
+    var i, item, link;
+    if (err || data.notModified) return;
+    if (data.lastModified && data.lastModified === lastModifiedSeen) return;
+    updateStatus(data.lastModified);
+    for (i = 0; i < data.items.length && i < 100; i++) {
+      item = data.items[i];
+      if (isShort(item.title, item.link, item.description)) continue;
+      link = item.link || "#";
+      if (renderedLinks[link]) continue;
+      renderedLinks[link] = true;
+      appendItem(buildItemElement(item), true);
+    }
+  }, lastModifiedSeen ? { "If-Modified-Since": lastModifiedSeen } : null);
+}
+
+loadRSS();
+window.setInterval(pollRSS, POLL_INTERVAL);
