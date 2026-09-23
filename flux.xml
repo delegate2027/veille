@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 23 Sep 2026 09:15:36 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 09:30:43 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Présidentielles 2027 : François Ruffin "face aux outre-mer"</title>
+      <link>https://www.youtube.com/watch?v=6NZf7tExU70</link>
+      <guid>https://www.youtube.com/watch?v=6NZf7tExU70</guid>
+      <pubDate>2026-09-23T09:15:54+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>6NZf7tExU70</videoId>
+      <enclosure url="https://i.ytimg.com/vi/6NZf7tExU70/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>GAËTAN DUSSAUSAYE : « Le gouvernement ne dit pas vérité aux Français sur le budget. » (PUBLIC SÉNAT)</title>
       <link>https://www.youtube.com/watch?v=7L3HpvhAwvE</link>
@@ -1871,17 +1884,6 @@ Prévention, dépistage, recherche, accès aux traitements, avenir de l’hôpit
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>5HTtTZ4nD8k</videoId>
       <enclosure url="https://i.ytimg.com/vi/5HTtTZ4nD8k/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Interview de Marine Tondelier en direct de la Fête de l'Humanité sur BFM</title>
-      <link>https://www.youtube.com/watch?v=DwM7jwX5q6M</link>
-      <guid>https://www.youtube.com/watch?v=DwM7jwX5q6M</guid>
-      <pubDate>2026-09-12T14:00:00+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Interview du 12 septembre 2026 en direct du stand écologiste à la Fête de l'Humanité.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>DwM7jwX5q6M</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DwM7jwX5q6M/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
