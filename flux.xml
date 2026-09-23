@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 23 Sep 2026 07:01:06 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:15:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>LOUIS ALIOT: « Nous avons condamné l'invasion russe et soutenu l'Ukraine ! » (FRANCE 2)</title>
+      <link>https://www.youtube.com/watch?v=pRIm7KQt9YE</link>
+      <guid>https://www.youtube.com/watch?v=pRIm7KQt9YE</guid>
+      <pubDate>2026-09-23T07:12:46+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>pRIm7KQt9YE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/pRIm7KQt9YE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY est l'invité de LAURENCE FERRARI sur CNEWS !</title>
       <link>https://www.youtube.com/watch?v=6I2qjcSGlxs</link>
@@ -294,19 +307,6 @@ Sommaire :
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>TsrYo8jUlJQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/TsrYo8jUlJQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MATTHIEU VALET est face à FRANÇOIS DE RUGY dans l'émission PUNCHLINE avec LAURENCE FERRARI sur CNEWS</title>
-      <link>https://www.youtube.com/watch?v=r1MyyMWUYu4</link>
-      <guid>https://www.youtube.com/watch?v=r1MyyMWUYu4</guid>
-      <pubDate>2026-09-21T17:30:31+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>r1MyyMWUYu4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/r1MyyMWUYu4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>CONFÉRENCE DE PRESSE  | Gabriel Attal présente son équipe de campagne.</title>
