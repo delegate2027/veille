@@ -4,95 +4,311 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 23 Sep 2026 03:45:36 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:00:58 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
-      <title>Face cam' #7 : Baisser le salaire brut ? c'est pas net !</title>
-      <link>https://www.youtube.com/watch?v=a2Jml8XxSEs</link>
-      <guid>https://www.youtube.com/watch?v=a2Jml8XxSEs</guid>
-      <pubDate>2026-09-13T15:00:11+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Dans cet épisode on revient ensemble sur la dernière rentrée scolaire en macronie, sur la dernière escroquerie programmatique du bloc bourgeois, et sur la grève des pompiers !</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>a2Jml8XxSEs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/a2Jml8XxSEs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les insoumis seront toujours antiracistes !</title>
-      <link>https://www.youtube.com/watch?v=UQATO71KxBQ</link>
-      <guid>https://www.youtube.com/watch?v=UQATO71KxBQ</guid>
-      <pubDate>2026-09-07T16:39:23+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Retrouvez mon passage de ce lundi 7 septembre sur le plateau de BFM TV.</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>UQATO71KxBQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/UQATO71KxBQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'Assemblée doit siéger pour donner des moyens aux pompiers !</title>
-      <link>https://www.youtube.com/watch?v=pxO_e79fSPQ</link>
-      <guid>https://www.youtube.com/watch?v=pxO_e79fSPQ</guid>
-      <pubDate>2026-08-04T12:46:00+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Retrouvez l'intégralité de mon passage sur Europe 1.
-Et n’hésitez pas à partager et à vous abonner  !</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>pxO_e79fSPQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pxO_e79fSPQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Notre maison brûle, Macron regarde ailleurs</title>
-      <link>https://www.youtube.com/watch?v=ONMRehACy90</link>
-      <guid>https://www.youtube.com/watch?v=ONMRehACy90</guid>
-      <pubDate>2026-07-28T12:51:29+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Retrouvez mon intervention de ce 28 juillet sur la matinale de France info !</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>ONMRehACy90</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ONMRehACy90/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Duplomb 2 : La ministre est une lobbyiste !</title>
-      <link>https://www.youtube.com/watch?v=gxiwAJz0BM8</link>
-      <guid>https://www.youtube.com/watch?v=gxiwAJz0BM8</guid>
-      <pubDate>2026-07-22T16:27:11+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>La ministre de l'agriculture est un agent. infiltré de Bayer-Mosanto (qu'elle qu'en soit le nom aujourd'hui). Le prochain président de Santé Publique France doit s'opposer aux empoisonneurs. Je l'interpelle.</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>gxiwAJz0BM8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gxiwAJz0BM8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face cam' #6 : La France brûle, la macronie nous enfume !</title>
-      <link>https://www.youtube.com/watch?v=1i1demg0lwI</link>
-      <guid>https://www.youtube.com/watch?v=1i1demg0lwI</guid>
-      <pubDate>2026-07-19T15:00:34+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Dans cet épisode de face cam' nous abordons les causes et conséquences de la canicule, la loi "permis de tuer XXL", les conditions de travail dans les aéroports et plein d'autres choses ! 
-N’hésitez pas à vous abonnez, et nous dire en commentaire ce que vous souhaitez qu'on change pour la rentrée en septembre !
+      <title>"Ma place est aux côtés de celui à gauche qui peut gagner la présidentielle : Raphaël Glucksmann"</title>
+      <link>https://www.youtube.com/watch?v=WbbJDJbAwhY</link>
+      <guid>https://www.youtube.com/watch?v=WbbJDJbAwhY</guid>
+      <pubDate>2026-09-22T09:29:36+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de la matinale de Public Sénat, en partenariat avec le groupe EBRA de la presse régionale, ce mardi 22 septembre 2026.
 
-Le lien de la pétition : https://petitions.assemblee-nationale.fr/initiatives/i-6334
-Pour s'inscrire aux amfis : https://amfis.fr/
+_____________________________________
 
-00:00 : introduction
-00:40 : incendie et canicule : le gouvernement ne fait RIEN
-14:00 : contre la loi "permis de tuer XXL"
-19:30 : santé et sécurité des travailleurs dans les aéroports 
-21:43 : bon été à tous ! On se revoit aux amfis !</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>1i1demg0lwI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1i1demg0lwI/maxresdefault.jpg" type="image/jpeg" />
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>WbbJDJbAwhY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WbbJDJbAwhY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>La macronie : un incendie social !</title>
-      <link>https://www.youtube.com/watch?v=nlTfa8_1HSI</link>
-      <guid>https://www.youtube.com/watch?v=nlTfa8_1HSI</guid>
-      <pubDate>2026-07-15T10:30:36+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description />
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>nlTfa8_1HSI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nlTfa8_1HSI/maxresdefault.jpg" type="image/jpeg" />
+      <title>Sécurité climatique : le plan d'Édouard Philippe pour adapter la France</title>
+      <link>https://www.youtube.com/watch?v=biaaBJ6Q02A</link>
+      <guid>https://www.youtube.com/watch?v=biaaBJ6Q02A</guid>
+      <pubDate>2026-09-17T22:43:48+00:00</pubDate>
+      <author>Edouard Philippe</author>
+      <description>Discours prononcé à Angers – Les Ponts-de-Cé
+
+Après un été 2026 marqué par des feux d'une intensité inédite, des sécheresses records et des catastrophes climatiques qui ont touché tout le territoire, je propose une stratégie claire en trois axes : protéger, adapter, équiper.
+
+Ce n'est pas un discours de renoncement. C'est une feuille de route pour que la France ne subisse pas le changement climatique, mais s'y prépare — comme elle a toujours su le faire face aux défis de sa géographie.
+
+#SécuritéClimatique #Adaptation #Climat #France #Discours
+
+---
+Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
+
+Twitter : https://x.com/Avec_Edouard
+Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
+Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
+Linkedin : https://www.linkedin.com/company/avecedouard
+YouTube : https://www.youtube.com/@EdouardPhilippe
+TikTok : https://www.tiktok.com/@avec_edouard
+Telegram : https://t.me/HorizonsOff
+WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
+      <channelTitle>Edouard Philippe</channelTitle>
+      <videoId>biaaBJ6Q02A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/biaaBJ6Q02A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Campagne présidentielle | « Chacun doit dire ce qu’il pense et ce qu’il propose. »</title>
+      <link>https://www.youtube.com/watch?v=gnsuqtXB0Qs</link>
+      <guid>https://www.youtube.com/watch?v=gnsuqtXB0Qs</guid>
+      <pubDate>2026-09-08T07:33:29+00:00</pubDate>
+      <author>Edouard Philippe</author>
+      <description>Édouard Philippe était l'invité d'Agathe Lambret et de Simon Le Baron dans la matinale de franceinfo, à 8h30.
+---
+Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
+
+→ Twitter (X) : https://x.com/https://x.com/Avec_Edouard?s=20
+→ Facebook : https://www.facebook.com/HorizonsLeParti/ (https://www.facebook.com/HorizonsLeParti)
+→ Instagram : https://www.instagram.com/horizonsleparti/ (https://www.instagram.com/avecedouard/)
+→ TikTok :https://www.tiktok.com/@avec_edouard?is_from_webapp=1&amp;amp;sender_device=pc
+→ LinkedIn : https://www.linkedin.com/company/horizonsleparti/ (https://www.linkedin.com/company/avecedouard/posts/?feedView=all)
+→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R
+→ Telegram : https://t.me/HorizonsOff</description>
+      <channelTitle>Edouard Philippe</channelTitle>
+      <videoId>gnsuqtXB0Qs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gnsuqtXB0Qs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>« Nous devons être plus exigeants sur l’école » | Édouard Philippe</title>
+      <link>https://www.youtube.com/watch?v=YuBKdtypO7o</link>
+      <guid>https://www.youtube.com/watch?v=YuBKdtypO7o</guid>
+      <pubDate>2026-09-02T06:23:43+00:00</pubDate>
+      <author>Edouard Philippe</author>
+      <description>« Je pense que nous devons être plus exigeants sur ce que nous attendons de l’école.
+
+L’école, c’est d’abord la transmission des savoirs. Et notre responsabilité, c’est de faire remonter le niveau.
+
+Cela signifie accompagner ceux qui décrochent, mais aussi donner à nos meilleurs élèves les moyens d’aller plus loin.
+
+La priorité doit être donnée aux savoirs fondamentaux : lire, écrire, compter.
+
+C’est pourquoi je veux faire le choix des plus jeunes : généraliser le dédoublement des classes en maternelle et en primaire, pour donner à chaque enfant les meilleures chances de réussir. »
+
+| Édouard Philippe était l'invité de @FranceInter.</description>
+      <channelTitle>Edouard Philippe</channelTitle>
+      <videoId>YuBKdtypO7o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YuBKdtypO7o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>« Mon objectif : ne jamais raisonner en augmentant les impôts. » | Édouard Philippe.</title>
+      <link>https://www.youtube.com/watch?v=GavHLoKeBrw</link>
+      <guid>https://www.youtube.com/watch?v=GavHLoKeBrw</guid>
+      <pubDate>2026-08-30T20:51:20+00:00</pubDate>
+      <author>Edouard Philippe</author>
+      <description>Édouard Philippe était l’invité de @BFMTV, dimanche 30 août.
+
+Depuis Tourcoing, il a répondu aux questions de Guillaume Daret sur les grandes orientations qu’il entend porter pour le pays.
+
+---
+Pour découvrir nos autres contenus, suivez #Horizons sur les réseaux sociaux !
+
+→ Twitter (X) : https://x.com/HorizonsLeParti
+→ Facebook : https://www.facebook.com/HorizonsLeParti/
+→ Instagram : https://www.instagram.com/horizonsleparti/
+→ TikTok : https://www.tiktok.com/@horizonsleparti/
+→ LinkedIn : https://www.linkedin.com/company/horizonsleparti/
+→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R
+→ Telegram : https://t.me/HorizonsOff</description>
+      <channelTitle>Edouard Philippe</channelTitle>
+      <videoId>GavHLoKeBrw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/GavHLoKeBrw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Marine Le Pen a les mains sales et la tête basse" - Boris Vallaud invité de TF1</title>
+      <link>https://www.youtube.com/watch?v=gx1ULVfKxwM</link>
+      <guid>https://www.youtube.com/watch?v=gx1ULVfKxwM</guid>
+      <pubDate>2026-07-08T14:41:10+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de la matinale de TF1 ce 8 juillet 2026.
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>gx1ULVfKxwM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gx1ULVfKxwM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Quelle politique énergétique pour la France ? - Boris Vallaud aux Entretiens de Terra Nova</title>
+      <link>https://www.youtube.com/watch?v=2WULcrdr_xg</link>
+      <guid>https://www.youtube.com/watch?v=2WULcrdr_xg</guid>
+      <pubDate>2026-07-06T12:28:29+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud présentait la ligne des députés socialistes sur la politique énergétique de la France lors des Entretiens de Terra Nova 2026.
+
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>2WULcrdr_xg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2WULcrdr_xg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"L’économie est elle violente ?" - Controverse aux Rencontres économiques d'Aix</title>
+      <link>https://www.youtube.com/watch?v=6ZLx56gvSJ4</link>
+      <guid>https://www.youtube.com/watch?v=6ZLx56gvSJ4</guid>
+      <pubDate>2026-07-05T17:56:38+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud débattait face à Alain Di Crescenzo aux Rencontres économiques d'Aix-en-Provence 2026 sur la violence de l'économie et la démarchandisation qu'il propose. 
+
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>6ZLx56gvSJ4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/6ZLx56gvSJ4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Le modèle landais est le miroir inversé du scandale Orpea !" Boris Vallaud à ICI Gascogne</title>
+      <link>https://www.youtube.com/watch?v=hctOfPcrVAI</link>
+      <guid>https://www.youtube.com/watch?v=hctOfPcrVAI</guid>
+      <pubDate>2026-06-05T09:31:50+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de la matinale d'ICI Gascogne ce vendredi 5 juin 2026.
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>hctOfPcrVAI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hctOfPcrVAI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Je propose une rencontre de la nouvelle gauche plurielle !" Boris Vallaud sur France Inter</title>
+      <link>https://www.youtube.com/watch?v=g49hvcBkIBw</link>
+      <guid>https://www.youtube.com/watch?v=g49hvcBkIBw</guid>
+      <pubDate>2026-05-11T09:15:11+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de Benjamin Duhamel au 7h50 de France Inter quelques jours après avoir quitté la direction du Parti socialiste.
+
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>g49hvcBkIBw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/g49hvcBkIBw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Boris Vallaud face à François Lenglet : le débat sur LCI !</title>
+      <link>https://www.youtube.com/watch?v=fRUNnNyttOc</link>
+      <guid>https://www.youtube.com/watch?v=fRUNnNyttOc</guid>
+      <pubDate>2026-05-07T13:33:06+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Le débat entre Boris Vallaud et l'économiste libéral François Lenglet au sujet de la démarchandisation sur LCI, dans l'émission de Darius Rochebin.
+
+"Nos vies ne sont pas des marchandises. Manifeste pour la démarchandisation" (Editions du Seuil)
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>fRUNnNyttOc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/fRUNnNyttOc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Il faut taxer les superprofits des profiteurs de la crise du carburant!" Boris Vallaud - Franceinfo</title>
+      <link>https://www.youtube.com/watch?v=A3xlUoOvyf8</link>
+      <guid>https://www.youtube.com/watch?v=A3xlUoOvyf8</guid>
+      <pubDate>2026-04-30T09:41:07+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de la matinale de 8h30 sur Franceinfo ce jeudi 30 avril 2026.
+
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>A3xlUoOvyf8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/A3xlUoOvyf8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"La démarchandisation redonne du pouvoir à nos vies !" Boris Vallaud invité des 4V sur France 2</title>
+      <link>https://www.youtube.com/watch?v=YthzItrcsqg</link>
+      <guid>https://www.youtube.com/watch?v=YthzItrcsqg</guid>
+      <pubDate>2026-04-27T09:42:45+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de Gilles Bornstein dans la matinale des "4 vérités" sur France 2 ce lundi 27 avril 2026, pour notamment parler de son livre "Nos vies ne sont pas des marchandises. Manifeste pour la démarchandisation" (édition Seuil).
+
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>YthzItrcsqg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YthzItrcsqg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Il faut reprendre le contrôle de nos vies" Boris Vallaud invité de Caroline Roux dans C dans l'air</title>
+      <link>https://www.youtube.com/watch?v=NLJajI-wm-k</link>
+      <guid>https://www.youtube.com/watch?v=NLJajI-wm-k</guid>
+      <pubDate>2026-04-23T16:55:25+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de Caroline Roux dans "C dans l'air" sur France 5 ce jeudi 23 avril 2026 sur son livre "Nos vies ne sont pas des marchandises. Manifeste pour la démarchandisation". 
+
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>NLJajI-wm-k</videoId>
+      <enclosure url="https://i.ytimg.com/vi/NLJajI-wm-k/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
