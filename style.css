@@ -33,31 +33,27 @@ a {
   color: var(--ink);
 }
 
-a:hover {
-  color: var(--accent);
-}
-
 #page {
   max-width: 640px;
   margin: 0 auto;
-  padding: 64px 24px 80px 24px;
+  padding: 13px 24px 80px 24px;
 }
 
 /* Header */
 
 .header {
-  margin-bottom: 56px;
+  margin-bottom: 11px;
 }
 
 .brand-title {
-  margin: 0 0 8px 0;
+  margin: 0 0 4px 0;
   font-size: 22px;
   font-weight: 600;
   letter-spacing: -0.01em;
 }
 
 .status {
-  margin: 0;
+  margin: 0 0 20px 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -160,7 +156,9 @@ a:hover {
 }
 
 .youtube-player {
-  margin-top: 16px;
+  width: calc(100% + 40px);
+  margin: 16px -20px 0 -20px;
+  padding: 0;
 }
 
 .youtube-player iframe {
