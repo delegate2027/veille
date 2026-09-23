@@ -4,8 +4,35 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 23 Sep 2026 15:30:46 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 15:45:40 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Sarah Knafo sur France 5 : L’État achète les Français avec leur propre argent !</title>
+      <link>https://www.youtube.com/watch?v=y0jrQ6DW1RA</link>
+      <guid>https://www.youtube.com/watch?v=y0jrQ6DW1RA</guid>
+      <pubDate>2026-09-23T15:41:29+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo, députée française Reconquête au Parlement européen, était l’invitée de "C dans l'air" sur France 5.
+
+👍 Likez, 💬 commentez, 📤 partagez la vidéo et 🔔 abonnez-vous en activant la cloche pour ne manquer aucune vidéo !
+
+Pour suivre l’actualité de Sarah Knafo :
+
+Instagram : https://www.instagram.com/sarahknafo1
+X/Twitter : https://x.com/knafo_sarah?s=11
+Facebook : https://www.facebook.com/share/1BDboyows5/?mibextid=wwXIfr
+Linkedln : https://www.linkedin.com/in/sarah-knafo-7a0129b5?utm_source=share_via&amp;amp;utm_content=profile&amp;amp;utm_medium=member_ios
+WhatsApp : ‎https://whatsapp.com/channel/0029VakkwXs60eBd95uc7e2n
+TikTok : https://www.tiktok.com/@sarah_knafo?_r=1&amp;_t=ZN-98M2y5vFPLG
+Telegram : https://t.me/Sarah_Knafo
+
+📖 Commandez mon livre : sarahknafo.fr
+
+🗳️ Adhérez à Reconquête : https://www.parti-reconquete.fr/adhesions</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>y0jrQ6DW1RA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/y0jrQ6DW1RA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Dette publique et prix de l'énergie, nos propositions pour reprendre le contrôle.</title>
       <link>https://www.youtube.com/watch?v=E3Mz-Fpy8WA</link>
@@ -1857,28 +1884,6 @@ Je te promets une France fière, où ton pays te grandira, où ton histoire te p
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>80bBtk2lTiI</videoId>
       <enclosure url="https://i.ytimg.com/vi/80bBtk2lTiI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fabien Roussel à la Fête de l’Humanité : VIVRE ! | Meeting en direct</title>
-      <link>https://www.youtube.com/watch?v=8p5_pfTtcck</link>
-      <guid>https://www.youtube.com/watch?v=8p5_pfTtcck</guid>
-      <pubDate>2026-09-12T17:10:40+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>En direct de la Fête de l'Humanité. 
-
-Pouvoir vivre de son travail. Bien se loger, se soigner, se nourrir. Retrouver des services publics qui répondent présents. Produire en France. Protéger la planète. Vivre en sécurité et en paix.
-
-Une France qui permette enfin de vivre ensemble, mieux, heureux, en paix.
-
-Retrouvez le meeting de Fabien Roussel en direct de la grande scène Angela Davis.
-
-📍 Fête de l’Humanité
-🗓️ Samedi 12 septembre à 17h40
-
-VIVRE !</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>8p5_pfTtcck</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8p5_pfTtcck/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
