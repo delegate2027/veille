@@ -249,13 +249,10 @@ function fetchAndParseRSS(callback, headers) {
 
 function updateStatus(lastModified) {
   var update = document.getElementById("lastUpdate");
-  var loader = document.getElementById("loader");
   if (lastModified) {
     lastModifiedSeen = lastModified;
     update.innerHTML = "Dernière mise à jour : " + escapeHtml(formatDate(lastModified));
   }
-  loader.className = "status-dot status-dot-ok";
-  loader.title = "À jour";
 }
 
 function appendItem(div, first) {
@@ -270,9 +267,6 @@ function loadRSS() {
     if (err) {
       feed = document.getElementById("feed");
       if (!feed.getElementsByTagName(".item").length) feed.innerHTML = '<div class="error">Impossible de charger le flux : ' + escapeHtml(err.message) + '</div>';
-      var loader = document.getElementById("loader");
-      loader.className = "status-dot status-dot-error";
-      loader.title = "Erreur de chargement";
       return;
     }
     if (data.notModified) return;

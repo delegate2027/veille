@@ -85,34 +85,12 @@ a:hover {
 }
 
 .pill-update {
-  background: linear-gradient(135deg, #f59e0b, #ec4899);
-}
-
-.status-dot {
-  width: 9px;
-  height: 9px;
-  border-radius: 50%;
-  flex-shrink: 0;
-}
-
-.status-dot-loading {
-  background: #f59e0b;
-  animation: status-pulse 1.1s ease-in-out infinite;
-}
-
-.status-dot-ok {
-  background: #22c55e;
-  box-shadow: 0 0 0 3px rgba(34, 197, 94, 0.15);
-}
-
-.status-dot-error {
-  background: #ef4444;
-  box-shadow: 0 0 0 3px rgba(239, 68, 68, 0.15);
-}
-
-@keyframes status-pulse {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.45; transform: scale(1.35); }
+  background: none;
+  padding: 0;
+  border: none;
+  color: var(--muted);
+  font-weight: 400;
+  font-size: 12px;
 }
 
 /* Feed */
@@ -229,3 +207,12 @@ a:hover {
 .author.lr { color: #65768d; }
 .author.ed { color: #0b1f3f; }
 .author.pcf { color: #c8455a; }
+
+.item.meeting { background-color: color-mix(in srgb, #8792a7 10%, white); }
+.item.lfi { background-color: color-mix(in srgb, #7468e8 10%, white); }
+.item.eelv { background-color: color-mix(in srgb, #35a972 10%, white); }
+.item.ps { background-color: color-mix(in srgb, #c2478a 10%, white); }
+.item.centre { background-color: color-mix(in srgb, #c8922a 10%, white); }
+.item.lr { background-color: color-mix(in srgb, #65768d 10%, white); }
+.item.ed { background-color: color-mix(in srgb, #0b1f3f 10%, white); }
+.item.pcf { background-color: color-mix(in srgb, #c8455a 10%, white); }
