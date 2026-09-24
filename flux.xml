@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 24 Sep 2026 18:15:38 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:30:53 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>DALO : la loi doit s'appliquer à toutes et tous, y compris à ceux qui enfreignent la loi comme le RN</title>
+      <link>https://www.youtube.com/watch?v=bC7_SxbybL4</link>
+      <guid>https://www.youtube.com/watch?v=bC7_SxbybL4</guid>
+      <pubDate>2026-09-24T18:30:36+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Droit au logement opposable (DALO) : la loi doit s'appliquer à toutes et tous, y compris à ceux qui enfreignent la loi comme le rassemblement national</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>bC7_SxbybL4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/bC7_SxbybL4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Le Pen invité, du Playbook Paris Live : l'entretien en intégralité</title>
+      <link>https://www.youtube.com/watch?v=SLaplw-Gt8U</link>
+      <guid>https://www.youtube.com/watch?v=SLaplw-Gt8U</guid>
+      <pubDate>2026-09-24T18:20:06+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Dès 2022, nous avons condamné de la manière la plus claire qui soit l’agression de la Russie, qui a violé militairement les frontières de l’Ukraine.
+
+Nous soutenons l’Ukraine. Et nous souhaitons que la France mette sa force diplomatique au service de la recherche d’une solution de paix.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>SLaplw-Gt8U</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SLaplw-Gt8U/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SÉBASTIEN CHENU est l'invité de PASCAL PRAUD sur Europe 1 !</title>
       <link>https://www.youtube.com/watch?v=YOrc3Ebz7T4</link>
@@ -1463,17 +1487,6 @@ La mobilisation doit s’amplifier !
       <enclosure url="https://i.ytimg.com/vi/43tI3Nti2aM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Marine Le Pen est l'invitée de l'émission « Objectif 2027 » avec Darius Rochebin sur LCI !</title>
-      <link>https://www.youtube.com/watch?v=aCkXbWB3-Ak</link>
-      <guid>https://www.youtube.com/watch?v=aCkXbWB3-Ak</guid>
-      <pubDate>2026-09-16T20:45:21+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description />
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>aCkXbWB3-Ak</videoId>
-      <enclosure url="https://i.ytimg.com/vi/aCkXbWB3-Ak/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>« Quel État pour la révolution citoyenne ? » - Conclusion de Jean-Luc Mélenchon</title>
       <link>https://www.youtube.com/watch?v=R7t9n_z35to</link>
       <guid>https://www.youtube.com/watch?v=R7t9n_z35to</guid>
@@ -1839,28 +1852,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>2ByflK4pgfc</videoId>
       <enclosure url="https://i.ytimg.com/vi/2ByflK4pgfc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Blocage des prix, budget, bifurcation écologique : Manuel Bompard, invité de France info !</title>
-      <link>https://www.youtube.com/watch?v=yIQFzjn5vRA</link>
-      <guid>https://www.youtube.com/watch?v=yIQFzjn5vRA</guid>
-      <pubDate>2026-09-13T17:49:13+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur France info du dimanche 13 septembre 2026.
-
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>yIQFzjn5vRA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/yIQFzjn5vRA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
