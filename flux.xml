@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 24 Sep 2026 15:45:36 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:01:04 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>SÉBASTIEN CHENU est l'invité de PASCAL PRAUD sur Europe 1 !</title>
+      <link>https://www.youtube.com/watch?v=YOrc3Ebz7T4</link>
+      <guid>https://www.youtube.com/watch?v=YOrc3Ebz7T4</guid>
+      <pubDate>2026-09-24T15:48:37+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>YOrc3Ebz7T4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YOrc3Ebz7T4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Carburants, Géopolitique, IA - Jean-Luc Mélenchon face à Politico</title>
       <link>https://www.youtube.com/watch?v=YQg-98xoxao</link>
@@ -1848,17 +1861,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>yIQFzjn5vRA</videoId>
       <enclosure url="https://i.ytimg.com/vi/yIQFzjn5vRA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face cam' #7 : Baisser le salaire brut ? c'est pas net !</title>
-      <link>https://www.youtube.com/watch?v=a2Jml8XxSEs</link>
-      <guid>https://www.youtube.com/watch?v=a2Jml8XxSEs</guid>
-      <pubDate>2026-09-13T15:00:11+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Dans cet épisode on revient ensemble sur la dernière rentrée scolaire en macronie, sur la dernière escroquerie programmatique du bloc bourgeois, et sur la grève des pompiers !</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>a2Jml8XxSEs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/a2Jml8XxSEs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
