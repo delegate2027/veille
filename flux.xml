@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 24 Sep 2026 15:15:36 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:30:48 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Carburants, Géopolitique, IA - Jean-Luc Mélenchon face à Politico</title>
+      <link>https://www.youtube.com/watch?v=YQg-98xoxao</link>
+      <guid>https://www.youtube.com/watch?v=YQg-98xoxao</guid>
+      <pubDate>2026-09-24T15:27:03+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un grand entretien organisé par Politico, le 24 septembre 2026.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>YQg-98xoxao</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YQg-98xoxao/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>YOANN GILLET "Les Français savent que le Rassemblement National est un parti sérieux" (Europe 1)</title>
       <link>https://www.youtube.com/watch?v=hC9tvqbWUbE</link>
@@ -1838,28 +1859,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>a2Jml8XxSEs</videoId>
       <enclosure url="https://i.ytimg.com/vi/a2Jml8XxSEs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>💥 Racisme, « permis de tuer » : je demande des comptes au ministre de l'Intérieur.</title>
-      <link>https://www.youtube.com/watch?v=RtS0Aap_hts</link>
-      <guid>https://www.youtube.com/watch?v=RtS0Aap_hts</guid>
-      <pubDate>2026-09-13T12:41:36+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon débat face à Laurent Nuñez sur France 2 du dimanche 13 septembre 2026.
-
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>RtS0Aap_hts</videoId>
-      <enclosure url="https://i.ytimg.com/vi/RtS0Aap_hts/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
