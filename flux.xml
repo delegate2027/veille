@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 24 Sep 2026 09:15:30 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:30:46 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Il faut faire le ménage dans les 211 Milliards d'aides publiques aux entreprises !</title>
+      <link>https://www.youtube.com/watch?v=xuFH_KH0-Gs</link>
+      <guid>https://www.youtube.com/watch?v=xuFH_KH0-Gs</guid>
+      <pubDate>2026-09-24T09:28:38+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description />
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>xuFH_KH0-Gs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/xuFH_KH0-Gs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Il faut entendre l’inquiétude et la souffrance des Français.</title>
       <link>https://www.youtube.com/watch?v=tf5mI95uA8A</link>
@@ -1860,29 +1871,6 @@ Gettr : https://www.gettr.com/user/zemmoureric</description>
       <channelTitle>Éric Zemmour</channelTitle>
       <videoId>mfrABsRetPQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/mfrABsRetPQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Non au coup d'État du RN :  refusons le prétendu référendum sur l'immigration</title>
-      <link>https://www.youtube.com/watch?v=359X9-tHneU</link>
-      <guid>https://www.youtube.com/watch?v=359X9-tHneU</guid>
-      <pubDate>2026-09-13T04:55:10+00:00</pubDate>
-      <author>L'APRÈS</author>
-      <description>Assistez en direct de la Fête de l’Humanité au lancement de la campagne de L’APRÈS contre le prétendu référendum sur l’immigration : « Non au coup d’État du RN », avec Clémentine Autain, Alexis Corbière et Danielle Simonnet, député·es de L’APRÈS.
-
-
-——————
-Suivez-nous sur :
-➡️  Instagram : https://www.instagram.com/lapres_fr
-➡️  Facebook : https://www.facebook.com/profile.php?id=61562534454305
-➡️  Twitter : https://x.com/lapres_fr
-➡️  Bluesky : https://bsky.app/profile/apresfr.bsky.social
-➡️  Tiktok :https://www.tiktok.com/@lapres_fr
-➡️  Telegram : https://t.me/l_apres
-
-Toutes nos actualités sur notre site internet :  https://www.l-apres.fr</description>
-      <channelTitle>L'APRÈS</channelTitle>
-      <videoId>359X9-tHneU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/359X9-tHneU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
