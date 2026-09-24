@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 24 Sep 2026 11:45:34 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:01:01 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>1ᵉʳ DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027</title>
@@ -275,19 +275,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>6NZf7tExU70</videoId>
       <enclosure url="https://i.ytimg.com/vi/6NZf7tExU70/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>GAËTAN DUSSAUSAYE : « Le gouvernement ne dit pas vérité aux Français sur le budget. » (PUBLIC SÉNAT)</title>
-      <link>https://www.youtube.com/watch?v=7L3HpvhAwvE</link>
-      <guid>https://www.youtube.com/watch?v=7L3HpvhAwvE</guid>
-      <pubDate>2026-09-23T08:44:06+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>7L3HpvhAwvE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7L3HpvhAwvE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Augmenter les salaires, bloquer les prix : il faut partager la richesse ! - Réunion publique de Rezé</title>
@@ -1879,6 +1866,29 @@ Gettr : https://www.gettr.com/user/zemmoureric</description>
       <channelTitle>Éric Zemmour</channelTitle>
       <videoId>mfrABsRetPQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/mfrABsRetPQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Non au coup d'État du RN :  refusons le prétendu référendum sur l'immigration</title>
+      <link>https://www.youtube.com/watch?v=359X9-tHneU</link>
+      <guid>https://www.youtube.com/watch?v=359X9-tHneU</guid>
+      <pubDate>2026-09-13T04:55:10+00:00</pubDate>
+      <author>L'APRÈS</author>
+      <description>Assistez en direct de la Fête de l’Humanité au lancement de la campagne de L’APRÈS contre le prétendu référendum sur l’immigration : « Non au coup d’État du RN », avec Clémentine Autain, Alexis Corbière et Danielle Simonnet, député·es de L’APRÈS.
+
+
+——————
+Suivez-nous sur :
+➡️  Instagram : https://www.instagram.com/lapres_fr
+➡️  Facebook : https://www.facebook.com/profile.php?id=61562534454305
+➡️  Twitter : https://x.com/lapres_fr
+➡️  Bluesky : https://bsky.app/profile/apresfr.bsky.social
+➡️  Tiktok :https://www.tiktok.com/@lapres_fr
+➡️  Telegram : https://t.me/l_apres
+
+Toutes nos actualités sur notre site internet :  https://www.l-apres.fr</description>
+      <channelTitle>L'APRÈS</channelTitle>
+      <videoId>359X9-tHneU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/359X9-tHneU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
