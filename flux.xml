@@ -4,8 +4,35 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 24 Sep 2026 07:30:54 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 07:45:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Il faut entendre l’inquiétude et la souffrance des Français.</title>
+      <link>https://www.youtube.com/watch?v=tf5mI95uA8A</link>
+      <guid>https://www.youtube.com/watch?v=tf5mI95uA8A</guid>
+      <pubDate>2026-09-24T07:44:36+00:00</pubDate>
+      <author>Edouard Philippe</author>
+      <description>L’augmentation du prix du carburant a un impact très concret sur la vie des Français, notamment de ceux qui ont besoin de leur voiture pour travailler.
+
+Il faut entendre l’inquiétude, et parfois la souffrance, qu’elle provoque chez beaucoup de Français. Et dans ce moment difficile, il faut les accompagner.
+
+Je suis favorable au doublement des aides ciblées. Il ne s’agit ni d’un chèque ni d’une aide générale, mais d’aider ceux qui en ont le plus besoin pour continuer de travailler. Cet effort supplémentaire devra être financé par des économies.
+
+---
+Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
+
+→ Twitter : https://x.com/Avec_Edouard
+→ Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
+→ Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
+→ Linkedin : https://www.linkedin.com/company/avecedouard
+→ YouTube : https://www.youtube.com/@AvecEdouard
+→ TikTok : https://www.tiktok.com/@avec_edouard
+→ Telegram : https://t.me/HorizonsOff
+→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
+      <channelTitle>Edouard Philippe</channelTitle>
+      <videoId>tf5mI95uA8A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/tf5mI95uA8A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ALEKSANDAR NIKOLIC est face à RICHARD RAMOS sur FRANCE INFO !</title>
       <link>https://www.youtube.com/watch?v=-x0jNOOdKkM</link>
@@ -1856,19 +1883,6 @@ Toutes nos actualités sur notre site internet :  https://www.l-apres.fr</descri
       <channelTitle>L'APRÈS</channelTitle>
       <videoId>359X9-tHneU</videoId>
       <enclosure url="https://i.ytimg.com/vi/359X9-tHneU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La Grande Ruffinade ! Echanges entre Laurence Ruffin et François Ruffin</title>
-      <link>https://www.youtube.com/watch?v=0LgbK_OvEjA</link>
-      <guid>https://www.youtube.com/watch?v=0LgbK_OvEjA</guid>
-      <pubDate>2026-09-13T04:46:37+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>Suivez en direct depuis le stand Debout! à la Fête de l'Humanité 2026 l'échange entre Laurence Ruffin et François Ruffin. 
-
-➡️ Soutenez François Ruffin : nouspresident.fr</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>0LgbK_OvEjA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0LgbK_OvEjA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
