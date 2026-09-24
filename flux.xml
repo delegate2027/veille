@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 24 Sep 2026 20:15:35 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:30:48 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>💥 Prix des carburants, guerre en Ukraine : ma réaction à l'allocution d'Emmanuel Macron</title>
+      <link>https://www.youtube.com/watch?v=SxPWgdtkACA</link>
+      <guid>https://www.youtube.com/watch?v=SxPWgdtkACA</guid>
+      <pubDate>2026-09-24T20:25:47+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur LCI du jeudi 24 septembre 2026.
+----------
+
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>SxPWgdtkACA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SxPWgdtkACA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Le Pen invité, du Playbook Paris Live : l'entretien en intégralité</title>
       <link>https://www.youtube.com/watch?v=SLaplw-Gt8U</link>
@@ -1841,28 +1863,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>2ByflK4pgfc</videoId>
       <enclosure url="https://i.ytimg.com/vi/2ByflK4pgfc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Blocage des prix, budget, bifurcation écologique : Manuel Bompard, invité de France info !</title>
-      <link>https://www.youtube.com/watch?v=yIQFzjn5vRA</link>
-      <guid>https://www.youtube.com/watch?v=yIQFzjn5vRA</guid>
-      <pubDate>2026-09-13T17:49:13+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur France info du dimanche 13 septembre 2026.
-
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>yIQFzjn5vRA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/yIQFzjn5vRA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
