@@ -4,8 +4,43 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 24 Sep 2026 09:30:46 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:45:35 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>1ᵉʳ DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027</title>
+      <link>https://www.youtube.com/watch?v=-o8Bs20Pqrs</link>
+      <guid>https://www.youtube.com/watch?v=-o8Bs20Pqrs</guid>
+      <pubDate>2026-09-24T09:33:30+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>Retrouvez l'intégralité du premier débat télévisé de la primaire de la gauche socialiste et démocratique : CHOISIR 2027
+
+🗣️ Inégalités, écologie, retraites, Ukraine, alliances politiques… Les candidat•es ont répondu aux questions des Français•es sur le plateau de David Pujadas sur LCI.
+
+Pour garantir une équité parfaite, l’ordre de présentation des 5 candidat·es a été tiré au sort :
+
+• Olivier Faure
+• Jérôme Guedj
+• Emmanuel Maurel
+• Raphaël Glucksmann
+• Ségolène Royal
+
+👉 Inscris-toi d’ici le 5 octobre pour voter à la primaire : https://adhesion.parti-socialiste.fr/
+
+---
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste 
+➡️  https://www.facebook.com/partisocialiste 
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>-o8Bs20Pqrs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-o8Bs20Pqrs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Il faut faire le ménage dans les 211 Milliards d'aides publiques aux entreprises !</title>
       <link>https://www.youtube.com/watch?v=xuFH_KH0-Gs</link>
@@ -1843,34 +1878,6 @@ Un débat pour faire gagner le sport populaire et défendre son accès comme un 
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>dqOBrVjGRBI</videoId>
       <enclosure url="https://i.ytimg.com/vi/dqOBrVjGRBI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Table ronde université de rentrée Reconquête 2026 : La liberté d'expression menacée</title>
-      <link>https://www.youtube.com/watch?v=mfrABsRetPQ</link>
-      <guid>https://www.youtube.com/watch?v=mfrABsRetPQ</guid>
-      <pubDate>2026-09-13T10:16:06+00:00</pubDate>
-      <author>Éric Zemmour</author>
-      <description>Suivez notre table ronde sur la liberté d'expression en direct.
-
-1️⃣ Likez la vidéo, Abonnez-vous à ma chaîne YouTube en cliquant sur le bouton « s'abonner » et sur la cloche grise. Partagez cette vidéo à tous vos proches !
-2️⃣ Adhérez à RECONQUÊTE : https://www.parti-reconquete.fr/adhesions
-3️⃣ Faites un don : https://don.zemmour2022.fr/
-4️⃣ Suivez Éric Zemmour : https://www.zemmour2022.fr/jeminforme
-5️⃣ Recevez mes informations en avant-première : https://www.zemmour2022.fr/
-
-#EricZemmour #Meeting #Rentrée
-
-Restez connecté avec moi sur les Réseaux Sociaux :
-Facebook : https://www.facebook.com/ZemmourEric
-Twitter : https://twitter.com/ZemmourEric
-Instagram : https://www.instagram.com/ericzemmour_/
-LinkedIn : https://www.linkedin.com/in/eric-zemmour/
-Telegram : https://t.me/EricZemmourOfficiel
-TikTok : https://www.tiktok.com/@zemmour_eric
-Gettr : https://www.gettr.com/user/zemmoureric</description>
-      <channelTitle>Éric Zemmour</channelTitle>
-      <videoId>mfrABsRetPQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/mfrABsRetPQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
