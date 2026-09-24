@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 24 Sep 2026 12:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:01:05 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>YOANN GILLET "Les Français savent que le Rassemblement National est un parti sérieux" (Europe 1)</title>
+      <link>https://www.youtube.com/watch?v=hC9tvqbWUbE</link>
+      <guid>https://www.youtube.com/watch?v=hC9tvqbWUbE</guid>
+      <pubDate>2026-09-24T12:43:30+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>hC9tvqbWUbE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hC9tvqbWUbE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ANDRÉA KOTARAC est face à RICHARD RAMOS sur BFM TV !</title>
       <link>https://www.youtube.com/watch?v=J5szBXGcSgc</link>
@@ -1847,23 +1860,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>RtS0Aap_hts</videoId>
       <enclosure url="https://i.ytimg.com/vi/RtS0Aap_hts/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Faire gagner le sport populaire | Lilian Thuram, Marie-George Buffet et Bastien Bonnargent</title>
-      <link>https://www.youtube.com/watch?v=dqOBrVjGRBI</link>
-      <guid>https://www.youtube.com/watch?v=dqOBrVjGRBI</guid>
-      <pubDate>2026-09-13T10:44:09+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>🏅 Comment faire du sport un véritable droit, accessible à toutes et tous ?
-
-À la Fête de l’Humanité, Lilian Thuram, ancien international français, Marie-George Buffet, ancienne ministre communiste de la Jeunesse et des Sports, et Bastien Bonnargent, secrétaire national du Mouvement des Jeunes Communistes de France, débattent de l’avenir du sport populaire.
-
-Marchandisation du sport, accès à la pratique sportive, racisme et discriminations, égalité femmes-hommes, rôle de l’école et des associations : comment reprendre la main pour faire du sport un véritable outil d’émancipation, de solidarité et d’égalité ?
-
-Un débat pour faire gagner le sport populaire et défendre son accès comme un droit pour toutes et tous.</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>dqOBrVjGRBI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dqOBrVjGRBI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
