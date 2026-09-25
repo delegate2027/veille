@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 25 Sep 2026 16:15:35 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:30:47 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>David Cormand au grand débat IA de la Présidentielle depuis le festival AIM</title>
+      <link>https://www.youtube.com/watch?v=wKU1h2BBqaA</link>
+      <guid>https://www.youtube.com/watch?v=wKU1h2BBqaA</guid>
+      <pubDate>2026-09-25T16:30:28+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Le grand débat IA de la Présidentielle depuis le festival AIM</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>wKU1h2BBqaA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/wKU1h2BBqaA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴 EN DIRECT I Meeting de David Lisnard en Alsace</title>
+      <link>https://www.youtube.com/watch?v=O3TgvCU40qE</link>
+      <guid>https://www.youtube.com/watch?v=O3TgvCU40qE</guid>
+      <pubDate>2026-09-25T16:19:29+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Suivez en direct le meeting de David Lisnard en Alsace.</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>O3TgvCU40qE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/O3TgvCU40qE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>⚠️ 💊 Les industriels empoisonnent des femmes !</title>
       <link>https://www.youtube.com/watch?v=0xLvw8iaObA</link>
@@ -1511,21 +1533,6 @@ TikTok : https://www.tiktok.com/@zemmour_eric
       <enclosure url="https://i.ytimg.com/vi/pj8L0ZpMUis/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>EN DIRECT | Bâtissons les États-Unis d'Europe.</title>
-      <link>https://www.youtube.com/watch?v=0PTy24vJfQE</link>
-      <guid>https://www.youtube.com/watch?v=0PTy24vJfQE</guid>
-      <pubDate>2026-09-18T03:47:16+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Face aux États-Unis. Face à la Chine. L'Europe doit assumer sa puissance et défendre ses intérêts.
-
-Depuis Reims, je prends la parole sur l'avenir de notre continent.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>0PTy24vJfQE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0PTy24vJfQE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Sécurité climatique : le plan d'Édouard Philippe pour adapter la France</title>
       <link>https://www.youtube.com/watch?v=biaaBJ6Q02A</link>
       <guid>https://www.youtube.com/watch?v=biaaBJ6Q02A</guid>
@@ -1840,21 +1847,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>hu76EYBw7pA</videoId>
       <enclosure url="https://i.ytimg.com/vi/hu76EYBw7pA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manon Aubry face à Ursula von der Leyen</title>
-      <link>https://www.youtube.com/watch?v=nwc4Hd8pO8o</link>
-      <guid>https://www.youtube.com/watch?v=nwc4Hd8pO8o</guid>
-      <pubDate>2026-09-16T14:38:34+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>"Nous privilégierons les milliards d'êtres humains aux milliards d'euros de quelques humains."
-
-J'ai répondu à Ursula von der Leyen, la Présidente de la Commission européenne, complètement déconnectée de la réalité.
-
-Le 16 septembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>nwc4Hd8pO8o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nwc4Hd8pO8o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
