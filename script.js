@@ -209,11 +209,11 @@ function getXmlHttp() {
 }
 
 function getResponseSize(xhr) {
+  if (xhr.responseText) return xhr.responseText.length;
+
   var contentLength = xhr.getResponseHeader("Content-Length");
   var size = parseInt(contentLength, 10);
-
-  if (!isNaN(size) && size > 0) return size;
-  return xhr.responseText ? xhr.responseText.length : 0;
+  return !isNaN(size) ? size : 0;
 }
 
 function updateFeedWarning(size) {
