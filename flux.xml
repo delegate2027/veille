@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 25 Sep 2026 15:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:30:58 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Comment j'ai piégé les médias des milliardaires !</title>
+      <link>https://www.youtube.com/watch?v=_-lX1XD_tNE</link>
+      <guid>https://www.youtube.com/watch?v=_-lX1XD_tNE</guid>
+      <pubDate>2026-09-25T15:24:14+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Il y a quelques semaines, j'ai bouleversé tout le système médiatique avec une simple phrase.
+
+« Les milliardaires sont des nuisibles. »
+
+Ça ne m'aura pris qu'une seconde, mais ça aura occupé les antennes pendant des semaines.
+
+Je vous révèle les ressorts de la polémique de la rentrée sur les milliardaires : comment j'ai pris les médias à leur propre jeu et pourquoi il faut, plus que jamais, mettre le sujet de l'extrême richesse au cœur des débats en 2027 !</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>_-lX1XD_tNE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_-lX1XD_tNE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>💥 Souveraineté, régulation, investissement : nos propositions sur l'IA.</title>
       <link>https://www.youtube.com/watch?v=yzzDZhykXUc</link>
@@ -1833,21 +1850,6 @@ Un débat pour mettre fin aux réponses fragmentées et construire une protectio
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>MovPbF39srU</videoId>
       <enclosure url="https://i.ytimg.com/vi/MovPbF39srU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Industrie : reprenons le pouvoir sur la production ! | Fête de l’Humanité 2026</title>
-      <link>https://www.youtube.com/watch?v=gyS68RYstms</link>
-      <guid>https://www.youtube.com/watch?v=gyS68RYstms</guid>
-      <pubDate>2026-09-16T11:17:12+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Comment reprendre la main sur notre production industrielle pour répondre aux besoins sociaux et relever le défi climatique ?
-
-À la Fête de l’Humanité 2026, Éric Sellini, coordinateur CGT du groupe TotalEnergies, Fabrice Coudour, secrétaire général de la FNME-CGT, David Blaise, secrétaire général adjoint de la FTM-CGT, et Édouard Bénard, député PCF de Seine-Maritime, débattent des moyens de reconstruire une industrie forte au service de l’intérêt général.
-
-Formation, nationalisations, aides publiques aux entreprises, financement, droits des travailleurs, maîtrise publique et démocratique : comment redonner à celles et ceux qui produisent le pouvoir de décider de ce que nous produisons, comment et pour quels besoins ?</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>gyS68RYstms</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gyS68RYstms/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
