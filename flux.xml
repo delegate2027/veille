@@ -4,8 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 25 Sep 2026 16:01:12 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:15:35 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>⚠️ 💊 Les industriels empoisonnent des femmes !</title>
+      <link>https://www.youtube.com/watch?v=0xLvw8iaObA</link>
+      <guid>https://www.youtube.com/watch?v=0xLvw8iaObA</guid>
+      <pubDate>2026-09-25T16:10:00+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Les industriels peuvent tuer ou torturer des femmes en leur posant des implants ou des bandelettes sous-urétrales dangereuses, dans l'impunité totale. 
+Ca s'appelle le patriarcat ! Nous accueillions à l'Assemblée nationale les collectifs de victimes comme "balance ta bandelette" ou "association diva", des chercheurs et des autorités sanitaires pour exiger des mesures drastiques et qu'on écoute enfin la parole des femmes</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>0xLvw8iaObA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0xLvw8iaObA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Troupes en Arabie saoudite : le Parlement doit voter !</title>
       <link>https://www.youtube.com/watch?v=NSuEVHfqUk4</link>
@@ -1843,23 +1855,6 @@ Le 16 septembre 2026</description>
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>nwc4Hd8pO8o</videoId>
       <enclosure url="https://i.ytimg.com/vi/nwc4Hd8pO8o/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Violences faites aux femmes et aux enfants : pour une loi intégrale ! | Fête de l’Humanité 2026</title>
-      <link>https://www.youtube.com/watch?v=HLZMdcjOElA</link>
-      <guid>https://www.youtube.com/watch?v=HLZMdcjOElA</guid>
-      <pubDate>2026-09-16T12:44:41+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Comment protéger réellement les femmes et les enfants face aux violences sexistes, sexuelles et intrafamiliales ?
-
-À la Fête de l’Humanité 2026, Édouard Durand, magistrat et ancien coprésident de la CIIVISE, Anne-Cécile Mailfert, présidente de la Fondation des Femmes, Yannick Monnet, député communiste de l’Allier, et Véronique Sanchez-Voir, responsable de la commission Protection de l’enfance du PCF, débattent de la loi intégrale contre les violences faites aux femmes et aux enfants.
-
-Prévention, protection des victimes, justice, soins, services publics, protection de l’enfance et moyens financiers : une loi intégrale doit permettre d’agir à chaque étape et de ne plus laisser les victimes seules face aux institutions.
-
-Un débat pour mettre fin aux réponses fragmentées et construire une protection à la hauteur.</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>HLZMdcjOElA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HLZMdcjOElA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
