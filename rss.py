@@ -7,6 +7,7 @@ from pathlib import Path
 
 OUTPUT_FILE = "flux.xml"
 MAX_ENTRIES_PER_FEED = 10
+MIN_OUTPUT_SIZE = 100 * 1024
 
 FEEDS = {
     "LFI": [
@@ -159,6 +160,32 @@ def build_xml(entries):
     return ET.ElementTree(rss)
 
 
+def write_output(tree):
+    output_path = Path(OUTPUT_FILE)
+    temporary_path = output_path.with_name(f"{output_path.name}.tmp")
+
+    try:
+        tree.write(
+            temporary_path,
+            encoding="utf-8",
+            xml_declaration=True,
+        )
+        output_size = temporary_path.stat().st_size
+
+        if output_path.exists() and output_size < MIN_OUTPUT_SIZE:
+            print(
+                f"Fichier conservé : {OUTPUT_FILE} "
+                f"(nouveau flux de {output_size} octets)"
+            )
+            return
+
+        temporary_path.replace(output_path)
+        print(f"Fichier créé : {OUTPUT_FILE} ({output_size} octets)")
+    finally:
+        if temporary_path.exists():
+            temporary_path.unlink()
+
+
 def main():
     all_entries = []
     errors = 0
@@ -194,13 +221,7 @@ def main():
 
     tree = build_xml(all_entries)
     ET.indent(tree, space="  ")
-    tree.write(
-        OUTPUT_FILE,
-        encoding="utf-8",
-        xml_declaration=True,
-    )
-
-    print(f"Fichier créé : {OUTPUT_FILE} ({len(all_entries)} entrées)")
+    write_output(tree)
 
 
 if __name__ == "__main__":
