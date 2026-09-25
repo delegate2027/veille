@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 25 Sep 2026 09:45:42 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:01:00 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>MATTHIEU VALET est face à SYLVAIN MAILLARD sur CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=T_QotOarsAM</link>
+      <guid>https://www.youtube.com/watch?v=T_QotOarsAM</guid>
+      <pubDate>2026-09-25T09:54:10+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>T_QotOarsAM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/T_QotOarsAM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La politique ne doit pas se mélanger à la religion ! - Alexis Corbière sur BFMTV</title>
       <link>https://www.youtube.com/watch?v=xsZAk4oPYDc</link>
@@ -295,19 +308,6 @@ Nous soutenons l’Ukraine. Et nous souhaitons que la France mette sa force dipl
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>YQg-98xoxao</videoId>
       <enclosure url="https://i.ytimg.com/vi/YQg-98xoxao/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>YOANN GILLET « Les Français savent que le Rassemblement National est un parti sérieux » (Europe 1)</title>
-      <link>https://www.youtube.com/watch?v=hC9tvqbWUbE</link>
-      <guid>https://www.youtube.com/watch?v=hC9tvqbWUbE</guid>
-      <pubDate>2026-09-24T12:43:30+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>hC9tvqbWUbE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hC9tvqbWUbE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>1ᵉʳ DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027</title>
