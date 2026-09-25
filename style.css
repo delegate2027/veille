@@ -185,6 +185,16 @@ a {
   font-size: 13px;
 }
 
+.feed-warning {
+  display: none;
+  margin: 0 0 6px;
+  padding: 4px 8px;
+  border-left: 2px solid var(--accent);
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.35;
+}
+
 .error {
   color: var(--accent);
 }
