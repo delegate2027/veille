@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 25 Sep 2026 15:30:58 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:45:39 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Troupes en Arabie saoudite : le Parlement doit voter !</title>
+      <link>https://www.youtube.com/watch?v=NSuEVHfqUk4</link>
+      <guid>https://www.youtube.com/watch?v=NSuEVHfqUk4</guid>
+      <pubDate>2026-09-25T15:38:23+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un point à la presse, le 25 septembre 2026.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>NSuEVHfqUk4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/NSuEVHfqUk4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Comment j'ai piégé les médias des milliardaires !</title>
       <link>https://www.youtube.com/watch?v=_-lX1XD_tNE</link>
@@ -1839,17 +1860,6 @@ Un débat pour mettre fin aux réponses fragmentées et construire une protectio
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>HLZMdcjOElA</videoId>
       <enclosure url="https://i.ytimg.com/vi/HLZMdcjOElA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Budget 2027 : carburants, superprofits, retraites - Éric Coquerel sur LCI</title>
-      <link>https://www.youtube.com/watch?v=MovPbF39srU</link>
-      <guid>https://www.youtube.com/watch?v=MovPbF39srU</guid>
-      <pubDate>2026-09-16T12:35:20+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Éric Coquerel était l’invité de Darius Rochebin sur LCI, le mardi 15 septembre 2026, pour débattre du budget et de ses enjeux : hausse du prix des carburants, superprofits de Total et retraites.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>MovPbF39srU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MovPbF39srU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
