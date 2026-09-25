@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 25 Sep 2026 15:01:09 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:15:41 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>💥 Souveraineté, régulation, investissement : nos propositions sur l'IA.</title>
+      <link>https://www.youtube.com/watch?v=yzzDZhykXUc</link>
+      <guid>https://www.youtube.com/watch?v=yzzDZhykXUc</guid>
+      <pubDate>2026-09-25T15:05:25+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité le débat sur l'intelligence artificielle face à Sarah Knafo, Olivier Faure, Xavier Bertrand et Alexandre Loubet !
+----------
+
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>yzzDZhykXUc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/yzzDZhykXUc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Débat sur l’intelligence artificielle : Sarah Knafo seule face à la classe politique !</title>
       <link>https://www.youtube.com/watch?v=BngSiZt_3IM</link>
@@ -1826,17 +1848,6 @@ Formation, nationalisations, aides publiques aux entreprises, financement, droit
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>gyS68RYstms</videoId>
       <enclosure url="https://i.ytimg.com/vi/gyS68RYstms/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🚨 Médias : en finir avec Bolloré et la mainmise des milliardaires !</title>
-      <link>https://www.youtube.com/watch?v=F2RdelnqEE4</link>
-      <guid>https://www.youtube.com/watch?v=F2RdelnqEE4</guid>
-      <pubDate>2026-09-16T10:14:37+00:00</pubDate>
-      <author>Aurélien Saintoul - Député des Hauts-de-Seine</author>
-      <description>Présentation du programme Médias de la France insoumise lors de la Fête de l'Humanité 2026. La bataille contre la concentration des médias est prioritaire. @JLMelenchon le dit depuis longtemps : le système médiatique est la deuxième peau du système. Dès notre victoire, nous démantèlerons l'empire Bolloré et nous mettrons fin à la mainmise des milliardaires sur l'info !</description>
-      <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
-      <videoId>F2RdelnqEE4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/F2RdelnqEE4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
