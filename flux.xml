@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 25 Sep 2026 07:45:31 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 08:01:00 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JULIEN ODOUL « Emmanuel Macron est un menteur ! » (CNEWS)</title>
+      <link>https://www.youtube.com/watch?v=UDi0D6SNj1Y</link>
+      <guid>https://www.youtube.com/watch?v=UDi0D6SNj1Y</guid>
+      <pubDate>2026-09-25T07:49:32+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>UDi0D6SNj1Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UDi0D6SNj1Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SÉBASTIEN CHENU : « Le Rassemblement National CONTRE le budget de Sébastien Lecornu ! » (BFM)</title>
       <link>https://www.youtube.com/watch?v=vYpRL7gAM9Q</link>
@@ -150,7 +163,7 @@ Nous soutenons l’Ukraine. Et nous souhaitons que la France mette sa force dipl
       <enclosure url="https://i.ytimg.com/vi/YQg-98xoxao/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>YOANN GILLET "Les Français savent que le Rassemblement National est un parti sérieux" (Europe 1)</title>
+      <title>YOANN GILLET « Les Français savent que le Rassemblement National est un parti sérieux » (Europe 1)</title>
       <link>https://www.youtube.com/watch?v=hC9tvqbWUbE</link>
       <guid>https://www.youtube.com/watch?v=hC9tvqbWUbE</guid>
       <pubDate>2026-09-24T12:43:30+00:00</pubDate>
@@ -247,19 +260,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>tf5mI95uA8A</videoId>
       <enclosure url="https://i.ytimg.com/vi/tf5mI95uA8A/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ALEKSANDAR NIKOLIC est face à RICHARD RAMOS sur FRANCE INFO !</title>
-      <link>https://www.youtube.com/watch?v=-x0jNOOdKkM</link>
-      <guid>https://www.youtube.com/watch?v=-x0jNOOdKkM</guid>
-      <pubDate>2026-09-24T07:28:41+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>-x0jNOOdKkM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-x0jNOOdKkM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Prix de l'essence : Macron préfère Total aux Français !</title>
