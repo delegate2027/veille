@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 25 Sep 2026 07:15:35 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:30:56 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Gabriel Attal sur RTL I Je réponds à toutes les questions de Céline Landreau</title>
+      <link>https://www.youtube.com/watch?v=rGdLN31wL-s</link>
+      <guid>https://www.youtube.com/watch?v=rGdLN31wL-s</guid>
+      <pubDate>2026-09-25T07:16:42+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>rGdLN31wL-s</videoId>
+      <enclosure url="https://i.ytimg.com/vi/rGdLN31wL-s/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Macron, carburants, urgence sociale : Matinale de France Inter avec Clémence Guetté</title>
       <link>https://www.youtube.com/watch?v=iH-4MSJ-fnQ</link>
@@ -1783,26 +1803,6 @@ Pinterest : https://www.pinterest.fr/zemmoureric/
       <channelTitle>Éric Zemmour</channelTitle>
       <videoId>iqo1VOA4dy0</videoId>
       <enclosure url="https://i.ytimg.com/vi/iqo1VOA4dy0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>BEST-OF DE GABRIEL ATTAL AU GRAND DÉBAT DEVANT LES ENTREPRENEURS DE FRANCE - LA REF MEDEF 2026</title>
-      <link>https://www.youtube.com/watch?v=-4jrr4cKGY8</link>
-      <guid>https://www.youtube.com/watch?v=-4jrr4cKGY8</guid>
-      <pubDate>2026-09-15T16:40:59+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>-4jrr4cKGY8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-4jrr4cKGY8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Sommes-nous prêt·es pour un monde à +4°C ? #FeteDeLHumanité</title>
