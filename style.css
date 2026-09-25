@@ -4,11 +4,21 @@
  */
 
 :root {
-  --ink: #1a1a1a;
-  --muted: #8a8a8a;
-  --line: #e6e6e6;
-  --accent: #c0392b;
-  --bg: #fdfdfc;
+  color-scheme: dark;
+  --ink: #f2f1ed;
+  --muted: #aaa9a5;
+  --line: #343431;
+  --accent: #ff8a7a;
+  --on-accent: #171716;
+  --bg: #171716;
+  --meeting-color: #aab5c5;
+  --lfi-color: #a99cff;
+  --eelv-color: #64d49f;
+  --ps-color: #ee83b7;
+  --centre-color: #f0bd61;
+  --lr-color: #a9b7c9;
+  --ed-color: #8faad2;
+  --pcf-color: #ff8496;
 }
 
 * {
@@ -24,8 +34,8 @@ html, body {
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 15px;
-  line-height: 1.5;
+  font-size: 14px;
+  line-height: 1.45;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -36,47 +46,47 @@ a {
 #page {
   max-width: 640px;
   margin: 0 auto;
-  padding: 13px 24px 80px 24px;
+  padding: 6px 20px 48px 20px;
 }
 
 /* Header */
 
 .header {
-  margin-bottom: 11px;
+  margin-bottom: 5px;
 }
 
 .brand-title {
-  margin: 0 0 4px 0;
-  font-size: 22px;
+  margin: 0 0 2px 0;
+  font-size: 18px;
   font-weight: 600;
   letter-spacing: -0.01em;
 }
 
 .status {
-  margin: 0 0 20px 0;
+  margin: 0 0 8px 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 8px;
+  gap: 4px;
 }
 
 .pill-group {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 4px;
 }
 
 .pill {
   display: inline-flex;
   align-items: center;
-  padding: 5px 14px;
+  padding: 3px 9px;
   border-radius: 999px;
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 600;
   letter-spacing: 0.01em;
-  color: #fff;
-  line-height: 1.2;
+  color: var(--on-accent);
+  line-height: 1.1;
   white-space: nowrap;
 }
 
@@ -86,7 +96,7 @@ a {
   border: none;
   color: var(--muted);
   font-weight: 400;
-  font-size: 12px;
+  font-size: 10px;
 }
 
 /* Feed */
@@ -97,7 +107,7 @@ a {
 }
 
 .item {
-  padding: 28px 20px;
+  padding: 18px 16px;
   border-top: 1px solid var(--line);
 }
 
@@ -109,13 +119,13 @@ a {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
-  gap: 12px;
-  margin-bottom: 6px;
+  gap: 10px;
+  margin-bottom: 4px;
 }
 
 .author {
   color: var(--muted);
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.04em;
@@ -124,14 +134,14 @@ a {
 .date {
   flex-shrink: 0;
   color: var(--muted);
-  font-size: 12px;
+  font-size: 11px;
   white-space: nowrap;
 }
 
 .title {
-  margin: 0 0 6px 0;
-  font-size: 17px;
-  line-height: 1.4;
+  margin: 0 0 4px 0;
+  font-size: 15px;
+  line-height: 1.35;
   font-weight: 600;
 }
 
@@ -146,18 +156,18 @@ a {
 .desc {
   margin: 0;
   color: var(--muted);
-  font-size: 14px;
-  line-height: 1.6;
+  font-size: 13px;
+  line-height: 1.5;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
-  max-height: calc(1.6em * 3);
+  max-height: calc(1.5em * 3);
 }
 
 .youtube-player {
-  width: calc(100% + 40px);
-  margin: 16px -20px 0 -20px;
+  width: calc(100% + 32px);
+  margin: 12px -16px 0 -16px;
   padding: 0;
 }
 
@@ -170,9 +180,9 @@ a {
 }
 
 .error, .loading {
-  padding: 4px 20px;
+  padding: 3px 16px;
   color: var(--muted);
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .error {
@@ -188,28 +198,19 @@ a {
 .author::before {
   content: "";
   display: inline-block;
-  width: 6px;
-  height: 6px;
-  margin-right: 6px;
+  width: 5px;
+  height: 5px;
+  margin-right: 5px;
   border-radius: 50%;
   background: currentColor;
   vertical-align: middle;
 }
 
-.author.meeting { color: #8792a7; }
-.author.lfi { color: #7468e8; }
-.author.eelv { color: #35a972; }
-.author.ps { color: #c2478a; }
-.author.centre { color: #c8922a; }
-.author.lr { color: #65768d; }
-.author.ed { color: #0b1f3f; }
-.author.pcf { color: #c8455a; }
-
-.item.meeting { background-color: color-mix(in srgb, #8792a7 10%, white); }
-.item.lfi { background-color: color-mix(in srgb, #7468e8 10%, white); }
-.item.eelv { background-color: color-mix(in srgb, #35a972 10%, white); }
-.item.ps { background-color: color-mix(in srgb, #c2478a 10%, white); }
-.item.centre { background-color: color-mix(in srgb, #c8922a 10%, white); }
-.item.lr { background-color: color-mix(in srgb, #65768d 10%, white); }
-.item.ed { background-color: color-mix(in srgb, #0b1f3f 10%, white); }
-.item.pcf { background-color: color-mix(in srgb, #c8455a 10%, white); }
+.author.meeting { color: var(--meeting-color); }
+.author.lfi { color: var(--lfi-color); }
+.author.eelv { color: var(--eelv-color); }
+.author.ps { color: var(--ps-color); }
+.author.centre { color: var(--centre-color); }
+.author.lr { color: var(--lr-color); }
+.author.ed { color: var(--ed-color); }
+.author.pcf { color: var(--pcf-color); }
