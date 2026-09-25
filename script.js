@@ -2,6 +2,7 @@
 var renderedLinks = {};
 var lastModifiedSeen = null;
 var POLL_INTERVAL = 60000;
+var MIN_FEED_SIZE = 100 * 1024;
 
 function escapeHtml(str) {
   str = String(str || "");
@@ -207,6 +208,20 @@ function getXmlHttp() {
   return null;
 }
 
+function getResponseSize(xhr) {
+  var contentLength = xhr.getResponseHeader("Content-Length");
+  var size = parseInt(contentLength, 10);
+
+  if (!isNaN(size) && size > 0) return size;
+  return xhr.responseText ? xhr.responseText.length : 0;
+}
+
+function updateFeedWarning(size) {
+  var warning = document.getElementById("feedWarning");
+  if (!warning) return;
+  warning.style.display = size < MIN_FEED_SIZE ? "block" : "none";
+}
+
 function fetchAndParseRSS(callback, headers) {
   var xhr = getXmlHttp();
   if (!xhr) {
@@ -219,7 +234,7 @@ function fetchAndParseRSS(callback, headers) {
   if (headers && headers["If-Modified-Since"]) xhr.setRequestHeader("If-Modified-Since", headers["If-Modified-Since"]);
 
   xhr.onreadystatechange = function() {
-    var xml, items, lastModified;
+    var xml, items, lastModified, responseSize;
     if (xhr.readyState !== 4) return;
 
     if (xhr.status === 304) {
@@ -237,9 +252,10 @@ function fetchAndParseRSS(callback, headers) {
         callback(new Error("Impossible de lire le flux XML."));
         return;
       }
+      responseSize = getResponseSize(xhr);
       items = getItemsFromXml(xml);
       lastModified = xhr.getResponseHeader("Last-Modified");
-      callback(null, { items: items, lastModified: lastModified });
+      callback(null, { items: items, lastModified: lastModified, size: responseSize });
     } catch (e) {
       callback(e);
     }
@@ -270,6 +286,7 @@ function loadRSS() {
       return;
     }
     if (data.notModified) return;
+    updateFeedWarning(data.size);
     updateStatus(data.lastModified);
     feed = document.getElementById("feed");
     feed.innerHTML = "";
@@ -289,6 +306,7 @@ function pollRSS() {
   fetchAndParseRSS(function(err, data) {
     var i, item, link;
     if (err || data.notModified) return;
+    updateFeedWarning(data.size);
     if (data.lastModified && data.lastModified === lastModifiedSeen) return;
     updateStatus(data.lastModified);
     for (i = 0; i < data.items.length && i < 100; i++) {
