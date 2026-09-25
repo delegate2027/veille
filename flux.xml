@@ -4,8 +4,36 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 25 Sep 2026 12:01:09 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:15:34 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Débat sur l’intelligence artificielle : Sarah Knafo seule face à la classe politique !</title>
+      <link>https://www.youtube.com/watch?v=BngSiZt_3IM</link>
+      <guid>https://www.youtube.com/watch?v=BngSiZt_3IM</guid>
+      <pubDate>2026-09-25T12:15:29+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo, députée française Reconquête au Parlement européen, était l’invitée de BFM Business pour un débat sur l’intelligence artificielle.
+
+
+👍 Likez, 💬 commentez, 📤 partagez la vidéo et 🔔 abonnez-vous en activant la cloche pour ne manquer aucune vidéo !
+
+Pour suivre l’actualité de Sarah Knafo :
+
+Instagram : https://www.instagram.com/sarahknafo1
+X/Twitter : https://x.com/knafo_sarah?s=11
+Facebook : https://www.facebook.com/share/1BDboyows5/?mibextid=wwXIfr
+Linkedln : https://www.linkedin.com/in/sarah-knafo-7a0129b5?utm_source=share_via&amp;amp;utm_content=profile&amp;amp;utm_medium=member_ios
+WhatsApp : ‎https://whatsapp.com/channel/0029VakkwXs60eBd95uc7e2n
+TikTok : https://www.tiktok.com/@sarah_knafo?_r=1&amp;_t=ZN-98M2y5vFPLG
+Telegram : https://t.me/Sarah_Knafo
+
+📖 Commandez mon livre : sarahknafo.fr
+
+🗳️ Adhérez à Reconquête : https://www.parti-reconquete.fr/adhesions</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>BngSiZt_3IM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/BngSiZt_3IM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>MATTHIEU VALET est face à SYLVAIN MAILLARD sur CNEWS !</title>
       <link>https://www.youtube.com/watch?v=T_QotOarsAM</link>
@@ -1809,17 +1837,6 @@ Formation, nationalisations, aides publiques aux entreprises, financement, droit
       <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
       <videoId>F2RdelnqEE4</videoId>
       <enclosure url="https://i.ytimg.com/vi/F2RdelnqEE4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier : "il faut arrêter les injonctions aux femmes sur la maternité !" (France Inter)</title>
-      <link>https://www.youtube.com/watch?v=aXiS6azq7EE</link>
-      <guid>https://www.youtube.com/watch?v=aXiS6azq7EE</guid>
-      <pubDate>2026-09-16T07:59:24+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Interview de 7h50 dans la matinale du 16 septembre 2026 sur France Inter au micro de Benjamin Duhamel.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>aXiS6azq7EE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/aXiS6azq7EE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
