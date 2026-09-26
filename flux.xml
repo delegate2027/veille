@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 26 Sep 2026 12:45:39 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:01:09 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>🔴 EN DIRECT I Meeting de David Lisnard en Alsace</title>
+      <link>https://www.youtube.com/watch?v=pIh7AkOHYcs</link>
+      <guid>https://www.youtube.com/watch?v=pIh7AkOHYcs</guid>
+      <pubDate>2026-09-26T12:53:41+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Suivez en direct le meeting de David Lisnard en Alsace.</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>pIh7AkOHYcs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/pIh7AkOHYcs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La dynamique Mélenchon ! - L’actu politique</title>
       <link>https://www.youtube.com/watch?v=lXRFErhRB4Q</link>
@@ -1849,35 +1860,6 @@ Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.c
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>xb2YanwZ5pM</videoId>
       <enclosure url="https://i.ytimg.com/vi/xb2YanwZ5pM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face à la montée du racisme, comment reprendre l'offensive ? #FeteDeLHumanité</title>
-      <link>https://www.youtube.com/watch?v=hu76EYBw7pA</link>
-      <guid>https://www.youtube.com/watch?v=hu76EYBw7pA</guid>
-      <pubDate>2026-09-16T16:00:29+00:00</pubDate>
-      <author>PS - Parti socialiste</author>
-      <description>À la Fête de l'Humanité, on poursuit la rentrée politique avec des temps d'échanges et de débat avec nos partenaires de gauche !
-
-Une discussion avec :
-- Dominique Sopo, président de SOS Racisme
-- Yannick Trigance, secrétaire national à l'Éducation
-- Dieynaba Diop, porte-parole du Parti socialiste, députée des Yvelines
-
-
----
-Suivez-nous sur les réseaux sociaux :
-➡️  https://x.com/partisocialiste
-➡️  https://bsky.app/profile/partisocialiste
-➡️  https://www.instagram.com/partisocialiste 
-➡️  https://www.facebook.com/partisocialiste 
-➡️  https://www.tiktok.com/@partisocialiste
-➡️  https://t.me/partisocialiste
-➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
-
-🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
-      <channelTitle>PS - Parti socialiste</channelTitle>
-      <videoId>hu76EYBw7pA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hu76EYBw7pA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
