@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 26 Sep 2026 13:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:01:01 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>🇫🇷 Meeting de David Lisnard en Alsace</title>
+      <link>https://www.youtube.com/watch?v=qlTqJl3Qk4w</link>
+      <guid>https://www.youtube.com/watch?v=qlTqJl3Qk4w</guid>
+      <pubDate>2026-09-26T13:55:25+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Meeting de David Lisnard à Benfeld, Alsace, vendredi 25 septembre 2026.</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>qlTqJl3Qk4w</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qlTqJl3Qk4w/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 EN DIRECT I Meeting de David Lisnard en Alsace</title>
       <link>https://www.youtube.com/watch?v=pIh7AkOHYcs</link>
@@ -1847,19 +1858,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>NeAAEPTCyZk</videoId>
       <enclosure url="https://i.ytimg.com/vi/NeAAEPTCyZk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le dossier du jour : Milliardaires, rira bien qui rira le dernier ! – En campagne #3</title>
-      <link>https://www.youtube.com/watch?v=xb2YanwZ5pM</link>
-      <guid>https://www.youtube.com/watch?v=xb2YanwZ5pM</guid>
-      <pubDate>2026-09-16T16:00:41+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Avec Nicolas Framont, Stéphane Peu, et Louis Boyard.
-
-Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=yIXOxo0904Y</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>xb2YanwZ5pM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/xb2YanwZ5pM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
