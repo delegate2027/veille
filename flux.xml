@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 26 Sep 2026 17:30:56 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:45:40 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>🇫🇷 Meeting de David Lisnard en Alsace</title>
@@ -397,6 +397,21 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>rGdLN31wL-s</videoId>
       <enclosure url="https://i.ytimg.com/vi/rGdLN31wL-s/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Macron, carburants, urgence sociale : Matinale de France Inter avec Clémence Guetté</title>
+      <link>https://www.youtube.com/watch?v=iH-4MSJ-fnQ</link>
+      <guid>https://www.youtube.com/watch?v=iH-4MSJ-fnQ</guid>
+      <pubDate>2026-09-25T06:37:22+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>Emmanuel Macron est complètement déconnecté des enjeux des Français. 
+
+Les gens sont dépendants de la voiture et ils ne peuvent plus se permettre de faire le plein. Ils renoncent aux soins, à rendre visite à leurs proches et aux loisirs des enfants.
+
+Il y a urgence à agir.</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>iH-4MSJ-fnQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/iH-4MSJ-fnQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>EN DIRECT | Grand oral de Politico : je réponds à toutes les questions de la rédaction.</title>
@@ -1861,21 +1876,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>hu76EYBw7pA</videoId>
       <enclosure url="https://i.ytimg.com/vi/hu76EYBw7pA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manon Aubry face à Ursula von der Leyen</title>
-      <link>https://www.youtube.com/watch?v=nwc4Hd8pO8o</link>
-      <guid>https://www.youtube.com/watch?v=nwc4Hd8pO8o</guid>
-      <pubDate>2026-09-16T14:38:34+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>"Nous privilégierons les milliards d'êtres humains aux milliards d'euros de quelques humains."
-
-J'ai répondu à Ursula von der Leyen, la Présidente de la Commission européenne, complètement déconnectée de la réalité.
-
-Le 16 septembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>nwc4Hd8pO8o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nwc4Hd8pO8o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
