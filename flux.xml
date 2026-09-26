@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 26 Sep 2026 16:45:35 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:00:58 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>🇫🇷 Meeting de David Lisnard en Alsace</title>
@@ -1283,19 +1283,6 @@ Telegram : @MouvementDemocrate</description>
       <enclosure url="https://i.ytimg.com/vi/IcJ0cP5oYkE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Budget : Souffrance au travail en hausse mais le gouvernement s’attaque aux travailleurs</title>
-      <link>https://www.youtube.com/watch?v=6Y8D8MeHAVc</link>
-      <guid>https://www.youtube.com/watch?v=6Y8D8MeHAVc</guid>
-      <pubDate>2026-09-20T08:39:11+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député de l'APRES Alexis Corbière était en plateau face à deux éditorialistes de BFM et Sandra Portelli, porte-parole de LR, dans le grand débat du samedi soir.
-
-Ils sont revenus sur la réunion organisée par le Président Macron avec les chefs de partis, sur la hausse du coût du carburant, sur les débats à venir sur le budget, sur le souhait d'Eric Zemmour de remplacer les immigrés par des robos et sur l'annulation de l'édito, sur France Inter, de journaliste Charles Sapin.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>6Y8D8MeHAVc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/6Y8D8MeHAVc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Manon Aubry face à Sam Zirah</title>
       <link>https://www.youtube.com/watch?v=SqT5e2GRgPA</link>
       <guid>https://www.youtube.com/watch?v=SqT5e2GRgPA</guid>
@@ -1860,6 +1847,35 @@ Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.c
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>xb2YanwZ5pM</videoId>
       <enclosure url="https://i.ytimg.com/vi/xb2YanwZ5pM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Face à la montée du racisme, comment reprendre l'offensive ? #FeteDeLHumanité</title>
+      <link>https://www.youtube.com/watch?v=hu76EYBw7pA</link>
+      <guid>https://www.youtube.com/watch?v=hu76EYBw7pA</guid>
+      <pubDate>2026-09-16T16:00:29+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>À la Fête de l'Humanité, on poursuit la rentrée politique avec des temps d'échanges et de débat avec nos partenaires de gauche !
+
+Une discussion avec :
+- Dominique Sopo, président de SOS Racisme
+- Yannick Trigance, secrétaire national à l'Éducation
+- Dieynaba Diop, porte-parole du Parti socialiste, députée des Yvelines
+
+
+---
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste 
+➡️  https://www.facebook.com/partisocialiste 
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>hu76EYBw7pA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hu76EYBw7pA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
