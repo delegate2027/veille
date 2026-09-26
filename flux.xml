@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 26 Sep 2026 07:45:30 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 08:01:01 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>La dynamique Mélenchon ! - L’actu politique</title>
@@ -1778,17 +1778,6 @@ La mobilisation doit s’amplifier !
       <enclosure url="https://i.ytimg.com/vi/G93aiSi1M1Q/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Je soutiens les appels à se mobiliser le 17 octobre !</title>
-      <link>https://www.youtube.com/watch?v=43tI3Nti2aM</link>
-      <guid>https://www.youtube.com/watch?v=43tI3Nti2aM</guid>
-      <pubDate>2026-09-17T07:26:54+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député Alexis Corbière était l'invité de Sonia Mabrouk sur BFMTV. Ils sont notamment revenus sur les appels à mobilisation le 17 octobre prochain, la hausse des inégalités dans notre pays et les présidentielles 2027. Le député à réitéré son appel à l'unité de la gauche et des écologistes face au risque que le RN remporte les présidentielles.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>43tI3Nti2aM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/43tI3Nti2aM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>« Quel État pour la révolution citoyenne ? » - Conclusion de Jean-Luc Mélenchon</title>
       <link>https://www.youtube.com/watch?v=R7t9n_z35to</link>
       <guid>https://www.youtube.com/watch?v=R7t9n_z35to</guid>
@@ -1858,6 +1847,19 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>NeAAEPTCyZk</videoId>
       <enclosure url="https://i.ytimg.com/vi/NeAAEPTCyZk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Le dossier du jour : Milliardaires, rira bien qui rira le dernier ! – En campagne #3</title>
+      <link>https://www.youtube.com/watch?v=xb2YanwZ5pM</link>
+      <guid>https://www.youtube.com/watch?v=xb2YanwZ5pM</guid>
+      <pubDate>2026-09-16T16:00:41+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Avec Nicolas Framont, Stéphane Peu, et Louis Boyard.
+
+Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=yIXOxo0904Y</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>xb2YanwZ5pM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/xb2YanwZ5pM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
