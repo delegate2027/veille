@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 26 Sep 2026 15:31:20 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:45:40 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>🇫🇷 Meeting de David Lisnard en Alsace</title>
@@ -988,17 +988,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <enclosure url="https://i.ytimg.com/vi/R7Nfd1Exn7A/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Les émeutes à Saint-Pierre-des-Corps sont un scandale absolu. Assez de ce renversement accusatoire.</title>
-      <link>https://www.youtube.com/watch?v=mjSRVpFCIIQ</link>
-      <guid>https://www.youtube.com/watch?v=mjSRVpFCIIQ</guid>
-      <pubDate>2026-09-21T09:13:08+00:00</pubDate>
-      <author>François-Xavier Bellamy</author>
-      <description>François-Xavier Bellamy était l'invité de LCI pour débattre face à Jean-Michel Aphatie.</description>
-      <channelTitle>François-Xavier Bellamy</channelTitle>
-      <videoId>mjSRVpFCIIQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/mjSRVpFCIIQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>⚡🔴 Retrouvez mon passage sur LCI ! Je réponds au RN</title>
       <link>https://www.youtube.com/watch?v=Kca3zEkRfWM</link>
       <guid>https://www.youtube.com/watch?v=Kca3zEkRfWM</guid>
@@ -1858,6 +1847,19 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>NeAAEPTCyZk</videoId>
       <enclosure url="https://i.ytimg.com/vi/NeAAEPTCyZk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Le dossier du jour : Milliardaires, rira bien qui rira le dernier ! – En campagne #3</title>
+      <link>https://www.youtube.com/watch?v=xb2YanwZ5pM</link>
+      <guid>https://www.youtube.com/watch?v=xb2YanwZ5pM</guid>
+      <pubDate>2026-09-16T16:00:41+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Avec Nicolas Framont, Stéphane Peu, et Louis Boyard.
+
+Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=yIXOxo0904Y</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>xb2YanwZ5pM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/xb2YanwZ5pM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
