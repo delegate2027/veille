@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 27 Sep 2026 01:01:00 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 07:00:57 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>🇫🇷 Meeting de David Lisnard en Alsace</title>
@@ -1272,17 +1272,6 @@ Telegram : @MouvementDemocrate</description>
       <enclosure url="https://i.ytimg.com/vi/jpcYZSGApiE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>"Les multinationales s'engraissent et Macron fait les poches des Français" - Alexis Corbière sur BFM</title>
-      <link>https://www.youtube.com/watch?v=IcJ0cP5oYkE</link>
-      <guid>https://www.youtube.com/watch?v=IcJ0cP5oYkE</guid>
-      <pubDate>2026-09-20T09:33:19+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député de l'APRES Alexis Corbière était l'invité pour un face à face avec Marc Fauvel sur BFM. Ils ont débattu des mesures à mettre en place face à la hausse du coût de la vie, de la présidentielle future et de l'importance pour la gauche et les écologistes de s'unir et de la venue du Pape en France, la semaine prochaine</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>IcJ0cP5oYkE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/IcJ0cP5oYkE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Manon Aubry face à Sam Zirah</title>
       <link>https://www.youtube.com/watch?v=SqT5e2GRgPA</link>
       <guid>https://www.youtube.com/watch?v=SqT5e2GRgPA</guid>
@@ -1876,6 +1865,21 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>hu76EYBw7pA</videoId>
       <enclosure url="https://i.ytimg.com/vi/hu76EYBw7pA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Manon Aubry face à Ursula von der Leyen</title>
+      <link>https://www.youtube.com/watch?v=nwc4Hd8pO8o</link>
+      <guid>https://www.youtube.com/watch?v=nwc4Hd8pO8o</guid>
+      <pubDate>2026-09-16T14:38:34+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>"Nous privilégierons les milliards d'êtres humains aux milliards d'euros de quelques humains."
+
+J'ai répondu à Ursula von der Leyen, la Présidente de la Commission européenne, complètement déconnectée de la réalité.
+
+Le 16 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>nwc4Hd8pO8o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nwc4Hd8pO8o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
