@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 28 Sep 2026 14:30:52 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:45:41 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>PHILIPPE BALLARD « LFI veut bordéliser la France ! » (LCI)</title>
+      <link>https://www.youtube.com/watch?v=HvhdLaYC8pc</link>
+      <guid>https://www.youtube.com/watch?v=HvhdLaYC8pc</guid>
+      <pubDate>2026-09-28T14:30:03+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>HvhdLaYC8pc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/HvhdLaYC8pc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>MATTHIEU VALET est SEUL CONTRE TOUS sur BFM TV !</title>
       <link>https://www.youtube.com/watch?v=WLDoNpF73KI</link>
@@ -382,19 +395,6 @@ Telegram : https://t.me/Sarah_Knafo
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>xsZAk4oPYDc</videoId>
       <enclosure url="https://i.ytimg.com/vi/xsZAk4oPYDc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JULIEN ODOUL est SEUL CONTRE TOUS sur BFM TV !</title>
-      <link>https://www.youtube.com/watch?v=dIM950hKWTI</link>
-      <guid>https://www.youtube.com/watch?v=dIM950hKWTI</guid>
-      <pubDate>2026-09-25T09:38:19+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>dIM950hKWTI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dIM950hKWTI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>"Stop à ceux qui se goinfrent ! Oui à une vraie répartition des richesses" - Alexis Corbière sur BFM</title>
