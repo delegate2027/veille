@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 28 Sep 2026 08:30:51 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:45:36 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>SÉBASTIEN CHENU est l'invité de FRANCE INFO !</title>
+      <link>https://www.youtube.com/watch?v=FpGEhy4riSk</link>
+      <guid>https://www.youtube.com/watch?v=FpGEhy4riSk</guid>
+      <pubDate>2026-09-28T08:40:22+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>FpGEhy4riSk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/FpGEhy4riSk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jordan Bardella à La Seyne-sur-Mer : « Le RN va constituer un groupe au Sénat ! »</title>
       <link>https://www.youtube.com/watch?v=f_GFjejmCgM</link>
@@ -566,19 +579,6 @@ Nous soutenons l’Ukraine. Et nous souhaitons que la France mette sa force dipl
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>SLaplw-Gt8U</videoId>
       <enclosure url="https://i.ytimg.com/vi/SLaplw-Gt8U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU est l'invité de PASCAL PRAUD sur Europe 1 !</title>
-      <link>https://www.youtube.com/watch?v=YOrc3Ebz7T4</link>
-      <guid>https://www.youtube.com/watch?v=YOrc3Ebz7T4</guid>
-      <pubDate>2026-09-24T15:48:37+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>YOrc3Ebz7T4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YOrc3Ebz7T4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Carburants, Géopolitique, IA - Jean-Luc Mélenchon face à Politico</title>
