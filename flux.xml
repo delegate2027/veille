@@ -4,8 +4,26 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 28 Sep 2026 07:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:01:09 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Jordan Bardella à La Seyne-sur-Mer : « Le RN va constituer un groupe au Sénat ! »</title>
+      <link>https://www.youtube.com/watch?v=f_GFjejmCgM</link>
+      <guid>https://www.youtube.com/watch?v=f_GFjejmCgM</guid>
+      <pubDate>2026-09-28T08:00:10+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>f_GFjejmCgM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/f_GFjejmCgM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JULIEN SANCHEZ : « Les élections sénatoriales sont une victoire historique pour le RN ! » (TF1)</title>
       <link>https://www.youtube.com/watch?v=yeJG-SI9XgM</link>
@@ -1900,17 +1918,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>_eD8ivNU4cg</videoId>
       <enclosure url="https://i.ytimg.com/vi/_eD8ivNU4cg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de presse de Marine Tondelier et des eurodéputé·es écologistes au Parlement européen</title>
-      <link>https://www.youtube.com/watch?v=NeAAEPTCyZk</link>
-      <guid>https://www.youtube.com/watch?v=NeAAEPTCyZk</guid>
-      <pubDate>2026-09-16T16:05:29+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Le jour du discours sur l'état de l'union de la présidente de la commission européenne, Marine Tondelier et les eurodéputés écologistes ont présenté leur vision de l'Union européenne au Parlement européen.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>NeAAEPTCyZk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/NeAAEPTCyZk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
