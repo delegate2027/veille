@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 28 Sep 2026 12:15:33 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:30:57 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Pompiers : « De l’argent pour sauver des vies, pas pour faire la guerre ! » | Fabien Roussel</title>
@@ -492,19 +492,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>jcQ83lYtS5I</videoId>
       <enclosure url="https://i.ytimg.com/vi/jcQ83lYtS5I/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JULIEN ODOUL : « Emmanuel Macron est un menteur ! » (CNEWS)</title>
-      <link>https://www.youtube.com/watch?v=UDi0D6SNj1Y</link>
-      <guid>https://www.youtube.com/watch?v=UDi0D6SNj1Y</guid>
-      <pubDate>2026-09-25T07:49:32+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>UDi0D6SNj1Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/UDi0D6SNj1Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Gabriel Attal sur RTL I Je réponds à toutes les questions de Céline Landreau</title>
@@ -1911,6 +1898,35 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>NeAAEPTCyZk</videoId>
       <enclosure url="https://i.ytimg.com/vi/NeAAEPTCyZk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Face à la montée du racisme, comment reprendre l'offensive ? #FeteDeLHumanité</title>
+      <link>https://www.youtube.com/watch?v=hu76EYBw7pA</link>
+      <guid>https://www.youtube.com/watch?v=hu76EYBw7pA</guid>
+      <pubDate>2026-09-16T16:00:29+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>À la Fête de l'Humanité, on poursuit la rentrée politique avec des temps d'échanges et de débat avec nos partenaires de gauche !
+
+Une discussion avec :
+- Dominique Sopo, président de SOS Racisme
+- Yannick Trigance, secrétaire national à l'Éducation
+- Dieynaba Diop, porte-parole du Parti socialiste, députée des Yvelines
+
+
+---
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste 
+➡️  https://www.facebook.com/partisocialiste 
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>hu76EYBw7pA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hu76EYBw7pA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
