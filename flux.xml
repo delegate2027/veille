@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 28 Sep 2026 14:15:43 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:30:52 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>MATTHIEU VALET est SEUL CONTRE TOUS sur BFM TV !</title>
@@ -1733,19 +1733,6 @@ Suivez-nous sur les réseaux sociaux :
       <enclosure url="https://i.ytimg.com/vi/rLXxkpDPc5k/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>La France qui lutte : L'affaire Klodo (Claude Jean-Pierre) – En campagne #3</title>
-      <link>https://www.youtube.com/watch?v=oaVyXKifPv4</link>
-      <guid>https://www.youtube.com/watch?v=oaVyXKifPv4</guid>
-      <pubDate>2026-09-17T16:00:07+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Avec Fatia Alcabélard et Christophe Sinan.
-
-Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=yIXOxo0904Y</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>oaVyXKifPv4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/oaVyXKifPv4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Pour un pays pays à hauteur d'enfants : présentation de nos propositions pour l'enfance !</title>
       <link>https://www.youtube.com/watch?v=EbY02dtsne4</link>
       <guid>https://www.youtube.com/watch?v=EbY02dtsne4</guid>
@@ -1929,6 +1916,23 @@ Le 16 septembre 2026</description>
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>nwc4Hd8pO8o</videoId>
       <enclosure url="https://i.ytimg.com/vi/nwc4Hd8pO8o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Violences faites aux femmes et aux enfants : pour une loi intégrale ! | Fête de l’Humanité 2026</title>
+      <link>https://www.youtube.com/watch?v=HLZMdcjOElA</link>
+      <guid>https://www.youtube.com/watch?v=HLZMdcjOElA</guid>
+      <pubDate>2026-09-16T12:44:41+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Comment protéger réellement les femmes et les enfants face aux violences sexistes, sexuelles et intrafamiliales ?
+
+À la Fête de l’Humanité 2026, Édouard Durand, magistrat et ancien coprésident de la CIIVISE, Anne-Cécile Mailfert, présidente de la Fondation des Femmes, Yannick Monnet, député communiste de l’Allier, et Véronique Sanchez-Voir, responsable de la commission Protection de l’enfance du PCF, débattent de la loi intégrale contre les violences faites aux femmes et aux enfants.
+
+Prévention, protection des victimes, justice, soins, services publics, protection de l’enfance et moyens financiers : une loi intégrale doit permettre d’agir à chaque étape et de ne plus laisser les victimes seules face aux institutions.
+
+Un débat pour mettre fin aux réponses fragmentées et construire une protection à la hauteur.</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>HLZMdcjOElA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/HLZMdcjOElA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
