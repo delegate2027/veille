@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 28 Sep 2026 09:45:35 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:01:04 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>ALEKSANDAR NIKOLIC est face à ANTOINE LÉAUMENT sur LCI !</title>
+      <link>https://www.youtube.com/watch?v=2dQH3wqtnUg</link>
+      <guid>https://www.youtube.com/watch?v=2dQH3wqtnUg</guid>
+      <pubDate>2026-09-28T09:47:59+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>2dQH3wqtnUg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2dQH3wqtnUg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SÉBASTIEN CHENU est l'invité de FRANCE INFO !</title>
       <link>https://www.youtube.com/watch?v=FpGEhy4riSk</link>
@@ -470,19 +483,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>UDi0D6SNj1Y</videoId>
       <enclosure url="https://i.ytimg.com/vi/UDi0D6SNj1Y/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU : « Le Rassemblement National CONTRE le budget de Sébastien Lecornu ! » (BFM)</title>
-      <link>https://www.youtube.com/watch?v=vYpRL7gAM9Q</link>
-      <guid>https://www.youtube.com/watch?v=vYpRL7gAM9Q</guid>
-      <pubDate>2026-09-25T07:45:10+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>vYpRL7gAM9Q</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vYpRL7gAM9Q/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Gabriel Attal sur RTL I Je réponds à toutes les questions de Céline Landreau</title>
