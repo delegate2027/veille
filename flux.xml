@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 28 Sep 2026 10:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:01:07 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Pompiers : « De l’argent pour sauver des vies, pas pour faire la guerre ! » | Fabien Roussel</title>
+      <link>https://www.youtube.com/watch?v=MWLKhIqCsqY</link>
+      <guid>https://www.youtube.com/watch?v=MWLKhIqCsqY</guid>
+      <pubDate>2026-09-28T10:54:35+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Fabien Roussel apporte son soutien aux sapeurs-pompiers mobilisés pour obtenir davantage de moyens, de reconnaissance et de meilleures conditions de travail.
+
+Manque de matériel, exposition aux cancers, statut des volontaires, gel du point d’indice : après un été marqué par des méga-feux meurtriers, la colère déborde.
+
+« J’en ai marre d’entendre qu’il n’y a plus d’argent. On sait trouver de l’argent pour produire des bombes et faire des guerres à l’étranger, mais on n’a pas assez d’argent pour sauver des vies en France. »
+
+Pour Fabien Roussel, le prochain budget doit faire un choix clair : donner enfin les moyens nécessaires à celles et ceux qui sauvent des vies.
+
+00:00 La colère des pompiers : « Ils n’en peuvent plus »
+00:42 Donner les moyens à ceux qui sauvent des vies
+01:44 Budget : non au gel du salaire des pompiers
+03:08 La France doit retrouver la voie de la diplomatie</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>MWLKhIqCsqY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/MWLKhIqCsqY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ALEKSANDAR NIKOLIC est face à ANTOINE LÉAUMENT sur LCI !</title>
       <link>https://www.youtube.com/watch?v=2dQH3wqtnUg</link>
@@ -1889,35 +1911,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>NeAAEPTCyZk</videoId>
       <enclosure url="https://i.ytimg.com/vi/NeAAEPTCyZk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face à la montée du racisme, comment reprendre l'offensive ? #FeteDeLHumanité</title>
-      <link>https://www.youtube.com/watch?v=hu76EYBw7pA</link>
-      <guid>https://www.youtube.com/watch?v=hu76EYBw7pA</guid>
-      <pubDate>2026-09-16T16:00:29+00:00</pubDate>
-      <author>PS - Parti socialiste</author>
-      <description>À la Fête de l'Humanité, on poursuit la rentrée politique avec des temps d'échanges et de débat avec nos partenaires de gauche !
-
-Une discussion avec :
-- Dominique Sopo, président de SOS Racisme
-- Yannick Trigance, secrétaire national à l'Éducation
-- Dieynaba Diop, porte-parole du Parti socialiste, députée des Yvelines
-
-
----
-Suivez-nous sur les réseaux sociaux :
-➡️  https://x.com/partisocialiste
-➡️  https://bsky.app/profile/partisocialiste
-➡️  https://www.instagram.com/partisocialiste 
-➡️  https://www.facebook.com/partisocialiste 
-➡️  https://www.tiktok.com/@partisocialiste
-➡️  https://t.me/partisocialiste
-➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
-
-🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
-      <channelTitle>PS - Parti socialiste</channelTitle>
-      <videoId>hu76EYBw7pA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hu76EYBw7pA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
