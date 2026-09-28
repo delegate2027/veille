@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 28 Sep 2026 15:30:49 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:45:33 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Déclaration de Fabien Roussel : « Le monde a besoin d’ingénieurs de la paix »</title>
+      <link>https://www.youtube.com/watch?v=WB9W_Pv0Uek</link>
+      <guid>https://www.youtube.com/watch?v=WB9W_Pv0Uek</guid>
+      <pubDate>2026-09-28T15:44:35+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Alors que les guerres se multiplient et que l’escalade militaire menace de gagner toute l’Europe, Fabien Roussel appelle la France à retrouver une voix indépendante au service de la paix.
+
+Face à la logique des armes, il défend une autre voie : celle de la diplomatie, du dialogue et de la négociation. La France doit prendre l’initiative et rassembler une coalition de pays volontaires pour construire des issues politiques aux conflits.
+
+Nous avons besoin d’« ingénieurs de la paix » : des diplomates capables de renouer le dialogue et de construire des accords respectueux de chaque peuple.
+
+Face à l’escalade, choisissons la paix.</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>WB9W_Pv0Uek</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WB9W_Pv0Uek/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>PHILIPPE BALLARD « LFI veut bordéliser la France ! » (LCI)</title>
       <link>https://www.youtube.com/watch?v=HvhdLaYC8pc</link>
@@ -1916,23 +1933,6 @@ Le 16 septembre 2026</description>
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>nwc4Hd8pO8o</videoId>
       <enclosure url="https://i.ytimg.com/vi/nwc4Hd8pO8o/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Violences faites aux femmes et aux enfants : pour une loi intégrale ! | Fête de l’Humanité 2026</title>
-      <link>https://www.youtube.com/watch?v=HLZMdcjOElA</link>
-      <guid>https://www.youtube.com/watch?v=HLZMdcjOElA</guid>
-      <pubDate>2026-09-16T12:44:41+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Comment protéger réellement les femmes et les enfants face aux violences sexistes, sexuelles et intrafamiliales ?
-
-À la Fête de l’Humanité 2026, Édouard Durand, magistrat et ancien coprésident de la CIIVISE, Anne-Cécile Mailfert, présidente de la Fondation des Femmes, Yannick Monnet, député communiste de l’Allier, et Véronique Sanchez-Voir, responsable de la commission Protection de l’enfance du PCF, débattent de la loi intégrale contre les violences faites aux femmes et aux enfants.
-
-Prévention, protection des victimes, justice, soins, services publics, protection de l’enfance et moyens financiers : une loi intégrale doit permettre d’agir à chaque étape et de ne plus laisser les victimes seules face aux institutions.
-
-Un débat pour mettre fin aux réponses fragmentées et construire une protection à la hauteur.</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>HLZMdcjOElA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HLZMdcjOElA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
