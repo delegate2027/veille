@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 28 Sep 2026 12:45:41 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:01:08 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>MATTHIEU VALET est SEUL CONTRE TOUS sur BFM TV !</title>
+      <link>https://www.youtube.com/watch?v=WLDoNpF73KI</link>
+      <guid>https://www.youtube.com/watch?v=WLDoNpF73KI</guid>
+      <pubDate>2026-09-28T12:56:47+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>WLDoNpF73KI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WLDoNpF73KI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pompiers : « De l’argent pour sauver des vies, pas pour faire la guerre ! » | Fabien Roussel</title>
       <link>https://www.youtube.com/watch?v=MWLKhIqCsqY</link>
@@ -479,19 +492,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>François-Xavier Bellamy</channelTitle>
       <videoId>VlpSPlEAk0U</videoId>
       <enclosure url="https://i.ytimg.com/vi/VlpSPlEAk0U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>PHILIPPE BALLARD : « La France n'a plus les moyens financiers d'aider l'Ukraine » (FRANCE INFO)</title>
-      <link>https://www.youtube.com/watch?v=jcQ83lYtS5I</link>
-      <guid>https://www.youtube.com/watch?v=jcQ83lYtS5I</guid>
-      <pubDate>2026-09-25T08:02:04+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>jcQ83lYtS5I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/jcQ83lYtS5I/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Gabriel Attal sur RTL I Je réponds à toutes les questions de Céline Landreau</title>
