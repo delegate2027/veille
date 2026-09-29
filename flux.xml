@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 29 Sep 2026 09:45:36 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:01:00 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Mon passage dans RMC sur les blocages de lycées</title>
+      <link>https://www.youtube.com/watch?v=5-QZtHq4LKU</link>
+      <guid>https://www.youtube.com/watch?v=5-QZtHq4LKU</guid>
+      <pubDate>2026-09-29T09:54:52+00:00</pubDate>
+      <author>Louis Boyard</author>
+      <description>Blocages de lycées : mon passage sur RMC</description>
+      <channelTitle>Louis Boyard</channelTitle>
+      <videoId>5-QZtHq4LKU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5-QZtHq4LKU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Retraites : la réforme que je propose aux Français</title>
       <link>https://www.youtube.com/watch?v=tZuZwWpT4ak</link>
@@ -1948,27 +1959,6 @@ La mobilisation doit s’amplifier !
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>G93aiSi1M1Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/G93aiSi1M1Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>VSS : LOI DITE « INTÉGRALE » - JE VOUS EXPLIQUE TOUT EN MOINS DE 15 MINUTES !</title>
-      <link>https://www.youtube.com/watch?v=vmBBDkDKsi8</link>
-      <guid>https://www.youtube.com/watch?v=vmBBDkDKsi8</guid>
-      <pubDate>2026-09-16T19:01:08+00:00</pubDate>
-      <author>Clémentine Autain</author>
-      <description>La loi dite intégrale pour lutter contre les violences faites aux femmes et aux enfants arrive à l'Assemblée nationale. Que contient-elle ? Quelles sont les avancées et les limites de cette proposition de loi ? Je vous explique en 15 minutes.
-
-Retrouvez moi sur mes réseaux sociaux :
-
-👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
-👉 Twitter / X : https://x.com/Clem_Autain 
-👉 Instagram :  https://www.instagram.com/clementineautain/  
-👉 Telegram : https://t.me/clementineautain
-👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
-👉 TikTok :   https://www.tiktok.com/@clementine_autain
-👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
-      <channelTitle>Clémentine Autain</channelTitle>
-      <videoId>vmBBDkDKsi8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vmBBDkDKsi8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
