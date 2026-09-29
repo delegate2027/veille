@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 29 Sep 2026 18:45:34 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 19:01:03 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>JÉRÔME GUEDJ FACE AUX ASSISES DE L'AFER (Héritage, fiscalité, épargne...)</title>
@@ -639,17 +639,6 @@ Telegram : https://t.me/Sarah_Knafo
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>xsZAk4oPYDc</videoId>
       <enclosure url="https://i.ytimg.com/vi/xsZAk4oPYDc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Stop à ceux qui se goinfrent ! Oui à une vraie répartition des richesses" - Alexis Corbière sur BFM</title>
-      <link>https://www.youtube.com/watch?v=BsQcIppoCuE</link>
-      <guid>https://www.youtube.com/watch?v=BsQcIppoCuE</guid>
-      <pubDate>2026-09-25T09:34:15+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Alexis Corbière était l'invité de Sonia Mabrouk hier soir, pour un grand débat afin de revenir sur la crise du carburant, sur les profits records réalisés par les multinationales du pétrole et sur l'importance de mettre en place une réelle répartition des richesses pour lutter contre les inégalités.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>BsQcIppoCuE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BsQcIppoCuE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>"J'en ai marre que les PME paient les impôts des multinationales !" Boris Vallaud sur BFM TV</title>
@@ -1914,6 +1903,21 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>rLXxkpDPc5k</videoId>
       <enclosure url="https://i.ytimg.com/vi/rLXxkpDPc5k/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pour un pays pays à hauteur d'enfants : présentation de nos propositions pour l'enfance !</title>
+      <link>https://www.youtube.com/watch?v=EbY02dtsne4</link>
+      <guid>https://www.youtube.com/watch?v=EbY02dtsne4</guid>
+      <pubDate>2026-09-17T14:44:34+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Avec :
+Marine Tondelier : Secrétaire nationale des Écologistes
+Sophie Pascal-Lericq : maire d’Arcueil
+Arnaud Bonnet : député écologiste de Seine-et-MarneJean-Baptiste Pegeon : membre du bureau politique des Écologistes
+Rania Kissi : porte parole de Marine Tondelier et conseillère de Paris, Membre de la 6e commission</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>EbY02dtsne4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EbY02dtsne4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
