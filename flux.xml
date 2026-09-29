@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 29 Sep 2026 10:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:30:51 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>FRANCK ALLISIO « L'extrême-gauche est un danger pour la France ! » (LCI)</title>
+      <link>https://www.youtube.com/watch?v=_QJ0JmQQ5TA</link>
+      <guid>https://www.youtube.com/watch?v=_QJ0JmQQ5TA</guid>
+      <pubDate>2026-09-29T10:19:07+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>_QJ0JmQQ5TA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_QJ0JmQQ5TA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>GAËTAN DUSSAUSAYE est l'invité de LCI !</title>
       <link>https://www.youtube.com/watch?v=QAUu1agwGM0</link>
@@ -241,19 +254,6 @@ Face à l’escalade, choisissons la paix.</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>HvhdLaYC8pc</videoId>
       <enclosure url="https://i.ytimg.com/vi/HvhdLaYC8pc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MATTHIEU VALET est SEUL CONTRE TOUS sur BFM TV !</title>
-      <link>https://www.youtube.com/watch?v=WLDoNpF73KI</link>
-      <guid>https://www.youtube.com/watch?v=WLDoNpF73KI</guid>
-      <pubDate>2026-09-28T12:56:47+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>WLDoNpF73KI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/WLDoNpF73KI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Pompiers : « De l’argent pour sauver des vies, pas pour faire la guerre ! » | Fabien Roussel</title>
