@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 29 Sep 2026 17:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:30:45 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Diplomatie française : face au décrochage, il faut renforcer les moyens</title>
+      <link>https://www.youtube.com/watch?v=A_E_5HWgDoA</link>
+      <guid>https://www.youtube.com/watch?v=A_E_5HWgDoA</guid>
+      <pubDate>2026-09-29T17:09:44+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Le 29 septembre 2026, Éric Coquerel questionne Karim Ben Cheikh et Sophie Mette, rapporteurs de la mission d’information commune sur les moyens consacrés au volet diplomatique de notre réorientation stratégique, lors de l’examen de leur rapport en commission des Finances.
+
+Alors que la France augmente fortement ses dépenses militaires, les rapporteurs soulignent la nécessité de renforcer également les moyens consacrés à la diplomatie.
+
+Éric Coquerel les interroge sur le recul des moyens diplomatiques français, la dégradation de notre position dans le système multilatéral et la proposition d’un minimum de 550 millions d’euros supplémentaires par an pour la diplomatie alors que le budget 2027 prévoit une baisse.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>A_E_5HWgDoA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/A_E_5HWgDoA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURENT JACOBELLI est l'invité de FRANCE INFO RADIO !</title>
       <link>https://www.youtube.com/watch?v=DgRgXmqLQjE</link>
@@ -1903,27 +1918,6 @@ Rania Kissi : porte parole de Marine Tondelier et conseillère de Paris, Membre 
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>EbY02dtsne4</videoId>
       <enclosure url="https://i.ytimg.com/vi/EbY02dtsne4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nunez confirme qu’il a bafoué le secret de l’enquête !</title>
-      <link>https://www.youtube.com/watch?v=cwTQq4d2jB4</link>
-      <guid>https://www.youtube.com/watch?v=cwTQq4d2jB4</guid>
-      <pubDate>2026-09-17T12:12:28+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>Ce matin à l’Assemblée nationale, nous avons interpellé le ministre Nunez sur les fuites dans la presse concernant Rima Hassan suite aux informations accablantes pour lui révélées par l’émission Complément d’enquête !
-
-Très mal à l’aise, M. Nunez confirme qu’il a bafoué le secret de l’enquête en confirmant des informations (fausses) à des journalistes. Et cela en présence du Premier ministre Lecornu si l’on en croit Complément d’Enquête. Mais il a aussi LUI-MEME diffusé des informations sur la prétendue drogue dans le sac de Rima Hassan. Il accuse maintenant les journalistes de mentir.
-
-Le président de la commission me coupe ensuite la parole.
-
-Ces éléments sont inacceptables. Laurent Nuñez doit démissionner.
-
-Soutien à Rima Hassan @rimamobarak !
-
-#NunezDemission</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>cwTQq4d2jB4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/cwTQq4d2jB4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
