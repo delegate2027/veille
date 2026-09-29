@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 29 Sep 2026 14:01:07 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 14:15:48 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JULIEN ODOUL est l'invité de 100% FRONTIÈRES sur CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=VfBfpltGGWE</link>
+      <guid>https://www.youtube.com/watch?v=VfBfpltGGWE</guid>
+      <pubDate>2026-09-29T14:06:07+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>VfBfpltGGWE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/VfBfpltGGWE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>MATTHIEU VALET « Jordan Bardella est quelqu'un d'intègre » (BFM TV)</title>
       <link>https://www.youtube.com/watch?v=xkIx5DWwiag</link>
@@ -184,19 +197,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>3dlpR5NkHWQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/3dlpR5NkHWQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU « Le RN est une cible pour l'extrême-gauche ! » (SUD RADIO)</title>
-      <link>https://www.youtube.com/watch?v=Rkpe98fjCMU</link>
-      <guid>https://www.youtube.com/watch?v=Rkpe98fjCMU</guid>
-      <pubDate>2026-09-29T09:04:58+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>Rkpe98fjCMU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Rkpe98fjCMU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
