@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 29 Sep 2026 16:15:45 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:30:58 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>LAURENT JACOBELLI est l'invité de FRANCE INFO RADIO !</title>
+      <link>https://www.youtube.com/watch?v=DgRgXmqLQjE</link>
+      <guid>https://www.youtube.com/watch?v=DgRgXmqLQjE</guid>
+      <pubDate>2026-09-29T16:16:48+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>DgRgXmqLQjE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DgRgXmqLQjE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JULIEN ODOUL est l'invité de 100% FRONTIÈRES sur CNEWS !</title>
       <link>https://www.youtube.com/watch?v=VfBfpltGGWE</link>
@@ -184,19 +197,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>tZuZwWpT4ak</videoId>
       <enclosure url="https://i.ytimg.com/vi/tZuZwWpT4ak/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ANDRÉA KOTARAC est face à une MACRONISTE sur LCP !</title>
-      <link>https://www.youtube.com/watch?v=3dlpR5NkHWQ</link>
-      <guid>https://www.youtube.com/watch?v=3dlpR5NkHWQ</guid>
-      <pubDate>2026-09-29T09:25:05+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>3dlpR5NkHWQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/3dlpR5NkHWQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
