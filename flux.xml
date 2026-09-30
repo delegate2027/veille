@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 30 Sep 2026 08:01:07 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:15:43 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>SÉBASTIEN CHENU est face à BENJAMIN DUHAMEL sur FRANCE INTER !</title>
+      <link>https://www.youtube.com/watch?v=g_ELiIzD69c</link>
+      <guid>https://www.youtube.com/watch?v=g_ELiIzD69c</guid>
+      <pubDate>2026-09-30T08:11:02+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>g_ELiIzD69c</videoId>
+      <enclosure url="https://i.ytimg.com/vi/g_ELiIzD69c/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JULIEN ODOUL est l'invité de la matinale de RMC !</title>
       <link>https://www.youtube.com/watch?v=H1CdolUfZMc</link>
@@ -133,19 +146,6 @@ Alors que la France augmente fortement ses dépenses militaires, les rapporteurs
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>eu_OtaSMhGI</videoId>
       <enclosure url="https://i.ytimg.com/vi/eu_OtaSMhGI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURENT JACOBELLI est l'invité de BFM TV !</title>
-      <link>https://www.youtube.com/watch?v=Pakx_v54FQY</link>
-      <guid>https://www.youtube.com/watch?v=Pakx_v54FQY</guid>
-      <pubDate>2026-09-29T12:53:28+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>Pakx_v54FQY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Pakx_v54FQY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Prise de parole de Jean-Luc Mélenchon à la manifestation intersyndicale</title>
