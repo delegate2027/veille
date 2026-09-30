@@ -4,8 +4,44 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 30 Sep 2026 14:45:36 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:01:06 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>David Lisnard : intervention aux assises de l'AFER</title>
+      <link>https://www.youtube.com/watch?v=R0W-wEevJB4</link>
+      <guid>https://www.youtube.com/watch?v=R0W-wEevJB4</guid>
+      <pubDate>2026-09-30T14:56:29+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Épargne salariale, retraites, assurance vie... Revisionner mon intervention lors de la 10e édition des assises de l'AFER à Paris ce mardi 29 septembre 2026. 
+
+Suivez moi sur mes réseaux : 
+
+Instagram : https://www.instagram.com/davidlisnard/
+X : https://x.com/davidlisnard
+Facebook : https://www.facebook.com/lisnard.david
+Tik Tok : https://www.tiktok.com/@david.lisnard
+LinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/
+
+Adhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>R0W-wEevJB4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/R0W-wEevJB4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Comment la gauche peut devenir majoritaire ? La masterclass de Sarah Durieux !</title>
+      <link>https://www.youtube.com/watch?v=iAjYlBZ__Y8</link>
+      <guid>https://www.youtube.com/watch?v=iAjYlBZ__Y8</guid>
+      <pubDate>2026-09-30T14:49:18+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Comment passer de 30 % à une majorité, pour gagner des élections mais surtout pour gagner les cœurs et les esprits ? Quel lien entre la montée du fascisme et notre difficulté à débattre sereinement à gauche ? Comment ouvrir réellement nos espaces militants, et qu’est-ce que cela signifie concrètement ?
+
+Sarah Durieux, activiste et militante féministe, revient sur ces questions à partir de son expérience de campagnes menées en France et en Europe pour le droit à l’avortement. Elle partage sa vision de la bataille culturelle, de la construction de récits majoritaires, mais aussi des conditions nécessaires pour créer des espaces militants émancipateurs et donc attirants.
+
+Si la communication politique vous intéresse autant que les questions de stratégie collective et de bien-être militant, cette masterclass est faite pour vous.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>iAjYlBZ__Y8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/iAjYlBZ__Y8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>MATTHIEU VALET : « Édouard Philippe veut faire travailler les Français plus longtemps ! » (EUROPE 1)</title>
       <link>https://www.youtube.com/watch?v=qrNUIShug6c</link>
@@ -1870,36 +1906,6 @@ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>biaaBJ6Q02A</videoId>
       <enclosure url="https://i.ytimg.com/vi/biaaBJ6Q02A/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Le Pen, invitée d'Objectif 2027, avec Darius Rochebin, sur LCI</title>
-      <link>https://www.youtube.com/watch?v=ux3WEnVnaTU</link>
-      <guid>https://www.youtube.com/watch?v=ux3WEnVnaTU</guid>
-      <pubDate>2026-09-17T20:44:40+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description />
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>ux3WEnVnaTU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ux3WEnVnaTU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>C'est dans ces moments-là que la solidarité nationale prend tout son sens.</title>
-      <link>https://www.youtube.com/watch?v=fzkkDiHDLeQ</link>
-      <guid>https://www.youtube.com/watch?v=fzkkDiHDLeQ</guid>
-      <pubDate>2026-09-17T19:44:59+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Marie a souhaité nous montrer sa maison dévastée par les flammes.
-
-Comme elle, des milliers de Français n’ont plus de maison à la suite des terribles incendies qui ont ravagé le sud-ouest de la France.
-
-Pour elle, c'est une partie de sa vie, des souvenirs, une histoire qui sont partis.
-
-Son courage force le respect et nous oblige à tout faire pour que la nation puisse lui apporter son soutien.
-
-C'est dans ces moments-là que la solidarité nationale prend tout son sens.</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>fzkkDiHDLeQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/fzkkDiHDLeQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
