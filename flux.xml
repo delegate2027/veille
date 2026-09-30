@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 30 Sep 2026 07:15:31 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 07:30:45 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Mobilisation des lycéens, antisemitisme du RN et sondages, je fais le point sur LCI !</title>
+      <link>https://www.youtube.com/watch?v=H_2-wgtCraI</link>
+      <guid>https://www.youtube.com/watch?v=H_2-wgtCraI</guid>
+      <pubDate>2026-09-30T07:30:29+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description />
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>H_2-wgtCraI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/H_2-wgtCraI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>LAURE LAVALETTE : « MÉDIAPART veut détruire la carrière politique de Jordan Bardella » (FRANCE INFO)</title>
+      <link>https://www.youtube.com/watch?v=ml8ZqwuuPlI</link>
+      <guid>https://www.youtube.com/watch?v=ml8ZqwuuPlI</guid>
+      <pubDate>2026-09-30T07:28:55+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>ml8ZqwuuPlI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ml8ZqwuuPlI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JÉRÔME GUEDJ FACE AUX ASSISES DE L'AFER (Héritage, fiscalité, épargne...)</title>
       <link>https://www.youtube.com/watch?v=d3E6RfDJQ5c</link>
@@ -143,19 +167,6 @@ Alors que la France augmente fortement ses dépenses militaires, les rapporteurs
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>N406os8VSkE</videoId>
       <enclosure url="https://i.ytimg.com/vi/N406os8VSkE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>FRANCK ALLISIO « L'extrême-gauche est un danger pour la France ! » (LCI)</title>
-      <link>https://www.youtube.com/watch?v=_QJ0JmQQ5TA</link>
-      <guid>https://www.youtube.com/watch?v=_QJ0JmQQ5TA</guid>
-      <pubDate>2026-09-29T10:19:07+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>_QJ0JmQQ5TA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_QJ0JmQQ5TA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mon passage dans RMC sur les blocages de lycées</title>
@@ -1915,21 +1926,6 @@ Soutien à Rima Hassan @rimamobarak !
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>cwTQq4d2jB4</videoId>
       <enclosure url="https://i.ytimg.com/vi/cwTQq4d2jB4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présentation du livre - Election sous influence</title>
-      <link>https://www.youtube.com/watch?v=WeAnXh4nn8o</link>
-      <guid>https://www.youtube.com/watch?v=WeAnXh4nn8o</guid>
-      <pubDate>2026-09-17T11:24:21+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description>Le 10 septembre, nous avons présenté Élection sous influence, le livre de François Piquemal, préfacé par Jean-Luc Mélenchon. 
-
-L’ouvrage revient sur les ingérences étrangères survenues durant la campagne des élections municipales à Toulouse. 
-
-Ce dernier expose les éléments recueillis concernant les liens entre certaines officines et la municipalité actuelle, ainsi que les rapports réalisés par des servies de l'Etat venant attestés de cela.</description>
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>WeAnXh4nn8o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/WeAnXh4nn8o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
