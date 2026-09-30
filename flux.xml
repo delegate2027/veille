@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 30 Sep 2026 15:01:06 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:15:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>David Lisnard : intervention aux assises de l'AFER</title>
@@ -37,7 +37,11 @@ Adhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion<
 
 Sarah Durieux, activiste et militante féministe, revient sur ces questions à partir de son expérience de campagnes menées en France et en Europe pour le droit à l’avortement. Elle partage sa vision de la bataille culturelle, de la construction de récits majoritaires, mais aussi des conditions nécessaires pour créer des espaces militants émancipateurs et donc attirants.
 
-Si la communication politique vous intéresse autant que les questions de stratégie collective et de bien-être militant, cette masterclass est faite pour vous.</description>
+Si la communication politique vous intéresse autant que les questions de stratégie collective et de bien-être militant, cette masterclass est faite pour vous.
+
+Vous pouvez retrouver les ouvrages de Sarah Durieux dans vos librairies indépendantes :
+- Militer à tout prix, Pourquoi nos collectifs nous font du mal et comment les soigner ? Hors d'atteinte, 2025.
+- Changer le Monde, Manuel d'activisme pour reprendre le pouvoir, First, 2021.</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>iAjYlBZ__Y8</videoId>
       <enclosure url="https://i.ytimg.com/vi/iAjYlBZ__Y8/maxresdefault.jpg" type="image/jpeg" />
@@ -169,19 +173,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>yJRjv9iVAK8</videoId>
       <enclosure url="https://i.ytimg.com/vi/yJRjv9iVAK8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURENT JACOBELLI : « LFI encourage la violence ! » (LCI)</title>
-      <link>https://www.youtube.com/watch?v=NXUSkuLLKak</link>
-      <guid>https://www.youtube.com/watch?v=NXUSkuLLKak</guid>
-      <pubDate>2026-09-30T08:36:22+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>NXUSkuLLKak</videoId>
-      <enclosure url="https://i.ytimg.com/vi/NXUSkuLLKak/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Gabriel Attal sur Europe 1 I Je réponds à toutes les questions de Laurence Ferrari</title>
@@ -1906,6 +1897,17 @@ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>biaaBJ6Q02A</videoId>
       <enclosure url="https://i.ytimg.com/vi/biaaBJ6Q02A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Le Pen, invitée d'Objectif 2027, avec Darius Rochebin, sur LCI</title>
+      <link>https://www.youtube.com/watch?v=ux3WEnVnaTU</link>
+      <guid>https://www.youtube.com/watch?v=ux3WEnVnaTU</guid>
+      <pubDate>2026-09-17T20:44:40+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description />
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>ux3WEnVnaTU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ux3WEnVnaTU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
