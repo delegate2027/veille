@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 30 Sep 2026 17:01:01 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:15:35 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Aucune cause ne justifie la violence.</title>
+      <link>https://www.youtube.com/watch?v=tJNadVp5cLo</link>
+      <guid>https://www.youtube.com/watch?v=tJNadVp5cLo</guid>
+      <pubDate>2026-09-30T17:09:26+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>La République doit garantir le droit de manifester. Mais elle doit aussi rappeler une frontière simple : aucune cause ne justifie la violence.
+
+Lorsque la violence devient une méthode politique, c’est toujours la liberté de chacun d’entre vous qui est menacée.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>tJNadVp5cLo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/tJNadVp5cLo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>David Lisnard : intervention aux assises de l'AFER</title>
       <link>https://www.youtube.com/watch?v=R0W-wEevJB4</link>
@@ -1897,17 +1910,6 @@ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>biaaBJ6Q02A</videoId>
       <enclosure url="https://i.ytimg.com/vi/biaaBJ6Q02A/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Le Pen, invitée d'Objectif 2027, avec Darius Rochebin, sur LCI</title>
-      <link>https://www.youtube.com/watch?v=ux3WEnVnaTU</link>
-      <guid>https://www.youtube.com/watch?v=ux3WEnVnaTU</guid>
-      <pubDate>2026-09-17T20:44:40+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description />
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>ux3WEnVnaTU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ux3WEnVnaTU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
