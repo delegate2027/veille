@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 30 Sep 2026 13:30:54 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:45:39 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>MATTHIEU VALET : « Édouard Philippe veut faire travailler les Français plus longtemps ! » (EUROPE 1)</title>
+      <link>https://www.youtube.com/watch?v=qrNUIShug6c</link>
+      <guid>https://www.youtube.com/watch?v=qrNUIShug6c</guid>
+      <pubDate>2026-09-30T13:34:35+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>qrNUIShug6c</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qrNUIShug6c/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>GAËTAN DUSSAUSAYE est face à ALEXIS CORBIÈRE sur BFM TV !</title>
       <link>https://www.youtube.com/watch?v=iz2iqcLu-IY</link>
@@ -178,19 +191,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>doHYsjXzbOw</videoId>
       <enclosure url="https://i.ytimg.com/vi/doHYsjXzbOw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU est face à BENJAMIN DUHAMEL sur FRANCE INTER !</title>
-      <link>https://www.youtube.com/watch?v=g_ELiIzD69c</link>
-      <guid>https://www.youtube.com/watch?v=g_ELiIzD69c</guid>
-      <pubDate>2026-09-30T08:11:02+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>g_ELiIzD69c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/g_ELiIzD69c/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mobilisation des lycéens, antisemitisme du RN et sondages, je fais le point sur LCI !</title>
