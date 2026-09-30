@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 30 Sep 2026 10:01:01 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:15:42 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>"Il faut les foutre dehors !" - COUP DE GUEULE de F. RUFFIN sur BFM</title>
+      <link>https://www.youtube.com/watch?v=dTzNb7B2gjg</link>
+      <guid>https://www.youtube.com/watch?v=dTzNb7B2gjg</guid>
+      <pubDate>2026-09-30T09:59:05+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>dTzNb7B2gjg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dTzNb7B2gjg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JULIEN ODOUL est face à ROKHAYA DIALLO sur BFM TV !</title>
       <link>https://www.youtube.com/watch?v=VARVN-ZsG1s</link>
@@ -639,7 +652,7 @@ Je vous révèle les ressorts de la polémique de la rentrée sur les milliardai
       <guid>https://www.youtube.com/watch?v=yzzDZhykXUc</guid>
       <pubDate>2026-09-25T15:05:25+00:00</pubDate>
       <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité le débat sur l'intelligence artificielle face à Sarah Knafo, Olivier Faure, Xavier Bertrand et Alexandre Loubet !
+      <description>📺 Retrouvez en intégralité le débat sur l'intelligence artificielle face à Sarah Knafo, Olivier Faure, Xavier Bertrand et Alexandre Loubet du vendredi 25 septembre !
 ----------
 
 📲 Abonnez-vous à mes réseaux sociaux !
@@ -1894,36 +1907,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>a-U9kFTnHeU</videoId>
       <enclosure url="https://i.ytimg.com/vi/a-U9kFTnHeU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Faut-il abolir la prison ? #FeteDeLHumanité</title>
-      <link>https://www.youtube.com/watch?v=rLXxkpDPc5k</link>
-      <guid>https://www.youtube.com/watch?v=rLXxkpDPc5k</guid>
-      <pubDate>2026-09-17T16:00:31+00:00</pubDate>
-      <author>PS - Parti socialiste</author>
-      <description>À la Fête de l'Humanité, on poursuit la rentrée politique avec des temps d'échanges et de débat avec nos partenaires de gauche !
-
-Une discussion avec :
-- Julien Fischmeister, représentant de l’Observatoire international des prisons
-- Anaïs Henneguelle, maîtresse de conférences en économie, spécialiste du milieu carcéral et des peines au temps
-- Floran Vadillo, président des Études françaises sur le renseignement et le cyber, spécialiste des questions de justice, de sécurité et de renseignement, ancien conseiller du Garde des Sceaux en charge de l'administration pénitentiaire
-- Lina Belhaj-Saïf, co-coordinatrice de l’UR Île-de-France des Jeunes socialistes
-- Elias H’Limi, secrétaire national à la communication des Jeunes socialistes
-
----
-Suivez-nous sur les réseaux sociaux :
-➡️  https://x.com/partisocialiste
-➡️  https://bsky.app/profile/partisocialiste
-➡️  https://www.instagram.com/partisocialiste 
-➡️  https://www.facebook.com/partisocialiste 
-➡️  https://www.tiktok.com/@partisocialiste
-➡️  https://t.me/partisocialiste
-➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
-
-🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
-      <channelTitle>PS - Parti socialiste</channelTitle>
-      <videoId>rLXxkpDPc5k</videoId>
-      <enclosure url="https://i.ytimg.com/vi/rLXxkpDPc5k/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
