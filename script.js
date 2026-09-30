@@ -75,6 +75,11 @@ function formatDate(dateText) {
          (minute < 10 ? "0" : "") + minute;
 }
 
+function parseTime(value) {
+  var time = new Date(value || "").getTime();
+  return isNaN(time) ? 0 : time;
+}
+
 function extractVideoId(link) {
   var m;
   m = String(link || "").match(/[?&]v=([A-Za-z0-9_-]{6,})/);
@@ -104,7 +109,7 @@ function getItemsFromXml(xml) {
     });
   }
   result.sort(function(a, b) {
-    return new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime();
+    return parseTime(b.pubDate) - parseTime(a.pubDate);
   });
   return result;
 }
@@ -144,6 +149,7 @@ function buildItemElement(item) {
 
   div.className = "item item-left " + sourceClass(author);
   div.setAttribute("data-author", author);
+  div.setAttribute("data-pubdate", item.pubDate || "");
 
   html = '<div class="top">' +
            '<span class="author ' + sourceClass(author) + '">' + escapeHtml(displayAuthor) + '</span>' +
@@ -255,6 +261,26 @@ function updateStatus(lastModified) {
   }
 }
 
+function getItemElements(feed) {
+  var nodes = feed.childNodes, items = [], i;
+  for (i = 0; i < nodes.length; i++) {
+    if (nodes[i].nodeType === 1 && hasClass(nodes[i], "item")) items.push(nodes[i]);
+  }
+  return items;
+}
+
+function sortFeed() {
+  var feed = document.getElementById("feed");
+  var items, i;
+  if (!feed) return;
+  items = getItemElements(feed);
+  if (items.length < 2) return;
+  items.sort(function(a, b) {
+    return parseTime(b.getAttribute("data-pubdate")) - parseTime(a.getAttribute("data-pubdate"));
+  });
+  for (i = 0; i < items.length; i++) feed.appendChild(items[i]);
+}
+
 function appendItem(div, first) {
   var feed = document.getElementById("feed");
   if (first && feed.firstChild) feed.insertBefore(div, feed.firstChild);
@@ -266,7 +292,7 @@ function loadRSS() {
     var i, item, link, div, feed;
     if (err) {
       feed = document.getElementById("feed");
-      if (!feed.getElementsByTagName(".item").length) feed.innerHTML = '<div class="error">Impossible de charger le flux : ' + escapeHtml(err.message) + '</div>';
+      if (!getItemElements(feed).length) feed.innerHTML = '<div class="error">Impossible de charger le flux : ' + escapeHtml(err.message) + '</div>';
       return;
     }
     if (data.notModified) return;
@@ -297,8 +323,9 @@ function pollRSS() {
       link = item.link || "#";
       if (renderedLinks[link]) continue;
       renderedLinks[link] = true;
-      appendItem(buildItemElement(item), true);
+      appendItem(buildItemElement(item), false);
     }
+    sortFeed();
   }, lastModifiedSeen ? { "If-Modified-Since": lastModifiedSeen } : null);
 }
 
