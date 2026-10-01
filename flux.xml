@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 18:30:52 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 18:45:46 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Dans la rue le 6 octobre avec les lycéens et étudiants !</title>
+      <link>https://www.youtube.com/watch?v=UnqRe3RVYtY</link>
+      <guid>https://www.youtube.com/watch?v=UnqRe3RVYtY</guid>
+      <pubDate>2026-10-01T18:41:27+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Ce jeudi 1er octobre, rendez-vous à 19h15 pour suivre en direct une conférence de Jean-Luc Mélenchon sur le moment politique.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>UnqRe3RVYtY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UnqRe3RVYtY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🟠 VSS : LOI DITE « INTÉGRALE » - MON DISCOURS À L'ASSEMBLÉE EN INTÉGRALITÉ</title>
       <link>https://www.youtube.com/watch?v=MCGv2iXqX1I</link>
@@ -238,30 +259,6 @@ LFI doit payer les dégâts, les élus impliqués doivent être poursuivis et la
       <enclosure url="https://i.ytimg.com/vi/SvujYxxLChY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>2e DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027</title>
-      <link>https://www.youtube.com/watch?v=oCsHkG4-tFw</link>
-      <guid>https://www.youtube.com/watch?v=oCsHkG4-tFw</guid>
-      <pubDate>2026-10-01T10:22:19+00:00</pubDate>
-      <author>PS - Parti socialiste</author>
-      <description>Retrouvez le deuxième débat de la primaire de la gauche socialiste et démocratique, avec Olivier Faure, Jérôme Guedj, Emmanuel Maurel, Raphaël Glucksmann et Ségolène Royal.
-
-👉 Inscris-toi d’ici le 5 octobre pour voter à la primaire : https://adhesion.parti-socialiste.fr/
----
-Suivez-nous sur les réseaux sociaux :
-➡️  https://x.com/partisocialiste
-➡️  https://bsky.app/profile/partisocialiste
-➡️  https://www.instagram.com/partisocialiste 
-➡️  https://www.facebook.com/partisocialiste 
-➡️  https://www.tiktok.com/@partisocialiste
-➡️  https://t.me/partisocialiste
-➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
-
-🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
-      <channelTitle>PS - Parti socialiste</channelTitle>
-      <videoId>oCsHkG4-tFw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/oCsHkG4-tFw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>LOUIS ALIOT est l'invité de SONIA MABROUK ! (BFM TV)</title>
       <link>https://www.youtube.com/watch?v=51l4NOwFhUQ</link>
       <guid>https://www.youtube.com/watch?v=51l4NOwFhUQ</guid>
@@ -299,27 +296,6 @@ Je suis venu leur témoigner notre soutien, celui de LFI et de Jean-Luc Mélench
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>zkpd7dLZj0g</videoId>
       <enclosure url="https://i.ytimg.com/vi/zkpd7dLZj0g/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
-      <link>https://www.youtube.com/watch?v=UnqRe3RVYtY</link>
-      <guid>https://www.youtube.com/watch?v=UnqRe3RVYtY</guid>
-      <pubDate>2026-10-01T07:10:04+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Ce jeudi 1er octobre, rendez-vous à 19h15 pour suivre en direct une conférence de Jean-Luc Mélenchon sur le moment politique.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>UnqRe3RVYtY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/UnqRe3RVYtY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Des journalistes choqués par des confessions sur les Champs. Ils préféraient les vitrines cassées ?</title>
@@ -1892,6 +1868,36 @@ Depuis Senlis, Fabien Roussel appelle à amplifier la mobilisation partout en Fr
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>rNxxetD3Qb4</videoId>
       <enclosure url="https://i.ytimg.com/vi/rNxxetD3Qb4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Peut-on encore vivre dignement de son travail ? #FeteDeLHumanité</title>
+      <link>https://www.youtube.com/watch?v=4Ts3hCH7otU</link>
+      <guid>https://www.youtube.com/watch?v=4Ts3hCH7otU</guid>
+      <pubDate>2026-09-18T16:00:27+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>À la Fête de l'Humanité, on poursuit la rentrée politique avec des temps d'échanges et de débat avec nos partenaires de gauche !
+
+Une discussion avec :
+- Céline Gillier, déléguée régionale IdF de l’OPCO des entreprises de proximité
+- Alexane Riou, secrétaire nationale à l'enseignement supérieur et à la recherche
+- Stéphane Vernac, professeur de droit privé, spécialiste du pouvoir des entreprises et des voies de leur responsabilisation
+- Thomas Vacheron, secrétaire confédéral de la CGT
+- Gaston Laval, co-président de @Noûs-ThinkTank et conseiller municipal à Paris  
+
+---
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste 
+➡️  https://www.facebook.com/partisocialiste 
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>4Ts3hCH7otU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4Ts3hCH7otU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
