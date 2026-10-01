@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 09:01:13 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:15:34 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>SÉBASTIEN CHENU : « Les lycées ne peuvent pas rester bloqués ! » BFM TV</title>
+      <link>https://www.youtube.com/watch?v=G9QbHrKdKqo</link>
+      <guid>https://www.youtube.com/watch?v=G9QbHrKdKqo</guid>
+      <pubDate>2026-10-01T09:04:10+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>G9QbHrKdKqo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/G9QbHrKdKqo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>LAURE LAVALETTE est face à CHARLES DE CONSIGNY sur BFM TV !</title>
+      <link>https://www.youtube.com/watch?v=KCBbf-EhmXA</link>
+      <guid>https://www.youtube.com/watch?v=KCBbf-EhmXA</guid>
+      <pubDate>2026-10-01T09:04:07+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>KCBbf-EhmXA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/KCBbf-EhmXA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Fabien Roussel défend les lycéens et les pompiers - Paris 29/09</title>
       <link>https://www.youtube.com/watch?v=zkpd7dLZj0g</link>
@@ -231,32 +257,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>dTzNb7B2gjg</videoId>
       <enclosure url="https://i.ytimg.com/vi/dTzNb7B2gjg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JULIEN ODOUL est face à ROKHAYA DIALLO sur BFM TV !</title>
-      <link>https://www.youtube.com/watch?v=VARVN-ZsG1s</link>
-      <guid>https://www.youtube.com/watch?v=VARVN-ZsG1s</guid>
-      <pubDate>2026-09-30T09:49:55+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>VARVN-ZsG1s</videoId>
-      <enclosure url="https://i.ytimg.com/vi/VARVN-ZsG1s/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURE LAVALETTE est face à un COMMUNISTE sur CNEWS !</title>
-      <link>https://www.youtube.com/watch?v=NKVQVNhHRS4</link>
-      <guid>https://www.youtube.com/watch?v=NKVQVNhHRS4</guid>
-      <pubDate>2026-09-30T09:37:50+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>NKVQVNhHRS4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/NKVQVNhHRS4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Le Rassemblement National prit encore une fois en flagrant délit de mensonge !</title>
@@ -912,7 +912,7 @@ Il y a urgence à agir.</description>
       <enclosure url="https://i.ytimg.com/vi/iH-4MSJ-fnQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>EN DIRECT | Grand oral de Politico : je réponds à toutes les questions de la rédaction.</title>
+      <title>Politico | Grand oral de Politico : je réponds à toutes les questions de la rédaction.</title>
       <link>https://www.youtube.com/watch?v=dVkmUiOZn0k</link>
       <guid>https://www.youtube.com/watch?v=dVkmUiOZn0k</guid>
       <pubDate>2026-09-25T01:10:16+00:00</pubDate>
