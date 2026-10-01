@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 09:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:00:57 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Meeting antifasciste de soutien à Gino et ses camarades !</title>
+      <link>https://www.youtube.com/watch?v=mLtPnHpTS_Q</link>
+      <guid>https://www.youtube.com/watch?v=mLtPnHpTS_Q</guid>
+      <pubDate>2026-10-01T09:57:09+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Ce jeudi 30 septembre, j'ai été soutenir Gino et ses camarades lors d'un meeting antifasciste à Paris. Gino et Zaid risquent des années de prison en Hongrie pour avoir contre-manifesté à Budapest en 2023 lors d'un évènement de néonazis.
+
+Mauvaise nouvelle, avant ce meeting, la Cour de cassation a entériné l'extradition de Gino vers l'Allemagne. La suite pourrait être qu'il soit livré à la Hongrie.
+
+Je suis venu leur témoigner notre soutien, celui de LFI et de Jean-Luc Mélenchon. L'antifascisme ne doit pas être criminalisé. No pasarán !</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>mLtPnHpTS_Q</videoId>
+      <enclosure url="https://i.ytimg.com/vi/mLtPnHpTS_Q/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SÉBASTIEN CHENU : « Les lycées ne peuvent pas rester bloqués ! » BFM TV</title>
       <link>https://www.youtube.com/watch?v=G9QbHrKdKqo</link>
@@ -1870,17 +1885,6 @@ Fabien Roussel appelle également le Président de la République à prendre une
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>AtzUnIioQ5U</videoId>
       <enclosure url="https://i.ytimg.com/vi/AtzUnIioQ5U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier : "si on avait écouté les écologistes qui alertent, on n'en serait pas là" (BFM TV)</title>
-      <link>https://www.youtube.com/watch?v=hSso9fg-IiU</link>
-      <guid>https://www.youtube.com/watch?v=hSso9fg-IiU</guid>
-      <pubDate>2026-09-18T07:33:38+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Le 18 septembre 2026, Marine Tondelier était l'invitée du Face à face avec Apolline de Malherbe sur BFM TV et RMC.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>hSso9fg-IiU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hSso9fg-IiU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
