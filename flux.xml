@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 12:30:54 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:45:33 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>ALEKSANDAR NIKOLIC est l'invité de FRANCE INFO !</title>
+      <link>https://www.youtube.com/watch?v=ItOxUwJmKTo</link>
+      <guid>https://www.youtube.com/watch?v=ItOxUwJmKTo</guid>
+      <pubDate>2026-10-01T12:30:53+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>ItOxUwJmKTo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ItOxUwJmKTo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Lycées mobilisés, Bardella, budget : Les Grandes Gueules avec Clémence Guetté</title>
       <link>https://www.youtube.com/watch?v=SvujYxxLChY</link>
@@ -268,19 +281,6 @@ Vous pouvez retrouver les ouvrages de Sarah Durieux dans vos librairies indépen
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>qrNUIShug6c</videoId>
       <enclosure url="https://i.ytimg.com/vi/qrNUIShug6c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>GAËTAN DUSSAUSAYE est face à ALEXIS CORBIÈRE sur BFM TV !</title>
-      <link>https://www.youtube.com/watch?v=iz2iqcLu-IY</link>
-      <guid>https://www.youtube.com/watch?v=iz2iqcLu-IY</guid>
-      <pubDate>2026-09-30T10:29:40+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>iz2iqcLu-IY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iz2iqcLu-IY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>"Il faut les foutre dehors !" - COUP DE GUEULE de F. RUFFIN sur BFM</title>
@@ -1820,19 +1820,6 @@ Depuis Senlis, Fabien Roussel appelle à amplifier la mobilisation partout en Fr
       <enclosure url="https://i.ytimg.com/vi/rNxxetD3Qb4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>3615 Clouet : pourquoi payez-vous plus d'impôts que les milliardaires ? – En campagne #3</title>
-      <link>https://www.youtube.com/watch?v=z9V1gNFOBGU</link>
-      <guid>https://www.youtube.com/watch?v=z9V1gNFOBGU</guid>
-      <pubDate>2026-09-18T16:00:29+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Avec Hadrien Clouet.
-
-Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=yIXOxo0904Y</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>z9V1gNFOBGU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/z9V1gNFOBGU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Peut-on encore vivre dignement de son travail ? #FeteDeLHumanité</title>
       <link>https://www.youtube.com/watch?v=4Ts3hCH7otU</link>
       <guid>https://www.youtube.com/watch?v=4Ts3hCH7otU</guid>
@@ -1883,6 +1870,23 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>Yyw5wvnWKbE</videoId>
       <enclosure url="https://i.ytimg.com/vi/Yyw5wvnWKbE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>À l’Élysée, Fabien Roussel interpelle Emmanuel Macron : « Il faut agir immédiatement »</title>
+      <link>https://www.youtube.com/watch?v=mMIxy-TuLoA</link>
+      <guid>https://www.youtube.com/watch?v=mMIxy-TuLoA</guid>
+      <pubDate>2026-09-18T11:00:01+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>À la sortie de l’Élysée, Fabien Roussel appelle Emmanuel Macron à agir face à une situation internationale et énergétique qui s’aggrave.
+
+Alors que les conflits en Ukraine et au Moyen-Orient s’enlisent et pèsent lourdement sur les prix de l’énergie, il demande au gouvernement de prendre des mesures immédiates pour protéger les Français : baisse des taxes sur l’énergie, blocage des prix lorsque c’est possible et soutien au pouvoir d’achat.
+
+Fabien Roussel appelle également le Président de la République à prendre une initiative diplomatique forte pour obtenir un cessez-le-feu et ouvrir la voie à des négociations.
+
+« Il faut agir immédiatement. »</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>mMIxy-TuLoA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/mMIxy-TuLoA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
