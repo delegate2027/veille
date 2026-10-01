@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 11:00:59 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:15:43 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Lycées mobilisés, Bardella, budget : Les Grandes Gueules avec Clémence Guetté</title>
+      <link>https://www.youtube.com/watch?v=SvujYxxLChY</link>
+      <guid>https://www.youtube.com/watch?v=SvujYxxLChY</guid>
+      <pubDate>2026-10-01T11:09:55+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>J'étais aujourd'hui l'invitée des Grandes Gueules sur RMC. À retrouver en intégralité.</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>SvujYxxLChY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SvujYxxLChY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>2e DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027</title>
       <link>https://www.youtube.com/watch?v=oCsHkG4-tFw</link>
@@ -1874,23 +1885,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>Yyw5wvnWKbE</videoId>
       <enclosure url="https://i.ytimg.com/vi/Yyw5wvnWKbE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>À l’Élysée, Fabien Roussel interpelle Emmanuel Macron : « Il faut agir immédiatement »</title>
-      <link>https://www.youtube.com/watch?v=mMIxy-TuLoA</link>
-      <guid>https://www.youtube.com/watch?v=mMIxy-TuLoA</guid>
-      <pubDate>2026-09-18T11:00:01+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>À la sortie de l’Élysée, Fabien Roussel appelle Emmanuel Macron à agir face à une situation internationale et énergétique qui s’aggrave.
-
-Alors que les conflits en Ukraine et au Moyen-Orient s’enlisent et pèsent lourdement sur les prix de l’énergie, il demande au gouvernement de prendre des mesures immédiates pour protéger les Français : baisse des taxes sur l’énergie, blocage des prix lorsque c’est possible et soutien au pouvoir d’achat.
-
-Fabien Roussel appelle également le Président de la République à prendre une initiative diplomatique forte pour obtenir un cessez-le-feu et ouvrir la voie à des négociations.
-
-« Il faut agir immédiatement. »</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>mMIxy-TuLoA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/mMIxy-TuLoA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
