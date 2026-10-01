@@ -4,55 +4,98 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 03:01:02 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:15:30 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
-      <title>Le Rassemblement National prit encore une fois en flagrant délit de mensonge !</title>
-      <link>https://www.youtube.com/watch?v=_MEgHtXWO8I</link>
-      <guid>https://www.youtube.com/watch?v=_MEgHtXWO8I</guid>
-      <pubDate>2026-09-30T09:22:48+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député Alexis Corbière était l'invité de Maxime Switek hier soir sur BFMTV.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>_MEgHtXWO8I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_MEgHtXWO8I/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Macron, carburants, urgence sociale : Matinale de France Inter avec Clémence Guetté</title>
-      <link>https://www.youtube.com/watch?v=iH-4MSJ-fnQ</link>
-      <guid>https://www.youtube.com/watch?v=iH-4MSJ-fnQ</guid>
-      <pubDate>2026-09-25T06:37:22+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>Emmanuel Macron est complètement déconnecté des enjeux des Français. 
+      <title>"Il faut les foutre dehors !" - COUP DE GUEULE de F. RUFFIN sur BFM</title>
+      <link>https://www.youtube.com/watch?v=dTzNb7B2gjg</link>
+      <guid>https://www.youtube.com/watch?v=dTzNb7B2gjg</guid>
+      <pubDate>2026-09-30T09:59:05+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
 
-Les gens sont dépendants de la voiture et ils ne peuvent plus se permettre de faire le plein. Ils renoncent aux soins, à rendre visite à leurs proches et aux loisirs des enfants.
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>dTzNb7B2gjg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dTzNb7B2gjg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Présidentielles 2027 : François Ruffin "face aux outre-mer"</title>
+      <link>https://www.youtube.com/watch?v=6NZf7tExU70</link>
+      <guid>https://www.youtube.com/watch?v=6NZf7tExU70</guid>
+      <pubDate>2026-09-23T09:15:54+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
 
-Il y a urgence à agir.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>iH-4MSJ-fnQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iH-4MSJ-fnQ/maxresdefault.jpg" type="image/jpeg" />
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>6NZf7tExU70</videoId>
+      <enclosure url="https://i.ytimg.com/vi/6NZf7tExU70/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Nationalisation de Total : le débat Sandrine Rousseau vs Alain Duhamel</title>
-      <link>https://www.youtube.com/watch?v=iw1CZHRS5zk</link>
-      <guid>https://www.youtube.com/watch?v=iw1CZHRS5zk</guid>
-      <pubDate>2026-09-22T18:00:15+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description />
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>iw1CZHRS5zk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iw1CZHRS5zk/maxresdefault.jpg" type="image/jpeg" />
+      <title>La Grande Ruffinade ! Echanges entre Laurence Ruffin et François Ruffin</title>
+      <link>https://www.youtube.com/watch?v=0LgbK_OvEjA</link>
+      <guid>https://www.youtube.com/watch?v=0LgbK_OvEjA</guid>
+      <pubDate>2026-09-13T04:46:37+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>Suivez en direct depuis le stand Debout! à la Fête de l'Humanité 2026 l'échange entre Laurence Ruffin et François Ruffin. 
+
+➡️ Soutenez François Ruffin : nouspresident.fr</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>0LgbK_OvEjA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0LgbK_OvEjA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Sandrine Rousseau réagit à l'explosion des prix de carburant</title>
-      <link>https://www.youtube.com/watch?v=d6DapNCq-P8</link>
-      <guid>https://www.youtube.com/watch?v=d6DapNCq-P8</guid>
-      <pubDate>2026-09-22T14:03:58+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description />
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>d6DapNCq-P8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/d6DapNCq-P8/maxresdefault.jpg" type="image/jpeg" />
+      <title>Prise de parole de François Ruffin à la Fête de l'Humanité !</title>
+      <link>https://www.youtube.com/watch?v=Q031jLq1qrE</link>
+      <guid>https://www.youtube.com/watch?v=Q031jLq1qrE</guid>
+      <pubDate>2026-09-12T12:14:09+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>Q031jLq1qrE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Q031jLq1qrE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Présidentielles 2027 : François Ruffin invité de RTL matin</title>
+      <link>https://www.youtube.com/watch?v=9TNh79KNqM8</link>
+      <guid>https://www.youtube.com/watch?v=9TNh79KNqM8</guid>
+      <pubDate>2026-09-09T07:40:58+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>9TNh79KNqM8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/9TNh79KNqM8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ma campagne en auto-stop • Ep 6</title>
+      <link>https://www.youtube.com/watch?v=ojDfXivuhbM</link>
+      <guid>https://www.youtube.com/watch?v=ojDfXivuhbM</guid>
+      <pubDate>2026-08-10T16:00:17+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>ojDfXivuhbM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ojDfXivuhbM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ma campagne en auto-stop • Ep 5</title>
+      <link>https://www.youtube.com/watch?v=v4I5XgJh-5s</link>
+      <guid>https://www.youtube.com/watch?v=v4I5XgJh-5s</guid>
+      <pubDate>2026-08-03T07:00:31+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>v4I5XgJh-5s</videoId>
+      <enclosure url="https://i.ytimg.com/vi/v4I5XgJh-5s/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
