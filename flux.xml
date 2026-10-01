@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 10:15:43 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:30:53 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>2e DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027</title>
+      <link>https://www.youtube.com/watch?v=oCsHkG4-tFw</link>
+      <guid>https://www.youtube.com/watch?v=oCsHkG4-tFw</guid>
+      <pubDate>2026-10-01T10:22:19+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>Retrouvez le deuxième débat de la primaire de la gauche socialiste et démocratique, avec Olivier Faure, Jérôme Guedj, Emmanuel Maurel, Raphaël Glucksmann et Ségolène Royal.
+
+👉 Inscris-toi d’ici le 5 octobre pour voter à la primaire : https://adhesion.parti-socialiste.fr/
+---
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste 
+➡️  https://www.facebook.com/partisocialiste 
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>oCsHkG4-tFw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/oCsHkG4-tFw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Meeting antifasciste de soutien à Gino et ses camarades !</title>
       <link>https://www.youtube.com/watch?v=mLtPnHpTS_Q</link>
@@ -1867,24 +1891,6 @@ Fabien Roussel appelle également le Président de la République à prendre une
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>mMIxy-TuLoA</videoId>
       <enclosure url="https://i.ytimg.com/vi/mMIxy-TuLoA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella : « Le gouvernement est déconnecté de la souffrance de la France du travail ! »</title>
-      <link>https://www.youtube.com/watch?v=AtzUnIioQ5U</link>
-      <guid>https://www.youtube.com/watch?v=AtzUnIioQ5U</guid>
-      <pubDate>2026-09-18T09:27:14+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>AtzUnIioQ5U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/AtzUnIioQ5U/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
