@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 12:01:09 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:15:36 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Lycées mobilisés, Bardella, budget : Les Grandes Gueules avec Clémence Guetté</title>
@@ -281,19 +281,6 @@ Vous pouvez retrouver les ouvrages de Sarah Durieux dans vos librairies indépen
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>yeCICnlTek4</videoId>
       <enclosure url="https://i.ytimg.com/vi/yeCICnlTek4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JULIEN ODOUL : « LFI est La France Incendiaire ! » (LCI)</title>
-      <link>https://www.youtube.com/watch?v=aYlPJHnYObc</link>
-      <guid>https://www.youtube.com/watch?v=aYlPJHnYObc</guid>
-      <pubDate>2026-09-30T10:13:14+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>aYlPJHnYObc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/aYlPJHnYObc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>"Il faut les foutre dehors !" - COUP DE GUEULE de F. RUFFIN sur BFM</title>
@@ -1885,6 +1872,23 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>Yyw5wvnWKbE</videoId>
       <enclosure url="https://i.ytimg.com/vi/Yyw5wvnWKbE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>À l’Élysée, Fabien Roussel interpelle Emmanuel Macron : « Il faut agir immédiatement »</title>
+      <link>https://www.youtube.com/watch?v=mMIxy-TuLoA</link>
+      <guid>https://www.youtube.com/watch?v=mMIxy-TuLoA</guid>
+      <pubDate>2026-09-18T11:00:01+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>À la sortie de l’Élysée, Fabien Roussel appelle Emmanuel Macron à agir face à une situation internationale et énergétique qui s’aggrave.
+
+Alors que les conflits en Ukraine et au Moyen-Orient s’enlisent et pèsent lourdement sur les prix de l’énergie, il demande au gouvernement de prendre des mesures immédiates pour protéger les Français : baisse des taxes sur l’énergie, blocage des prix lorsque c’est possible et soutien au pouvoir d’achat.
+
+Fabien Roussel appelle également le Président de la République à prendre une initiative diplomatique forte pour obtenir un cessez-le-feu et ouvrir la voie à des négociations.
+
+« Il faut agir immédiatement. »</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>mMIxy-TuLoA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/mMIxy-TuLoA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
