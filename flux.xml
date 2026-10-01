@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 08:01:02 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:15:35 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>EDWIGE DIAZ : « LFI instrumentalise la colère des lycéens ! » (RTL)</title>
+      <link>https://www.youtube.com/watch?v=67DFR9aklhg</link>
+      <guid>https://www.youtube.com/watch?v=67DFR9aklhg</guid>
+      <pubDate>2026-10-01T08:10:48+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>67DFR9aklhg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/67DFR9aklhg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
       <link>https://www.youtube.com/watch?v=UnqRe3RVYtY</link>
@@ -233,19 +246,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>NKVQVNhHRS4</videoId>
       <enclosure url="https://i.ytimg.com/vi/NKVQVNhHRS4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURENT JACOBELLI est SEUL CONTRE TOUS sur FRANCE INFO TV !</title>
-      <link>https://www.youtube.com/watch?v=vHu4Ox4p4Hw</link>
-      <guid>https://www.youtube.com/watch?v=vHu4Ox4p4Hw</guid>
-      <pubDate>2026-09-30T09:30:39+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>vHu4Ox4p4Hw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vHu4Ox4p4Hw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Le Rassemblement National prit encore une fois en flagrant délit de mensonge !</title>
