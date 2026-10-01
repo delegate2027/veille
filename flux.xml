@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 17:01:01 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:15:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>EN DIRECT | Violences s*xuelles et sexistes : je soutiens la loi intégrale à l'Assemblée nationale.</title>
+      <link>https://www.youtube.com/watch?v=nx7Qg48K9lw</link>
+      <guid>https://www.youtube.com/watch?v=nx7Qg48K9lw</guid>
+      <pubDate>2026-10-01T17:11:27+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Prévenir, protéger, sanctionner : je prends la parole à l'Assemblée, au nom des députés de mon groupe, pour exprimer notre soutien à la loi intégrale contre les violences sexuelles et sexistes.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>nx7Qg48K9lw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nx7Qg48K9lw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Budget 2027 : la réaction d’Éric Coquerel | Conférence de presse</title>
+      <link>https://www.youtube.com/watch?v=eMjdiyFrCDw</link>
+      <guid>https://www.youtube.com/watch?v=eMjdiyFrCDw</guid>
+      <pubDate>2026-10-01T16:49:46+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez la conférence de presse d’Éric Coquerel du jeudi 1er octobre, en réaction à la présentation du budget 2027.
+
+Il revient sur les principales mesures annoncées par le gouvernement et leurs conséquences, notamment pour les services publics, les salariés et les jeunes.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>eMjdiyFrCDw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/eMjdiyFrCDw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ANDRÉA KOTARAC : « Il faut le retour de l'ordre ! » (FRANCE INFO TV)</title>
       <link>https://www.youtube.com/watch?v=VBOZBEmAq4o</link>
@@ -18,19 +44,6 @@
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>VBOZBEmAq4o</videoId>
       <enclosure url="https://i.ytimg.com/vi/VBOZBEmAq4o/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Violences s*xuelles et sexistes : je soutiens la loi intégrale à l'Assemblée nationale.</title>
-      <link>https://www.youtube.com/watch?v=nx7Qg48K9lw</link>
-      <guid>https://www.youtube.com/watch?v=nx7Qg48K9lw</guid>
-      <pubDate>2026-10-01T15:23:36+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Prévenir, protéger, sanctionner : je prends la parole à l'Assemblée, au nom des députés de mon groupe, pour exprimer notre soutien à la loi intégrale contre les violences sexuelles et sexistes.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>nx7Qg48K9lw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nx7Qg48K9lw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Projet de loi de finances 2027 : audition des ministres Amiel et Lescure</title>
@@ -1858,17 +1871,6 @@ Depuis Senlis, Fabien Roussel appelle à amplifier la mobilisation partout en Fr
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>jWdGqTE4Zx4</videoId>
       <enclosure url="https://i.ytimg.com/vi/jWdGqTE4Zx4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier défend l'Ukraine à la sortie du rendez-vous à l'Élysée sur la crise internationale</title>
-      <link>https://www.youtube.com/watch?v=Yyw5wvnWKbE</link>
-      <guid>https://www.youtube.com/watch?v=Yyw5wvnWKbE</guid>
-      <pubDate>2026-09-18T11:52:11+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Micro tendu réalisé à la sortie du rendez-vous entre Emmanuel Macron et tous les partis politiques à l'Élysée le 18 septembre 2026.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>Yyw5wvnWKbE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Yyw5wvnWKbE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
