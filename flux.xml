@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 21:30:45 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:45:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Présidentielles 2027 : François Ruffin face à Sonia Mabrouk</title>
+      <link>https://www.youtube.com/watch?v=tI7TfNVoVog</link>
+      <guid>https://www.youtube.com/watch?v=tI7TfNVoVog</guid>
+      <pubDate>2026-10-01T21:35:55+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>tI7TfNVoVog</videoId>
+      <enclosure url="https://i.ytimg.com/vi/tI7TfNVoVog/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>💥 Mobilisations lycéennes : je rétablis la vérité face aux macronistes et au RN.</title>
       <link>https://www.youtube.com/watch?v=grSYcLIyKh0</link>
@@ -1875,17 +1888,6 @@ Mais j’ai aussi vu une incroyable solidarité : celle d’une nation, celle d�
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>0I2n_-6gcPM</videoId>
       <enclosure url="https://i.ytimg.com/vi/0I2n_-6gcPM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Florence Mendez, l'invitée humoristique – En campagne #3</title>
-      <link>https://www.youtube.com/watch?v=S-QStfsPXUY</link>
-      <guid>https://www.youtube.com/watch?v=S-QStfsPXUY</guid>
-      <pubDate>2026-09-19T16:00:25+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=yIXOxo0904Y</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>S-QStfsPXUY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/S-QStfsPXUY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
