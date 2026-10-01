@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 01 Oct 2026 07:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:15:42 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
+      <link>https://www.youtube.com/watch?v=UnqRe3RVYtY</link>
+      <guid>https://www.youtube.com/watch?v=UnqRe3RVYtY</guid>
+      <pubDate>2026-10-01T07:10:04+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Ce jeudi 1er octobre, rendez-vous à 19h15 pour suivre en direct une conférence de Jean-Luc Mélenchon sur le moment politique.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>UnqRe3RVYtY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UnqRe3RVYtY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURE LAVALETTE: « La violence et le chaos, c’est le mode opératoire de LFI ! » (CNEWS)</title>
       <link>https://www.youtube.com/watch?v=bTuKfFJ2WAE</link>
@@ -954,27 +975,6 @@ Nous soutenons l’Ukraine. Et nous souhaitons que la France mette sa force dipl
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>SLaplw-Gt8U</videoId>
       <enclosure url="https://i.ytimg.com/vi/SLaplw-Gt8U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Carburants, Géopolitique, IA - Jean-Luc Mélenchon face à Politico</title>
-      <link>https://www.youtube.com/watch?v=YQg-98xoxao</link>
-      <guid>https://www.youtube.com/watch?v=YQg-98xoxao</guid>
-      <pubDate>2026-09-24T15:27:03+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un grand entretien organisé par Politico, le 24 septembre 2026.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>YQg-98xoxao</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YQg-98xoxao/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>1ᵉʳ DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027</title>
