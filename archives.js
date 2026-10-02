@@ -39,14 +39,15 @@ function parseArchive(xml) {
   return result;
 }
 
-/* La description est cherchee comme le titre : elle est affichee dans la
-   fiche, un mot qui n'y figure que la ne serait pas trouvable. */
+/* La recherche porte sur le titre, l'auteur et le lien seulement : la
+   description generee par les flux est trop bavarde et remontait des
+   entrees sans rapport avec le terme. */
 function matchesFilter(item, needle) {
   var haystack;
 
   if (!needle) return true;
 
-  haystack = lower(item.title + " " + item.author + " " + item.description + " " + item.link);
+  haystack = lower(item.title + " " + item.author + " " + item.link);
   return haystack.indexOf(needle) !== -1;
 }
 
