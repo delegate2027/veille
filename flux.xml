@@ -4,8 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 02 Oct 2026 20:30:55 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:45:34 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>🔴 Je recadre ces propagandistes sur le mouvement lycéen</title>
+      <link>https://www.youtube.com/watch?v=8wP8JjppPjk</link>
+      <guid>https://www.youtube.com/watch?v=8wP8JjppPjk</guid>
+      <pubDate>2026-10-02T20:34:30+00:00</pubDate>
+      <author>Paul Vannier</author>
+      <description>Paul Vannier était invité à débattre sur LCI ce vendredi 2 octobre 2026 au sujet du mouvement lycéen.
+
+📲 RETROUVEZ PAUL VANNIER SUR :
+
+🔗 Telegram : https://t.me/paulvannier
+🔗 Facebook : https://bit.ly/3PD1FZ1
+🔗 Twitter : https://twitter.com/PaulVannierFI
+🔗 Instagram : https://www.instagram.com/paulvannier_/
+🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
+      <channelTitle>Paul Vannier</channelTitle>
+      <videoId>8wP8JjppPjk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8wP8JjppPjk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>En Campagne ! Épisode 4 – Macron pyromane.</title>
       <link>https://www.youtube.com/watch?v=Mx2S9iwsgYs</link>
@@ -1806,21 +1825,6 @@ Abonnez-vous !</description>
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>jkIdTMUcCMg</videoId>
       <enclosure url="https://i.ytimg.com/vi/jkIdTMUcCMg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fabien Roussel sur France Inter : « Cette envie de se révolter est normale »</title>
-      <link>https://www.youtube.com/watch?v=DrNE49YMkAQ</link>
-      <guid>https://www.youtube.com/watch?v=DrNE49YMkAQ</guid>
-      <pubDate>2026-09-21T06:37:25+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Fabien Roussel était l’invité de France Inter ce dimanche 21 septembre.
-
-Guerre en Ukraine, flambée des prix de l’énergie et des carburants, budget Lecornu, pouvoir d’achat : Fabien Roussel appelle la France à reprendre l’initiative diplomatique et à changer radicalement de politique économique.
-
-Face à la hausse des prix et à un budget qui demande encore des sacrifices aux retraités, aux fonctionnaires, aux malades et aux collectivités, Fabien Roussel alerte sur la colère qui monte dans le pays : « Cette envie de se révolter, elle est sincère et elle est normale. »</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>DrNE49YMkAQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DrNE49YMkAQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
