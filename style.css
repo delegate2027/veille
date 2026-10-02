@@ -25,6 +25,13 @@
   box-sizing: border-box;
 }
 
+/* La barre de defilement est toujours reservee : le flux (100 items) est bien
+   plus haut que la vue Archives, et sans cela le conteneur centre se recentrait
+   de quelques pixels a chaque changement d'onglet. */
+html {
+  overflow-y: scroll;
+}
+
 html, body {
   margin: 0;
   padding: 0;
