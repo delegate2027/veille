@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 02 Oct 2026 15:15:36 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:30:53 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Pourquoi le gouvernement veut faire taire la jeunesse</title>
+      <link>https://www.youtube.com/watch?v=lZ-hCPSoNv4</link>
+      <guid>https://www.youtube.com/watch?v=lZ-hCPSoNv4</guid>
+      <pubDate>2026-10-02T15:29:36+00:00</pubDate>
+      <author>Louis Boyard</author>
+      <description />
+      <channelTitle>Louis Boyard</channelTitle>
+      <videoId>lZ-hCPSoNv4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/lZ-hCPSoNv4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Soutien aux lycéennes et lycéens mobilisés !</title>
+      <link>https://www.youtube.com/watch?v=2ixD1U3s4-A</link>
+      <guid>https://www.youtube.com/watch?v=2ixD1U3s4-A</guid>
+      <pubDate>2026-10-02T15:11:08+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>Je renouvelle mon soutien aux lycéennes et lycéens mobilisés dans ma circonscription, des lycées Gustave Monod à Enghien-les-Bains et Camille Saint-Saëns à Deuil-la-Barre &amp; Montmagny.
+
+Rendez-vous le 6 octobre à l’appel de la jeunesse !</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>2ixD1U3s4-A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2ixD1U3s4-A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 En Campagne ! Épisode 4 – Macron pyromane.</title>
       <link>https://www.youtube.com/watch?v=Mx2S9iwsgYs</link>
@@ -1530,19 +1554,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <enclosure url="https://i.ytimg.com/vi/4qNxokHD8dw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>CONFÉRENCE | Dette publique et prix de l'énergie, nos propositions pour reprendre le contrôle.</title>
-      <link>https://www.youtube.com/watch?v=E3Mz-Fpy8WA</link>
-      <guid>https://www.youtube.com/watch?v=E3Mz-Fpy8WA</guid>
-      <pubDate>2026-09-24T02:30:14+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Hausse des prix de l'énergie, menaces sur nos finances publiques, suivez la présentation de nos propositions pour répondre aux crises et reprendre le contrôle.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>E3Mz-Fpy8WA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/E3Mz-Fpy8WA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Carburants : mais où va l’argent des Français ?</title>
       <link>https://www.youtube.com/watch?v=6AAtOeu6DjM</link>
       <guid>https://www.youtube.com/watch?v=6AAtOeu6DjM</guid>
@@ -1771,53 +1782,6 @@ Abonnez-vous !</description>
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>l4nsniyvdIo</videoId>
       <enclosure url="https://i.ytimg.com/vi/l4nsniyvdIo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Je corrige Julien Odoul</title>
-      <link>https://www.youtube.com/watch?v=tWrvL3Ao3MU</link>
-      <guid>https://www.youtube.com/watch?v=tWrvL3Ao3MU</guid>
-      <pubDate>2026-09-22T04:30:18+00:00</pubDate>
-      <author>Antoine Léaument</author>
-      <description>Le 21 septembre 2026, Antoine Léaument était l'invité de LCI. Le député La France insoumise de l'Essonne débat alors que la crise des carburants s'aggrave : ruptures de stock dans les stations, prix à la pompe qui flambent, mesures du gouvernement attendues. Face à Julien Odoul (RN) et à un invité libéral, il défend le blocage des prix, la ponction sur les profits des pétroliers et une autre répartition des richesses, chiffres à l'appui.
-
-Ruptures de stock, soignants inquiets… Antoine Léaument affirme que nous sommes déjà dans la crise pétrolière : le prix de l'essence empêche des gens de faire le plein. Il cite une personne qui choisit entre nourrir son fils, se nourrir elle-même ou remplir son réservoir, et estime que la question centrale est celle du blocage des prix. Aux objections sur le risque de pénurie, il répond que les files devant les stations Total viennent de ce que les gens vont là où c'est le moins cher.
-
-Julien Odoul réclame une baisse de la TVA de 20 % à 5,5 % et affirme que 60 % du prix est constitué de taxes. Antoine Léaument juge scandaleuse la complicité du RN avec les pétroliers : le chiffre était vrai en 2018, il faut mettre ses fiches à jour. Sur le gazole, la taxe fixe est de 0,60 € ; la part du privé passe de 0,56 € en 2018 à 1,26 € aujourd'hui. L'essentiel de la hausse revient aux profits du privé.
-
-Le gouvernement encourage le télétravail, et 1,5 million de Français ne demanderaient pas les aides auxquelles ils ont droit. Pour Antoine Léaument, la complexité évite de s'en prendre aux profits des pétroliers. Il rappelle que la plupart des gens ne recourent même pas aux aides sociales, dont Julien Odoul dénonce sans cesse le coût.
-
-Un invité chiffre la baisse de taxes à 13-14 milliards d'euros, plus que le budget de la justice, financée par de la dette. L'Allemagne annonce de son côté 0,14 € de taxes en moins par litre dès le 1er octobre. Antoine Léaument répond que bloquer les prix fait porter l'effort sur le privé, alors que Total engrange des milliards de profits. Il cite la restauration sous Sarkozy, où la baisse de TVA a gonflé les marges, et défend de prendre sur les profits des pétroliers.
-
-Le tableau de Thierry Breton sur le gel des retraites lance le débat. Antoine Léaument dénonce un concours de qui prendra le plus à tout le monde, souligne que ceux qui ont des métiers pénibles et meurent plus tôt sont les plus perdants, et plaide pour créer de l'emploi et augmenter les salaires. Il rappelle que 61 milliards d'euros de dividendes ont été versés en trois mois, l'équivalent du budget de l'Éducation nationale.
-
-Julien Odoul exige un « grand nettoyage » avant tout effort : fraude sociale, train de vie de l'État, agences. Son contradicteur libéral rétorque que les retraites pèsent 420 milliards d'euros sur 1 670 milliards de dépenses publiques. Après un extrait d'interview du président argentin, le plateau compare la croissance et les revenus américains et européens.
-
-Antoine Léaument demande si l'absence de redistribution avantagerait les plus pauvres, alors que la moitié des Français gagne moins de 2 200 € par mois. Il accuse Emmanuel Macron d'avoir baissé les impôts des plus riches au profit de la TVA, que tous paient, et rappelle que la fortune des milliardaires est passée de 600 à 1 200 milliards d'euros en dix ans. Il refuse qu'on invisibilise la part du salaire qui part dans la Sécurité sociale et la retraite.
-
-Sommaire :
-00:00 Crise des carburants : « on est déjà dans la crise pétrolière »
-03:15 Antoine Léaument corrige les chiffres de Julien Odoul
-05:55 Mesures du gouvernement : télétravail, primes et non-recours
-09:24 Coût, dette, modèle allemand : prendre sur les profits des pétroliers
-14:42 Retraites : gel, désindexation et partage des richesses
-21:19 Dépense publique : gaspillages et ordres de grandeur
-23:52 Débat de pauvres ? Europe, États-Unis et modèle libéral
-27:46 Redistribution : « des cadeaux pour les plus riches »
-
-***SUIVEZ-MOI SUR***
-- Twitch : https://twitch.tv/ALeaument
-- Tiktok : https://www.tiktok.com/@aleaument
-- Facebook : https://www.facebook.com/ALeaument/
-- Twitter : https://twitter.com/ALeaument
-- Discord : https://discord.gg/w83JavD
-- Instagram : https://www.instagram.com/aleaument/
-- Snapchat : @ALeaument
-- Youtube (pour vous abonner) : http://bit.ly/2gbk7cm
-- Whatsapp : https://whatsapp.com/channel/0029VaCUZ4U2Jl8JGtMZfK1J
-- Linkedin : https://www.linkedin.com/in/aleaument/</description>
-      <channelTitle>Antoine Léaument</channelTitle>
-      <videoId>tWrvL3Ao3MU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/tWrvL3Ao3MU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Total se gave sur le dos des gens !</title>
