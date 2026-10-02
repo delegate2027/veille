@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 02 Oct 2026 10:45:32 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:00:59 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Budget 2027 : un 0 pointé / soutien aux revendications des lycéens [mon 8h30 France info]</title>
@@ -103,6 +103,36 @@ Il a également réagi à la présentation du budget 2027 et aux révélations d
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>wPwTkuiHZOI</videoId>
       <enclosure url="https://i.ytimg.com/vi/wPwTkuiHZOI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Macron Pyromane ! – En Campagne #4</title>
+      <link>https://www.youtube.com/watch?v=uBp5o1d84O4</link>
+      <guid>https://www.youtube.com/watch?v=uBp5o1d84O4</guid>
+      <pubDate>2026-10-02T08:38:12+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Rendez-vous ce vendredi 02 octobre à 19h pour suivre l'émission En Campagne de Mathilde Panot.
+
+Avec Hadrien Clouet, Anne Stambach-Terrenoir, Bérenger Cernon, Gaspard d'Allens, Sébastien Delavoux, Smael Afnaï, Sylvain Noël et Youssef Zayed.
+
+#EnCampagne
+
+_________________________________________________ 
+
+Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
+
+☞ X (Twitter) : https://x.com/FiAssemblee
+☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
+☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
+☞ YouTube :  / @FranceinsoumiseAN
+☞ Instagram : https://instagram.com/FranceinsoumiseAN/
+☞ Threads : https://www.threads.net/@FranceinsoumiseAN
+☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
+☞ Telegram : https://t.me/FranceinsoumiseAN
+
+Abonnez-vous !</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>uBp5o1d84O4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/uBp5o1d84O4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY est l'invité de PASCAL PRAUD sur CNEWS !</title>
@@ -1790,21 +1820,6 @@ Sommaire :
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>jkIdTMUcCMg</videoId>
       <enclosure url="https://i.ytimg.com/vi/jkIdTMUcCMg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fabien Roussel sur France Inter : « Cette envie de se révolter est normale »</title>
-      <link>https://www.youtube.com/watch?v=DrNE49YMkAQ</link>
-      <guid>https://www.youtube.com/watch?v=DrNE49YMkAQ</guid>
-      <pubDate>2026-09-21T06:37:25+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Fabien Roussel était l’invité de France Inter ce dimanche 21 septembre.
-
-Guerre en Ukraine, flambée des prix de l’énergie et des carburants, budget Lecornu, pouvoir d’achat : Fabien Roussel appelle la France à reprendre l’initiative diplomatique et à changer radicalement de politique économique.
-
-Face à la hausse des prix et à un budget qui demande encore des sacrifices aux retraités, aux fonctionnaires, aux malades et aux collectivités, Fabien Roussel alerte sur la colère qui monte dans le pays : « Cette envie de se révolter, elle est sincère et elle est normale. »</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>DrNE49YMkAQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DrNE49YMkAQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
