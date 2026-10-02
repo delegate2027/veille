@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 02 Oct 2026 08:30:54 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:45:36 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY est l'invité de PASCAL PRAUD sur CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=WgC3CUjujT4</link>
+      <guid>https://www.youtube.com/watch?v=WgC3CUjujT4</guid>
+      <pubDate>2026-10-02T08:34:48+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>WgC3CUjujT4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WgC3CUjujT4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Portrait de François Ruffin, par l'ESSEC Business School</title>
       <link>https://www.youtube.com/watch?v=Hmf6yj2kPUs</link>
@@ -505,19 +518,6 @@ LFI doit payer les dégâts, les élus impliqués doivent être poursuivis et la
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>uS52TjHwxrA</videoId>
       <enclosure url="https://i.ytimg.com/vi/uS52TjHwxrA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ALEKSANDAR NIKOLIC est l'invité de FRANCE INFO !</title>
-      <link>https://www.youtube.com/watch?v=ItOxUwJmKTo</link>
-      <guid>https://www.youtube.com/watch?v=ItOxUwJmKTo</guid>
-      <pubDate>2026-10-01T12:30:53+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>ItOxUwJmKTo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ItOxUwJmKTo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Lycées mobilisés, Bardella, budget : Les Grandes Gueules avec Clémence Guetté</title>
