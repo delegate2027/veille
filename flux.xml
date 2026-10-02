@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 02 Oct 2026 09:01:01 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:15:33 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Marie-Charlotte Garin : "Pas de loi intégrale sans budget intégral"</title>
+      <link>https://www.youtube.com/watch?v=wPwTkuiHZOI</link>
+      <guid>https://www.youtube.com/watch?v=wPwTkuiHZOI</guid>
+      <pubDate>2026-10-02T09:10:08+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>wPwTkuiHZOI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/wPwTkuiHZOI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY est l'invité de PASCAL PRAUD sur CNEWS !</title>
       <link>https://www.youtube.com/watch?v=WgC3CUjujT4</link>
@@ -568,7 +579,7 @@ Je suis venu leur témoigner notre soutien, celui de LFI et de Jean-Luc Mélench
       <enclosure url="https://i.ytimg.com/vi/RyvWI8eT6PI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Retraites : il n'y a pas de plan B.</title>
+      <title>Retraites, dette, lycées : je réponds sur TF1.</title>
       <link>https://www.youtube.com/watch?v=FOLpZ_w5Kmc</link>
       <guid>https://www.youtube.com/watch?v=FOLpZ_w5Kmc</guid>
       <pubDate>2026-10-01T06:44:50+00:00</pubDate>
@@ -1825,31 +1836,6 @@ Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.c
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>rnbK4Bij_aE</videoId>
       <enclosure url="https://i.ytimg.com/vi/rnbK4Bij_aE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>UR 2026 : Villages Démocrates : construisons ensemble !</title>
-      <link>https://www.youtube.com/watch?v=N4XE0bJkJLQ</link>
-      <guid>https://www.youtube.com/watch?v=N4XE0bJkJLQ</guid>
-      <pubDate>2026-09-20T12:57:36+00:00</pubDate>
-      <author>MoDem</author>
-      <description>🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/universite-de-rentree/ur-2026-villages-democrates-construisons-ensemble-image-8496-image
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-X : https://x.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/
-Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
-LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
-Telegram : @MouvementDemocrate</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>N4XE0bJkJLQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/N4XE0bJkJLQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
