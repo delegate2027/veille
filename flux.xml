@@ -4,8 +4,36 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 02 Oct 2026 14:45:34 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:01:06 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>🔴 En Campagne ! Épisode 4 – Macron pyromane.</title>
+      <link>https://www.youtube.com/watch?v=Mx2S9iwsgYs</link>
+      <guid>https://www.youtube.com/watch?v=Mx2S9iwsgYs</guid>
+      <pubDate>2026-10-02T14:42:30+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>À suivre à 19H avec Mathilde Panot, Bérenger Cernon, Hadrien Clouet, Anne Stambach-Terrenoir, Gaspard d'Allens, Sébastien Delavoux, Smael Afnaï, Sylvain Noël et Youssef Zayed.
+
+#EnCampagne
+
+_________________________________________________ 
+
+Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
+
+☞ X (Twitter) : https://x.com/FiAssemblee
+☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
+☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
+☞ YouTube :  / @FranceinsoumiseAN
+☞ Instagram : https://instagram.com/FranceinsoumiseAN/
+☞ Threads : https://www.threads.net/@FranceinsoumiseAN
+☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
+☞ Telegram : https://t.me/FranceinsoumiseAN
+
+Abonnez-vous !</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>Mx2S9iwsgYs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Mx2S9iwsgYs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ALEKSANDAR NIKOLIC est face à ALMA DUFOUR sur FRANCE INFO !</title>
       <link>https://www.youtube.com/watch?v=DvHTKgexVVw</link>
@@ -602,25 +630,6 @@ LFI doit payer les dégâts, les élus impliqués doivent être poursuivis et la
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>OTLShYcaX8o</videoId>
       <enclosure url="https://i.ytimg.com/vi/OTLShYcaX8o/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 IL FAUT ÉCOUTER LES LYCÉENS ET CESSER LA RÉPRESSION</title>
-      <link>https://www.youtube.com/watch?v=o14K8c_3D3A</link>
-      <guid>https://www.youtube.com/watch?v=o14K8c_3D3A</guid>
-      <pubDate>2026-10-01T13:49:20+00:00</pubDate>
-      <author>Paul Vannier</author>
-      <description>Paul Vannier, député du Val-d'Oise, était sur LCI en direct de l'Assemblée nationale ce jeudi 1er octobre 2026 pour évoquer la mobilisation des lycéens qui a lieu partout dans le pays depuis le début de la semaine.
-
-📲 RETROUVEZ PAUL VANNIER SUR :
-
-🔗 Telegram : https://t.me/paulvannier
-🔗 Facebook : https://bit.ly/3PD1FZ1
-🔗 Twitter : https://twitter.com/PaulVannierFI
-🔗 Instagram : https://www.instagram.com/paulvannier_/
-🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
-      <channelTitle>Paul Vannier</channelTitle>
-      <videoId>o14K8c_3D3A</videoId>
-      <enclosure url="https://i.ytimg.com/vi/o14K8c_3D3A/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Lycées mobilisés, Bardella, budget : Les Grandes Gueules avec Clémence Guetté</title>
