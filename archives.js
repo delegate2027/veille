@@ -39,12 +39,14 @@ function parseArchive(xml) {
   return result;
 }
 
+/* La description est cherchee comme le titre : elle est affichee dans la
+   fiche, un mot qui n'y figure que la ne serait pas trouvable. */
 function matchesFilter(item, needle) {
   var haystack;
 
   if (!needle) return true;
 
-  haystack = lower(item.title + " " + item.author + " " + item.link);
+  haystack = lower(item.title + " " + item.author + " " + item.description + " " + item.link);
   return haystack.indexOf(needle) !== -1;
 }
 
@@ -171,13 +173,20 @@ function isArchiveStale() {
 
 function initArchiveFilter() {
   var input = document.getElementById("archiveFilter");
+  var refresh;
 
   if (!input) return;
 
-  input.onkeyup = function() {
+  refresh = function() {
     if (!archiveLoaded) return;
     renderArchive();
   };
+
+  /* oninput reagit aussi au collage et aux claviers mobiles, que onkeyup
+     laisse passer : coller un terme sans presser de touche ne mettait
+     rien a jour. */
+  if ("oninput" in input) input.oninput = refresh;
+  else input.onkeyup = refresh;
 }
 
 /* Place le curseur dans le champ a l'ouverture de l'onglet : rien n'est liste
