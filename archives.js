@@ -180,4 +180,14 @@ function initArchiveFilter() {
   };
 }
 
+/* Place le curseur dans le champ a l'ouverture de l'onglet : rien n'est liste
+   tant qu'un terme n'est pas saisi, autant proposer directement le clavier.
+   Appele au clic uniquement, pour ne pas ouvrir le clavier sur mobile au
+   chargement d'une URL contenant #archives. */
+function focusArchiveFilter() {
+  var input = document.getElementById("archiveFilter");
+
+  if (input && input.focus) input.focus();
+}
+
 initArchiveFilter();
