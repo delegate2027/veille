@@ -63,15 +63,18 @@ function capitalizeWords(str) {
   return result.join(" ");
 }
 
+/* Format unique pour le flux, les archives et la date de mise a jour :
+   l'annee est necessaire car les archives couvrent plusieurs mois. */
 function formatDate(dateText) {
-  var d = new Date(dateText), day, month, hour, minute;
+  var d = new Date(dateText), day, month, year, hour, minute;
   if (isNaN(d.getTime())) return "";
   day = d.getDate();
   month = d.getMonth() + 1;
+  year = d.getFullYear();
   hour = d.getHours();
   minute = d.getMinutes();
   return (day < 10 ? "0" : "") + day + "/" +
-         (month < 10 ? "0" : "") + month + " " +
+         (month < 10 ? "0" : "") + month + "/" + year + " " +
          (hour < 10 ? "0" : "") + hour + ":" +
          (minute < 10 ? "0" : "") + minute;
 }
@@ -161,8 +164,9 @@ function buildItemElement(item) {
 
   div.innerHTML = html;
 
+  var videoLink = div.getElementsByTagName("a")[0];
+
   if (videoId) {
-    var videoLink = div.getElementsByTagName("a")[0];
     videoLink.onclick = function() {
       var existing = findChildByClass(div, "youtube-player");
       var players = document.getElementsByTagName("div");
