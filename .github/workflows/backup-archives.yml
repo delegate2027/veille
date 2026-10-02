@@ -19,11 +19,13 @@ concurrency:
 
 jobs:
   backup:
-    runs-on: ubuntu-latest
+    # Image figee plutot que ubuntu-latest : une sauvegarde ne doit pas voir son
+    # environnement changer sous elle au gres des migrations de GitHub.
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           # Historique complet : la branche de sauvegarde se construit par avance rapide.
           fetch-depth: 0
