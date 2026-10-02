@@ -269,22 +269,22 @@ function getItemElements(feed) {
   return items;
 }
 
-function sortFeed() {
-  var feed = document.getElementById("feed");
-  var items, i;
-  if (!feed) return;
-  items = getItemElements(feed);
-  if (items.length < 2) return;
-  items.sort(function(a, b) {
-    return parseTime(b.getAttribute("data-pubdate")) - parseTime(a.getAttribute("data-pubdate"));
-  });
-  for (i = 0; i < items.length; i++) feed.appendChild(items[i]);
+function appendItem(div) {
+  document.getElementById("feed").appendChild(div);
 }
 
-function appendItem(div, first) {
+function insertItemInOrder(div) {
   var feed = document.getElementById("feed");
-  if (first && feed.firstChild) feed.insertBefore(div, feed.firstChild);
-  else feed.appendChild(div);
+  var existing = getItemElements(feed);
+  var time = parseTime(div.getAttribute("data-pubdate"));
+  var i;
+  for (i = 0; i < existing.length; i++) {
+    if (parseTime(existing[i].getAttribute("data-pubdate")) < time) {
+      feed.insertBefore(div, existing[i]);
+      return;
+    }
+  }
+  feed.appendChild(div);
 }
 
 function loadRSS() {
@@ -306,7 +306,7 @@ function loadRSS() {
       if (renderedLinks[link]) continue;
       renderedLinks[link] = true;
       div = buildItemElement(item);
-      appendItem(div, false);
+      appendItem(div);
     }
   }, null);
 }
@@ -323,9 +323,8 @@ function pollRSS() {
       link = item.link || "#";
       if (renderedLinks[link]) continue;
       renderedLinks[link] = true;
-      appendItem(buildItemElement(item), false);
+      insertItemInOrder(buildItemElement(item));
     }
-    sortFeed();
   }, lastModifiedSeen ? { "If-Modified-Since": lastModifiedSeen } : null);
 }
 
