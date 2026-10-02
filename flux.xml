@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 02 Oct 2026 07:30:45 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:45:36 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>Macron est le responsable de la crise des lycées !</title>
@@ -1086,27 +1086,6 @@ Ca s'appelle le patriarcat ! Nous accueillions à l'Assemblée nationale les col
       <enclosure url="https://i.ytimg.com/vi/0xLvw8iaObA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Troupes en Arabie saoudite : le Parlement doit voter !</title>
-      <link>https://www.youtube.com/watch?v=NSuEVHfqUk4</link>
-      <guid>https://www.youtube.com/watch?v=NSuEVHfqUk4</guid>
-      <pubDate>2026-09-25T15:38:23+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un point à la presse, le 25 septembre 2026.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>NSuEVHfqUk4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/NSuEVHfqUk4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Comment j'ai piégé les médias des milliardaires !</title>
       <link>https://www.youtube.com/watch?v=_-lX1XD_tNE</link>
       <guid>https://www.youtube.com/watch?v=_-lX1XD_tNE</guid>
@@ -1910,6 +1889,31 @@ Telegram : @MouvementDemocrate</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>yMCBlgYl-Fc</videoId>
       <enclosure url="https://i.ytimg.com/vi/yMCBlgYl-Fc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UR 2026 : Revivez le discours de clôture de Marc Fesneau</title>
+      <link>https://www.youtube.com/watch?v=P1DrZzGVZOs</link>
+      <guid>https://www.youtube.com/watch?v=P1DrZzGVZOs</guid>
+      <pubDate>2026-09-20T12:00:06+00:00</pubDate>
+      <author>MoDem</author>
+      <description>🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/universite-de-rentree/ur-2026-revivez-le-discours-de-cloture-de-marc-fesneau-video-8500-video
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+X : https://x.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/
+Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
+LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
+Telegram : @MouvementDemocrate</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>P1DrZzGVZOs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/P1DrZzGVZOs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
