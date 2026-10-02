@@ -88,17 +88,27 @@ function getVisibleArchiveItems(needle) {
   return visible;
 }
 
+/* Aucune liste n'est affichee au repos : seules les entrees correspondant
+   a une recherche saisie sont montrees. */
 function renderArchive() {
   var container = document.getElementById("archive");
   var input = document.getElementById("archiveFilter");
   var needle = lower(trimString(input ? input.value : ""));
-  var visible = getVisibleArchiveItems(needle);
+  var visible;
   var i;
 
   container.innerHTML = "";
 
+  if (!needle) {
+    container.innerHTML = '<div class="archive-hint">Saisissez un terme pour rechercher dans les archives.</div>';
+    updateArchiveCount();
+    return;
+  }
+
+  visible = getVisibleArchiveItems(needle);
+
   if (!visible.length) {
-    container.innerHTML = '<div class="error">Aucune entrée ne correspond à ce filtre.</div>';
+    container.innerHTML = '<div class="error">Aucune entrée ne correspond à cette recherche.</div>';
     updateArchiveCount(0);
     return;
   }
@@ -171,6 +181,7 @@ function initArchiveFilter() {
   if (!input) return;
 
   input.onkeyup = function() {
+    if (!archiveLoaded) return;
     renderArchive();
   };
 }

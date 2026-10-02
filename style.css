@@ -230,6 +230,12 @@ a {
   margin: 0 0 12px 0;
 }
 
+.archive-hint {
+  padding: 3px 16px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .archive-filter {
   width: 100%;
   padding: 7px 10px;
