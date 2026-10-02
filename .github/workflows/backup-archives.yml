@@ -1,0 +1,106 @@
+name: backup-archives
+
+# Sauvegarde quotidienne de archives.xml sur une branche dediee.
+# L'archive est deja versionnee dans main a chaque mise a jour du flux ; cette
+# branche fournit une copie independante, restaurable sans toucher au site.
+
+on:
+  schedule:
+    # 03:17 UTC, hors des pointes d'usage de GitHub Actions.
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backup-archives
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Historique complet : la branche de sauvegarde se construit par avance rapide.
+          fetch-depth: 0
+
+      - name: Snapshot and validate archives.xml
+        # L'archive est lue depuis main, jamais depuis le depot de travail : la
+        # branche courante n'a donc aucune influence sur cette etape. Le fichier
+        # de reference est ecrit dans /tmp, qui survit au changement de branche.
+        run: |
+          set -euo pipefail
+
+          if ! git cat-file -e "origin/main:archives.xml" 2>/dev/null; then
+            echo "::error::archives.xml est absent de main, aucune sauvegarde possible."
+            exit 1
+          fi
+
+          git show "origin/main:archives.xml" > /tmp/archives-snapshot.xml
+
+          # Une sauvegarde de donnees corrompues ne vaut rien : on refuse
+          # d'archiver un fichier mal forme, vide ou incomplet.
+          python3 - /tmp/archives-snapshot.xml <<'PY'
+          import sys
+          import xml.etree.ElementTree as ET
+
+          try:
+              root = ET.parse(sys.argv[1]).getroot()
+          except ET.ParseError as e:
+              raise SystemExit(f"::error::archives.xml est mal forme ({e})")
+
+          items = root.findall("./channel/item")
+          links = [i.findtext("link", "").strip() for i in items]
+
+          if not items:
+              raise SystemExit("::error::l'archive ne contient aucun item")
+          if any(not link for link in links):
+              raise SystemExit("::error::l'archive contient un item sans lien")
+
+          print(f"{len(items)} entrees, dont {len(set(links))} liens uniques")
+          PY
+
+      - name: Stage the snapshot
+        run: |
+          set -euo pipefail
+          BRANCH="backup-archives"
+          DATE="$(date -u +%F)"
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
+            echo "Branche existante : ajout d'une sauvegarde datee."
+            git fetch origin "$BRANCH"
+            # -B plutot que -b : l'etape reste idempotente si la branche existe
+            # deja en local. Le push qui suit reste une avance rapide, car la
+            # branche locale est replustee sur la pointe distante.
+            git checkout -B "$BRANCH" "origin/$BRANCH"
+          else
+            echo "Premiere execution : creation d'une branche orpheline."
+            git checkout --orphan "$BRANCH"
+            git rm -r -f --ignore-unmatch . >/dev/null 2>&1 || true
+          fi
+
+          mkdir -p backups
+          cp /tmp/archives-snapshot.xml "backups/archives-${DATE}.xml"
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          BRANCH="backup-archives"
+          DATE="$(date -u +%F)"
+
+          git add "backups/archives-${DATE}.xml"
+
+          if git diff --cached --quiet; then
+            echo "Archive identique a la sauvegarde du ${DATE} : rien a committer."
+            exit 0
+          fi
+
+          git commit -m "Backup archives.xml ${DATE}"
+          git push origin "HEAD:${BRANCH}"
