@@ -47,8 +47,8 @@ var MOIS_FR = {
 };
 
 /* Les caracteres accentues sont ecrits en echappement unicode pour rester
-   dans un fichier ASCII ; sans cela "fevrier" ne reconnaitrait pas
-   "février". */
+   dans un fichier ASCII. Seul le resultat importe : taper "melencon" doit
+   trouver "Mélenchon", comme l'inverse. */
 function sansAccent(str) {
   return lower(str)
     .replace(/[\u00e9\u00e8\u00ea\u00eb]/g, "e")
@@ -56,7 +56,10 @@ function sansAccent(str) {
     .replace(/[\u00ee\u00ef]/g, "i")
     .replace(/[\u00f4\u00f6]/g, "o")
     .replace(/[\u00f9\u00fb\u00fc]/g, "u")
-    .replace(/\u00e7/g, "c");
+    .replace(/\u00e7/g, "c")
+    .replace(/\u00e6/g, "ae")
+    .replace(/\u0153/g, "oe")
+    .replace(/\u00f1/g, "n");
 }
 
 function monthIndex(word) {
@@ -121,20 +124,22 @@ function matchesDate(dateText, token) {
   return mois !== 0 && mois === m;
 }
 
-/* La recherche porte sur le titre, l'auteur, le lien et la date.
+/* La recherche porte sur le titre, l'auteur, le lien et la date, et ignore les
+   accents des deux cotes : taper "melenchon" trouve "Mélenchon".
    La description generee par les flux est trop bavarde et remontait des
    entrees sans rapport avec le terme. */
 function matchesFilter(item, needle) {
-  var tokens, haystack, i;
+  var tokens, haystack, i, texte;
 
   if (!needle) return true;
 
   tokens = splitQuery(needle);
-  haystack = lower(item.title + " " + item.author + " " + item.link);
+  haystack = sansAccent(item.title + " " + item.author + " " + item.link);
 
   for (i = 0; i < tokens.length; i++) {
     if (matchesDate(item.pubDate, tokens[i])) continue;
-    if (haystack.indexOf(tokens[i]) !== -1) continue;
+    texte = sansAccent(tokens[i]);
+    if (haystack.indexOf(texte) !== -1) continue;
     return false;
   }
 
