@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 02 Oct 2026 09:15:33 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:30:53 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>ALEKSANDAR NIKOLIC est face à un JOURNALISTE DE MEDIAPART sur BFM TV !</title>
+      <link>https://www.youtube.com/watch?v=SCVTCcAbEXY</link>
+      <guid>https://www.youtube.com/watch?v=SCVTCcAbEXY</guid>
+      <pubDate>2026-10-02T09:18:00+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>SCVTCcAbEXY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SCVTCcAbEXY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marie-Charlotte Garin : "Pas de loi intégrale sans budget intégral"</title>
       <link>https://www.youtube.com/watch?v=wPwTkuiHZOI</link>
@@ -1823,19 +1836,6 @@ Telegram : @MouvementDemocrate</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>vmDGCpVVc9Y</videoId>
       <enclosure url="https://i.ytimg.com/vi/vmDGCpVVc9Y/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'instant militant : les collectes insoumises ! – En campagne #3</title>
-      <link>https://www.youtube.com/watch?v=rnbK4Bij_aE</link>
-      <guid>https://www.youtube.com/watch?v=rnbK4Bij_aE</guid>
-      <pubDate>2026-09-20T16:00:07+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Avec Margaux Tendy.
-
-Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=yIXOxo0904Y</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>rnbK4Bij_aE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/rnbK4Bij_aE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
