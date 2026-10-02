@@ -5,6 +5,11 @@
 var archiveItems = [];
 var archiveLoaded = false;
 
+/* Revision du flux au moment du dernier chargement. rss.py ecrit flux.xml et
+   archives.xml dans la meme execution : comparer les deux revisions suffit a
+   savoir que l'archive est perimee, sans telecharger le fichier pour le savoir. */
+var archiveFeedRevision = -1;
+
 function parseArchive(xml) {
   var nodes = xml.getElementsByTagName("item");
   var result = [];
@@ -119,6 +124,15 @@ function loadArchive() {
     var xml;
     if (xhr.readyState !== 4) return;
 
+    /* 304 : le serveur confirme que la copie locale est la bonne.
+       Ce n'est pas une erreur, on conserve les donnees deja chargees. */
+    if (xhr.status === 304) {
+      archiveLoaded = true;
+      archiveFeedRevision = feedRevision;
+      renderArchive();
+      return;
+    }
+
     if (xhr.status !== 200 && xhr.status !== 0) {
       container.innerHTML = '<div class="error">Impossible de charger les archives : HTTP ' + xhr.status + '</div>';
       archiveLoaded = true;
@@ -135,6 +149,7 @@ function loadArchive() {
 
     archiveItems = parseArchive(xml);
     archiveLoaded = true;
+    archiveFeedRevision = feedRevision;
     updateArchiveCount();
     renderArchive();
   };
@@ -142,9 +157,16 @@ function loadArchive() {
   xhr.send(null);
 }
 
-/* Charge l'archive seulement si necessaire : le fichier pese ~240 Ko. */
+/* Charge l'archive seulement si necessaire : le fichier pese ~207 Ko et
+   grossit jusqu'au plafond de 2000 entrees. Le rechargement est declenche par
+   un signal, jamais par une horloge : sans changement, aucune requete de plus. */
 function ensureArchiveLoaded(force) {
   if (!archiveLoaded || force) loadArchive();
+}
+
+/* Vrai des que le flux a bouge depuis le dernier chargement de l'archive. */
+function isArchiveStale() {
+  return archiveLoaded && archiveFeedRevision !== feedRevision;
 }
 
 function initArchiveFilter() {

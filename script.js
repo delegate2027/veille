@@ -4,6 +4,11 @@ var lastModifiedSeen = null;
 var currentView = "feed";
 var POLL_INTERVAL = 60000;
 
+/* Incremente uniquement lorsque le flux apporte reellement du nouveau.
+   rss.py ecrivant flux.xml et archives.xml dans la meme execution, ce compteur
+   signale que l'archive est perimee, sans jamais telecharger le fichier. */
+var feedRevision = 0;
+
 function escapeHtml(str) {
   str = String(str || "");
   return str.replace(/&/g, "&amp;")
@@ -306,6 +311,7 @@ function loadRSS() {
     }
     if (data.notModified) return;
     updateStatus(data.lastModified);
+    feedRevision++;
     feed = document.getElementById("feed");
     feed.innerHTML = "";
     for (i = 0; i < data.items.length && i < 100; i++) {
@@ -326,9 +332,11 @@ function pollRSS() {
     if (err || data.notModified) return;
     if (data.lastModified && data.lastModified === lastModifiedSeen) return;
     updateStatus(data.lastModified);
+    feedRevision++;
 
     /* rss.py ecrit flux.xml et archives.xml dans le meme run : l'archive est donc
-       elle aussi perimee. On ne la recharge que si sa vue est ouverte. */
+       elle aussi perimee. On ne la recharge que si sa vue est ouverte ; sinon le
+       passage a l'onglet declenche le rechargement (isArchiveStale). */
     if (currentView === "archives") ensureArchiveLoaded(true);
 
     for (i = 0; i < data.items.length && i < 100; i++) {
@@ -380,7 +388,7 @@ function setView(name) {
   toggleClassName(navArchive, "is-active", name === "archives");
   toggleClassName(counter, "is-hidden", name !== "archives");
 
-  if (name === "archives") ensureArchiveLoaded(false);
+  if (name === "archives") ensureArchiveLoaded(isArchiveStale());
 }
 
 function initViewNav() {
