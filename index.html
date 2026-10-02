@@ -14,7 +14,6 @@
       <h1 class="brand-title">Veille médiatique politique</h1>
       <p class="status">
         <span id="lastUpdate" class="status-text"></span>
-        <span id="archiveCount" class="status-text is-hidden"></span>
       </p>
       <nav class="view-nav">
         <a href="#flux" id="navFeed" class="view-tab">Flux</a>
@@ -31,6 +30,7 @@
     <section id="viewArchive" class="view is-hidden">
       <div class="archive-controls">
         <input id="archiveFilter" class="archive-filter" type="text" placeholder="Filtrer par titre, auteur ou mot-clé…" autocomplete="off">
+        <p class="archive-count status-text" id="archiveCount"></p>
       </div>
       <main id="archive" class="feed">
         <div class="archive-hint">Chargement des archives…</div>

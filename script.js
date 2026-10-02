@@ -84,6 +84,12 @@ function parseTime(value) {
   return isNaN(time) ? 0 : time;
 }
 
+/* Ordre unique partage par le flux et les archives : le plus recent d'abord.
+   Les deux vues passent par ce comparateur, elles ne peuvent donc pas diverger. */
+function compareByDateDesc(a, b) {
+  return parseTime(b.pubDate) - parseTime(a.pubDate);
+}
+
 function extractVideoId(link) {
   var m;
   m = String(link || "").match(/[?&]v=([A-Za-z0-9_-]{6,})/);
@@ -112,9 +118,7 @@ function getItemsFromXml(xml) {
       pubDate: getTagText(node, "pubDate")
     });
   }
-  result.sort(function(a, b) {
-    return parseTime(b.pubDate) - parseTime(a.pubDate);
-  });
+  result.sort(compareByDateDesc);
   return result;
 }
 

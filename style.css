@@ -242,6 +242,12 @@ a {
   color: var(--muted);
 }
 
+/* Nombre d'entrees, place sous la barre de recherche.
+   La typographie vient de .status-text, partagee avec la ligne d'etat du header. */
+.archive-count {
+  margin: 6px 0 0 0;
+}
+
 /* Identification discrète des sources par une simple pastille de couleur. */
 
 .author::before {
