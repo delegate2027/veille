@@ -6,7 +6,10 @@ from email.utils import formatdate
 from pathlib import Path
 
 OUTPUT_FILE = "flux.xml"
+ARCHIVE_FILE = "archives.xml"
 MAX_ENTRIES_PER_FEED = 10
+MAX_ENTRIES_FEED = 100
+MAX_ENTRIES_ARCHIVE = 2000
 
 FEEDS = {
     "LFI": [
@@ -125,12 +128,12 @@ def get_meetings_entries():
         return []
 
 
-def build_xml(entries):
+def build_xml(entries, title="YouTube Aggregated Feed", description="Flux RSS agrégé YouTube"):
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
 
-    ET.SubElement(channel, "title").text = "YouTube Aggregated Feed"
-    ET.SubElement(channel, "description").text = "Flux RSS agrégé YouTube"
+    ET.SubElement(channel, "title").text = title
+    ET.SubElement(channel, "description").text = description
     ET.SubElement(channel, "link").text = "https://youtube.com"
     ET.SubElement(channel, "lastBuildDate").text = formatdate()
     ET.SubElement(channel, "feedCount").text = str(len(RSS_FEEDS))
@@ -146,17 +149,106 @@ def build_xml(entries):
         ET.SubElement(item, "description").text = entry.get("summary", "")
         ET.SubElement(item, "channelTitle").text = entry.get("author", "")
 
-        if "yt_videoid" in entry:
-            ET.SubElement(item, "videoId").text = entry.yt_videoid
+        video_id = entry.get("yt_videoid") or entry.get("video_id")
+
+        if video_id:
+            ET.SubElement(item, "videoId").text = video_id
 
             thumbnail = ET.SubElement(item, "enclosure")
             thumbnail.set(
                 "url",
-                f"https://i.ytimg.com/vi/{entry.yt_videoid}/maxresdefault.jpg",
+                f"https://i.ytimg.com/vi/{video_id}/maxresdefault.jpg",
             )
             thumbnail.set("type", "image/jpeg")
 
     return ET.ElementTree(rss)
+
+
+def entry_timestamp(entry):
+    parsed = entry.get("published_parsed")
+
+    if parsed is None:
+        return datetime.now(timezone.utc).timetuple()
+
+    return parsed
+
+
+def load_archive():
+    """Relit l'archive existante et renvoie ses entrées sous forme de dictionnaire."""
+    archive_path = Path(ARCHIVE_FILE)
+
+    if not archive_path.exists():
+        return {}
+
+    try:
+        parsed = feedparser.parse(str(archive_path))
+    except Exception as e:
+        print(f"Erreur lors de la lecture de {ARCHIVE_FILE} : {e}")
+        return {}
+
+    archive = {}
+
+    for entry in parsed.entries:
+        link = entry.get("link", "")
+
+        if link:
+            archive[link] = {
+                "title": entry.get("title", ""),
+                "link": link,
+                "published": entry.get("published", ""),
+                "author": entry.get("author", ""),
+                "summary": entry.get("summary", ""),
+                "video_id": entry.get("yt_videoid", ""),
+                "timestamp": entry_timestamp(entry),
+            }
+
+    return archive
+
+
+def update_archive(entries):
+    """Ajoute les nouvelles entrées à l'archive et écarte les doublons (même lien)."""
+    archive = load_archive()
+    new_items = 0
+
+    for entry in entries:
+        link = entry.get("link", "")
+
+        if not link or link in archive:
+            continue
+
+        archive[link] = {
+            "title": entry.get("title", ""),
+            "link": link,
+            "published": entry.get("published", ""),
+            "author": entry.get("author", ""),
+            "summary": entry.get("summary", ""),
+            "video_id": entry.get("yt_videoid", ""),
+            "timestamp": entry_timestamp(entry),
+        }
+        new_items += 1
+
+    ordered = sorted(
+        archive.values(),
+        key=lambda x: x["timestamp"],
+        reverse=True,
+    )[:MAX_ENTRIES_ARCHIVE]
+
+    tree = build_xml(
+        ordered,
+        title="Veille médiatique politique — archives",
+        description="Archive historique de toutes les entrées déjà vues",
+    )
+    ET.indent(tree, space="  ")
+    tree.write(
+        ARCHIVE_FILE,
+        encoding="utf-8",
+        xml_declaration=True,
+    )
+
+    print(
+        f"Fichier créé : {ARCHIVE_FILE} "
+        f"({len(ordered)} entrées, {new_items} nouvelle(s))"
+    )
 
 
 def main():
@@ -183,14 +275,13 @@ def main():
         print(f"Avertissement : {errors} flux inaccessibles sur {len(RSS_FEEDS)}")
 
     all_entries.sort(
-        key=lambda x: x.get(
-            "published_parsed",
-            datetime.now(timezone.utc).timetuple(),
-        ),
+        key=entry_timestamp,
         reverse=True,
     )
 
-    all_entries = all_entries[:100]
+    update_archive(all_entries)
+
+    all_entries = all_entries[:MAX_ENTRIES_FEED]
 
     tree = build_xml(all_entries)
     ET.indent(tree, space="  ")

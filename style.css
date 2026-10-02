@@ -193,6 +193,47 @@ a {
   height: 1px;
 }
 
+/* Archives */
+
+.archive-nav {
+  margin: 0 0 10px 0;
+  font-size: 12px;
+}
+
+.archive-nav a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.archive-nav a:hover {
+  color: var(--ink);
+  text-decoration: underline;
+}
+
+.archive-controls {
+  margin: 0 0 12px 0;
+}
+
+.archive-filter {
+  width: 100%;
+  padding: 7px 10px;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  background: transparent;
+  color: var(--ink);
+  font-family: inherit;
+  font-size: 13px;
+}
+
+.archive-filter:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.archive-filter::placeholder {
+  color: var(--muted);
+}
+
 /* Identification discrète des sources par une simple pastille de couleur. */
 
 .author::before {
