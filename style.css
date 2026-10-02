@@ -49,54 +49,32 @@ a {
   padding: 6px 20px 48px 20px;
 }
 
-/* Header */
+/* Header : un seul systeme typographique pour le titre, la ligne d'etat et les onglets. */
 
 .header {
   margin-bottom: 5px;
 }
 
 .brand-title {
-  margin: 0 0 2px 0;
+  margin: 0 0 6px 0;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: -0.01em;
 }
 
 .status {
-  margin: 0 0 8px 0;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 4px;
-}
-
-.pill-group {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 4px;
+  gap: 4px 10px;
+  margin: 0 0 10px 0;
 }
 
-.pill {
-  display: inline-flex;
-  align-items: center;
-  padding: 3px 9px;
-  border-radius: 999px;
-  font-size: 10px;
-  font-weight: 600;
-  letter-spacing: 0.01em;
-  color: var(--on-accent);
-  line-height: 1.1;
-  white-space: nowrap;
-}
-
-.pill-update {
-  background: none;
-  padding: 0;
-  border: none;
+/* Memes attributs pour la date de mise a jour et le compteur d'archives. */
+.status-text {
   color: var(--muted);
-  font-weight: 400;
-  font-size: 10px;
+  font-size: 11px;
+  letter-spacing: 0.02em;
 }
 
 /* Feed */
@@ -206,7 +184,8 @@ a {
   border: 1px solid var(--line);
   border-radius: 3px;
   color: var(--muted);
-  font-size: 12px;
+  font-size: 11px;
+  letter-spacing: 0.02em;
   text-decoration: none;
 }
 
@@ -220,7 +199,7 @@ a {
 }
 
 .view.is-hidden,
-.pill.is-hidden {
+.status-text.is-hidden {
   display: none;
 }
 
