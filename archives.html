@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Archive de la veille médiatique politique — toutes les entrées déjà détectées.">
+  <link rel="icon" type="image/png" href="favicon/favicon_16x16.png">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Archives — Veille médiatique politique</title>
+</head>
+<body>
+  <div id="page">
+    <header class="header">
+      <h1 class="brand-title">Archives</h1>
+      <p class="status">
+        <span class="pill-group">
+          <span id="archiveCount" class="pill pill-update"></span>
+        </span>
+      </p>
+      <p class="archive-nav">
+        <a href="index.html">&larr; Retour au flux</a>
+      </p>
+    </header>
+
+    <div class="archive-controls">
+      <input id="archiveFilter" class="archive-filter" type="text" placeholder="Filtrer par titre, auteur ou mot-clé…" autocomplete="off">
+    </div>
+
+    <main id="archive" class="feed">
+      <div class="loading">Chargement des archives…</div>
+    </main>
+
+    <div class="footer"></div>
+  </div>
+  <script type="text/javascript" src="archives.js"></script>
+</body>
+</html>
