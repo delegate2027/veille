@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 02 Oct 2026 09:30:53 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:45:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>🔴 Nous censurerons ce gouvernement et son budget ! Je fais le point sur BFM business</title>
+      <link>https://www.youtube.com/watch?v=9FSLLF7Q5NM</link>
+      <guid>https://www.youtube.com/watch?v=9FSLLF7Q5NM</guid>
+      <pubDate>2026-10-02T09:45:24+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description />
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>9FSLLF7Q5NM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/9FSLLF7Q5NM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EN DIRECT - Réunion publique de Raphaël Glucksmann à Marseille - 5 octobre 2026</title>
+      <link>https://www.youtube.com/watch?v=dbKNpzq0vkc</link>
+      <guid>https://www.youtube.com/watch?v=dbKNpzq0vkc</guid>
+      <pubDate>2026-10-02T09:41:21+00:00</pubDate>
+      <author>Raphaël Glucksmann</author>
+      <description>Réunion publique de Raphaël Glucksmann à Marseille - 5 octobre 2026</description>
+      <channelTitle>Raphaël Glucksmann</channelTitle>
+      <videoId>dbKNpzq0vkc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dbKNpzq0vkc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ALEKSANDAR NIKOLIC est face à un JOURNALISTE DE MEDIAPART sur BFM TV !</title>
       <link>https://www.youtube.com/watch?v=SCVTCcAbEXY</link>
@@ -1795,47 +1817,6 @@ Sommaire :
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>jkIdTMUcCMg</videoId>
       <enclosure url="https://i.ytimg.com/vi/jkIdTMUcCMg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fabien Roussel sur France Inter : « Cette envie de se révolter est normale »</title>
-      <link>https://www.youtube.com/watch?v=DrNE49YMkAQ</link>
-      <guid>https://www.youtube.com/watch?v=DrNE49YMkAQ</guid>
-      <pubDate>2026-09-21T06:37:25+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Fabien Roussel était l’invité de France Inter ce dimanche 21 septembre.
-
-Guerre en Ukraine, flambée des prix de l’énergie et des carburants, budget Lecornu, pouvoir d’achat : Fabien Roussel appelle la France à reprendre l’initiative diplomatique et à changer radicalement de politique économique.
-
-Face à la hausse des prix et à un budget qui demande encore des sacrifices aux retraités, aux fonctionnaires, aux malades et aux collectivités, Fabien Roussel alerte sur la colère qui monte dans le pays : « Cette envie de se révolter, elle est sincère et elle est normale. »</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>DrNE49YMkAQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DrNE49YMkAQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>UR2026</title>
-      <link>https://www.youtube.com/watch?v=vmDGCpVVc9Y</link>
-      <guid>https://www.youtube.com/watch?v=vmDGCpVVc9Y</guid>
-      <pubDate>2026-09-20T23:30:44+00:00</pubDate>
-      <author>MoDem</author>
-      <description>UR2026
-
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-X : https://x.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/
-Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
-LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
-Telegram : @MouvementDemocrate</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>vmDGCpVVc9Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vmDGCpVVc9Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
