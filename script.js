@@ -405,6 +405,9 @@ function initViewNav() {
   if (navArchive) {
     navArchive.onclick = function() {
       setView("archives");
+      /* Le focus vient apres setView : le champ est masque tant que la vue
+         archives ne porte plus is-hidden, et un element invisible ne le prend pas. */
+      focusArchiveFilter();
       return false;
     };
   }
