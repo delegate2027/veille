@@ -213,7 +213,8 @@ a {
 /* Archives */
 
 .archive-controls {
-  margin: 0 0 12px 0;
+  /* Un peu d'air au-dessus : la zone de recherche ne colle plus au titre. */
+  margin: 10px 0 12px 0;
 }
 
 .archive-hint {
@@ -242,10 +243,11 @@ a {
   color: var(--muted);
 }
 
-/* Nombre d'entrees, place sous la barre de recherche.
+/* Nombre d'entrees, place sous la barre de recherche et aligne a droite.
    La typographie vient de .status-text, partagee avec la ligne d'etat du header. */
 .archive-count {
   margin: 6px 0 0 0;
+  text-align: right;
 }
 
 /* Identification discrète des sources par une simple pastille de couleur. */
