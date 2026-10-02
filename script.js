@@ -1,6 +1,7 @@
 /* JavaScript volontairement compatible avec la syntaxe/ecosysteme des annees 1990-2000. */
 var renderedLinks = {};
 var lastModifiedSeen = null;
+var currentView = "feed";
 var POLL_INTERVAL = 60000;
 
 function escapeHtml(str) {
@@ -317,6 +318,11 @@ function pollRSS() {
     if (err || data.notModified) return;
     if (data.lastModified && data.lastModified === lastModifiedSeen) return;
     updateStatus(data.lastModified);
+
+    /* rss.py ecrit flux.xml et archives.xml dans le meme run : l'archive est donc
+       elle aussi perimee. On ne la recharge que si sa vue est ouverte. */
+    if (currentView === "archives") ensureArchiveLoaded(true);
+
     for (i = 0; i < data.items.length && i < 100; i++) {
       item = data.items[i];
       if (isShort(item.title, item.link, item.description)) continue;
@@ -328,5 +334,68 @@ function pollRSS() {
   }, lastModifiedSeen ? { "If-Modified-Since": lastModifiedSeen } : null);
 }
 
+/* Bascule entre la vue Flux et la vue Archives. */
+
+function hasClassName(el, cls) {
+  return (" " + el.className + " ").indexOf(" " + cls + " ") !== -1;
+}
+
+function toggleClassName(el, cls, add) {
+  var current;
+
+  if (!el) return;
+
+  current = trimString(el.className);
+
+  if (add && !hasClassName(el, cls)) {
+    el.className = trimString(current + " " + cls);
+  } else if (!add && hasClassName(el, cls)) {
+    el.className = trimString((" " + current + " ").replace(" " + cls + " ", " "));
+  }
+}
+
+function setView(name) {
+  var feedView = document.getElementById("viewFeed");
+  var archiveView = document.getElementById("viewArchive");
+  var navFeed = document.getElementById("navFeed");
+  var navArchive = document.getElementById("navArchive");
+  var counter = document.getElementById("archiveCount");
+
+  if (!feedView || !archiveView) return;
+
+  if (name !== "archives") name = "feed";
+  currentView = name;
+
+  toggleClassName(feedView, "is-hidden", name === "archives");
+  toggleClassName(archiveView, "is-hidden", name !== "archives");
+  toggleClassName(navFeed, "is-active", name === "feed");
+  toggleClassName(navArchive, "is-active", name === "archives");
+  toggleClassName(counter, "is-hidden", name !== "archives");
+
+  if (name === "archives") ensureArchiveLoaded(false);
+}
+
+function initViewNav() {
+  var navFeed = document.getElementById("navFeed");
+  var navArchive = document.getElementById("navArchive");
+
+  if (navFeed) {
+    navFeed.onclick = function() {
+      setView("feed");
+      return false;
+    };
+  }
+
+  if (navArchive) {
+    navArchive.onclick = function() {
+      setView("archives");
+      return false;
+    };
+  }
+
+  setView(lower(window.location.hash || "") === "#archives" ? "archives" : "feed");
+}
+
+initViewNav();
 loadRSS();
 window.setInterval(pollRSS, POLL_INTERVAL);

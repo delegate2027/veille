@@ -1,30 +1,11 @@
-/* Page d'archives : lit archives.xml, dedoublonne par lien et affiche une liste simple. */
+/* Vue archives de la page unique : lit archives.xml, dedoublonne par lien,
+   affiche une liste simple et la filtre a la demande.
+   Les helpers (escapeHtml, trimString, lower, parseTime, getTagText) viennent de script.js. */
 var archiveItems = [];
-var archiveFilterText = "";
+var archiveLoaded = false;
 
-function escapeHtml(str) {
-  str = String(str || "");
-  return str.replace(/&/g, "&amp;")
-            .replace(/</g, "&lt;")
-            .replace(/>/g, "&gt;")
-            .replace(/"/g, "&quot;")
-            .replace(/'/g, "&#39;");
-}
-
-function trimString(str) {
-  return String(str || "").replace(/^\s+|\s+$/g, "");
-}
-
-function lower(str) {
-  return String(str || "").toLowerCase();
-}
-
-function parseTime(value) {
-  var time = new Date(value || "").getTime();
-  return isNaN(time) ? 0 : time;
-}
-
-function formatDate(dateText) {
+/* L'archive couvre plusieurs mois : on garde l'annee, contrairement a formatDate du flux. */
+function formatFullDate(dateText) {
   var d = new Date(dateText), day, month, year, hour, minute;
   if (isNaN(d.getTime())) return "";
   day = d.getDate();
@@ -37,12 +18,6 @@ function formatDate(dateText) {
          " " +
          (hour < 10 ? "0" : "") + hour + ":" +
          (minute < 10 ? "0" : "") + minute;
-}
-
-function getTagText(node, tagName) {
-  var nodes = node.getElementsByTagName(tagName);
-  if (!nodes || !nodes.length) return "";
-  return trimString(nodes[0].textContent || nodes[0].innerText || "");
 }
 
 function parseArchive(xml) {
@@ -74,8 +49,7 @@ function parseArchive(xml) {
   return result;
 }
 
-function matchesFilter(item) {
-  var needle = lower(archiveFilterText);
+function matchesFilter(item, needle) {
   var haystack;
 
   if (!needle) return true;
@@ -84,7 +58,7 @@ function matchesFilter(item) {
   return haystack.indexOf(needle) !== -1;
 }
 
-function buildRow(item) {
+function buildArchiveRow(item) {
   var div = document.createElement("div");
   var author = trimString(item.author);
   var html;
@@ -95,7 +69,7 @@ function buildRow(item) {
 
   html = '<div class="top">' +
            '<span class="author">' + escapeHtml(author || "Auteur") + '</span>' +
-           '<span class="date">' + escapeHtml(formatDate(item.pubDate)) + '</span>' +
+           '<span class="date">' + escapeHtml(formatFullDate(item.pubDate)) + '</span>' +
          '</div>' +
          '<div class="title"><a href="' + escapeHtml(item.link) + '" target="_blank">' + escapeHtml(item.title) + '</a></div>';
 
@@ -103,37 +77,53 @@ function buildRow(item) {
   return div;
 }
 
-function renderArchive() {
-  var container = document.getElementById("archive");
+function getVisibleArchiveItems(needle) {
   var visible = [];
-  var i, item;
+  var i;
 
   for (i = 0; i < archiveItems.length; i++) {
-    if (matchesFilter(archiveItems[i])) visible.push(archiveItems[i]);
+    if (matchesFilter(archiveItems[i], needle)) visible.push(archiveItems[i]);
   }
+
+  return visible;
+}
+
+function renderArchive() {
+  var container = document.getElementById("archive");
+  var input = document.getElementById("archiveFilter");
+  var needle = lower(trimString(input ? input.value : ""));
+  var visible = getVisibleArchiveItems(needle);
+  var i;
 
   container.innerHTML = "";
 
   if (!visible.length) {
     container.innerHTML = '<div class="error">Aucune entrée ne correspond à ce filtre.</div>';
+    updateArchiveCount(0);
     return;
   }
 
   for (i = 0; i < visible.length; i++) {
-    container.appendChild(buildRow(visible[i]));
+    container.appendChild(buildArchiveRow(visible[i]));
   }
+
+  updateArchiveCount(visible.length);
 }
 
-function updateCount(visible) {
+function updateArchiveCount(visible) {
   var counter = document.getElementById("archiveCount");
   var total = archiveItems.length;
+  var text;
+
+  if (!counter) return;
 
   if (typeof visible === "undefined") {
-    counter.innerHTML = total + (total > 1 ? " entrées archivées" : " entrée archivée");
-    return;
+    text = total + (total > 1 ? " entrées archivées" : " entrée archivée");
+  } else {
+    text = visible + " / " + total + " entrées";
   }
 
-  counter.innerHTML = visible + " / " + total + " entrées";
+  counter.innerHTML = text;
 }
 
 function loadArchive() {
@@ -149,6 +139,7 @@ function loadArchive() {
 
     if (xhr.status !== 200 && xhr.status !== 0) {
       container.innerHTML = '<div class="error">Impossible de charger les archives : HTTP ' + xhr.status + '</div>';
+      archiveLoaded = true;
       return;
     }
 
@@ -156,39 +147,32 @@ function loadArchive() {
       xml = new DOMParser().parseFromString(xhr.responseText, "text/xml");
     } catch (e) {
       container.innerHTML = '<div class="error">Impossible de lire le fichier d’archives.</div>';
+      archiveLoaded = true;
       return;
     }
 
     archiveItems = parseArchive(xml);
-    updateCount();
+    archiveLoaded = true;
+    updateArchiveCount();
     renderArchive();
   };
 
   xhr.send(null);
 }
 
-function initFilter() {
+/* Charge l'archive seulement si necessaire : le fichier pese ~240 Ko. */
+function ensureArchiveLoaded(force) {
+  if (!archiveLoaded || force) loadArchive();
+}
+
+function initArchiveFilter() {
   var input = document.getElementById("archiveFilter");
 
+  if (!input) return;
+
   input.onkeyup = function() {
-    archiveFilterText = lower(trimString(input.value));
     renderArchive();
-    updateCount(getVisibleCount());
   };
 }
 
-function getVisibleCount() {
-  var container = document.getElementById("archive");
-  var items = container.getElementsByTagName("div");
-  var count = 0;
-  var i;
-
-  for (i = 0; i < items.length; i++) {
-    if ((" " + items[i].className + " ").indexOf(" item ") !== -1) count++;
-  }
-
-  return count;
-}
-
-initFilter();
-loadArchive();
+initArchiveFilter();

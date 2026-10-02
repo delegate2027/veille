@@ -193,22 +193,38 @@ a {
   height: 1px;
 }
 
-/* Archives */
+/* Bascule Flux / Archives */
 
-.archive-nav {
-  margin: 0 0 10px 0;
-  font-size: 12px;
+.view-nav {
+  display: flex;
+  gap: 4px;
+  margin: 0 0 8px 0;
 }
 
-.archive-nav a {
+.view-tab {
+  padding: 4px 10px;
+  border: 1px solid var(--line);
+  border-radius: 3px;
   color: var(--muted);
+  font-size: 12px;
   text-decoration: none;
 }
 
-.archive-nav a:hover {
+.view-tab:hover {
   color: var(--ink);
-  text-decoration: underline;
 }
+
+.view-tab.is-active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.view.is-hidden,
+.pill.is-hidden {
+  display: none;
+}
+
+/* Archives */
 
 .archive-controls {
   margin: 0 0 12px 0;
