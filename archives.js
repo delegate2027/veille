@@ -64,7 +64,8 @@ function getVisibleArchiveItems(needle) {
 }
 
 /* Aucune liste n'est affichee au repos : seules les entrees correspondant
-   a une recherche saisie sont montrees. */
+   a une recherche saisie sont montrees. Sans terme saisi, la zone reste vide,
+   l'invite a chercher tenant lieu de message dans le champ lui-meme. */
 function renderArchive() {
   var container = document.getElementById("archive");
   var input = document.getElementById("archiveFilter");
@@ -75,7 +76,6 @@ function renderArchive() {
   container.innerHTML = "";
 
   if (!needle) {
-    container.innerHTML = '<div class="archive-hint">Saisissez un terme pour rechercher dans les archives.</div>';
     updateArchiveCount();
     return;
   }
