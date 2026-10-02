@@ -28,9 +28,8 @@ function parseArchive(xml) {
     });
   }
 
-  result.sort(function(a, b) {
-    return parseTime(b.pubDate) - parseTime(a.pubDate);
-  });
+  /* Tri partage avec le flux (compareByDateDesc) : plus recent d'abord. */
+  result.sort(compareByDateDesc);
 
   return result;
 }
@@ -51,6 +50,10 @@ function getVisibleArchiveItems(needle) {
   for (i = 0; i < archiveItems.length; i++) {
     if (matchesFilter(archiveItems[i], needle)) visible.push(archiveItems[i]);
   }
+
+  /* L'ordre est regaranti ici : quel que soit l'ordre de stockage des
+     entrees, les resultats restent du plus recent au plus ancien. */
+  visible.sort(compareByDateDesc);
 
   return visible;
 }
