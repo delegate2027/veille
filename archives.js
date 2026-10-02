@@ -1,24 +1,9 @@
 /* Vue archives de la page unique : lit archives.xml, dedoublonne par lien,
    affiche une liste simple et la filtre a la demande.
-   Les helpers (escapeHtml, trimString, lower, parseTime, getTagText) viennent de script.js. */
+   Le rendu d'un item est celui du flux (buildItemElement) pour que les deux
+   vues soient identiques ; les helpers viennent de script.js. */
 var archiveItems = [];
 var archiveLoaded = false;
-
-/* L'archive couvre plusieurs mois : on garde l'annee, contrairement a formatDate du flux. */
-function formatFullDate(dateText) {
-  var d = new Date(dateText), day, month, year, hour, minute;
-  if (isNaN(d.getTime())) return "";
-  day = d.getDate();
-  month = d.getMonth() + 1;
-  year = d.getFullYear();
-  hour = d.getHours();
-  minute = d.getMinutes();
-  return (day < 10 ? "0" : "") + day + "/" +
-         (month < 10 ? "0" : "") + month + "/" + year +
-         " " +
-         (hour < 10 ? "0" : "") + hour + ":" +
-         (minute < 10 ? "0" : "") + minute;
-}
 
 function parseArchive(xml) {
   var nodes = xml.getElementsByTagName("item");
@@ -38,6 +23,7 @@ function parseArchive(xml) {
       title: getTagText(node, "title"),
       link: link,
       author: getTagText(node, "author"),
+      description: getTagText(node, "description"),
       pubDate: getTagText(node, "pubDate")
     });
   }
@@ -56,25 +42,6 @@ function matchesFilter(item, needle) {
 
   haystack = lower(item.title + " " + item.author + " " + item.link);
   return haystack.indexOf(needle) !== -1;
-}
-
-function buildArchiveRow(item) {
-  var div = document.createElement("div");
-  var author = trimString(item.author);
-  var html;
-
-  div.className = "item item-left archive-item";
-  div.setAttribute("data-author", author);
-  div.setAttribute("data-pubdate", item.pubDate || "");
-
-  html = '<div class="top">' +
-           '<span class="author">' + escapeHtml(author || "Auteur") + '</span>' +
-           '<span class="date">' + escapeHtml(formatFullDate(item.pubDate)) + '</span>' +
-         '</div>' +
-         '<div class="title"><a href="' + escapeHtml(item.link) + '" target="_blank">' + escapeHtml(item.title) + '</a></div>';
-
-  div.innerHTML = html;
-  return div;
 }
 
 function getVisibleArchiveItems(needle) {
@@ -113,8 +80,10 @@ function renderArchive() {
     return;
   }
 
+  /* buildItemElement : rendu identique a celui du flux (pastille de source,
+     titre nettoye, description, lecture video au clic). */
   for (i = 0; i < visible.length; i++) {
-    container.appendChild(buildArchiveRow(visible[i]));
+    container.appendChild(buildItemElement(visible[i]));
   }
 
   updateArchiveCount(visible.length);
