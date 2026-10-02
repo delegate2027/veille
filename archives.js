@@ -39,16 +39,106 @@ function parseArchive(xml) {
   return result;
 }
 
-/* La recherche porte sur le titre, l'auteur et le lien seulement : la
-   description generee par les flux est trop bavarde et remontait des
+/* Mois francais accepts dans une recherche, indexes 1-12.
+   Les accents sont tolérés : "fevrier" comme "février". */
+var MOIS_FR = {
+  janvier: 1, fevrier: 2, mars: 3, avril: 4, mai: 5, juin: 6,
+  juillet: 7, aout: 8, septembre: 9, octobre: 10, novembre: 11, decembre: 12
+};
+
+/* Les caracteres accentues sont ecrits en echappement unicode pour rester
+   dans un fichier ASCII ; sans cela "fevrier" ne reconnaitrait pas
+   "février". */
+function sansAccent(str) {
+  return lower(str)
+    .replace(/[\u00e9\u00e8\u00ea\u00eb]/g, "e")
+    .replace(/[\u00e0\u00e2]/g, "a")
+    .replace(/[\u00ee\u00ef]/g, "i")
+    .replace(/[\u00f4\u00f6]/g, "o")
+    .replace(/[\u00f9\u00fb\u00fc]/g, "u")
+    .replace(/\u00e7/g, "c");
+}
+
+function monthIndex(word) {
+  var nom = sansAccent(word);
+
+  return MOIS_FR[nom] === undefined ? 0 : MOIS_FR[nom];
+}
+
+/* Une saisie est une suite de filtres : chaque terme doit correspondre, dans
+   les champs habituels ou dans la date. "melenchon octobre" se lit donc
+   "melenchon ET octobre". */
+function splitQuery(needle) {
+  var words = needle.split(/\s+/);
+  var tokens = [];
+  var i, jour, mois;
+
+  for (i = 0; i < words.length; i++) {
+    /* "2 octobre" : un jour suivi du nom du mois ne forme qu'un seul filtre. */
+    if (i + 1 < words.length) {
+      jour = words[i].match(/^(\d{1,2})$/);
+      mois = monthIndex(words[i + 1]);
+      if (jour && mois) {
+        tokens.push(jour[1] + "/" + mois);
+        i++;
+        continue;
+      }
+    }
+    tokens.push(words[i]);
+  }
+
+  return tokens;
+}
+
+/* Comparaison d'un terme avec la date d'une entree. Les separateurs saisis
+   n'ont pas d'importance : 2026-10-02, 02/10/2026 et 2.10.2026 sont equivalents.
+   Les dates sont lues en heure locale, comme au rendu (formatDate). */
+function matchesDate(dateText, token) {
+  var d = new Date(dateText);
+  var y, m, jour, num, mois;
+
+  if (isNaN(d.getTime())) return false;
+
+  y = d.getFullYear();
+  m = d.getMonth() + 1;
+  jour = d.getDate();
+  num = token.match(/^(\d{4})[-/.](\d{1,2})[-/.](\d{1,2})$/);
+
+  if (num) return +num[1] === y && +num[2] === m && +num[3] === jour;
+
+  num = token.match(/^(\d{1,2})[-/.](\d{1,2})[-/.](\d{4})$/);
+
+  if (num) return +num[3] === y && +num[2] === m && +num[1] === jour;
+
+  num = token.match(/^(\d{1,2})[-/.](\d{1,2})$/);
+
+  if (num) return +num[2] === m && +num[1] === jour;
+
+  if (/^\d{4}$/.test(token)) return +token === y;
+
+  mois = monthIndex(token);
+
+  return mois !== 0 && mois === m;
+}
+
+/* La recherche porte sur le titre, l'auteur, le lien et la date.
+   La description generee par les flux est trop bavarde et remontait des
    entrees sans rapport avec le terme. */
 function matchesFilter(item, needle) {
-  var haystack;
+  var tokens, haystack, i;
 
   if (!needle) return true;
 
+  tokens = splitQuery(needle);
   haystack = lower(item.title + " " + item.author + " " + item.link);
-  return haystack.indexOf(needle) !== -1;
+
+  for (i = 0; i < tokens.length; i++) {
+    if (matchesDate(item.pubDate, tokens[i])) continue;
+    if (haystack.indexOf(tokens[i]) !== -1) continue;
+    return false;
+  }
+
+  return true;
 }
 
 function getVisibleArchiveItems(needle) {
