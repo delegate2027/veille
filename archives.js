@@ -5,6 +5,10 @@
 var archiveItems = [];
 var archiveLoaded = false;
 
+/* Case "Inclure les descriptions" : la description est exclue de la
+   recherche par defaut, trop bavarde pour etre utile. */
+var archiveSearchDesc = false;
+
 /* Revision du flux au moment du dernier chargement. rss.py ecrit flux.xml et
    archives.xml dans la meme execution : comparer les deux revisions suffit a
    savoir que l'archive est perimee, sans telecharger le fichier pour le savoir. */
@@ -124,10 +128,11 @@ function matchesDate(dateText, token) {
   return mois !== 0 && mois === m;
 }
 
-/* La recherche porte sur le titre, l'auteur, le lien et la date, et ignore les
-   accents des deux cotes : taper "melenchon" trouve "Mélenchon".
-   La description generee par les flux est trop bavarde et remontait des
-   entrees sans rapport avec le terme. */
+/* La recherche porte sur le titre, l'auteur, le lien et la date, et ignore
+   les accents des deux cotes : taper "melenchon" trouve "Mélenchon".
+   La description n'est cherche que si la case est cochee : generee par
+   les flux, elle est trop bavarde et remontait des entrees sans rapport
+   avec le terme. */
 function matchesFilter(item, needle) {
   var tokens, haystack, i, texte;
 
@@ -135,6 +140,7 @@ function matchesFilter(item, needle) {
 
   tokens = splitQuery(needle);
   haystack = sansAccent(item.title + " " + item.author + " " + item.link);
+  if (archiveSearchDesc) haystack += " " + item.description;
 
   for (i = 0; i < tokens.length; i++) {
     if (matchesDate(item.pubDate, tokens[i])) continue;
@@ -269,6 +275,7 @@ function isArchiveStale() {
 
 function initArchiveFilter() {
   var input = document.getElementById("archiveFilter");
+  var descBox = document.getElementById("archiveSearchDesc");
   var refresh;
 
   if (!input) return;
@@ -283,6 +290,15 @@ function initArchiveFilter() {
      rien a jour. */
   if ("oninput" in input) input.oninput = refresh;
   else input.onkeyup = refresh;
+
+  /* Cocher la case etend la recherche a la description ; la liste
+     est refiltree a chaque changement. */
+  if (descBox) {
+    descBox.onchange = function() {
+      archiveSearchDesc = descBox.checked;
+      refresh();
+    };
+  }
 }
 
 /* Place le curseur dans le champ a l'ouverture de l'onglet : rien n'est liste

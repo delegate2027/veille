@@ -243,14 +243,30 @@ a {
   color: var(--muted);
 }
 
-/* Ligne meta sous la barre de recherche : exemples a gauche, nombre
-   d'entrees a droite. La typographie vient de .status-text, partagee
-   avec la ligne d'etat du header. */
+/* Ligne meta sous la barre de recherche : options et exemples a
+   gauche, nombre d'entrees a droite. La typographie vient de
+   .status-text, partagee avec la ligne d'etat du header. */
 .archive-meta {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
   margin: 3px 6px 0 0;
+}
+
+.archive-meta-left {
+  display: flex;
+  align-items: baseline;
+}
+
+.archive-option {
+  margin: 0 8px 0 0;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.archive-option input {
+  margin: 0 4px 0 0;
+  vertical-align: -1px;
 }
 
 .archive-examples {
