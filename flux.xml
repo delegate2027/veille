@@ -4,7 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 03 Oct 2026 02:30:37 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 02:45:39 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Lycées mobilisés, Bardella, budget : Les Grandes Gueules avec Clémence Guetté</title>
+      <link>https://www.youtube.com/watch?v=SvujYxxLChY</link>
+      <guid>https://www.youtube.com/watch?v=SvujYxxLChY</guid>
+      <pubDate>2026-10-01T11:09:55+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>J'étais aujourd'hui l'invitée des Grandes Gueules sur RMC. À retrouver en intégralité.</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>SvujYxxLChY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SvujYxxLChY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Macron, carburants, urgence sociale : Matinale de France Inter avec Clémence Guetté</title>
+      <link>https://www.youtube.com/watch?v=iH-4MSJ-fnQ</link>
+      <guid>https://www.youtube.com/watch?v=iH-4MSJ-fnQ</guid>
+      <pubDate>2026-09-25T06:37:22+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>Emmanuel Macron est complètement déconnecté des enjeux des Français. 
+
+Les gens sont dépendants de la voiture et ils ne peuvent plus se permettre de faire le plein. Ils renoncent aux soins, à rendre visite à leurs proches et aux loisirs des enfants.
+
+Il y a urgence à agir.</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>iH-4MSJ-fnQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/iH-4MSJ-fnQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
