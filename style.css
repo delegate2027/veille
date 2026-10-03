@@ -223,11 +223,27 @@ a {
   font-size: 13px;
 }
 
-.archive-filter {
+/* Zone de recherche : le champ et la case a cocher partagent le
+   meme cadre, la case est a l'interieur, a droite du texte saisi. */
+.archive-search {
+  display: flex;
+  align-items: center;
   width: 100%;
-  padding: 7px 10px;
+  padding: 0 10px;
   border: 1px solid var(--line);
   border-radius: 3px;
+  background: transparent;
+}
+
+.archive-search:focus-within {
+  border-color: var(--accent);
+}
+
+.archive-filter {
+  flex: 1;
+  min-width: 0;
+  padding: 7px 0;
+  border: none;
   background: transparent;
   color: var(--ink);
   font-family: inherit;
@@ -236,30 +252,14 @@ a {
 
 .archive-filter:focus {
   outline: none;
-  border-color: var(--accent);
 }
 
 .archive-filter::placeholder {
   color: var(--muted);
 }
 
-/* Ligne meta sous la barre de recherche : options et exemples a
-   gauche, nombre d'entrees a droite. La typographie vient de
-   .status-text, partagee avec la ligne d'etat du header. */
-.archive-meta {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  margin: 3px 6px 0 0;
-}
-
-.archive-meta-left {
-  display: flex;
-  align-items: baseline;
-}
-
 .archive-option {
-  margin: 0 8px 0 0;
+  margin: 0 0 0 8px;
   white-space: nowrap;
   cursor: pointer;
 }
@@ -267,6 +267,16 @@ a {
 .archive-option input {
   margin: 0 4px 0 0;
   vertical-align: -1px;
+}
+
+/* Ligne meta sous la zone de recherche : exemples a gauche, nombre
+   d'entrees a droite. La typographie vient de .status-text, partagee
+   avec la ligne d'etat du header. */
+.archive-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin: 3px 6px 0 0;
 }
 
 .archive-examples {
