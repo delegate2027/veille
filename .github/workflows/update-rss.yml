@@ -36,37 +36,39 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run RSS script
-        run: python rss.py
-
-      - name: Commit and push with retry (industrial safe mode)
+      - name: Update feed and push (with retry)
+        # flux.xml et archives.xml sont entierement regeneres par rss.py. Deux
+        # executions qui se chevauchent modifient donc les memes lignes : un
+        # rebase entre en conflit a chaque fois, et sous "set -e" cela tuerait le
+        # run avant meme la boucle de reessai. On ecarte plutot notre version,
+        # on repart de l'etat distant le plus recent, et on regenere.
         run: |
-          set -e
+          set -eo pipefail
 
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # Si rien à commit → exit direct
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-
-          git commit -m "Auto update feed"
-
           MAX_RETRIES=5
           COUNT=0
 
-          until [ $COUNT -ge $MAX_RETRIES ]
+          until [ "$COUNT" -ge "$MAX_RETRIES" ]
           do
             echo "Attempt $((COUNT+1))/$MAX_RETRIES"
 
-            # Toujours repartir de l'état remote le plus récent
             git fetch origin main
-            git rebase origin/main
+            git reset --hard origin/main
+            git clean -fd
 
-            # Push optimiste
+            python rss.py
+
+            git add -A
+            if git diff --cached --quiet; then
+              echo "No changes to commit"
+              exit 0
+            fi
+
+            git commit -m "Auto update feed"
+
             if git push origin HEAD:main; then
               echo "Push succeeded"
               exit 0
