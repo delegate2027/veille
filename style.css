@@ -243,17 +243,17 @@ a {
   color: var(--muted);
 }
 
-/* Exemples de recherche, affiches sous la barre de recherche. */
+/* Exemples de recherche, sous le nombre d'entrees. La typographie vient
+   de .status-text, partagee avec la ligne d'etat du header. */
 .archive-examples {
-  margin: 5px 0 0 0;
-  color: var(--muted);
-  font-size: 11px;
+  margin: 0 6px 0 0;
+  text-align: right;
 }
 
 /* Nombre d'entrees, place sous la barre de recherche et aligne a droite.
    La typographie vient de .status-text, partagee avec la ligne d'etat du header. */
 .archive-count {
-  margin: 6px 0 0 0;
+  margin: 3px 6px 0 0;
   text-align: right;
 }
 
