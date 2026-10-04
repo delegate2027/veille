@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 04 Oct 2026 16:31:19 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:45:31 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>David Lisnard : intervention sur CNEWS</title>
+      <link>https://www.youtube.com/watch?v=4hv99PobTmI</link>
+      <guid>https://www.youtube.com/watch?v=4hv99PobTmI</guid>
+      <pubDate>2026-10-04T16:30:50+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Regardez à nouveau mon passage sur CNews ce dimanche 4 octobre concernant les violences chez les lycéens.
+
+Suivez moi sur mes réseaux : 
+
+Instagram : https://www.instagram.com/davidlisnard/
+X : https://x.com/davidlisnard
+Facebook : https://www.facebook.com/lisnard.david
+Tik Tok : https://www.tiktok.com/@david.lisnard
+LinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/
+
+Adhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>4hv99PobTmI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4hv99PobTmI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Retraites : je réponds à vos questions</title>
       <link>https://www.youtube.com/watch?v=K50Cfoodtew</link>
@@ -1849,32 +1870,6 @@ Youtube : https://www.youtube.com/@Boris_Vallaud</description>
       <channelTitle>BorisVallaud</channelTitle>
       <videoId>WbbJDJbAwhY</videoId>
       <enclosure url="https://i.ytimg.com/vi/WbbJDJbAwhY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
-      <link>https://www.youtube.com/watch?v=dUPFW9AkYKM</link>
-      <guid>https://www.youtube.com/watch?v=dUPFW9AkYKM</guid>
-      <pubDate>2026-09-22T09:02:04+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Rendez-vous ce mardi 22 septembre pour suivre le Point Presse Hebdo du groupe parlementaire La France insoumise avec Mathilde Panot !
-
-_________________________________________________ 
-
-Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
-
-☞ X (Twitter) : https://x.com/FiAssemblee
-☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
-☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
-☞ YouTube :  / @FranceinsoumiseAN
-☞ Instagram : https://instagram.com/FranceinsoumiseAN/
-☞ Threads : https://www.threads.net/@FranceinsoumiseAN
-☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
-☞ Telegram : https://t.me/FranceinsoumiseAN
-
-Abonnez-vous !</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>dUPFW9AkYKM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dUPFW9AkYKM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
