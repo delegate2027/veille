@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 04 Oct 2026 15:15:35 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:30:44 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Conférence de Jean-Luc Mélenchon à HEC</title>
+      <link>https://www.youtube.com/watch?v=qVfAg_3JNAU</link>
+      <guid>https://www.youtube.com/watch?v=qVfAg_3JNAU</guid>
+      <pubDate>2026-10-04T15:12:07+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Ce lundi 5 octobre, rendez-vous à 20h pour suivre en direct une conférence de Jean-Luc Mélenchon à l'invitation de HEC Débats.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>qVfAg_3JNAU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qVfAg_3JNAU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Manuel Bompard face à Édouard Geffray sur France 2</title>
       <link>https://www.youtube.com/watch?v=Np12sKLLYro</link>
@@ -1815,17 +1836,6 @@ Abonnez-vous !</description>
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>l4nsniyvdIo</videoId>
       <enclosure url="https://i.ytimg.com/vi/l4nsniyvdIo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Total se gave sur le dos des gens !</title>
-      <link>https://www.youtube.com/watch?v=TsrYo8jUlJQ</link>
-      <guid>https://www.youtube.com/watch?v=TsrYo8jUlJQ</guid>
-      <pubDate>2026-09-21T19:24:10+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot sur LCP, le mardi 21 septembre 2026 à 19h30.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>TsrYo8jUlJQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/TsrYo8jUlJQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
