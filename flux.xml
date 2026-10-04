@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 04 Oct 2026 08:45:34 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:00:58 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>"La France est un volcan, il y a une colère comme on a rarement vu !" - Alexis Corbière sur BFMTV</title>
@@ -1426,21 +1426,6 @@ Youtube : https://www.youtube.com/@Boris_Vallaud</description>
       <enclosure url="https://i.ytimg.com/vi/JeD1RUSzIuw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Souveraineté numérique : quelle méthode pour y parvenir  ?</title>
-      <link>https://www.youtube.com/watch?v=hksOSj7gcH0</link>
-      <guid>https://www.youtube.com/watch?v=hksOSj7gcH0</guid>
-      <pubDate>2026-09-25T09:01:56+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Le 23 septembre 2026, en commission des Finances, nous auditionnions Théau Perronin, cofondateur de la société Alice &amp; Bob, et Sébastien Lescop, directeur général de Cloud Temple, dans le cadre de nos travaux sur le financement de la souveraineté numérique.
-
-Retrouvez les interventions très intéressantes des représentants de ces sociétés, qui donnent des pistes concrètes pour atteindre une pleine souveraineté numérique en France : investissement public et privé, commande publique, financement de l’informatique quantique, changement d’échelle des entreprises françaises, contrôle du capital et enjeux européens.
-
-Retrouvez également les questions d’Éric Coquerel et leurs réponses tout au long de cette audition.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>hksOSj7gcH0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hksOSj7gcH0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Je ne suis pas contre l’innovation, je suis contre la laisser de manière sauvage | Sarah El Haïry</title>
       <link>https://www.youtube.com/watch?v=vGVTSNNyjno</link>
       <guid>https://www.youtube.com/watch?v=vGVTSNNyjno</guid>
@@ -1824,6 +1809,28 @@ Abonnez-vous !</description>
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>Kca3zEkRfWM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Kca3zEkRfWM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴 Prix des carburants, hausse du SMIC, mobilisations sociales : Manuel Bompard, invité de RTL !</title>
+      <link>https://www.youtube.com/watch?v=jkIdTMUcCMg</link>
+      <guid>https://www.youtube.com/watch?v=jkIdTMUcCMg</guid>
+      <pubDate>2026-09-21T07:14:23+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur RTL du lundi 21 septembre 2026.
+----------
+
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>jkIdTMUcCMg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jkIdTMUcCMg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
