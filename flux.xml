@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 05 Oct 2026 17:30:51 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:45:36 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>EN DIRECT | Je réponds aux questions des Français dans « La parole est à vous. »</title>
+      <link>https://www.youtube.com/watch?v=0lY3xlV7KUY</link>
+      <guid>https://www.youtube.com/watch?v=0lY3xlV7KUY</guid>
+      <pubDate>2026-10-05T17:42:25+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>À Bourges, je réponds sans détour aux questions des Français dans la « La parole est à vous » sur France 3, avec Carole Gaessler.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>0lY3xlV7KUY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0lY3xlV7KUY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ALEKSANDAR NIKOLIC est face à NATHALIE ARTHAUD sur BFM TV !</title>
       <link>https://www.youtube.com/watch?v=GuV8VRifJto</link>
@@ -378,6 +391,8 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <pubDate>2026-10-04T15:12:07+00:00</pubDate>
       <author>JEAN-LUC MÉLENCHON</author>
       <description>Ce lundi 5 octobre, rendez-vous à 20h pour suivre en direct une conférence de Jean-Luc Mélenchon à l'invitation de HEC Débats.
+
+Parrainez sa candidature à l'élection présidentielle 2027 sur : https://melenchon2027.fr/
 
 **SUIVEZ-MOI SUR**
 - Twitch : https://www.twitch.tv/jlmelenchon 
@@ -1781,19 +1796,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>rGdLN31wL-s</videoId>
       <enclosure url="https://i.ytimg.com/vi/rGdLN31wL-s/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Politico | Grand oral de Politico : je réponds à toutes les questions de la rédaction.</title>
-      <link>https://www.youtube.com/watch?v=dVkmUiOZn0k</link>
-      <guid>https://www.youtube.com/watch?v=dVkmUiOZn0k</guid>
-      <pubDate>2026-09-25T01:10:16+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Gabriel Attal répond à toutes les questions d'Élisa Bertholomey et de Marcelo Wesfreid pour le Grand oral de Politico.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>dVkmUiOZn0k</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dVkmUiOZn0k/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>💥 Prix des carburants, guerre en Ukraine : ma réaction à l'allocution d'Emmanuel Macron</title>
