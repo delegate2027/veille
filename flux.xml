@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 05 Oct 2026 15:01:09 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:15:35 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY est l'invité de CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=DNfomV4zeIk</link>
+      <guid>https://www.youtube.com/watch?v=DNfomV4zeIk</guid>
+      <pubDate>2026-10-05T15:04:06+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>DNfomV4zeIk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DNfomV4zeIk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>MATTHIEU VALET est face à LOUIS BOYARD sur FRANCE INFO !</title>
       <link>https://www.youtube.com/watch?v=70z7AgLLxzk</link>
@@ -18,27 +31,6 @@
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>70z7AgLLxzk</videoId>
       <enclosure url="https://i.ytimg.com/vi/70z7AgLLxzk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le 6 octobre, pour les revendications et la protection de la jeunesse !</title>
-      <link>https://www.youtube.com/watch?v=F-m-wriXMnQ</link>
-      <guid>https://www.youtube.com/watch?v=F-m-wriXMnQ</guid>
-      <pubDate>2026-10-05T14:59:41+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu pour revenir sur les mobilisations lycéennes à travers le pays et appeler au plus large rassemblement aux manifestations étudiantes et lycéennes du 6 octobre 2026.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>F-m-wriXMnQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/F-m-wriXMnQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>VIOLENCES POLICIÈRES CONTRE LES LYCÉENS : ma conférence de presse à Argenteuil</title>
@@ -86,7 +78,7 @@
       <enclosure url="https://i.ytimg.com/vi/t_Q-PqY6XLc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Canicules, sécheresse, incendies : l’été 2026 a coûté 16 milliards d’euros</title>
+      <title>L’été 2026 a coûté au moins 16 milliards d’euros !</title>
       <link>https://www.youtube.com/watch?v=ZKM3MklFG1E</link>
       <guid>https://www.youtube.com/watch?v=ZKM3MklFG1E</guid>
       <pubDate>2026-10-05T14:34:26+00:00</pubDate>
@@ -1352,6 +1344,27 @@ Alors que la France augmente fortement ses dépenses militaires, les rapporteurs
       <enclosure url="https://i.ytimg.com/vi/A_E_5HWgDoA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Prise de parole de Jean-Luc Mélenchon à la manifestation intersyndicale</title>
+      <link>https://www.youtube.com/watch?v=N406os8VSkE</link>
+      <guid>https://www.youtube.com/watch?v=N406os8VSkE</guid>
+      <pubDate>2026-09-29T11:56:31+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'une prise de parole à la manifestation intersyndicale, le 29 septembre 2026. 
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>N406os8VSkE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/N406os8VSkE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Mon passage dans RMC sur les blocages de lycées</title>
       <link>https://www.youtube.com/watch?v=5-QZtHq4LKU</link>
       <guid>https://www.youtube.com/watch?v=5-QZtHq4LKU</guid>
@@ -1888,29 +1901,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>6AAtOeu6DjM</videoId>
       <enclosure url="https://i.ytimg.com/vi/6AAtOeu6DjM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Loi intégrale, lutter aussi contre les violences obstétricales et gynécologiques</title>
-      <link>https://www.youtube.com/watch?v=LLhb92vIJ2Q</link>
-      <guid>https://www.youtube.com/watch?v=LLhb92vIJ2Q</guid>
-      <pubDate>2026-09-23T15:50:18+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>Séance de travail parlementaire sur l’article de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants, consacré à la reconnaissance des violences obstétricales et gynécologiques.
-
-Sophia Chikirou se félicite que cet article reprenne les avancées portées par sa proposition de loi sur les VOG. En commission spéciale, elle défend plusieurs corrections pour couvrir toutes les situations et garantir une protection effective aux personnes concernées.
-
-L’enjeu est aussi d’établir un cadre juridique suffisamment précis pour guider les magistrats et éviter des requalifications des violences ou des classements sans suite.
-
-______
-Pour suivre mes prochaines interventions : 
-Twitter : https://x.com/chikirouparis
-Instagram :   / sophia.chikirou  
-Facebook :   / sophiachikirouparis  
-TikTok :   / sophiachikirou  
-Telegram : @sophiachikirouParis</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>LLhb92vIJ2Q</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LLhb92vIJ2Q/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
