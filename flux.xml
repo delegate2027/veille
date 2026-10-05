@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 05 Oct 2026 10:15:35 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:30:57 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>PHILIPPE BALLARD est l'invité de PASCAL PRAUD sur CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=iNMABqEG8uw</link>
+      <guid>https://www.youtube.com/watch?v=iNMABqEG8uw</guid>
+      <pubDate>2026-10-05T10:23:18+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>iNMABqEG8uw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/iNMABqEG8uw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Je fais tomber les masques : le F.N. n'a pas changé !</title>
       <link>https://www.youtube.com/watch?v=8I2JEj_BT9w</link>
@@ -608,19 +621,6 @@ Il a également réagi à la présentation du budget 2027 et aux révélations d
       <enclosure url="https://i.ytimg.com/vi/tlJTRvIK-As/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>MATTHIEU VALET : « Ce ne sont plus des revendications, c'est de la sauvagerie ! » (CNEWS)</title>
-      <link>https://www.youtube.com/watch?v=-6z91RFVd1g</link>
-      <guid>https://www.youtube.com/watch?v=-6z91RFVd1g</guid>
-      <pubDate>2026-10-02T09:49:23+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>-6z91RFVd1g</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-6z91RFVd1g/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>🔴 Nous censurerons ce gouvernement et son budget ! Je fais le point sur BFM business</title>
       <link>https://www.youtube.com/watch?v=9FSLLF7Q5NM</link>
       <guid>https://www.youtube.com/watch?v=9FSLLF7Q5NM</guid>
@@ -790,7 +790,7 @@ Chapitres :
       <enclosure url="https://i.ytimg.com/vi/2n65_5MS298/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>2 ÈME DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027</title>
+      <title>2e DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027</title>
       <link>https://www.youtube.com/watch?v=r7UKzIUNrZE</link>
       <guid>https://www.youtube.com/watch?v=r7UKzIUNrZE</guid>
       <pubDate>2026-10-01T21:52:21+00:00</pubDate>
