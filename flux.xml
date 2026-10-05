@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 05 Oct 2026 07:30:51 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:45:31 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Lycéens en colère : le 6 octobre, mobilisons-nous partout en France !</title>
+      <link>https://www.youtube.com/watch?v=WEeqMFHBJ4M</link>
+      <guid>https://www.youtube.com/watch?v=WEeqMFHBJ4M</guid>
+      <pubDate>2026-10-05T07:39:38+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Revivez l'interview de Mathilde Panot sur franceinfo, le mardi 05 octobre 2026 à 8h30.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>WEeqMFHBJ4M</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WEeqMFHBJ4M/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Éric Coquerel sur Public Sénat : soutien aux revendications des lycéens / budget 2027</title>
+      <link>https://www.youtube.com/watch?v=ayuwkH64uGQ</link>
+      <guid>https://www.youtube.com/watch?v=ayuwkH64uGQ</guid>
+      <pubDate>2026-10-05T07:32:00+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Eric Coquerel est l’invité de la matinale Public Sénat, le lundi 5 octobre 2026 en soutien en revendication des lycéens qui manifestent pour la suppression de Parcoursup et pour de￼ meilleures conditions d’études. Ainsi que sur le début des discussions sur le budget 2027.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>ayuwkH64uGQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ayuwkH64uGQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>3ᵉ DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027</title>
       <link>https://www.youtube.com/watch?v=XAaIJdP-1vo</link>
@@ -1881,39 +1903,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>iw1CZHRS5zk</videoId>
       <enclosure url="https://i.ytimg.com/vi/iw1CZHRS5zk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>PS, macronistes et LR ont supprimé une disposition centrale de la proposition de loi intégrale</title>
-      <link>https://www.youtube.com/watch?v=bvl4geGtw0M</link>
-      <guid>https://www.youtube.com/watch?v=bvl4geGtw0M</guid>
-      <pubDate>2026-09-22T16:18:37+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>PS, macronistes et LR ont supprimé ce matin une disposition centrale de la proposition de loi dite intégrale :
-
-L’entretien individuel annuel obligatoire mené par un adulte formé pour chaque élève de la maternelle à la terminale afin de détecter les violences.
-
-Le dispositif recommandé par la CIIVISE et la coalition féministe et enfantiste est donc supprimé et remplacé par une disposition bidon travaillée avec le gouvernement Lecornu ! Le ministre Geffray peut donc continuer avec son questionnaire inadapté et dangereux.
-
-Affligeant.</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>bvl4geGtw0M</videoId>
-      <enclosure url="https://i.ytimg.com/vi/bvl4geGtw0M/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de presse de Mélanie Vogel et Léa Balage: nos institutions peuvent-elles résister au RN ?</title>
-      <link>https://www.youtube.com/watch?v=oS9N4ZItdmM</link>
-      <guid>https://www.youtube.com/watch?v=oS9N4ZItdmM</guid>
-      <pubDate>2026-09-22T14:48:05+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Conférence de presse du 22 septembre 2026 avec :
-- Mélanie Vogel, Sénatrice des Français·es de l'étranger 
-- Léa Balage El Mariky, Députée de Paris
-- Mélissa Camara, Députée européenne
-- Laurent Pech, Professeur de droit européen, Sutherland School of Law, University College of Dublin
-- Sébastien Platon, Professeur de droit à l'Université de Bordeaux</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>oS9N4ZItdmM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/oS9N4ZItdmM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
