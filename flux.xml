@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 05 Oct 2026 10:01:10 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:15:35 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Je fais tomber les masques : le F.N. n'a pas changé !</title>
+      <link>https://www.youtube.com/watch?v=8I2JEj_BT9w</link>
+      <guid>https://www.youtube.com/watch?v=8I2JEj_BT9w</guid>
+      <pubDate>2026-10-05T10:04:09+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Retrouvez mon passage à l'émission du 29 septembre de Darius Rochebin</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>8I2JEj_BT9w</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8I2JEj_BT9w/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>FRANCK ALLISIO : « L'extrême-gauche est pyromane ! » (CNEWS)</title>
       <link>https://www.youtube.com/watch?v=ed2kybp_EU0</link>
@@ -1890,19 +1901,6 @@ Retrouvez mon intervention.</description>
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>XG7_RYQQ7Ko</videoId>
       <enclosure url="https://i.ytimg.com/vi/XG7_RYQQ7Ko/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présidentielles 2027 : François Ruffin "face aux outre-mer"</title>
-      <link>https://www.youtube.com/watch?v=6NZf7tExU70</link>
-      <guid>https://www.youtube.com/watch?v=6NZf7tExU70</guid>
-      <pubDate>2026-09-23T09:15:54+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>➡️ Soutenez François Ruffin : nouspresident.fr
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>6NZf7tExU70</videoId>
-      <enclosure url="https://i.ytimg.com/vi/6NZf7tExU70/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
