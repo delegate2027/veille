@@ -4,7 +4,46 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 05 Oct 2026 05:45:28 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:00:55 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>J’apaise monsieur Falcon, conseiller logement de Marine Le Pen, sur l’USH.</title>
+      <link>https://www.youtube.com/watch?v=3mDvex4pAYY</link>
+      <guid>https://www.youtube.com/watch?v=3mDvex4pAYY</guid>
+      <pubDate>2026-09-23T10:36:50+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>J’apaise monsieur Falcon, conseiller logement de Marine Le Pen. 
+
+À la France insoumise, nous travaillons avec l’USH et nous sommes présents à leur congrès cette semaine … contrairement au Rassemblement national qui brille par son absence … 🤡</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>3mDvex4pAYY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/3mDvex4pAYY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Présentation du livre - Election sous influence</title>
+      <link>https://www.youtube.com/watch?v=WeAnXh4nn8o</link>
+      <guid>https://www.youtube.com/watch?v=WeAnXh4nn8o</guid>
+      <pubDate>2026-09-17T11:24:21+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Le 10 septembre, nous avons présenté Élection sous influence, le livre de François Piquemal, préfacé par Jean-Luc Mélenchon. 
+
+L’ouvrage revient sur les ingérences étrangères survenues durant la campagne des élections municipales à Toulouse. 
+
+Ce dernier expose les éléments recueillis concernant les liens entre certaines officines et la municipalité actuelle, ainsi que les rapports réalisés par des servies de l'Etat venant attestés de cela.</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>WeAnXh4nn8o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WeAnXh4nn8o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Amendes sur le port du voile : le RN sous son vrai visage, raciste et islamophobe</title>
+      <link>https://www.youtube.com/watch?v=Jfez2LARhhc</link>
+      <guid>https://www.youtube.com/watch?v=Jfez2LARhhc</guid>
+      <pubDate>2026-09-01T07:57:33+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>Jfez2LARhhc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Jfez2LARhhc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
