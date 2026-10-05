@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 05 Oct 2026 15:45:37 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:01:06 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>ALEKSANDAR NIKOLIC est face à NATHALIE ARTHAUD sur BFM TV !</title>
+      <link>https://www.youtube.com/watch?v=GuV8VRifJto</link>
+      <guid>https://www.youtube.com/watch?v=GuV8VRifJto</guid>
+      <pubDate>2026-10-05T15:48:06+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>GuV8VRifJto</videoId>
+      <enclosure url="https://i.ytimg.com/vi/GuV8VRifJto/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURENT JACOBELLI :  « Ce ne sont pas aux Français de payer les réparations ! » (LCI)</title>
       <link>https://www.youtube.com/watch?v=FUbVlwF_1O4</link>
@@ -166,19 +179,6 @@ Ces montants auraient dû apparaître, au moins en ordre de grandeur, dans le pr
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>OiZ4HMNxWD0</videoId>
       <enclosure url="https://i.ytimg.com/vi/OiZ4HMNxWD0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JULIE RECHAGNEUX est l'invitée de BFM TV !</title>
-      <link>https://www.youtube.com/watch?v=gO_r63i7uZY</link>
-      <guid>https://www.youtube.com/watch?v=gO_r63i7uZY</guid>
-      <pubDate>2026-10-05T13:45:25+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>gO_r63i7uZY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gO_r63i7uZY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Je fais tomber les masques : le F.N. n'a pas changé !</title>
@@ -1376,21 +1376,6 @@ Telegram : @sophiachikirouParis</description>
       <enclosure url="https://i.ytimg.com/vi/d3E6RfDJQ5c/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Diplomatie française : face au décrochage, il faut renforcer les moyens</title>
-      <link>https://www.youtube.com/watch?v=A_E_5HWgDoA</link>
-      <guid>https://www.youtube.com/watch?v=A_E_5HWgDoA</guid>
-      <pubDate>2026-09-29T17:09:44+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Le 29 septembre 2026, Éric Coquerel questionne Karim Ben Cheikh et Sophie Mette, rapporteurs de la mission d’information commune sur les moyens consacrés au volet diplomatique de notre réorientation stratégique, lors de l’examen de leur rapport en commission des Finances.
-
-Alors que la France augmente fortement ses dépenses militaires, les rapporteurs soulignent la nécessité de renforcer également les moyens consacrés à la diplomatie.
-
-Éric Coquerel les interroge sur le recul des moyens diplomatiques français, la dégradation de notre position dans le système multilatéral et la proposition d’un minimum de 550 millions d’euros supplémentaires par an pour la diplomatie alors que le budget 2027 prévoit une baisse.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>A_E_5HWgDoA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/A_E_5HWgDoA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Mon passage dans RMC sur les blocages de lycées</title>
       <link>https://www.youtube.com/watch?v=5-QZtHq4LKU</link>
       <guid>https://www.youtube.com/watch?v=5-QZtHq4LKU</guid>
@@ -1905,6 +1890,17 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>xuFH_KH0-Gs</videoId>
       <enclosure url="https://i.ytimg.com/vi/xuFH_KH0-Gs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Prix de l'essence : Macron préfère Total aux Français !</title>
+      <link>https://www.youtube.com/watch?v=4qNxokHD8dw</link>
+      <guid>https://www.youtube.com/watch?v=4qNxokHD8dw</guid>
+      <pubDate>2026-09-24T06:53:41+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>France info TV le 24 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>4qNxokHD8dw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4qNxokHD8dw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
