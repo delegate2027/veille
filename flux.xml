@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 05 Oct 2026 08:45:32 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:01:05 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>ALEKSANDAR NIKOLIC est SEUL CONTRE TOUS sur LCI !</title>
+      <link>https://www.youtube.com/watch?v=ribGLzVRjFo</link>
+      <guid>https://www.youtube.com/watch?v=ribGLzVRjFo</guid>
+      <pubDate>2026-10-05T08:49:50+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>ribGLzVRjFo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ribGLzVRjFo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Les revendications des lycéen•nes doivent être entendues !</title>
+      <link>https://www.youtube.com/watch?v=94MRYkutP0I</link>
+      <guid>https://www.youtube.com/watch?v=94MRYkutP0I</guid>
+      <pubDate>2026-10-05T08:44:52+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>94MRYkutP0I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/94MRYkutP0I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Lycéens en colère : le 6 octobre, mobilisons-nous partout en France !</title>
       <link>https://www.youtube.com/watch?v=WEeqMFHBJ4M</link>
@@ -617,19 +641,6 @@ Il a également réagi à la présentation du budget 2027 et aux révélations d
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>wPwTkuiHZOI</videoId>
       <enclosure url="https://i.ytimg.com/vi/wPwTkuiHZOI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY est l'invité de PASCAL PRAUD sur CNEWS !</title>
-      <link>https://www.youtube.com/watch?v=WgC3CUjujT4</link>
-      <guid>https://www.youtube.com/watch?v=WgC3CUjujT4</guid>
-      <pubDate>2026-10-02T08:34:48+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>WgC3CUjujT4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/WgC3CUjujT4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Portrait de François Ruffin, par l'ESSEC Business School</title>
@@ -1892,17 +1903,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>6NZf7tExU70</videoId>
       <enclosure url="https://i.ytimg.com/vi/6NZf7tExU70/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nationalisation de Total : le débat Sandrine Rousseau vs Alain Duhamel</title>
-      <link>https://www.youtube.com/watch?v=iw1CZHRS5zk</link>
-      <guid>https://www.youtube.com/watch?v=iw1CZHRS5zk</guid>
-      <pubDate>2026-09-22T18:00:15+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description />
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>iw1CZHRS5zk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iw1CZHRS5zk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
