@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 05 Oct 2026 09:15:43 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:30:47 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>FRANCK ALLISIO : « L'extrême-gauche est pyromane ! » (CNEWS)</title>
+      <link>https://www.youtube.com/watch?v=ed2kybp_EU0</link>
+      <guid>https://www.youtube.com/watch?v=ed2kybp_EU0</guid>
+      <pubDate>2026-10-05T09:21:38+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>ed2kybp_EU0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ed2kybp_EU0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>YOANN GILLET : « Les élus LFI jettent de l'huile sur le feu ! » (RCF)</title>
       <link>https://www.youtube.com/watch?v=ki2hpA6WPIU</link>
@@ -606,19 +619,6 @@ Il a également réagi à la présentation du budget 2027 et aux révélations d
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>9FSLLF7Q5NM</videoId>
       <enclosure url="https://i.ytimg.com/vi/9FSLLF7Q5NM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MATTHIEU VALET : « Ce sont aux casseurs de payer pour les réparations ! » (Europe 1)</title>
-      <link>https://www.youtube.com/watch?v=_ZC64Hlpwts</link>
-      <guid>https://www.youtube.com/watch?v=_ZC64Hlpwts</guid>
-      <pubDate>2026-10-02T09:41:42+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>_ZC64Hlpwts</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_ZC64Hlpwts/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>EN DIRECT - Réunion publique à Marseille - 5 octobre 2026</title>
