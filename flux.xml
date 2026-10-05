@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 05 Oct 2026 13:30:56 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:45:37 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>JULIE RECHAGNEUX est l'invitée de BFM TV !</title>
+      <link>https://www.youtube.com/watch?v=gO_r63i7uZY</link>
+      <guid>https://www.youtube.com/watch?v=gO_r63i7uZY</guid>
+      <pubDate>2026-10-05T13:45:25+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>gO_r63i7uZY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gO_r63i7uZY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURENT JACOBELLI est face à un DÉPUTÉ LFI sur LCI !</title>
       <link>https://www.youtube.com/watch?v=pjALkiSC1E8</link>
@@ -536,19 +549,6 @@ Rendez-vous le 6 octobre à l’appel de la jeunesse !</description>
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>2ixD1U3s4-A</videoId>
       <enclosure url="https://i.ytimg.com/vi/2ixD1U3s4-A/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ALEKSANDAR NIKOLIC est face à ALMA DUFOUR sur FRANCE INFO !</title>
-      <link>https://www.youtube.com/watch?v=DvHTKgexVVw</link>
-      <guid>https://www.youtube.com/watch?v=DvHTKgexVVw</guid>
-      <pubDate>2026-10-02T14:40:58+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>DvHTKgexVVw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DvHTKgexVVw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>"On ne gère pas l'Education nationale depuis le Ministère de l'Intérieur!" Boris Vallaud sur France2</title>
