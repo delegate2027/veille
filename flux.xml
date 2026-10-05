@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 05 Oct 2026 14:30:53 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:45:35 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Canicules, sécheresse, incendies : l’été 2026 a coûté 16 milliards d’euros</title>
+      <link>https://www.youtube.com/watch?v=ZKM3MklFG1E</link>
+      <guid>https://www.youtube.com/watch?v=ZKM3MklFG1E</guid>
+      <pubDate>2026-10-05T14:34:26+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Le 5 octobre 2026, Éric Coquerel a présenté en commission des Finances les conclusions de la mission d’information flash sur « les coûts des fortes températures, de la sécheresse et des incendies de l’été 2026 ».
+
+Après 34 auditions et un déplacement au Porge, la mission établit un premier chiffrage du coût de l’été 2026 et identifie les investissements nécessaires pour mieux mesurer, prévenir et réparer les conséquences du dérèglement climatique.
+
+Elle estime nécessaire d’engager entre 8,75 et 12,3 milliards d’euros de dépenses publiques supplémentaires à partir de 2027 et dans les années suivantes, dont 8,4 à 11,9 milliards d’euros pour le budget de l’État.
+
+Ces montants auraient dû apparaître, au moins en ordre de grandeur, dans le projet de loi de finances pour 2027 présenté par le Gouvernement. Ce n’est pas le cas.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>ZKM3MklFG1E</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ZKM3MklFG1E/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>YOANN GILLET est face à LAURENT JOFFRIN sur BFM TV !</title>
       <link>https://www.youtube.com/watch?v=HZU6gI0zUV4</link>
@@ -1888,19 +1905,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>3mDvex4pAYY</videoId>
       <enclosure url="https://i.ytimg.com/vi/3mDvex4pAYY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Je veux sauver notre système de retraite.</title>
-      <link>https://www.youtube.com/watch?v=XG7_RYQQ7Ko</link>
-      <guid>https://www.youtube.com/watch?v=XG7_RYQQ7Ko</guid>
-      <pubDate>2026-09-23T10:20:31+00:00</pubDate>
-      <author>Bruno Retailleau</author>
-      <description>Invité sur LCI, j’ai présenté la réforme des retraites que je souhaite porter : un âge minimal de départ à 63 ans, en tenant compte de la pénibilité des métiers. Je lancerai des consultations avec les partenaires sociaux pour définir les professions qui pourront bénéficier d’un départ anticipé.
-
-Retrouvez mon intervention.</description>
-      <channelTitle>Bruno Retailleau</channelTitle>
-      <videoId>XG7_RYQQ7Ko</videoId>
-      <enclosure url="https://i.ytimg.com/vi/XG7_RYQQ7Ko/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
