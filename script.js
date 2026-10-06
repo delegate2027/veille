@@ -302,9 +302,26 @@ function insertItemInOrder(div) {
   feed.appendChild(div);
 }
 
+/* Rendu commun a loadRSS et pollRSS : filtre les shorts, ignore les liens
+   deja affiches et s'arrete apres FEED_LIMIT iterations. insertFn choisit
+   l'ordre d'insertion (appendItem au chargement, insertItemInOrder au
+   rafraichissement). */
+function renderFeedItems(items, insertFn) {
+  var i, item, link;
+
+  for (i = 0; i < items.length && i < FEED_LIMIT; i++) {
+    item = items[i];
+    if (isShort(item.title, item.link, item.description)) continue;
+    link = item.link || "#";
+    if (renderedLinks[link]) continue;
+    renderedLinks[link] = true;
+    insertFn(buildItemElement(item));
+  }
+}
+
 function loadRSS() {
   fetchAndParseRSS(function(err, data) {
-    var i, item, link, div, feed;
+    var feed;
     if (err) {
       feed = document.getElementById("feed");
       if (!getItemElements(feed).length) feed.innerHTML = '<div class="error">Impossible de charger le flux : ' + escapeHtml(err.message) + '</div>';
@@ -315,21 +332,12 @@ function loadRSS() {
     feedRevision++;
     feed = document.getElementById("feed");
     feed.innerHTML = "";
-    for (i = 0; i < data.items.length && i < FEED_LIMIT; i++) {
-      item = data.items[i];
-      if (isShort(item.title, item.link, item.description)) continue;
-      link = item.link || "#";
-      if (renderedLinks[link]) continue;
-      renderedLinks[link] = true;
-      div = buildItemElement(item);
-      appendItem(div);
-    }
+    renderFeedItems(data.items, appendItem);
   }, null);
 }
 
 function pollRSS() {
   fetchAndParseRSS(function(err, data) {
-    var i, item, link;
     if (err || data.notModified) return;
     if (data.lastModified && data.lastModified === lastModifiedSeen) return;
     updateStatus(data.lastModified);
@@ -340,22 +348,11 @@ function pollRSS() {
        passage a l'onglet declenche le rechargement (isArchiveStale). */
     if (currentView === "archives") ensureArchiveLoaded(true);
 
-    for (i = 0; i < data.items.length && i < FEED_LIMIT; i++) {
-      item = data.items[i];
-      if (isShort(item.title, item.link, item.description)) continue;
-      link = item.link || "#";
-      if (renderedLinks[link]) continue;
-      renderedLinks[link] = true;
-      insertItemInOrder(buildItemElement(item));
-    }
+    renderFeedItems(data.items, insertItemInOrder);
   }, lastModifiedSeen ? { "If-Modified-Since": lastModifiedSeen } : null);
 }
 
 /* Bascule entre la vue Flux et la vue Archives. */
-
-function hasClassName(el, cls) {
-  return (" " + el.className + " ").indexOf(" " + cls + " ") !== -1;
-}
 
 function toggleClassName(el, cls, add) {
   var current;
@@ -364,9 +361,9 @@ function toggleClassName(el, cls, add) {
 
   current = trimString(el.className);
 
-  if (add && !hasClassName(el, cls)) {
+  if (add && !hasClass(el, cls)) {
     el.className = trimString(current + " " + cls);
-  } else if (!add && hasClassName(el, cls)) {
+  } else if (!add && hasClass(el, cls)) {
     el.className = trimString((" " + current + " ").replace(" " + cls + " ", " "));
   }
 }
