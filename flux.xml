@@ -4,8 +4,46 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 19:30:49 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:45:48 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Sarah Knafo sur BFMTV : Mon message aux racailles qui cassent et brûlent la France !</title>
+      <link>https://www.youtube.com/watch?v=3hd09gWcQyA</link>
+      <guid>https://www.youtube.com/watch?v=3hd09gWcQyA</guid>
+      <pubDate>2026-10-06T19:45:45+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo, députée française Reconquête au Parlement européen, était l’invitée de BFMTV.
+
+👍 Likez, 💬 commentez, 📤 partagez la vidéo et 🔔 abonnez-vous en activant la cloche pour ne manquer aucune vidéo !
+
+Pour suivre l’actualité de Sarah Knafo :
+
+Instagram : https://www.instagram.com/sarahknafo1
+X/Twitter : https://x.com/knafo_sarah?s=11
+Facebook : https://www.facebook.com/share/1BDboyows5/?mibextid=wwXIfr
+Linkedln : https://www.linkedin.com/in/sarah-knafo-7a0129b5?utm_source=share_via&amp;amp;utm_content=profile&amp;amp;utm_medium=member_ios
+WhatsApp : ‎https://whatsapp.com/channel/0029VakkwXs60eBd95uc7e2n
+TikTok : https://www.tiktok.com/@sarah_knafo?_r=1&amp;_t=ZN-98M2y5vFPLG
+Telegram : https://t.me/Sarah_Knafo
+
+📖 Commandez mon livre : sarahknafo.fr
+
+🗳️ Adhérez à Reconquête : https://www.parti-reconquete.fr/adhesions</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>3hd09gWcQyA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/3hd09gWcQyA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Quelle sera la suite du mouvement lycéen ?</title>
+      <link>https://www.youtube.com/watch?v=t_xNcJtX5cY</link>
+      <guid>https://www.youtube.com/watch?v=t_xNcJtX5cY</guid>
+      <pubDate>2026-10-06T19:38:01+00:00</pubDate>
+      <author>Louis Boyard</author>
+      <description />
+      <channelTitle>Louis Boyard</channelTitle>
+      <videoId>t_xNcJtX5cY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/t_xNcJtX5cY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Le RN ment.</title>
       <link>https://www.youtube.com/watch?v=IfcWaDw74ic</link>
@@ -1901,29 +1939,6 @@ Sommaire :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>lXRFErhRB4Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/lXRFErhRB4Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Best of David Cormand sur le débat IA de la présidentielle au Vélodrome de Marseille</title>
-      <link>https://www.youtube.com/watch?v=wKU1h2BBqaA</link>
-      <guid>https://www.youtube.com/watch?v=wKU1h2BBqaA</guid>
-      <pubDate>2026-09-25T16:30:28+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Débat organisé le 25 septembre 2026 à Marseille avec des représentants des candidat·es à la présidentielle.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>wKU1h2BBqaA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/wKU1h2BBqaA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>⚠️ 💊 Les industriels empoisonnent des femmes !</title>
-      <link>https://www.youtube.com/watch?v=0xLvw8iaObA</link>
-      <guid>https://www.youtube.com/watch?v=0xLvw8iaObA</guid>
-      <pubDate>2026-09-25T16:10:00+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Les industriels peuvent tuer ou torturer des femmes en leur posant des implants ou des bandelettes sous-urétrales dangereuses, dans l'impunité totale. 
-Ca s'appelle le patriarcat ! Nous accueillions à l'Assemblée nationale les collectifs de victimes comme "balance ta bandelette" ou "association diva", des chercheurs et des autorités sanitaires pour exiger des mesures drastiques et qu'on écoute enfin la parole des femmes</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>0xLvw8iaObA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0xLvw8iaObA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
