@@ -92,6 +92,17 @@ def is_short(entry):
     )
 
 
+def entry_timestamp(entry):
+    """Date de publication sous forme triable ; l'heure courante pour
+    les entrees sans date, qui montent alors en tete du tri."""
+    parsed = entry.get("published_parsed")
+
+    if parsed is None:
+        return datetime.now(timezone.utc).timetuple()
+
+    return parsed
+
+
 def get_entries(feed_url):
     try:
         parsed = feedparser.parse(feed_url)
@@ -102,10 +113,7 @@ def get_entries(feed_url):
 
         return sorted(
             parsed.entries,
-            key=lambda x: x.get(
-                "published_parsed",
-                datetime.now(timezone.utc).timetuple(),
-            ),
+            key=entry_timestamp,
             reverse=True,
         )[:MAX_PER_SOURCE]
 
@@ -128,6 +136,31 @@ def get_meetings_entries():
         return []
 
 
+def add_xml_item(channel, entry):
+    """Ecrit une entree dans le flux XML (titre, lien, meta, vignette)."""
+    item = ET.SubElement(channel, "item")
+
+    ET.SubElement(item, "title").text = entry.get("title", "")
+    ET.SubElement(item, "link").text = entry.get("link", "")
+    ET.SubElement(item, "guid").text = entry.get("link", "")
+    ET.SubElement(item, "pubDate").text = entry.get("published", "")
+    ET.SubElement(item, "author").text = entry.get("author", "")
+    ET.SubElement(item, "description").text = entry.get("summary", "")
+    ET.SubElement(item, "channelTitle").text = entry.get("author", "")
+
+    video_id = entry.get("yt_videoid") or entry.get("video_id")
+
+    if video_id:
+        ET.SubElement(item, "videoId").text = video_id
+
+        thumbnail = ET.SubElement(item, "enclosure")
+        thumbnail.set(
+            "url",
+            f"https://i.ytimg.com/vi/{video_id}/maxresdefault.jpg",
+        )
+        thumbnail.set("type", "image/jpeg")
+
+
 def build_xml(entries, title="YouTube Aggregated Feed", description="Flux RSS agrégé YouTube"):
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
@@ -139,38 +172,9 @@ def build_xml(entries, title="YouTube Aggregated Feed", description="Flux RSS ag
     ET.SubElement(channel, "feedCount").text = str(len(RSS_FEEDS))
 
     for entry in entries:
-        item = ET.SubElement(channel, "item")
-
-        ET.SubElement(item, "title").text = entry.get("title", "")
-        ET.SubElement(item, "link").text = entry.get("link", "")
-        ET.SubElement(item, "guid").text = entry.get("link", "")
-        ET.SubElement(item, "pubDate").text = entry.get("published", "")
-        ET.SubElement(item, "author").text = entry.get("author", "")
-        ET.SubElement(item, "description").text = entry.get("summary", "")
-        ET.SubElement(item, "channelTitle").text = entry.get("author", "")
-
-        video_id = entry.get("yt_videoid") or entry.get("video_id")
-
-        if video_id:
-            ET.SubElement(item, "videoId").text = video_id
-
-            thumbnail = ET.SubElement(item, "enclosure")
-            thumbnail.set(
-                "url",
-                f"https://i.ytimg.com/vi/{video_id}/maxresdefault.jpg",
-            )
-            thumbnail.set("type", "image/jpeg")
+        add_xml_item(channel, entry)
 
     return ET.ElementTree(rss)
-
-
-def entry_timestamp(entry):
-    parsed = entry.get("published_parsed")
-
-    if parsed is None:
-        return datetime.now(timezone.utc).timetuple()
-
-    return parsed
 
 
 def entry_to_dict(entry):
@@ -249,19 +253,26 @@ def update_archive(entries):
     )
 
 
-def main():
-    all_entries = []
-    errors = 0
+def fetch_all_entries():
+    """Recupere les entrees de tous les flux abonnes, shorts exclus."""
+    entries = []
+    unavailable = 0
 
     for feed_url in RSS_FEEDS:
-        entries = get_entries(feed_url)
+        feed_entries = get_entries(feed_url)
 
-        if not entries:
-            errors += 1
+        if not feed_entries:
+            unavailable += 1
 
-        for entry in entries:
+        for entry in feed_entries:
             if not is_short(entry):
-                all_entries.append(entry)
+                entries.append(entry)
+
+    return entries, unavailable
+
+
+def main():
+    all_entries, unavailable = fetch_all_entries()
 
     meetings = get_meetings_entries()
     all_entries.extend(meetings)
@@ -269,8 +280,8 @@ def main():
     if meetings:
         print(f"{len(meetings)} entrée(s) ajoutée(s) depuis meetings.xml")
 
-    if errors:
-        print(f"Avertissement : {errors} flux inaccessibles sur {len(RSS_FEEDS)}")
+    if unavailable:
+        print(f"Avertissement : {unavailable} flux inaccessibles sur {len(RSS_FEEDS)}")
 
     all_entries.sort(
         key=entry_timestamp,
