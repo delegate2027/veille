@@ -3,6 +3,7 @@ var renderedLinks = {};
 var lastModifiedSeen = null;
 var currentView = "feed";
 var POLL_INTERVAL = 60000;
+var FEED_LIMIT = 50;
 
 /* Incremente uniquement lorsque le flux apporte reellement du nouveau.
    rss.py ecrivant flux.xml et archives.xml dans la meme execution, ce compteur
@@ -314,7 +315,7 @@ function loadRSS() {
     feedRevision++;
     feed = document.getElementById("feed");
     feed.innerHTML = "";
-    for (i = 0; i < data.items.length && i < 100; i++) {
+    for (i = 0; i < data.items.length && i < FEED_LIMIT; i++) {
       item = data.items[i];
       if (isShort(item.title, item.link, item.description)) continue;
       link = item.link || "#";
@@ -339,7 +340,7 @@ function pollRSS() {
        passage a l'onglet declenche le rechargement (isArchiveStale). */
     if (currentView === "archives") ensureArchiveLoaded(true);
 
-    for (i = 0; i < data.items.length && i < 100; i++) {
+    for (i = 0; i < data.items.length && i < FEED_LIMIT; i++) {
       item = data.items[i];
       if (isShort(item.title, item.link, item.description)) continue;
       link = item.link || "#";
