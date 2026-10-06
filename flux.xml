@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 07:15:33 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 07:30:46 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>EN DIRECT - Réunion publique à Marseille - 5 octobre 2026</title>
@@ -1146,17 +1146,6 @@ Il revient sur les principales mesures annoncées par le gouvernement et leurs c
       <enclosure url="https://i.ytimg.com/vi/eMjdiyFrCDw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Projet de loi de finances 2027 : audition des ministres Amiel et Lescure</title>
-      <link>https://www.youtube.com/watch?v=XNtqmU6XFyo</link>
-      <guid>https://www.youtube.com/watch?v=XNtqmU6XFyo</guid>
-      <pubDate>2026-10-01T15:05:09+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Suivez en direct l'audition des ministres de Bercy Roland Lescure et David Amiel, sur le projet de loi de finances pour 2027 présenté ce jeudi 1er octobre en conseil des ministre et devant la commission des Finances.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>XNtqmU6XFyo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/XNtqmU6XFyo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Loi intégrale contre les violences faites aux femmes et aux enfants | Soumya Bourouaha</title>
       <link>https://www.youtube.com/watch?v=CNDiCbu65c8</link>
       <guid>https://www.youtube.com/watch?v=CNDiCbu65c8</guid>
@@ -1936,6 +1925,17 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>4qNxokHD8dw</videoId>
       <enclosure url="https://i.ytimg.com/vi/4qNxokHD8dw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Carburants : mais où va l’argent des Français ?</title>
+      <link>https://www.youtube.com/watch?v=6AAtOeu6DjM</link>
+      <guid>https://www.youtube.com/watch?v=6AAtOeu6DjM</guid>
+      <pubDate>2026-09-23T19:06:26+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description />
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>6AAtOeu6DjM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/6AAtOeu6DjM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
