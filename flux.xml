@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 21:45:34 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:01:04 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Plan jeunesse 2027 - 2032 | Fabien Roussel</title>
+      <link>https://www.youtube.com/watch?v=JQEw5RQe89I</link>
+      <guid>https://www.youtube.com/watch?v=JQEw5RQe89I</guid>
+      <pubDate>2026-10-06T21:58:01+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description />
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>JQEw5RQe89I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/JQEw5RQe89I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Rythmes scolaires, bâti scolaire, moyens, j'échange avec la jeunesse de France sur LCI.</title>
       <link>https://www.youtube.com/watch?v=g5ADCMfOoWY</link>
@@ -341,17 +352,6 @@ Rénovation des collèges et lycées, recrutement de 90 000 enseignants, réduct
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>N77NKXoPLAw</videoId>
       <enclosure url="https://i.ytimg.com/vi/N77NKXoPLAw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Plan jeunesse 2027 - 2032 | Fabien Roussel</title>
-      <link>https://www.youtube.com/watch?v=JQEw5RQe89I</link>
-      <guid>https://www.youtube.com/watch?v=JQEw5RQe89I</guid>
-      <pubDate>2026-10-06T09:04:33+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description />
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>JQEw5RQe89I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/JQEw5RQe89I/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
