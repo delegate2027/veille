@@ -218,39 +218,23 @@ function updateArchiveCount(visible) {
 }
 
 function loadArchive() {
-  var xhr = new XMLHttpRequest();
   var container = document.getElementById("archive");
 
-  xhr.open("GET", "archives.xml", true);
-  xhr.setRequestHeader("Cache-Control", "no-cache");
-
-  xhr.onreadystatechange = function() {
-    var xml;
-    if (xhr.readyState !== 4) return;
+  fetchXML("archives.xml", null, function(err, xml, notModified) {
+    /* En cas d'erreur, archiveLoaded reste false : un nouveau passage
+       sur l'onglet relancera le chargement au lieu de figer l'archive
+       jusqu'au prochain changement de flux. */
+    if (err) {
+      container.innerHTML = '<div class="error">Impossible de charger les archives (' + escapeHtml(err.message) + ').</div>';
+      return;
+    }
 
     /* 304 : le serveur confirme que la copie locale est la bonne.
        Ce n'est pas une erreur, on conserve les donnees deja chargees. */
-    if (xhr.status === 304) {
+    if (notModified) {
       archiveLoaded = true;
       archiveFeedRevision = feedRevision;
       renderArchive();
-      return;
-    }
-
-    if (xhr.status !== 200 && xhr.status !== 0) {
-      /* archiveLoaded reste false : le prochain passage sur l'onglet
-         relancera le chargement au lieu d'afficher une archive vide
-         jusqu'au prochain changement de flux. */
-      container.innerHTML = '<div class="error">Impossible de charger les archives : HTTP ' + xhr.status + '</div>';
-      return;
-    }
-
-    /* Meme lecture que le flux (fetchAndParseRSS) : responseXML, deja
-       parse par le navigateur. parsererror signale un fichier mal forme
-       (Firefox renvoie un document, Chrome null). */
-    xml = xhr.responseXML;
-    if (!xml || !xml.getElementsByTagName || xml.getElementsByTagName("parsererror").length) {
-      container.innerHTML = '<div class="error">Impossible de lire le fichier d’archives.</div>';
       return;
     }
 
@@ -259,9 +243,7 @@ function loadArchive() {
     archiveFeedRevision = feedRevision;
     updateArchiveCount();
     renderArchive();
-  };
-
-  xhr.send(null);
+  });
 }
 
 /* Charge l'archive seulement si necessaire : le fichier pese ~207 Ko et

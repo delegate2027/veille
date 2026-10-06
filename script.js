@@ -228,23 +228,28 @@ function getXmlHttp() {
   return null;
 }
 
-function fetchAndParseRSS(callback, headers) {
+/* Requete XML unique pour le flux et les archives : memes en-tetes,
+   memes cas d'erreur (navigateur, HTTP, 304, XML malforme). Le
+   gestionnaire recut (err, xml, notModified, lastModified). */
+function fetchXML(url, headers, callback) {
   var xhr = getXmlHttp();
+
   if (!xhr) {
     callback(new Error("Ce navigateur ne prend pas en charge les requêtes HTTP nécessaires."));
     return;
   }
 
-  xhr.open("GET", "flux.xml", true);
+  xhr.open("GET", url, true);
   xhr.setRequestHeader("Cache-Control", "no-cache");
   if (headers && headers["If-Modified-Since"]) xhr.setRequestHeader("If-Modified-Since", headers["If-Modified-Since"]);
 
   xhr.onreadystatechange = function() {
-    var xml, items, lastModified;
+    var xml;
     if (xhr.readyState !== 4) return;
 
+    /* 304 : le serveur confirme que la copie locale est la bonne. */
     if (xhr.status === 304) {
-      callback(null, { notModified: true });
+      callback(null, null, true, null);
       return;
     }
     if (xhr.status !== 200 && xhr.status !== 0) {
@@ -252,20 +257,36 @@ function fetchAndParseRSS(callback, headers) {
       return;
     }
 
-    try {
-      xml = xhr.responseXML;
-      if (!xml || !xml.getElementsByTagName) {
-        callback(new Error("Impossible de lire le flux XML."));
-        return;
-      }
-      items = getItemsFromXml(xml);
-      lastModified = xhr.getResponseHeader("Last-Modified");
-      callback(null, { items: items, lastModified: lastModified });
-    } catch (e) {
-      callback(e);
+    /* responseXML est deja parse par le navigateur. parsererror signale
+       un fichier malforme (Firefox renvoie un document, Chrome null). */
+    xml = xhr.responseXML;
+    if (!xml || !xml.getElementsByTagName || xml.getElementsByTagName("parsererror").length) {
+      callback(new Error("fichier XML illisible"));
+      return;
     }
+
+    callback(null, xml, false, xhr.getResponseHeader("Last-Modified"));
   };
+
   xhr.send(null);
+}
+
+function fetchAndParseRSS(callback, headers) {
+  fetchXML("flux.xml", headers, function(err, xml, notModified, lastModified) {
+    var items;
+
+    if (err) {
+      callback(err);
+      return;
+    }
+    if (notModified) {
+      callback(null, { notModified: true });
+      return;
+    }
+
+    items = getItemsFromXml(xml);
+    callback(null, { items: items, lastModified: lastModified });
+  });
 }
 
 function updateStatus(lastModified) {
