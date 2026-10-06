@@ -4,170 +4,388 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 02:15:32 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:30:54 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
-      <title>EN DIRECT - Réunion publique à Marseille - 5 octobre 2026</title>
-      <link>https://www.youtube.com/watch?v=dbKNpzq0vkc</link>
-      <guid>https://www.youtube.com/watch?v=dbKNpzq0vkc</guid>
-      <pubDate>2026-10-02T09:41:21+00:00</pubDate>
-      <author>Raphaël Glucksmann</author>
-      <description>Réunion publique de Raphaël Glucksmann à Marseille - 5 octobre 2026</description>
-      <channelTitle>Raphaël Glucksmann</channelTitle>
-      <videoId>dbKNpzq0vkc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dbKNpzq0vkc/maxresdefault.jpg" type="image/jpeg" />
+      <title>L’été 2026 a coûté au minimum 16 milliards d’euros !</title>
+      <link>https://www.youtube.com/watch?v=ZKM3MklFG1E</link>
+      <guid>https://www.youtube.com/watch?v=ZKM3MklFG1E</guid>
+      <pubDate>2026-10-05T14:34:26+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Le 5 octobre 2026, Éric Coquerel a présenté en commission des Finances les conclusions de la mission d’information flash sur « les coûts des fortes températures, de la sécheresse et des incendies de l’été 2026 ».
+
+Après 34 auditions et un déplacement au Porge, la mission établit un premier chiffrage du coût de l’été 2026 et identifie les investissements nécessaires pour mieux mesurer, prévenir et réparer les conséquences du dérèglement climatique.
+
+Elle estime nécessaire d’engager entre 8,75 et 12,3 milliards d’euros de dépenses publiques supplémentaires à partir de 2027 et dans les années suivantes, dont 8,4 à 11,9 milliards d’euros pour le budget de l’État.
+
+Ces montants auraient dû apparaître, au moins en ordre de grandeur, dans le projet de loi de finances pour 2027 présenté par le Gouvernement. Ce n’est pas le cas.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>ZKM3MklFG1E</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ZKM3MklFG1E/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>VLOG : dans les coulisses du Parlement européen</title>
-      <link>https://www.youtube.com/watch?v=5Ip_yABLlJo</link>
-      <guid>https://www.youtube.com/watch?v=5Ip_yABLlJo</guid>
-      <pubDate>2022-05-09T18:24:42+00:00</pubDate>
-      <author>Raphaël Glucksmann</author>
-      <description>Je vous emmène avec moi dans les coulisses de mon mandat au Parlement européen, de Bruxelles à Strasbourg en passant par Paris.
-
-Vous retrouverez mon équipe, mes combats, et ce qui fait mon quotidien de député européen.
-
-Le combat continue !
-
-
-La lettre d’un réfugié soudanais que j'ai distribuée au Parlement le premier jour de mon mandat : https://www.infomigrants.net/fr/post/17173/lettre-dun-refugie-soudanais-au-parlement-europeen--nous-vivons-sous-les-ponts-de-vos-belles-villes
-
-Images tournées en décembre 2021.</description>
-      <channelTitle>Raphaël Glucksmann</channelTitle>
-      <videoId>5Ip_yABLlJo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5Ip_yABLlJo/maxresdefault.jpg" type="image/jpeg" />
+      <title>Éric Coquerel sur Public Sénat : soutien aux revendications des lycéens / budget 2027</title>
+      <link>https://www.youtube.com/watch?v=ayuwkH64uGQ</link>
+      <guid>https://www.youtube.com/watch?v=ayuwkH64uGQ</guid>
+      <pubDate>2026-10-05T07:32:00+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Eric Coquerel est l’invité de la matinale Public Sénat, le lundi 5 octobre 2026 en soutien en revendication des lycéens qui manifestent pour la suppression de Parcoursup et pour de￼ meilleures conditions d’études. Ainsi que sur le début des discussions sur le budget 2027.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>ayuwkH64uGQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ayuwkH64uGQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Ouïghours - témoignages bouleversants de deux rescapées des camps chinois</title>
-      <link>https://www.youtube.com/watch?v=OqzAae4PvQE</link>
-      <guid>https://www.youtube.com/watch?v=OqzAae4PvQE</guid>
-      <pubDate>2022-01-16T17:52:14+00:00</pubDate>
-      <author>Raphaël Glucksmann</author>
-      <description>Témoignage de Gulbahar Jalilova et Gulbahar Haitiwaji.</description>
-      <channelTitle>Raphaël Glucksmann</channelTitle>
-      <videoId>OqzAae4PvQE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/OqzAae4PvQE/maxresdefault.jpg" type="image/jpeg" />
+      <title>Budget 2027 : un 0 pointé / soutien aux revendications des lycéens [mon 8h30 France info]</title>
+      <link>https://www.youtube.com/watch?v=53bRi5RS08g</link>
+      <guid>https://www.youtube.com/watch?v=53bRi5RS08g</guid>
+      <pubDate>2026-10-02T09:52:58+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Éric Coquerel était l’invité du 8h30 France info, le vendredi 2 octobre 2026, en soutien aux mobilisations lycéennes non violentes et à leurs revendications, alors que le budget 2027 prévoit 840 millions d’euros de baisse pour les jeunes, dont 560 millions pour les collèges et lycées. 
+
+Il a également réagi à la présentation du budget 2027 et aux révélations de Mediapart sur les messages antisémites de Jordan Bardella.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>53bRi5RS08g</videoId>
+      <enclosure url="https://i.ytimg.com/vi/53bRi5RS08g/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>CE QUE CACHE SHEIN</title>
-      <link>https://www.youtube.com/watch?v=-DpqOXaPQOg</link>
-      <guid>https://www.youtube.com/watch?v=-DpqOXaPQOg</guid>
-      <pubDate>2022-01-13T17:16:25+00:00</pubDate>
-      <author>Raphaël Glucksmann</author>
-      <description>SHEIN est une marque chinoise très présente sur les réseaux sociaux, l'un un des géants de la « Fast Fashion». Mais derrière les t-shirts à 2€ ou les robes à 9€ se cache un système d’exploitation d’une rare violence.
-
-Je vous l'explique dans cette vidéo.
-
-Les différentes sources :
-- Enquête du journal Le Monde : https://www.lemonde.fr/economie/article/2022/01/05/les-coulisses-peu-reluisantes-de-shein-nouveau-geant-du-pret-a-porter_6108229_3234.html
-- Enquête de l'ONG Public Eye : https://stories.publiceye.ch/fr/shein/
-- Révélations de Reuters : https://www.reuters.com/business/retail-consumer/exclusive-chinese-retailer-shein-lacks-disclosures-made-false-statements-about-2021-08-06/</description>
-      <channelTitle>Raphaël Glucksmann</channelTitle>
-      <videoId>-DpqOXaPQOg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-DpqOXaPQOg/maxresdefault.jpg" type="image/jpeg" />
+      <title>Macron est le responsable de la crise des lycées !</title>
+      <link>https://www.youtube.com/watch?v=ND_l_N4B_Aw</link>
+      <guid>https://www.youtube.com/watch?v=ND_l_N4B_Aw</guid>
+      <pubDate>2026-10-02T07:29:44+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>RMC le 02 octobre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>ND_l_N4B_Aw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ND_l_N4B_Aw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>CANDIDATURE PRÉSIDENTIELLE, TAIWAN, JEUX OLYMPIQUES : FAQ #1</title>
-      <link>https://www.youtube.com/watch?v=jsW0FcOtL98</link>
-      <guid>https://www.youtube.com/watch?v=jsW0FcOtL98</guid>
-      <pubDate>2022-01-09T18:25:50+00:00</pubDate>
-      <author>Raphaël Glucksmann</author>
-      <description>Je réponds sincèrement à vos questions posées sur Instagram.</description>
-      <channelTitle>Raphaël Glucksmann</channelTitle>
-      <videoId>jsW0FcOtL98</videoId>
-      <enclosure url="https://i.ytimg.com/vi/jsW0FcOtL98/maxresdefault.jpg" type="image/jpeg" />
+      <title>Les ministres changent, mais les budgets se ressemblent depuis 10 ans !</title>
+      <link>https://www.youtube.com/watch?v=iZBEzH8YABo</link>
+      <guid>https://www.youtube.com/watch?v=iZBEzH8YABo</guid>
+      <pubDate>2026-10-01T17:50:26+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez l'intervention d'Eric Coquerel, lors de l'audition des ministres de Bercy sur le budget 2027, le 1er octobre 2026.
+
+🔴🗣 "Les ministres changent, mais les budgets se ressemblent depuis 10 ans, et plus encore depuis 2 ans. Ce qui me gêne dans cette politique de l’offre, et donc de coupes budgétaires, ce sont les conséquences, plus fortes cette année compte tenu du contexte international. Même votre objectif de réduction du déficit est un échec patent."</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>iZBEzH8YABo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/iZBEzH8YABo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Génocide des Tutsi au Rwanda : le plus grand scandale de la Ve République</title>
-      <link>https://www.youtube.com/watch?v=LsxwRiBaPJI</link>
-      <guid>https://www.youtube.com/watch?v=LsxwRiBaPJI</guid>
-      <pubDate>2021-12-30T18:14:33+00:00</pubDate>
-      <author>Raphaël Glucksmann</author>
-      <description>Il y a 20 ans, je suis parti au Rwanda avec deux amis de lycée pour réaliser un documentaire sur le génocide des Tutsi et le rôle de la France.
+      <title>Budget 2027 : la réaction d’Éric Coquerel | Conférence de presse</title>
+      <link>https://www.youtube.com/watch?v=eMjdiyFrCDw</link>
+      <guid>https://www.youtube.com/watch?v=eMjdiyFrCDw</guid>
+      <pubDate>2026-10-01T16:49:46+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez la conférence de presse d’Éric Coquerel du jeudi 1er octobre, en réaction à la présentation du budget 2027.
 
-Comme promis dans la vidéo, les livres à lire sur le génocide des Tutsi : 
-
-- Même Dieu ne veut pas s'en mêler - Annick Kayitesi-Jozan
-- L’inavouable - Patrick de Saint-Exupéry 
-- Dans le nu de la vie - Jean Hatzfeld 
-- Sans ciel ni terre - Hélène Dumas 
-- La France, le Rwanda et le génocide des Tutsi (1990-1994) - Vincent Duclert 
-- Rwanda, la fin du silence : témoignage d'un officier français - Guillaume Ancel</description>
-      <channelTitle>Raphaël Glucksmann</channelTitle>
-      <videoId>LsxwRiBaPJI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LsxwRiBaPJI/maxresdefault.jpg" type="image/jpeg" />
+Il revient sur les principales mesures annoncées par le gouvernement et leurs conséquences, notamment pour les services publics, les salariés et les jeunes.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>eMjdiyFrCDw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/eMjdiyFrCDw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Memorial : Poutine a peur</title>
-      <link>https://www.youtube.com/watch?v=Pva2gyA-ChE</link>
-      <guid>https://www.youtube.com/watch?v=Pva2gyA-ChE</guid>
-      <pubDate>2021-12-29T16:08:16+00:00</pubDate>
-      <author>Raphaël Glucksmann</author>
-      <description>Vladimir Poutine a peur. 
-
-Certes, son pouvoir n'est pas immédiatement menacé. Certes il contrôle les armes, l'argent, les médias, les fonctionnaires. 
-
-Mais il aura peur tant que des consciences libres existeront en Russie. Et là, il a peur de l'ONG Mémorial.</description>
-      <channelTitle>Raphaël Glucksmann</channelTitle>
-      <videoId>Pva2gyA-ChE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Pva2gyA-ChE/maxresdefault.jpg" type="image/jpeg" />
+      <title>Projet de loi de finances 2027 : audition des ministres Amiel et Lescure</title>
+      <link>https://www.youtube.com/watch?v=XNtqmU6XFyo</link>
+      <guid>https://www.youtube.com/watch?v=XNtqmU6XFyo</guid>
+      <pubDate>2026-10-01T15:05:09+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Suivez en direct l'audition des ministres de Bercy Roland Lescure et David Amiel, sur le projet de loi de finances pour 2027 présenté ce jeudi 1er octobre en conseil des ministre et devant la commission des Finances.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>XNtqmU6XFyo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/XNtqmU6XFyo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>LES 5 LIVRES QUI ONT MARQUÉ MA VIE</title>
-      <link>https://www.youtube.com/watch?v=9fCmn7E9Ot8</link>
-      <guid>https://www.youtube.com/watch?v=9fCmn7E9Ot8</guid>
-      <pubDate>2021-12-23T15:06:22+00:00</pubDate>
-      <author>Raphaël Glucksmann</author>
-      <description>De Montaigne à La Boétie en passant par Elie Wiesel... 
-5 livres indispensables pour comprendre le monde.</description>
-      <channelTitle>Raphaël Glucksmann</channelTitle>
-      <videoId>9fCmn7E9Ot8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/9fCmn7E9Ot8/maxresdefault.jpg" type="image/jpeg" />
+      <title>Meeting antifasciste de soutien à Gino et ses camarades !</title>
+      <link>https://www.youtube.com/watch?v=mLtPnHpTS_Q</link>
+      <guid>https://www.youtube.com/watch?v=mLtPnHpTS_Q</guid>
+      <pubDate>2026-10-01T09:57:09+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Ce jeudi 30 septembre, j'ai été soutenir Gino et ses camarades lors d'un meeting antifasciste à Paris. Gino et Zaid risquent des années de prison en Hongrie pour avoir contre-manifesté à Budapest en 2023 lors d'un évènement de néonazis.
+
+Mauvaise nouvelle, avant ce meeting, la Cour de cassation a entériné l'extradition de Gino vers l'Allemagne. La suite pourrait être qu'il soit livré à la Hongrie.
+
+Je suis venu leur témoigner notre soutien, celui de LFI et de Jean-Luc Mélenchon. L'antifascisme ne doit pas être criminalisé. No pasarán !</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>mLtPnHpTS_Q</videoId>
+      <enclosure url="https://i.ytimg.com/vi/mLtPnHpTS_Q/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Ouïghours : Tu lis le Coran? Tu vas en camp.</title>
-      <link>https://www.youtube.com/watch?v=tvhfbytYe_0</link>
-      <guid>https://www.youtube.com/watch?v=tvhfbytYe_0</guid>
-      <pubDate>2021-12-20T16:46:57+00:00</pubDate>
-      <author>Raphaël Glucksmann</author>
-      <description>Tu lis le Coran? Tu vas en camp. 
-Tu portes une barbe? Tu vas en camp. 
-Tu envoies des voeux pour l’Aid? Tu vas en camp. 
+      <title>Comment j'ai piégé les médias des milliardaires !</title>
+      <link>https://www.youtube.com/watch?v=_-lX1XD_tNE</link>
+      <guid>https://www.youtube.com/watch?v=_-lX1XD_tNE</guid>
+      <pubDate>2026-09-25T15:24:14+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Il y a quelques semaines, j'ai bouleversé tout le système médiatique avec une simple phrase.
 
-Voilà la terreur qui s’abat sur les Ouïghours de Chine en ce moment. Et les grands silences permettent les grands crimes. Et force est de constater que jusqu’ici le monde a été très silencieux. 
+« Les milliardaires sont des nuisibles. »
 
-Nous avons brisé ce silence en donnant le prix Sakharov à Ilham Tohti. 
-Mais cela ne suffit pas. Il faut désormais passer aux actes. 
+Ça ne m'aura pris qu'une seconde, mais ça aura occupé les antennes pendant des semaines.
 
-Il faut des sanctions contre les dirigeants chinois qui sont directement impliqués dans ce qui est aujourd’hui la plus grande politique d’internement de masse dans le monde. Il faut aussi des sanctions contre les entreprises qui participent à cette politique concentrationnaire. 
-
-Et il faut, enfin, que les entreprises européennes appliquent le devoir de vigilance —  en particulier les entreprises textiles par exemple — et ne bénéficient pas de ce qui est aujourd’hui une politique inadmissible. #FreeUyghurs</description>
-      <channelTitle>Raphaël Glucksmann</channelTitle>
-      <videoId>tvhfbytYe_0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/tvhfbytYe_0/maxresdefault.jpg" type="image/jpeg" />
+Je vous révèle les ressorts de la polémique de la rentrée sur les milliardaires : comment j'ai pris les médias à leur propre jeu et pourquoi il faut, plus que jamais, mettre le sujet de l'extrême richesse au cœur des débats en 2027 !</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>_-lX1XD_tNE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_-lX1XD_tNE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Ouïghours : J'accuse !</title>
-      <link>https://www.youtube.com/watch?v=Fkmmuxn3X64</link>
-      <guid>https://www.youtube.com/watch?v=Fkmmuxn3X64</guid>
-      <pubDate>2021-12-19T23:06:51+00:00</pubDate>
-      <author>Raphaël Glucksmann</author>
-      <description>J’accuse les dirigeants du Parti communiste chinois du pire crime contre l’humanité du XXIe siècle : la déportation et l’éradication du peuple Ouïghour.
+      <title>Prix de l'essence : Macron préfère Total aux Français !</title>
+      <link>https://www.youtube.com/watch?v=4qNxokHD8dw</link>
+      <guid>https://www.youtube.com/watch?v=4qNxokHD8dw</guid>
+      <pubDate>2026-09-24T06:53:41+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>France info TV le 24 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>4qNxokHD8dw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4qNxokHD8dw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Urgent : il faut bloquer les prix de l'essence !</title>
+      <link>https://www.youtube.com/watch?v=l4nsniyvdIo</link>
+      <guid>https://www.youtube.com/watch?v=l4nsniyvdIo</guid>
+      <pubDate>2026-09-22T07:43:41+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Sud Radio le 22 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>l4nsniyvdIo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/l4nsniyvdIo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Manon Aubry face à Sam Zirah</title>
+      <link>https://www.youtube.com/watch?v=SqT5e2GRgPA</link>
+      <guid>https://www.youtube.com/watch?v=SqT5e2GRgPA</guid>
+      <pubDate>2026-09-20T08:00:03+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Milliardaires, l'extrême droite en Europe et campagne présidentielle ! 
 
-J’accuse la communauté internationale de consentir à ce crime par son silence et sa passivité.
+Retrouvez mon entretien face à Sam Zirah</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>SqT5e2GRgPA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SqT5e2GRgPA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Manon Aubry face à Ursula von der Leyen</title>
+      <link>https://www.youtube.com/watch?v=nwc4Hd8pO8o</link>
+      <guid>https://www.youtube.com/watch?v=nwc4Hd8pO8o</guid>
+      <pubDate>2026-09-16T14:38:34+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>"Nous privilégierons les milliards d'êtres humains aux milliards d'euros de quelques humains."
 
-J’accuse les dirigeants de nombreux pays musulmans, du Pakistan à l’Arabie saoudite, qui brandissent d’un côté leur foi en étendard et de l’autre soutiennent la politique chinoise de destruction des mosquées et de profanations des cimetières.
+J'ai répondu à Ursula von der Leyen, la Présidente de la Commission européenne, complètement déconnectée de la réalité.
 
-J’accuse les patrons cupides de NIKE, de ZARA et de tant d’autres multinationales qui bénéficient de la réduction en esclavage d’un peuple.
+Le 16 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>nwc4Hd8pO8o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nwc4Hd8pO8o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🚨 Médias : en finir avec Bolloré et la mainmise des milliardaires !</title>
+      <link>https://www.youtube.com/watch?v=F2RdelnqEE4</link>
+      <guid>https://www.youtube.com/watch?v=F2RdelnqEE4</guid>
+      <pubDate>2026-09-16T10:14:37+00:00</pubDate>
+      <author>Aurélien Saintoul - Député des Hauts-de-Seine</author>
+      <description>Présentation du programme Médias de la France insoumise lors de la Fête de l'Humanité 2026. La bataille contre la concentration des médias est prioritaire. @JLMelenchon le dit depuis longtemps : le système médiatique est la deuxième peau du système. Dès notre victoire, nous démantèlerons l'empire Bolloré et nous mettrons fin à la mainmise des milliardaires sur l'info !</description>
+      <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
+      <videoId>F2RdelnqEE4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/F2RdelnqEE4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Vite le blocage des prix de l'essence ! (Manon Aubry sur LCI)</title>
+      <link>https://www.youtube.com/watch?v=FfFznhpL-rc</link>
+      <guid>https://www.youtube.com/watch?v=FfFznhpL-rc</guid>
+      <pubDate>2026-09-11T10:21:02+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Vite le blocage des prix de l'essence ! Manon Aubry sur LCI face à Darius Rochebin, Laure Lavalette et Jean-Charles Orsucci.</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>FfFznhpL-rc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/FfFznhpL-rc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>David Guiraud recadre un journaliste de Valeurs Actuelles</title>
+      <link>https://www.youtube.com/watch?v=gRPOHaPkk04</link>
+      <guid>https://www.youtube.com/watch?v=gRPOHaPkk04</guid>
+      <pubDate>2026-09-10T20:37:46+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
 
-J’accuse enfin les dirigeants européens de lâcheté et de veulerie. Ces dirigeants, nous les avons exhortés il y a un an déjà à prendre des actions pour faire fermer ces camps. Qu’ont-ils fait depuis 1 an? Rien. Rien du tout.
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>gRPOHaPkk04</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gRPOHaPkk04/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Face à l'extrême droite, nous serons la seule alternative !</title>
+      <link>https://www.youtube.com/watch?v=_3xMe0dUCYs</link>
+      <guid>https://www.youtube.com/watch?v=_3xMe0dUCYs</guid>
+      <pubDate>2026-09-07T08:14:15+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>BFM TV le 07 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>_3xMe0dUCYs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_3xMe0dUCYs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🥱 Encore un débat très innovant (non) sur le voile et la dette | Aurélien Saintoul sur @LCI</title>
+      <link>https://www.youtube.com/watch?v=SPCLwWCMM98</link>
+      <guid>https://www.youtube.com/watch?v=SPCLwWCMM98</guid>
+      <pubDate>2026-09-05T06:00:33+00:00</pubDate>
+      <author>Aurélien Saintoul - Député des Hauts-de-Seine</author>
+      <description>Passage sur LCI ce vendredi 4 septembre 2026. Un moment de télévision particulièrement innovant en #France puisqu’il aura été question… du #voile et de la dette ! Les obsessions racistes de l’extrême droite saturent le débat public tandis que les urgences sociales sont oubliées : salaires, retraites, école, hôpital, logement… Avec Jean-Luc #Mélenchon, nous tournerons la page de ces années de misère sociale, de discriminations et de peur entretenue autour des finances de l’État. Il est temps de bâtir l’Avenir en Commun !</description>
+      <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
+      <videoId>SPCLwWCMM98</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SPCLwWCMM98/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🤯😤 1 contre 4 sur BFM : impossible d'en placer une ! | Aurélien Saintoul sur ‪@BFMTV</title>
+      <link>https://www.youtube.com/watch?v=Yu5GtiQh4Vk</link>
+      <guid>https://www.youtube.com/watch?v=Yu5GtiQh4Vk</guid>
+      <pubDate>2026-09-03T17:22:36+00:00</pubDate>
+      <author>Aurélien Saintoul - Député des Hauts-de-Seine</author>
+      <description>La direction de Radio France cherche à se concilier l'extrême droite en recrutant Charles Sapin. Pour les puissants, c'est semble-t-il toujours "plutôt Hitler que le Front populaire". Aux journalistes d'empêcher cette dangereuse caporalisation : nous les soutenons pleinement dans leur mobilisation ! J'étais l'invité de BFMTV ce jeudi 3 septembre 2026 pour commenter cette actualité. J'ai tenté, tant bien que mal, de défendre mon point de vue face à un plateau particulièrement peu disposé à me laisser parler !</description>
+      <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
+      <videoId>Yu5GtiQh4Vk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Yu5GtiQh4Vk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Le RN veut faire les poches des Français.</title>
+      <link>https://www.youtube.com/watch?v=54dtiSlwjuA</link>
+      <guid>https://www.youtube.com/watch?v=54dtiSlwjuA</guid>
+      <pubDate>2026-09-03T09:57:17+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>BFM TV le 02 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>54dtiSlwjuA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/54dtiSlwjuA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>David Guiraud, Maire de Roubaix : Quel bilan après 4 mois ?</title>
+      <link>https://www.youtube.com/watch?v=8MVDNDbdYvg</link>
+      <guid>https://www.youtube.com/watch?v=8MVDNDbdYvg</guid>
+      <pubDate>2026-08-07T20:15:25+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
 
-Un footballeur comme Antoine Griezmann ou des milliers de jeunes sur les réseaux sociaux ont plus fait en 1 an pour les Ouïghours que tous nos dirigeants réunis.
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>8MVDNDbdYvg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8MVDNDbdYvg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Superbe ambiance au match France - Maroc à la Fan zone de Roubaix</title>
+      <link>https://www.youtube.com/watch?v=q7jsM4GpRHM</link>
+      <guid>https://www.youtube.com/watch?v=q7jsM4GpRHM</guid>
+      <pubDate>2026-07-10T13:20:22+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
 
-Alors que les choses soient claires : si ces dirigeants s’assoient sur la résolution que nous votons aujourd’hui, s’ils refusent de sanctionner les dirigeants chinois, l’Histoire les jugera complices de crimes contre l’humanité et nous les jugerons avant elle. #FreeUyghurs</description>
-      <channelTitle>Raphaël Glucksmann</channelTitle>
-      <videoId>Fkmmuxn3X64</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Fkmmuxn3X64/maxresdefault.jpg" type="image/jpeg" />
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>q7jsM4GpRHM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/q7jsM4GpRHM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ambiance de folie lors du match France - Sénégal à la Fan Zone de Roubaix</title>
+      <link>https://www.youtube.com/watch?v=kuGSSTyIGiw</link>
+      <guid>https://www.youtube.com/watch?v=kuGSSTyIGiw</guid>
+      <pubDate>2026-06-17T15:15:39+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>kuGSSTyIGiw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/kuGSSTyIGiw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>David Guiraud, ciblé par une ingérence étrangère, alerte pour les élections présidentielles</title>
+      <link>https://www.youtube.com/watch?v=8XzAhFS1_RI</link>
+      <guid>https://www.youtube.com/watch?v=8XzAhFS1_RI</guid>
+      <pubDate>2026-05-20T17:50:38+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>8XzAhFS1_RI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8XzAhFS1_RI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Face à la problématique des stages, la ville de Roubaix prend ses responsabilités</title>
+      <link>https://www.youtube.com/watch?v=J6HeWuP7C_M</link>
+      <guid>https://www.youtube.com/watch?v=J6HeWuP7C_M</guid>
+      <pubDate>2026-05-05T08:25:12+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>J6HeWuP7C_M</videoId>
+      <enclosure url="https://i.ytimg.com/vi/J6HeWuP7C_M/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>L'interview politique de David Guiraud, Maire de Roubaix</title>
+      <link>https://www.youtube.com/watch?v=K_oQlvXnCYk</link>
+      <guid>https://www.youtube.com/watch?v=K_oQlvXnCYk</guid>
+      <pubDate>2026-04-28T12:27:43+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>K_oQlvXnCYk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/K_oQlvXnCYk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>David Guiraud élu Maire de Roubaix.</title>
+      <link>https://www.youtube.com/watch?v=a1cgZRjfYpE</link>
+      <guid>https://www.youtube.com/watch?v=a1cgZRjfYpE</guid>
+      <pubDate>2026-04-01T09:30:32+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>a1cgZRjfYpE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/a1cgZRjfYpE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>1er tour des Municipales 2026 à Roubaix : le discours de David Guiraud</title>
+      <link>https://www.youtube.com/watch?v=p8W_23AWUVA</link>
+      <guid>https://www.youtube.com/watch?v=p8W_23AWUVA</guid>
+      <pubDate>2026-03-15T23:13:26+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>p8W_23AWUVA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/p8W_23AWUVA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
