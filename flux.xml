@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 09:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:01:00 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>EN DIRECT l Présentation de la trajectoire financière du quinquennat de Marine Le Pen</title>
+      <link>https://www.youtube.com/watch?v=AukTdzBcgpc</link>
+      <guid>https://www.youtube.com/watch?v=AukTdzBcgpc</guid>
+      <pubDate>2026-10-06T09:58:35+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>AukTdzBcgpc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/AukTdzBcgpc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EDWIGE DIAZ : « Marine Le Pen appliquera le principe du casseur-payeur ! » (PUBLIC SÉNAT)</title>
+      <link>https://www.youtube.com/watch?v=DYLzSQgCPoc</link>
+      <guid>https://www.youtube.com/watch?v=DYLzSQgCPoc</guid>
+      <pubDate>2026-10-06T09:50:01+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>DYLzSQgCPoc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DYLzSQgCPoc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JULIEN ODOUL est SEUL CONTRE TOUS sur BFM TV !</title>
       <link>https://www.youtube.com/watch?v=LIQDzT6P7TY</link>
@@ -135,17 +159,6 @@ Le rapport est à retrouver ici : https://www.assemblee-nationale.fr/dyn/17/orga
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>55JSs6585mU</videoId>
       <enclosure url="https://i.ytimg.com/vi/55JSs6585mU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT l Présentation de la trajectoire financière du quinquennat de Marine Le Pen</title>
-      <link>https://www.youtube.com/watch?v=AukTdzBcgpc</link>
-      <guid>https://www.youtube.com/watch?v=AukTdzBcgpc</guid>
-      <pubDate>2026-10-06T07:59:58+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>AukTdzBcgpc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/AukTdzBcgpc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>EN DIRECT - Réunion publique à Marseille - 5 octobre 2026</title>
@@ -280,19 +293,6 @@ SOMMAIRE :
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>84UoSx6PBLI</videoId>
       <enclosure url="https://i.ytimg.com/vi/84UoSx6PBLI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY est l'invité de CNEWS !</title>
-      <link>https://www.youtube.com/watch?v=DNfomV4zeIk</link>
-      <guid>https://www.youtube.com/watch?v=DNfomV4zeIk</guid>
-      <pubDate>2026-10-05T15:04:06+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>DNfomV4zeIk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DNfomV4zeIk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Le 6 octobre, pour les revendications et la protection de la jeunesse !</title>
