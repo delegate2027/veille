@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 08:31:02 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:45:34 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
+      <link>https://www.youtube.com/watch?v=i0NAOI0F-uY</link>
+      <guid>https://www.youtube.com/watch?v=i0NAOI0F-uY</guid>
+      <pubDate>2026-10-06T08:32:14+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Rendez-vous ce mardi 6 octobre pour suivre le Point Presse Hebdo du groupe parlementaire La France insoumise avec Mathilde Panot !
+
+_________________________________________________ 
+
+Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
+
+☞ X (Twitter) : https://x.com/FiAssemblee
+☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
+☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
+☞ YouTube :  / @FranceinsoumiseAN
+☞ Instagram : https://instagram.com/FranceinsoumiseAN/
+☞ Threads : https://www.threads.net/@FranceinsoumiseAN
+☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
+☞ Telegram : https://t.me/FranceinsoumiseAN
+
+Abonnez-vous !</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>i0NAOI0F-uY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/i0NAOI0F-uY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURENT JACOBELLI : « Les députés LFI chauffent à blanc les lycéens ! » (LCI)</title>
       <link>https://www.youtube.com/watch?v=Qbtnuq8AsUM</link>
@@ -1907,41 +1933,6 @@ Nous soutenons l’Ukraine. Et nous souhaitons que la France mette sa force dipl
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>SLaplw-Gt8U</videoId>
       <enclosure url="https://i.ytimg.com/vi/SLaplw-Gt8U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>1ᵉʳ DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027</title>
-      <link>https://www.youtube.com/watch?v=-o8Bs20Pqrs</link>
-      <guid>https://www.youtube.com/watch?v=-o8Bs20Pqrs</guid>
-      <pubDate>2026-09-24T09:33:30+00:00</pubDate>
-      <author>PS - Parti socialiste</author>
-      <description>Retrouvez l'intégralité du premier débat télévisé de la primaire de la gauche socialiste et démocratique : CHOISIR 2027
-
-🗣️ Inégalités, écologie, retraites, Ukraine, Gaza, alliances politiques… Les candidat•es ont répondu aux questions des Français•es sur le plateau de David Pujadas sur LCI.
-
-Pour garantir une équité parfaite, l’ordre de présentation des 5 candidat·es a été tiré au sort :
-
-• Olivier Faure
-• Jérôme Guedj
-• Emmanuel Maurel
-• Raphaël Glucksmann
-• Ségolène Royal
-
-👉 Inscris-toi d’ici le 5 octobre pour voter à la primaire : https://adhesion.parti-socialiste.fr/
-
----
-Suivez-nous sur les réseaux sociaux :
-➡️  https://x.com/partisocialiste
-➡️  https://bsky.app/profile/partisocialiste
-➡️  https://www.instagram.com/partisocialiste 
-➡️  https://www.facebook.com/partisocialiste 
-➡️  https://www.tiktok.com/@partisocialiste
-➡️  https://t.me/partisocialiste
-➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
-
-🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
-      <channelTitle>PS - Parti socialiste</channelTitle>
-      <videoId>-o8Bs20Pqrs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-o8Bs20Pqrs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
