@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 15:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:01:08 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Soutien au mouvement lycéen ! Stop aux violences policières !</title>
+      <link>https://www.youtube.com/watch?v=Ni6e-6ZewpU</link>
+      <guid>https://www.youtube.com/watch?v=Ni6e-6ZewpU</guid>
+      <pubDate>2026-10-06T16:00:00+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Retrouvez mon passage sur LCI du Vendredi 2 octobre !</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>Ni6e-6ZewpU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Ni6e-6ZewpU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nous condamnons fermement les violences commises aux abords des lycées | Laurent Croizier</title>
       <link>https://www.youtube.com/watch?v=9ZzWfTjIfyM</link>
@@ -1919,28 +1930,6 @@ Je vous révèle les ressorts de la polémique de la rentrée sur les milliardai
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>_-lX1XD_tNE</videoId>
       <enclosure url="https://i.ytimg.com/vi/_-lX1XD_tNE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>💥 Souveraineté, régulation, investissement : nos propositions sur l'IA.</title>
-      <link>https://www.youtube.com/watch?v=yzzDZhykXUc</link>
-      <guid>https://www.youtube.com/watch?v=yzzDZhykXUc</guid>
-      <pubDate>2026-09-25T15:05:25+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité le débat sur l'intelligence artificielle face à Sarah Knafo, Olivier Faure, Xavier Bertrand et Alexandre Loubet du vendredi 25 septembre !
-----------
-
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>yzzDZhykXUc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/yzzDZhykXUc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
