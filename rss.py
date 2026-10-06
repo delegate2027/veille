@@ -7,9 +7,9 @@ from pathlib import Path
 
 OUTPUT_FILE = "flux.xml"
 ARCHIVE_FILE = "archives.xml"
-MAX_ENTRIES_PER_FEED = 10
-MAX_ENTRIES_FEED = 100
-MAX_ENTRIES_ARCHIVE = 2000
+MAX_PER_SOURCE = 10
+MAX_FEED_ITEMS = 100
+MAX_ARCHIVE_ITEMS = 2000
 
 FEEDS = {
     "LFI": [
@@ -107,7 +107,7 @@ def get_entries(feed_url):
                 datetime.now(timezone.utc).timetuple(),
             ),
             reverse=True,
-        )[:MAX_ENTRIES_PER_FEED]
+        )[:MAX_PER_SOURCE]
 
     except Exception as e:
         print(f"Erreur lors de la récupération de {feed_url} : {e}")
@@ -173,6 +173,19 @@ def entry_timestamp(entry):
     return parsed
 
 
+def entry_to_dict(entry):
+    """Convertit une entree feedparser en dictionnaire d'archive."""
+    return {
+        "title": entry.get("title", ""),
+        "link": entry.get("link", ""),
+        "published": entry.get("published", ""),
+        "author": entry.get("author", ""),
+        "summary": entry.get("summary", ""),
+        "video_id": entry.get("yt_videoid", ""),
+        "timestamp": entry_timestamp(entry),
+    }
+
+
 def load_archive():
     """Relit l'archive existante et renvoie ses entrées sous forme de dictionnaire."""
     archive_path = Path(ARCHIVE_FILE)
@@ -189,18 +202,10 @@ def load_archive():
     archive = {}
 
     for entry in parsed.entries:
-        link = entry.get("link", "")
+        item = entry_to_dict(entry)
 
-        if link:
-            archive[link] = {
-                "title": entry.get("title", ""),
-                "link": link,
-                "published": entry.get("published", ""),
-                "author": entry.get("author", ""),
-                "summary": entry.get("summary", ""),
-                "video_id": entry.get("yt_videoid", ""),
-                "timestamp": entry_timestamp(entry),
-            }
+        if item["link"]:
+            archive[item["link"]] = item
 
     return archive
 
@@ -211,27 +216,20 @@ def update_archive(entries):
     new_items = 0
 
     for entry in entries:
-        link = entry.get("link", "")
+        item = entry_to_dict(entry)
+        link = item["link"]
 
         if not link or link in archive:
             continue
 
-        archive[link] = {
-            "title": entry.get("title", ""),
-            "link": link,
-            "published": entry.get("published", ""),
-            "author": entry.get("author", ""),
-            "summary": entry.get("summary", ""),
-            "video_id": entry.get("yt_videoid", ""),
-            "timestamp": entry_timestamp(entry),
-        }
+        archive[link] = item
         new_items += 1
 
     ordered = sorted(
         archive.values(),
         key=lambda x: x["timestamp"],
         reverse=True,
-    )[:MAX_ENTRIES_ARCHIVE]
+    )[:MAX_ARCHIVE_ITEMS]
 
     tree = build_xml(
         ordered,
@@ -281,7 +279,7 @@ def main():
 
     update_archive(all_entries)
 
-    all_entries = all_entries[:MAX_ENTRIES_FEED]
+    all_entries = all_entries[:MAX_FEED_ITEMS]
 
     tree = build_xml(all_entries)
     ET.indent(tree, space="  ")

@@ -238,16 +238,19 @@ function loadArchive() {
     }
 
     if (xhr.status !== 200 && xhr.status !== 0) {
+      /* archiveLoaded reste false : le prochain passage sur l'onglet
+         relancera le chargement au lieu d'afficher une archive vide
+         jusqu'au prochain changement de flux. */
       container.innerHTML = '<div class="error">Impossible de charger les archives : HTTP ' + xhr.status + '</div>';
-      archiveLoaded = true;
       return;
     }
 
-    try {
-      xml = new DOMParser().parseFromString(xhr.responseText, "text/xml");
-    } catch (e) {
+    /* Meme lecture que le flux (fetchAndParseRSS) : responseXML, deja
+       parse par le navigateur. parsererror signale un fichier mal forme
+       (Firefox renvoie un document, Chrome null). */
+    xml = xhr.responseXML;
+    if (!xml || !xml.getElementsByTagName || xml.getElementsByTagName("parsererror").length) {
       container.innerHTML = '<div class="error">Impossible de lire le fichier d’archives.</div>';
-      archiveLoaded = true;
       return;
     }
 
