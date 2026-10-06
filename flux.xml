@@ -4,13 +4,13 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 08:45:34 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:01:02 -0000</lastBuildDate>
     <feedCount>42</feedCount>
     <item>
       <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
       <link>https://www.youtube.com/watch?v=i0NAOI0F-uY</link>
       <guid>https://www.youtube.com/watch?v=i0NAOI0F-uY</guid>
-      <pubDate>2026-10-06T08:32:14+00:00</pubDate>
+      <pubDate>2026-10-06T08:56:39+00:00</pubDate>
       <author>Mathilde Panot</author>
       <description>Rendez-vous ce mardi 6 octobre pour suivre le Point Presse Hebdo du groupe parlementaire La France insoumise avec Mathilde Panot !
 
@@ -31,6 +31,19 @@ Abonnez-vous !</description>
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>i0NAOI0F-uY</videoId>
       <enclosure url="https://i.ytimg.com/vi/i0NAOI0F-uY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>LOUIS ALIOT : « Présidente, Marine Le Pen rétablira l'ordre ! » (SUD RADIO)</title>
+      <link>https://www.youtube.com/watch?v=O5Uq7Y3DH4M</link>
+      <guid>https://www.youtube.com/watch?v=O5Uq7Y3DH4M</guid>
+      <pubDate>2026-10-06T08:47:53+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>O5Uq7Y3DH4M</videoId>
+      <enclosure url="https://i.ytimg.com/vi/O5Uq7Y3DH4M/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>LAURENT JACOBELLI : « Les députés LFI chauffent à blanc les lycéens ! » (LCI)</title>
@@ -309,19 +322,6 @@ SOMMAIRE :
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>0cy5ZPbBBIU</videoId>
       <enclosure url="https://i.ytimg.com/vi/0cy5ZPbBBIU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>YOANN GILLET est face à DANIÈLE OBONO sur LCI !</title>
-      <link>https://www.youtube.com/watch?v=t_Q-PqY6XLc</link>
-      <guid>https://www.youtube.com/watch?v=t_Q-PqY6XLc</guid>
-      <pubDate>2026-10-05T14:47:40+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>t_Q-PqY6XLc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/t_Q-PqY6XLc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>L’été 2026 a coûté au minimum 16 milliards d’euros !</title>
