@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 13:45:44 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:01:04 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>FRANCK ALLISIO : « Marine Le Pen redressera nos comptes publics ! » (Europe 1)</title>
+      <link>https://www.youtube.com/watch?v=7Y_vFhlG8MM</link>
+      <guid>https://www.youtube.com/watch?v=7Y_vFhlG8MM</guid>
+      <pubDate>2026-10-06T13:44:41+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>7Y_vFhlG8MM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7Y_vFhlG8MM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>90 000 profs, Parcoursup supprimé : le plan de Fabien Roussel pour la jeunesse</title>
       <link>https://www.youtube.com/watch?v=Ow5wlZ8YzRE</link>
@@ -294,19 +307,6 @@ SOMMAIRE :
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>GuV8VRifJto</videoId>
       <enclosure url="https://i.ytimg.com/vi/GuV8VRifJto/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURENT JACOBELLI :  « Ce ne sont pas aux Français de payer les réparations ! » (LCI)</title>
-      <link>https://www.youtube.com/watch?v=FUbVlwF_1O4</link>
-      <guid>https://www.youtube.com/watch?v=FUbVlwF_1O4</guid>
-      <pubDate>2026-10-05T15:17:54+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>FUbVlwF_1O4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/FUbVlwF_1O4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Le 6 octobre, pour les revendications et la protection de la jeunesse !</title>
