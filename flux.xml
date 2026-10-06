@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 14:01:04 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:15:39 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>"Pas d'usage de LBD ou de grenades de désencerlement dans des manif de lycéens!" Boris Vallaud (RMC)</title>
+      <link>https://www.youtube.com/watch?v=CUibMVDSYNU</link>
+      <guid>https://www.youtube.com/watch?v=CUibMVDSYNU</guid>
+      <pubDate>2026-10-06T14:10:17+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité d'Apolline de Malherbe ce mardi 6 octobre 2026 sur RMC pour évoquer la mobilisation lycéenne et sociale, et la question des violences et des blessés. 
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>CUibMVDSYNU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/CUibMVDSYNU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>FRANCK ALLISIO : « Marine Le Pen redressera nos comptes publics ! » (Europe 1)</title>
       <link>https://www.youtube.com/watch?v=7Y_vFhlG8MM</link>
@@ -1923,28 +1943,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>rGdLN31wL-s</videoId>
       <enclosure url="https://i.ytimg.com/vi/rGdLN31wL-s/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>💥 Prix des carburants, guerre en Ukraine : ma réaction à l'allocution d'Emmanuel Macron</title>
-      <link>https://www.youtube.com/watch?v=SxPWgdtkACA</link>
-      <guid>https://www.youtube.com/watch?v=SxPWgdtkACA</guid>
-      <pubDate>2026-09-24T20:25:47+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur LCI du jeudi 24 septembre 2026.
-----------
-
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>SxPWgdtkACA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SxPWgdtkACA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
