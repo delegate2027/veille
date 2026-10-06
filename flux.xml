@@ -4,8 +4,48 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 19:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:15:39 -0000</lastBuildDate>
     <feedCount>42</feedCount>
+    <item>
+      <title>Le RN ment.</title>
+      <link>https://www.youtube.com/watch?v=IfcWaDw74ic</link>
+      <guid>https://www.youtube.com/watch?v=IfcWaDw74ic</guid>
+      <pubDate>2026-10-06T19:12:10+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Le RN ment.   
+
+J'ai passé au peigne fin les 140 milliards d'économies promises par Marine Le Pen : les trois quarts sont de fausses économies.   
+
+Son budget ne tient pas la route et elle le sait. Ce qu'elle propose, c'est le plus grand choc fiscal de l'histoire, cinq fois plus lourd que celui de 2012.   
+Qui va payer l’addition ? Pas eux. C'est vous.
+
+Je vous explique tout.</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>IfcWaDw74ic</videoId>
+      <enclosure url="https://i.ytimg.com/vi/IfcWaDw74ic/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴 Mobilisations lycéennes et étudiantes : Manuel Bompard, invité de C à vous !</title>
+      <link>https://www.youtube.com/watch?v=nF0A8Ap4ARQ</link>
+      <guid>https://www.youtube.com/watch?v=nF0A8Ap4ARQ</guid>
+      <pubDate>2026-10-06T19:04:42+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur France 5 dans C à vous du mardi 6 octobre 2026.
+----------
+
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>nF0A8Ap4ARQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nF0A8Ap4ARQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Rythmes scolaires, bâti scolaire, moyens, j'échange avec la jeunesse de France sur LCI.</title>
       <link>https://www.youtube.com/watch?v=Rvt7KsKrqMU</link>
@@ -1884,45 +1924,6 @@ Ca s'appelle le patriarcat ! Nous accueillions à l'Assemblée nationale les col
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>0xLvw8iaObA</videoId>
       <enclosure url="https://i.ytimg.com/vi/0xLvw8iaObA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Comment j'ai piégé les médias des milliardaires !</title>
-      <link>https://www.youtube.com/watch?v=_-lX1XD_tNE</link>
-      <guid>https://www.youtube.com/watch?v=_-lX1XD_tNE</guid>
-      <pubDate>2026-09-25T15:24:14+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Il y a quelques semaines, j'ai bouleversé tout le système médiatique avec une simple phrase.
-
-« Les milliardaires sont des nuisibles. »
-
-Ça ne m'aura pris qu'une seconde, mais ça aura occupé les antennes pendant des semaines.
-
-Je vous révèle les ressorts de la polémique de la rentrée sur les milliardaires : comment j'ai pris les médias à leur propre jeu et pourquoi il faut, plus que jamais, mettre le sujet de l'extrême richesse au cœur des débats en 2027 !</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>_-lX1XD_tNE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_-lX1XD_tNE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>💥 Souveraineté, régulation, investissement : nos propositions sur l'IA.</title>
-      <link>https://www.youtube.com/watch?v=yzzDZhykXUc</link>
-      <guid>https://www.youtube.com/watch?v=yzzDZhykXUc</guid>
-      <pubDate>2026-09-25T15:05:25+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité le débat sur l'intelligence artificielle face à Sarah Knafo, Olivier Faure, Xavier Bertrand et Alexandre Loubet du vendredi 25 septembre !
-----------
-
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>yzzDZhykXUc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/yzzDZhykXUc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
