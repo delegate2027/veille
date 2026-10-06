@@ -4,29 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 06 Oct 2026 05:01:03 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:15:32 -0000</lastBuildDate>
     <feedCount>42</feedCount>
-    <item>
-      <title>Nationalisation de Total : le débat Sandrine Rousseau vs Alain Duhamel</title>
-      <link>https://www.youtube.com/watch?v=iw1CZHRS5zk</link>
-      <guid>https://www.youtube.com/watch?v=iw1CZHRS5zk</guid>
-      <pubDate>2026-09-22T18:00:15+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description />
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>iw1CZHRS5zk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iw1CZHRS5zk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sandrine Rousseau réagit à l'explosion des prix de carburant</title>
-      <link>https://www.youtube.com/watch?v=d6DapNCq-P8</link>
-      <guid>https://www.youtube.com/watch?v=d6DapNCq-P8</guid>
-      <pubDate>2026-09-22T14:03:58+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description />
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>d6DapNCq-P8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/d6DapNCq-P8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
