@@ -62,6 +62,7 @@ FEEDS = {
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCJw8np695wqWOaKVhFjkRyg",
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCOcDPuYTuxoRBtfmTBXtqBA",
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCiT4UyKh-cF8qBaBQP4p1ow",
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqGa9uitcB-fWyNZK2xImw",
     ],
 
     "BLOC LR": [
