@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 07 Oct 2026 23:01:06 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:15:53 -0000</lastBuildDate>
     <feedCount>47</feedCount>
     <item>
       <title>🔴 Mouvement lycéen, prix du carburant : j’explique la situation à ce macroniste</title>
@@ -705,6 +705,17 @@ Le rapport est à retrouver ici : https://www.assemblee-nationale.fr/dyn/17/orga
       <enclosure url="https://i.ytimg.com/vi/55JSs6585mU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>EN DIRECT - Réunion publique à Marseille - 5 octobre 2026</title>
+      <link>https://www.youtube.com/watch?v=dbKNpzq0vkc</link>
+      <guid>https://www.youtube.com/watch?v=dbKNpzq0vkc</guid>
+      <pubDate>2026-10-06T06:38:07+00:00</pubDate>
+      <author>Raphaël Glucksmann</author>
+      <description>Réunion publique de Raphaël Glucksmann à Marseille - 5 octobre 2026</description>
+      <channelTitle>Raphaël Glucksmann</channelTitle>
+      <videoId>dbKNpzq0vkc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dbKNpzq0vkc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>EN DIRECT | Je réponds aux questions des Français dans « La parole est à vous. »</title>
       <link>https://www.youtube.com/watch?v=0lY3xlV7KUY</link>
       <guid>https://www.youtube.com/watch?v=0lY3xlV7KUY</guid>
@@ -866,17 +877,6 @@ Ces montants auraient dû apparaître, au moins en ordre de grandeur, dans le pr
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>94MRYkutP0I</videoId>
       <enclosure url="https://i.ytimg.com/vi/94MRYkutP0I/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Lycéens en colère : le 6 octobre, mobilisons-nous partout en France !</title>
-      <link>https://www.youtube.com/watch?v=WEeqMFHBJ4M</link>
-      <guid>https://www.youtube.com/watch?v=WEeqMFHBJ4M</guid>
-      <pubDate>2026-10-05T07:39:38+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot sur franceinfo, le mardi 05 octobre 2026 à 8h30.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>WEeqMFHBJ4M</videoId>
-      <enclosure url="https://i.ytimg.com/vi/WEeqMFHBJ4M/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
