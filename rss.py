@@ -30,6 +30,10 @@ FEEDS = {
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCilxiEGEQHVZ25GU_cnyCzg",
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCeVAGmpsgoy521FecTcC34g",
         "https://www.youtube.com/feeds/videos.xml?channel_id=UC0Uk2pyZI6-FxL8MbtKD27w",
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCceXHq4GoIM-6ZFQpG915ew",
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCOBMbaiQeFI4PNDa18IQkLg",
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCpQ4STl8j62KeiApns4FndA",
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCKB_K3phNlVxVEKIOUKnhVw",
     ],
 
     "ECOLOGISTES": [
