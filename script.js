@@ -3,7 +3,7 @@ var renderedLinks = {};
 var lastModifiedSeen = null;
 var currentView = "feed";
 var POLL_INTERVAL = 60000;
-var FEED_LIMIT = 50;
+var FEED_LIMIT = 25;
 
 /* Incremente uniquement lorsque le flux apporte reellement du nouveau.
    rss.py ecrivant flux.xml et archives.xml dans la meme execution, ce compteur
@@ -326,21 +326,36 @@ function insertItemInOrder(div) {
   feed.appendChild(div);
 }
 
+/* Le flux n'affiche jamais plus de FEED_LIMIT items : les entrees les plus
+   anciennes sont retirees du bout de la liste, qui reste trie par date. */
+function trimFeedToLimit() {
+  var feed = document.getElementById("feed");
+  var items = getItemElements(feed);
+
+  while (items.length > FEED_LIMIT) feed.removeChild(items.pop());
+}
+
 /* Rendu commun a loadRSS et pollRSS : filtre les shorts, ignore les liens
-   deja affiches et s'arrete apres FEED_LIMIT iterations. insertFn choisit
-   l'ordre d'insertion (appendItem au chargement, insertItemInOrder au
-   rafraichissement). */
+   deja affiches et s'arrete une fois FEED_LIMIT items affiches. insertFn
+   choisit l'ordre d'insertion (appendItem au chargement, insertItemInOrder au
+   rafraichissement) ; les nouvelles entrees poussent alors les plus anciennes
+   hors de la limite, retirees par trimFeedToLimit. */
 function renderFeedItems(items, insertFn) {
+  var feed = document.getElementById("feed");
+  var shown = getItemElements(feed).length;
   var i, item, link;
 
-  for (i = 0; i < items.length && i < FEED_LIMIT; i++) {
+  for (i = 0; i < items.length && shown < FEED_LIMIT; i++) {
     item = items[i];
     if (isShort(item.title, item.link, item.description)) continue;
     link = item.link || "#";
     if (renderedLinks[link]) continue;
     renderedLinks[link] = true;
     insertFn(buildItemElement(item));
+    shown++;
   }
+
+  trimFeedToLimit();
 }
 
 function loadRSS() {
