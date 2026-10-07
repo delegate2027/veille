@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 07 Oct 2026 15:30:58 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:45:35 -0000</lastBuildDate>
     <feedCount>47</feedCount>
+    <item>
+      <title>Le gouvernement détricote les mesures de dépistage des violences faites aux enfants</title>
+      <link>https://www.youtube.com/watch?v=V7CnyMDocnY</link>
+      <guid>https://www.youtube.com/watch?v=V7CnyMDocnY</guid>
+      <pubDate>2026-10-07T15:41:47+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>Hier soir à l’Assemblée nationale, seuls les insoumis, écolos et communistes ont voté pour l’entretien individuel annuel obligatoire de détection des violences pour les enfants de la maternelle à la terminale dans sa version demandée par la CIIVISE et les associations.
+
+Les autres ont accepté la version détricotée au rabais.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>V7CnyMDocnY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/V7CnyMDocnY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier : "La place de tout le monde aujourd'hui devrait-être au côté des lycéen·nes"</title>
       <link>https://www.youtube.com/watch?v=2TJCL1xn1K4</link>
@@ -1853,17 +1866,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>H_2-wgtCraI</videoId>
       <enclosure url="https://i.ytimg.com/vi/H_2-wgtCraI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JÉRÔME GUEDJ FACE AUX ASSISES DE L'AFER (Héritage, fiscalité, épargne...)</title>
-      <link>https://www.youtube.com/watch?v=d3E6RfDJQ5c</link>
-      <guid>https://www.youtube.com/watch?v=d3E6RfDJQ5c</guid>
-      <pubDate>2026-09-29T18:02:29+00:00</pubDate>
-      <author>Jérôme Guedj</author>
-      <description />
-      <channelTitle>Jérôme Guedj</channelTitle>
-      <videoId>d3E6RfDJQ5c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/d3E6RfDJQ5c/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
