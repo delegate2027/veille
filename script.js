@@ -137,12 +137,15 @@ function sourceClass(author) {
       a.indexOf("cathala") !== -1 || a.indexOf("clouet") !== -1 || a.indexOf("léaument") !== -1 ||
       a.indexOf("leaument") !== -1 || a.indexOf("maudet") !== -1 || a.indexOf("piquemal") !== -1 ||
       a.indexOf("guiraud") !== -1 || a.indexOf("guetté") !== -1 || a.indexOf("guette") !== -1 ||
-      a.indexOf("saintoul") !== -1 || a.indexOf("trouvé") !== -1 || a.indexOf("trouve") !== -1) return "lfi";
+      a.indexOf("saintoul") !== -1 || a.indexOf("trouvé") !== -1 || a.indexOf("trouve") !== -1 ||
+      a.indexOf("obono") !== -1 || a.indexOf("bagayoko") !== -1 || a.indexOf("bernalicis") !== -1 ||
+      a.indexOf("le coq") !== -1) return "lfi";
   if (a.indexOf("écologistes") !== -1 || a.indexOf("ecologistes") !== -1 || a.indexOf("rousseau") !== -1) return "eelv";
   if (a.indexOf("parti socialiste") !== -1 || a.indexOf("autain") !== -1 || a.indexOf("corbière") !== -1 ||
       a.indexOf("corbiere") !== -1 || a.indexOf("l'après") !== -1 || a.indexOf("glucksmann") !== -1 ||
       a.indexOf("ruffin") !== -1 || a.indexOf("vallaud") !== -1 || a.indexOf("guedj") !== -1) return "ps";
-  if (a.indexOf("horizons") !== -1 || a.indexOf("modem") !== -1 || a.indexOf("attal") !== -1 || a.indexOf("bergé") !== -1 || a.indexOf("berge") !== -1) return "centre";
+  if (a.indexOf("horizons") !== -1 || a.indexOf("modem") !== -1 || a.indexOf("attal") !== -1 ||
+      a.indexOf("bergé") !== -1 || a.indexOf("berge") !== -1 || a.indexOf("macron") !== -1) return "centre";
   if (a.indexOf("renaissance") !== -1 || a.indexOf("wauquiez") !== -1 || a.indexOf("retailleau") !== -1 ||
       a.indexOf("bellamy") !== -1 || a.indexOf("lisnard") !== -1) return "lr";
   if (a.indexOf("zemmour") !== -1 || a.indexOf("knafo") !== -1 || a.indexOf("le pen") !== -1 ||
