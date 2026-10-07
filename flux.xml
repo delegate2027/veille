@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 07 Oct 2026 11:01:04 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:15:44 -0000</lastBuildDate>
     <feedCount>47</feedCount>
+    <item>
+      <title>Nos forces de l'ordre méritent le soutien de la Nation, pas les mises en cause du pouvoir !</title>
+      <link>https://www.youtube.com/watch?v=U6XdmssjLNc</link>
+      <guid>https://www.youtube.com/watch?v=U6XdmssjLNc</guid>
+      <pubDate>2026-10-07T11:06:21+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description />
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>U6XdmssjLNc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/U6XdmssjLNc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Rythmes scolaires, bâti scolaire, moyens, j'échange avec la jeunesse de France sur LCI.</title>
       <link>https://www.youtube.com/watch?v=Rvt7KsKrqMU</link>
@@ -1868,32 +1879,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>tZuZwWpT4ak</videoId>
       <enclosure url="https://i.ytimg.com/vi/tZuZwWpT4ak/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
-      <link>https://www.youtube.com/watch?v=MijxnKe7g90</link>
-      <guid>https://www.youtube.com/watch?v=MijxnKe7g90</guid>
-      <pubDate>2026-09-29T08:54:50+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Rendez-vous ce mardi 29 septembre pour suivre le Point Presse Hebdo du groupe parlementaire La France insoumise avec Mathilde Panot !
-
-_________________________________________________ 
-
-Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
-
-☞ X (Twitter) : https://x.com/FiAssemblee
-☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
-☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
-☞ YouTube :  / @FranceinsoumiseAN
-☞ Instagram : https://instagram.com/FranceinsoumiseAN/
-☞ Threads : https://www.threads.net/@FranceinsoumiseAN
-☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
-☞ Telegram : https://t.me/FranceinsoumiseAN
-
-Abonnez-vous !</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>MijxnKe7g90</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MijxnKe7g90/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
