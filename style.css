@@ -84,6 +84,18 @@ a {
   letter-spacing: 0.02em;
 }
 
+/* Petit signal de pouls a cote de la date : discret, discretement anime. */
+.pulse {
+  color: var(--accent);
+  vertical-align: -1px;
+  animation: pulse 2.4s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.35; }
+  50% { opacity: 1; }
+}
+
 /* Feed */
 
 .feed {
