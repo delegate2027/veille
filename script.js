@@ -300,6 +300,20 @@ function updateStatus(lastModified) {
   }
 }
 
+/* Etat courant du pouls : loading (requete en cours), fresh (nouveaux
+   elements recus), ok (verification terminee sans changement),
+   error (chargement echoue). Les classes correspondantes sont definies
+   dans style.css. */
+var PULSE_STATES = ["loading", "fresh", "ok", "error"];
+
+function setPulseState(state) {
+  var pulse = document.getElementById("pulse"), i, known = false;
+  if (!pulse) return;
+  for (i = 0; i < PULSE_STATES.length; i++) if (PULSE_STATES[i] === state) known = true;
+  if (!known) state = "ok";
+  pulse.setAttribute("class", "pulse pulse-" + state);
+}
+
 function getItemElements(feed) {
   var nodes = feed.childNodes, items = [], i;
   for (i = 0; i < nodes.length; i++) {
@@ -344,26 +358,43 @@ function renderFeedItems(items, insertFn) {
 }
 
 function loadRSS() {
+  setPulseState("loading");
   fetchAndParseRSS(function(err, data) {
     var feed;
     if (err) {
+      setPulseState("error");
       feed = document.getElementById("feed");
       if (!getItemElements(feed).length) feed.innerHTML = '<div class="error">Impossible de charger le flux : ' + escapeHtml(err.message) + '</div>';
       return;
     }
-    if (data.notModified) return;
+    if (data.notModified) {
+      setPulseState("ok");
+      return;
+    }
     updateStatus(data.lastModified);
     feedRevision++;
     feed = document.getElementById("feed");
     feed.innerHTML = "";
     renderFeedItems(data.items, appendItem);
+    setPulseState("fresh");
   }, null);
 }
 
 function pollRSS() {
+  setPulseState("loading");
   fetchAndParseRSS(function(err, data) {
-    if (err || data.notModified) return;
-    if (data.lastModified && data.lastModified === lastModifiedSeen) return;
+    if (err) {
+      setPulseState("error");
+      return;
+    }
+    if (data.notModified) {
+      setPulseState("ok");
+      return;
+    }
+    if (data.lastModified && data.lastModified === lastModifiedSeen) {
+      setPulseState("ok");
+      return;
+    }
     updateStatus(data.lastModified);
     feedRevision++;
 
@@ -373,6 +404,7 @@ function pollRSS() {
     if (currentView === "archives") ensureArchiveLoaded(true);
 
     renderFeedItems(data.items, insertItemInOrder);
+    setPulseState("fresh");
   }, lastModifiedSeen ? { "If-Modified-Since": lastModifiedSeen } : null);
 }
 
