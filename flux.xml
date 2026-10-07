@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 07 Oct 2026 13:30:55 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:45:41 -0000</lastBuildDate>
     <feedCount>47</feedCount>
+    <item>
+      <title>🔴 Mobilisations lycéennes et étudiantes : Manuel Bompard, invité de TF1 !</title>
+      <link>https://www.youtube.com/watch?v=BEHr4j5P2sU</link>
+      <guid>https://www.youtube.com/watch?v=BEHr4j5P2sU</guid>
+      <pubDate>2026-10-07T13:32:57+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur TF1 dans Bonjour la matinale du mercredi 7 octobre 2026.
+----------
+
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>BEHr4j5P2sU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/BEHr4j5P2sU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"Sébastien Lecornu doit répondre politiquement aux revendications lycéennes" Alexis Corbière sur BFM</title>
       <link>https://www.youtube.com/watch?v=xt0iecFLjHA</link>
@@ -1844,17 +1866,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>Jérôme Guedj</channelTitle>
       <videoId>d3E6RfDJQ5c</videoId>
       <enclosure url="https://i.ytimg.com/vi/d3E6RfDJQ5c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mon passage dans RMC sur les blocages de lycées</title>
-      <link>https://www.youtube.com/watch?v=5-QZtHq4LKU</link>
-      <guid>https://www.youtube.com/watch?v=5-QZtHq4LKU</guid>
-      <pubDate>2026-09-29T09:54:52+00:00</pubDate>
-      <author>Louis Boyard</author>
-      <description>Blocages de lycées : mon passage sur RMC</description>
-      <channelTitle>Louis Boyard</channelTitle>
-      <videoId>5-QZtHq4LKU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5-QZtHq4LKU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
