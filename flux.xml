@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 07 Oct 2026 12:01:04 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:15:50 -0000</lastBuildDate>
     <feedCount>47</feedCount>
     <item>
       <title>Nos forces de l'ordre méritent le soutien de la Nation, pas les mises en cause du pouvoir !</title>
@@ -417,19 +417,6 @@ Rénovation des collèges et lycées, recrutement de 90 000 enseignants, réduct
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>DYLzSQgCPoc</videoId>
       <enclosure url="https://i.ytimg.com/vi/DYLzSQgCPoc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JULIEN ODOUL est SEUL CONTRE TOUS sur BFM TV !</title>
-      <link>https://www.youtube.com/watch?v=LIQDzT6P7TY</link>
-      <guid>https://www.youtube.com/watch?v=LIQDzT6P7TY</guid>
-      <pubDate>2026-10-06T09:19:12+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>LIQDzT6P7TY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LIQDzT6P7TY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
@@ -1879,6 +1866,32 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>tZuZwWpT4ak</videoId>
       <enclosure url="https://i.ytimg.com/vi/tZuZwWpT4ak/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>· Point Presse Hebdo de La France Insoumise à l'Assemblée nationale !</title>
+      <link>https://www.youtube.com/watch?v=MijxnKe7g90</link>
+      <guid>https://www.youtube.com/watch?v=MijxnKe7g90</guid>
+      <pubDate>2026-09-29T08:54:50+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Rendez-vous ce mardi 29 septembre pour suivre le Point Presse Hebdo du groupe parlementaire La France insoumise avec Mathilde Panot !
+
+_________________________________________________ 
+
+Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
+
+☞ X (Twitter) : https://x.com/FiAssemblee
+☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
+☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
+☞ YouTube :  / @FranceinsoumiseAN
+☞ Instagram : https://instagram.com/FranceinsoumiseAN/
+☞ Threads : https://www.threads.net/@FranceinsoumiseAN
+☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
+☞ Telegram : https://t.me/FranceinsoumiseAN
+
+Abonnez-vous !</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>MijxnKe7g90</videoId>
+      <enclosure url="https://i.ytimg.com/vi/MijxnKe7g90/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
