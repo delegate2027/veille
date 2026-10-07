@@ -274,7 +274,7 @@ a {
 }
 
 .archive-examples {
-  margin: 0;
+  margin: 0 0 0 6px;
 }
 
 .archive-count {
