@@ -94,17 +94,17 @@ a {
 .pulse {
   color: var(--pulse-ok);
   vertical-align: -1px;
-  animation: pulse 2.4s ease-in-out infinite;
+  animation: pulse 7s ease-in-out infinite;
 }
 
 .pulse-loading {
   color: var(--pulse-loading);
-  animation-duration: 1s;
+  animation-duration: 3.5s;
 }
 
 .pulse-fresh {
   color: var(--pulse-fresh);
-  animation-duration: 0.9s;
+  animation-duration: 3s;
 }
 
 .pulse-ok {
@@ -115,7 +115,7 @@ a {
 
 .pulse-error {
   color: var(--pulse-error);
-  animation-duration: 0.5s;
+  animation-duration: 2s;
 }
 
 @keyframes pulse {
