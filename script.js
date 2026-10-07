@@ -159,7 +159,8 @@ function buildItemElement(item) {
   var link = item.link || "#";
   var author = trimString(item.author || "Auteur");
   var description = removeExcessiveRepeats(removeEmojis(replaceUrlsWithPlaceholder(item.description || "")));
-  var displayAuthor = capitalizeWords(author);
+  /* Les noms deja en majuscules (ELABE, CSA…) gardent leur graphie d'origine. */
+  var displayAuthor = author === author.toUpperCase() ? author : capitalizeWords(author);
   var videoId = extractVideoId(link);
   var div = document.createElement("div");
   var html;
@@ -376,7 +377,41 @@ function pollRSS() {
   }, lastModifiedSeen ? { "If-Modified-Since": lastModifiedSeen } : null);
 }
 
-/* Bascule entre la vue Flux et la vue Archives. */
+/* Notices de la Commission des sondages : meme rendu que le flux, mais les
+   liens pointent vers des PDF et s'ouvrent dans un nouvel onglet. Le fichier
+   est relu au plus une fois toutes les 12 heures, rythme de la regeneration. */
+var sondageLastLoaded = 0;
+var SONDAGE_TTL = 12 * 60 * 60 * 1000;
+
+function ensureSondageLoaded() {
+  var container = document.getElementById("sondage");
+  var now = new Date().getTime();
+
+  if (!container) return;
+  if (sondageLastLoaded && now - sondageLastLoaded < SONDAGE_TTL) return;
+
+  fetchXML("sondages.xml", null, function(err, xml) {
+    var items, i;
+
+    if (err || !xml) {
+      container.innerHTML = '<div class="error">Impossible de charger les sondages.</div>';
+      return;
+    }
+
+    items = getItemsFromXml(xml);
+
+    if (!items.length) {
+      container.innerHTML = '<div class="loading">Aucune notice disponible.</div>';
+      return;
+    }
+
+    container.innerHTML = "";
+    for (i = 0; i < items.length; i++) container.appendChild(buildItemElement(items[i]));
+    sondageLastLoaded = new Date().getTime();
+  });
+}
+
+/* Bascule entre les vues Flux, Archives et Sondages. */
 
 function toggleClassName(el, cls, add) {
   var current;
@@ -393,29 +428,26 @@ function toggleClassName(el, cls, add) {
 }
 
 function setView(name) {
-  var feedView = document.getElementById("viewFeed");
-  var archiveView = document.getElementById("viewArchive");
-  var navFeed = document.getElementById("navFeed");
-  var navArchive = document.getElementById("navArchive");
-  var counter = document.getElementById("archiveCount");
-
-  if (!feedView || !archiveView) return;
-
-  if (name !== "archives") name = "feed";
+  if (name !== "archives" && name !== "sondages") name = "feed";
   currentView = name;
 
-  toggleClassName(feedView, "is-hidden", name === "archives");
-  toggleClassName(archiveView, "is-hidden", name !== "archives");
-  toggleClassName(navFeed, "is-active", name === "feed");
-  toggleClassName(navArchive, "is-active", name === "archives");
-  toggleClassName(counter, "is-hidden", name !== "archives");
+  toggleClassName(document.getElementById("viewFeed"), "is-hidden", name !== "feed");
+  toggleClassName(document.getElementById("viewArchive"), "is-hidden", name !== "archives");
+  toggleClassName(document.getElementById("viewSondage"), "is-hidden", name !== "sondages");
+
+  toggleClassName(document.getElementById("navFeed"), "is-active", name === "feed");
+  toggleClassName(document.getElementById("navArchive"), "is-active", name === "archives");
+  toggleClassName(document.getElementById("navSondage"), "is-active", name === "sondages");
+  toggleClassName(document.getElementById("archiveCount"), "is-hidden", name !== "archives");
 
   if (name === "archives") ensureArchiveLoaded(isArchiveStale());
+  if (name === "sondages") ensureSondageLoaded();
 }
 
 function initViewNav() {
   var navFeed = document.getElementById("navFeed");
   var navArchive = document.getElementById("navArchive");
+  var navSondage = document.getElementById("navSondage");
 
   if (navFeed) {
     navFeed.onclick = function() {
@@ -434,7 +466,14 @@ function initViewNav() {
     };
   }
 
-  setView(lower(window.location.hash || "") === "#archives" ? "archives" : "feed");
+  if (navSondage) {
+    navSondage.onclick = function() {
+      setView("sondages");
+      return false;
+    };
+  }
+
+  setView(lower(window.location.hash || "").replace("#", ""));
 }
 
 initViewNav();
