@@ -5,6 +5,8 @@ from datetime import datetime, timezone
 from email.utils import formatdate
 from pathlib import Path
 
+import sondages
+
 OUTPUT_FILE = "flux.xml"
 ARCHIVE_FILE = "archives.xml"
 MAX_PER_SOURCE = 10
@@ -306,6 +308,8 @@ def main():
     )
 
     print(f"Fichier créé : {OUTPUT_FILE} ({len(all_entries)} entrées)")
+
+    sondages.update_sondages()
 
 
 if __name__ == "__main__":
