@@ -303,15 +303,26 @@ function updateStatus(lastModified) {
 /* Etat courant du pouls : loading (requete en cours), fresh (nouveaux
    elements recus), ok (verification terminee sans changement),
    error (chargement echoue). Les classes correspondantes sont definies
-   dans style.css. */
+   dans style.css, le libelle affiche a cote de l'icone ici. */
 var PULSE_STATES = ["loading", "fresh", "ok", "error"];
 
+var PULSE_LABELS = {
+  "loading": "chargement",
+  "fresh": "nouveaux éléments",
+  "ok": "à jour",
+  "error": "erreur"
+};
+
 function setPulseState(state) {
-  var pulse = document.getElementById("pulse"), i, known = false;
-  if (!pulse) return;
+  var pulse = document.getElementById("pulse");
+  var label = document.getElementById("pulseStatus");
+  var i, known = false;
+
   for (i = 0; i < PULSE_STATES.length; i++) if (PULSE_STATES[i] === state) known = true;
   if (!known) state = "ok";
-  pulse.setAttribute("class", "pulse pulse-" + state);
+
+  if (pulse) pulse.setAttribute("class", "pulse pulse-" + state);
+  if (label) label.innerHTML = escapeHtml(PULSE_LABELS[state]);
 }
 
 function getItemElements(feed) {
