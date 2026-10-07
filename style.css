@@ -19,10 +19,6 @@
   --lr-color: #a9b7c9;
   --ed-color: #8faad2;
   --pcf-color: #ff8496;
-  --pulse-loading: #7ab8ff;
-  --pulse-fresh: #64d49f;
-  --pulse-ok: #aaa9a5;
-  --pulse-error: #ff8a7a;
 }
 
 * {
@@ -86,41 +82,6 @@ a {
   color: var(--muted);
   font-size: 11px;
   letter-spacing: 0.02em;
-}
-
-/* Code couleur du pouls : chaque etape d'actualisation du flux a sa teinte.
-   loading = requete en cours, fresh = nouveaux elements recus,
-   ok = verification terminee sans changement, error = chargement echoue. */
-.pulse {
-  color: var(--pulse-ok);
-  vertical-align: -1px;
-  animation: pulse 7s ease-in-out infinite;
-}
-
-.pulse-loading {
-  color: var(--pulse-loading);
-  animation-duration: 3.5s;
-}
-
-.pulse-fresh {
-  color: var(--pulse-fresh);
-  animation-duration: 3s;
-}
-
-.pulse-ok {
-  color: var(--pulse-ok);
-  animation: none;
-  opacity: 0.7;
-}
-
-.pulse-error {
-  color: var(--pulse-error);
-  animation-duration: 2s;
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 0.35; }
-  50% { opacity: 1; }
 }
 
 /* Feed */
