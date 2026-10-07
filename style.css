@@ -213,8 +213,8 @@ a {
 /* Archives */
 
 .archive-controls {
-  /* Un peu d'air au-dessus : la zone de recherche ne colle plus au titre. */
-  margin: 10px 0 12px 0;
+  /* Un peu d'air au-dessus : la zone de recherche ne colle plus aux onglets. */
+  margin: 28px 0 12px 0;
 }
 
 /* Zone de recherche : le champ et la case a cocher partagent le
