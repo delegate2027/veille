@@ -1,9 +1,6 @@
 name: update-rss
 
 on:
-  schedule:
-    # Toutes les 12 heures : flux YouTube et notices de la Commission des sondages.
-    - cron: "23 */12 * * *"
   workflow_dispatch:
 
 permissions:
