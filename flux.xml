@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 08 Oct 2026 15:15:38 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:30:52 -0000</lastBuildDate>
     <feedCount>47</feedCount>
     <item>
       <title>MORATOIRE SUR LES DATA CENTERS : la conférence de presse à l'Assemblée</title>
@@ -18,6 +18,25 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>_r_UOhK3oD4</videoId>
       <enclosure url="https://i.ytimg.com/vi/_r_UOhK3oD4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🇫🇷 « Le Grand Entretien » avec Darius Rochebin : suivez en direct mon émission sur LCI !</title>
+      <link>https://www.youtube.com/watch?v=jtp1HB-rXMw</link>
+      <guid>https://www.youtube.com/watch?v=jtp1HB-rXMw</guid>
+      <pubDate>2026-10-08T12:47:47+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>jtp1HB-rXMw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jtp1HB-rXMw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Lycéens: si le gouvernement ne répond pas aux revendication, nous allons vers la crise - A. Corbière</title>
@@ -866,25 +885,6 @@ SOMMAIRE :
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>F-m-wriXMnQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/F-m-wriXMnQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>VIOLENCES POLICIÈRES CONTRE LES LYCÉENS : ma conférence de presse à Argenteuil</title>
-      <link>https://www.youtube.com/watch?v=d2IZFuQtLfs</link>
-      <guid>https://www.youtube.com/watch?v=d2IZFuQtLfs</guid>
-      <pubDate>2026-10-05T14:58:29+00:00</pubDate>
-      <author>Paul Vannier</author>
-      <description>Lundi 5 octobre 2026, Paul Vannier, député du Val-d'Oise, a tenu à Argenteuil une conférence de presse sur les violences policières que subissent les lycéens mobilisés à travers tout le pays.
-
-📲 RETROUVEZ PAUL VANNIER SUR :
-
-🔗 Telegram : https://t.me/paulvannier
-🔗 Facebook : https://bit.ly/3PD1FZ1
-🔗 Twitter : https://twitter.com/PaulVannierFI
-🔗 Instagram : https://www.instagram.com/paulvannier_/
-🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
-      <channelTitle>Paul Vannier</channelTitle>
-      <videoId>d2IZFuQtLfs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/d2IZFuQtLfs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
