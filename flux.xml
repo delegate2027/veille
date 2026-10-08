@@ -4,8 +4,26 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 08 Oct 2026 20:30:55 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 20:45:38 -0000</lastBuildDate>
     <feedCount>47</feedCount>
+    <item>
+      <title>Jordan Bardella sur LCI : « Qui va payer les dizaines de millions d'euros de dégâts des émeutes ? »</title>
+      <link>https://www.youtube.com/watch?v=K7gtoTSzNUA</link>
+      <guid>https://www.youtube.com/watch?v=K7gtoTSzNUA</guid>
+      <pubDate>2026-10-08T20:36:42+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>K7gtoTSzNUA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/K7gtoTSzNUA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🇫🇷 « Le Grand Entretien » avec Darius Rochebin : suivez en direct mon émission sur LCI !</title>
       <link>https://www.youtube.com/watch?v=jtp1HB-rXMw</link>
@@ -826,21 +844,6 @@ Abonnez-vous !</description>
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>i0NAOI0F-uY</videoId>
       <enclosure url="https://i.ytimg.com/vi/i0NAOI0F-uY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Coût des canicules, incendies, sécheresse en 2026 : un coût minimum de 16 milliards d’euros !</title>
-      <link>https://www.youtube.com/watch?v=55JSs6585mU</link>
-      <guid>https://www.youtube.com/watch?v=55JSs6585mU</guid>
-      <pubDate>2026-10-06T08:05:38+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez la conférence de presse d’Éric Coquerel le lundi 5 octobre consacrée aux conclusions de la mission sur le coût des canicules, de la sécheresse et des incendies de l’été 2026. 
-
-Il présente le bilan de la mission, les coûts déjà constatés et les dépenses à prévoir pour renforcer la prévention et l’adaptation face aux événements climatiques.
-
-Le rapport est à retrouver ici : https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/finances/missions-info-commission/mi_cout_canicule</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>55JSs6585mU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/55JSs6585mU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
