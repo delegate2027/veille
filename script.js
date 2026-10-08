@@ -180,6 +180,8 @@ function buildItemElement(item) {
   var videoLink = div.getElementsByTagName("a")[0];
 
   if (videoId) {
+    div.setAttribute("data-video-id", videoId);
+    div.setAttribute("data-title", title);
     videoLink.onclick = function() {
       var existing = findChildByClass(div, "youtube-player");
       var players = document.getElementsByTagName("div");
@@ -211,6 +213,21 @@ function findChildByClass(parent, cls) {
   var divs = parent.getElementsByTagName("div"), i;
   for (i = 0; i < divs.length; i++) if (hasClass(divs[i], cls)) return divs[i];
   return null;
+}
+
+/* Onglet Flux seul : developpe le player du premier item affiche, sans lecture
+   automatique (l'embed sans parametre autoplay reste en pause). */
+function openFirstItemPlayer() {
+  var feed = document.getElementById("feed");
+  var items = getItemElements(feed);
+  var first, videoId;
+
+  if (!items.length) return;
+  first = items[0];
+  videoId = first.getAttribute("data-video-id");
+  if (!videoId || findChildByClass(first, "youtube-player")) return;
+
+  first.appendChild(createPlayer(videoId, first.getAttribute("data-title") || ""));
 }
 
 function createPlayer(videoId, title) {
@@ -372,6 +389,7 @@ function loadRSS() {
     feed = document.getElementById("feed");
     feed.innerHTML = "";
     renderFeedItems(data.items, appendItem);
+    openFirstItemPlayer();
   }, null);
 }
 
