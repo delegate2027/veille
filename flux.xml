@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 08 Oct 2026 07:31:02 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:45:40 -0000</lastBuildDate>
     <feedCount>47</feedCount>
+    <item>
+      <title>Débat sur Public sénat suite au mouvement lycéens !</title>
+      <link>https://www.youtube.com/watch?v=RChCjj3kCrA</link>
+      <guid>https://www.youtube.com/watch?v=RChCjj3kCrA</guid>
+      <pubDate>2026-10-08T07:44:56+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description />
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>RChCjj3kCrA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/RChCjj3kCrA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Gen Z en colère, Lecornu, carburants : Clémence Guetté face à Apolline de Malherbe</title>
       <link>https://www.youtube.com/watch?v=YTteQi-qY9w</link>
@@ -866,17 +877,6 @@ Ces montants auraient dû apparaître, au moins en ordre de grandeur, dans le pr
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>ZKM3MklFG1E</videoId>
       <enclosure url="https://i.ytimg.com/vi/ZKM3MklFG1E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Je fais tomber les masques : le F.N. n'a pas changé !</title>
-      <link>https://www.youtube.com/watch?v=8I2JEj_BT9w</link>
-      <guid>https://www.youtube.com/watch?v=8I2JEj_BT9w</guid>
-      <pubDate>2026-10-05T10:04:09+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Retrouvez mon passage à l'émission du 29 septembre de Darius Rochebin</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>8I2JEj_BT9w</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8I2JEj_BT9w/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
