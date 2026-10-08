@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 08 Oct 2026 08:45:43 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:01:03 -0000</lastBuildDate>
     <feedCount>47</feedCount>
     <item>
       <title>LAURENT JACOBELLI est SEUL CONTRE TOUS sur BFMTV !</title>
@@ -380,19 +380,6 @@ Il en souligne l'incohérence économique, le gouvernement misant sur une hausse
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>yIgyl7FAoYI</videoId>
       <enclosure url="https://i.ytimg.com/vi/yIgyl7FAoYI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY est l'invité d'APOLLINE DE MALHERBE sur BFM TV !</title>
-      <link>https://www.youtube.com/watch?v=UaLHdvDm9ew</link>
-      <guid>https://www.youtube.com/watch?v=UaLHdvDm9ew</guid>
-      <pubDate>2026-10-07T08:06:05+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>UaLHdvDm9ew</videoId>
-      <enclosure url="https://i.ytimg.com/vi/UaLHdvDm9ew/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>CLAIR, NET, PRÉCIS : FRANÇOIS RUFFIN SUR LES MOBILISATIONS LYCÉENNES</title>
@@ -877,6 +864,17 @@ Ces montants auraient dû apparaître, au moins en ordre de grandeur, dans le pr
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>ZKM3MklFG1E</videoId>
       <enclosure url="https://i.ytimg.com/vi/ZKM3MklFG1E/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Je fais tomber les masques : le F.N. n'a pas changé !</title>
+      <link>https://www.youtube.com/watch?v=8I2JEj_BT9w</link>
+      <guid>https://www.youtube.com/watch?v=8I2JEj_BT9w</guid>
+      <pubDate>2026-10-05T10:04:09+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Retrouvez mon passage à l'émission du 29 septembre de Darius Rochebin</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>8I2JEj_BT9w</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8I2JEj_BT9w/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
