@@ -4,8 +4,46 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 08 Oct 2026 10:15:37 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:31:00 -0000</lastBuildDate>
     <feedCount>47</feedCount>
+    <item>
+      <title>Lycéens: si le gouvernement ne répond pas aux revendication, nous allons vers la crise - A. Corbière</title>
+      <link>https://www.youtube.com/watch?v=rIBipTIusmo</link>
+      <guid>https://www.youtube.com/watch?v=rIBipTIusmo</guid>
+      <pubDate>2026-10-08T10:18:52+00:00</pubDate>
+      <author>Alexis Corbière</author>
+      <description>Le député Alexis Corbière était l'invité de Sonia Mabrouk pour débattre de la mobilisation des lycéens, partout dans le pays.</description>
+      <channelTitle>Alexis Corbière</channelTitle>
+      <videoId>rIBipTIusmo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/rIBipTIusmo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Collèges publics et privés à Paris : système à deux vitesse !</title>
+      <link>https://www.youtube.com/watch?v=kLePbgL5CWk</link>
+      <guid>https://www.youtube.com/watch?v=kLePbgL5CWk</guid>
+      <pubDate>2026-10-08T10:18:27+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>"Nous avons à Paris un système scolaire à deux vitesses. "
+
+Sophia Chikirou est intervenue en Conseil de Paris pour dénoncer l'opacité des financements parisiens entre les collèges publics et les collèges privés.
+
+En 2024, 37,6 % des collégiens parisiens étaient scolarisés dans le privé. Quand le collège public accueille 24 % d'élèves issus des milieux défavorisés, dans le privé c'est 3 %.
+
+Le groupe du Nouveau Paris Populaire propose deux ruptures :
+- Passer de l’accompagnement du privé à la priorité absolue au public : la Ville doit cesser toute aide facultative. L'argent public doit servir l'école publique.
+- La baisse démographique ne doit plus justifier des fermetures ou des réductions de capacité. Elle doit au contraire permettre de réduire le nombre d'élèves par classe afin d'améliorer l’éducation.
+
+______
+Pour suivre mes prochaines interventions : 
+Twitter : https://x.com/chikirouparis
+Instagram :   / sophia.chikirou  
+Facebook :   / sophiachikirouparis  
+TikTok :   / sophiachikirou  
+Telegram : @sophiachikirouParis</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>kLePbgL5CWk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/kLePbgL5CWk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURENT JACOBELLI est SEUL CONTRE TOUS sur BFMTV !</title>
       <link>https://www.youtube.com/watch?v=l-KWDRshQ8Q</link>
@@ -851,28 +889,6 @@ Ces montants auraient dû apparaître, au moins en ordre de grandeur, dans le pr
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>ZKM3MklFG1E</videoId>
       <enclosure url="https://i.ytimg.com/vi/ZKM3MklFG1E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Je fais tomber les masques : le F.N. n'a pas changé !</title>
-      <link>https://www.youtube.com/watch?v=8I2JEj_BT9w</link>
-      <guid>https://www.youtube.com/watch?v=8I2JEj_BT9w</guid>
-      <pubDate>2026-10-05T10:04:09+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Retrouvez mon passage à l'émission du 29 septembre de Darius Rochebin</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>8I2JEj_BT9w</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8I2JEj_BT9w/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les revendications des lycéen•nes doivent être entendues !</title>
-      <link>https://www.youtube.com/watch?v=94MRYkutP0I</link>
-      <guid>https://www.youtube.com/watch?v=94MRYkutP0I</guid>
-      <pubDate>2026-10-05T08:44:52+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description />
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>94MRYkutP0I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/94MRYkutP0I/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
