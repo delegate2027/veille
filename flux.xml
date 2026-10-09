@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 09 Oct 2026 15:30:57 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:45:48 -0000</lastBuildDate>
     <feedCount>49</feedCount>
     <item>
       <title>SÉBASTIEN CHENU : « Depuis 10 ans, la macronie a ruiné l'Éducation nationale ! » (TF1)</title>
@@ -380,19 +380,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>kLePbgL5CWk</videoId>
       <enclosure url="https://i.ytimg.com/vi/kLePbgL5CWk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURENT JACOBELLI est SEUL CONTRE TOUS sur BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=l-KWDRshQ8Q</link>
-      <guid>https://www.youtube.com/watch?v=l-KWDRshQ8Q</guid>
-      <pubDate>2026-10-08T08:21:04+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>l-KWDRshQ8Q</videoId>
-      <enclosure url="https://i.ytimg.com/vi/l-KWDRshQ8Q/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Débat sur Public sénat suite au mouvement lycéens !</title>
@@ -895,6 +882,24 @@ Telegram : https://t.me/Sarah_Knafo
       <channelTitle>Louis Boyard</channelTitle>
       <videoId>t_xNcJtX5cY</videoId>
       <enclosure url="https://i.ytimg.com/vi/t_xNcJtX5cY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Le RN ment.</title>
+      <link>https://www.youtube.com/watch?v=IfcWaDw74ic</link>
+      <guid>https://www.youtube.com/watch?v=IfcWaDw74ic</guid>
+      <pubDate>2026-10-06T19:12:10+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Le RN ment.   
+
+J'ai passé au peigne fin les 140 milliards d'économies promises par Marine Le Pen : les trois quarts sont de fausses économies.   
+
+Son budget ne tient pas la route et elle le sait. Ce qu'elle propose, c'est le plus grand choc fiscal de l'histoire, cinq fois plus lourd que celui de 2012.   
+Qui va payer l’addition ? Pas eux. C'est vous.
+
+Je vous explique tout.</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>IfcWaDw74ic</videoId>
+      <enclosure url="https://i.ytimg.com/vi/IfcWaDw74ic/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
