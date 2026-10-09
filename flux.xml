@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 09 Oct 2026 13:31:07 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:45:54 -0000</lastBuildDate>
     <feedCount>49</feedCount>
+    <item>
+      <title>SÉBASTIEN CHENU : « Depuis 10 ans, la macronie a ruiné l'Éducation nationale ! » (TF1)</title>
+      <link>https://www.youtube.com/watch?v=wQkIUZqRvqg</link>
+      <guid>https://www.youtube.com/watch?v=wQkIUZqRvqg</guid>
+      <pubDate>2026-10-09T13:38:28+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>wQkIUZqRvqg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/wQkIUZqRvqg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Le gouvernement a armé le bras de LFI lors des législatives de 2024 ! Éric Ciotti sur BFM</title>
       <link>https://www.youtube.com/watch?v=JOQC3_gnNB4</link>
@@ -380,19 +393,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>l-KWDRshQ8Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/l-KWDRshQ8Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>YOANN GILLET est face à IAN BROSSAT sur FRANCE INFO !</title>
-      <link>https://www.youtube.com/watch?v=bMkhg7fk-q4</link>
-      <guid>https://www.youtube.com/watch?v=bMkhg7fk-q4</guid>
-      <pubDate>2026-10-08T08:19:36+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>bMkhg7fk-q4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/bMkhg7fk-q4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Débat sur Public sénat suite au mouvement lycéens !</title>
