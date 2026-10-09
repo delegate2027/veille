@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 09 Oct 2026 17:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:31:01 -0000</lastBuildDate>
     <feedCount>49</feedCount>
+    <item>
+      <title>Mobilisation lycéennes : même vous au Figaro, vous auriez aimé manifester à Bastille !</title>
+      <link>https://www.youtube.com/watch?v=qYnBmoKKL8E</link>
+      <guid>https://www.youtube.com/watch?v=qYnBmoKKL8E</guid>
+      <pubDate>2026-10-09T17:06:02+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>qYnBmoKKL8E</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qYnBmoKKL8E/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Clémence Guetté dans l'Heure de Vérité !</title>
       <link>https://www.youtube.com/watch?v=9jB-e9IaLkg</link>
@@ -856,27 +867,6 @@ Nous répondons également à vos questions en direct. Rejoignez-nous !</descrip
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>2-cDfBrOwQo</videoId>
       <enclosure url="https://i.ytimg.com/vi/2-cDfBrOwQo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📺 Le mouvement lycéen est légitime, STOP à la surenchère pénale !</title>
-      <link>https://www.youtube.com/watch?v=RXLhWwmw64g</link>
-      <guid>https://www.youtube.com/watch?v=RXLhWwmw64g</guid>
-      <pubDate>2026-10-06T20:01:08+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce mardi 6 octobre 2026 sur LCP
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/deputee_obono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@deputee_obono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>RXLhWwmw64g</videoId>
-      <enclosure url="https://i.ytimg.com/vi/RXLhWwmw64g/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
