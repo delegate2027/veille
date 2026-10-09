@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 09 Oct 2026 09:01:15 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:15:48 -0000</lastBuildDate>
     <feedCount>49</feedCount>
+    <item>
+      <title>Les réponses politiques de François Ruffin sur les lycées !</title>
+      <link>https://www.youtube.com/watch?v=3Qccdxn8Oho</link>
+      <guid>https://www.youtube.com/watch?v=3Qccdxn8Oho</guid>
+      <pubDate>2026-10-09T09:07:50+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>3Qccdxn8Oho</videoId>
+      <enclosure url="https://i.ytimg.com/vi/3Qccdxn8Oho/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>📺 Nuñez démission, au revoir à jamais Macron !</title>
       <link>https://www.youtube.com/watch?v=MpMQyBQH16I</link>
@@ -881,32 +894,6 @@ Je vous explique tout.</description>
       <channelTitle>Hadrien Clouet</channelTitle>
       <videoId>Ni6e-6ZewpU</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ni6e-6ZewpU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nous condamnons fermement les violences commises aux abords des lycées | Laurent Croizier</title>
-      <link>https://www.youtube.com/watch?v=9ZzWfTjIfyM</link>
-      <guid>https://www.youtube.com/watch?v=9ZzWfTjIfyM</guid>
-      <pubDate>2026-10-06T15:41:16+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Nous condamnons fermement les violences commises aux abords des lycées | Laurent Croizier
-
-Lors des questions au gouvernement du mardi 6 octobre, notre député du Doubs, Laurent Croizier, a interrogé le ministre de l’Éducation nationale sur les manifestations lycéennes.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/laurent-croizier-nous-condamnons-les-mouvements-politiques-qui-attisent-les
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>9ZzWfTjIfyM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/9ZzWfTjIfyM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
