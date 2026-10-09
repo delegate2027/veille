@@ -4,8 +4,8 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 09 Oct 2026 08:15:36 -0000</lastBuildDate>
-    <feedCount>47</feedCount>
+    <lastBuildDate>Fri, 09 Oct 2026 08:30:53 -0000</lastBuildDate>
+    <feedCount>49</feedCount>
     <item>
       <title>Meeting de Jean-Luc Mélenchon à Clermont-Ferrand</title>
       <link>https://www.youtube.com/watch?v=sBvVfHxcJp4</link>
@@ -204,6 +204,32 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>_r_UOhK3oD4</videoId>
       <enclosure url="https://i.ytimg.com/vi/_r_UOhK3oD4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EXCLUSIF : LE RAPPORT D'INFORMATION SUR LES ASSOCIATIONS D'AIDE AUX MIGRANTS</title>
+      <link>https://www.youtube.com/watch?v=9RkRIRbe2tM</link>
+      <guid>https://www.youtube.com/watch?v=9RkRIRbe2tM</guid>
+      <pubDate>2026-10-08T11:42:01+00:00</pubDate>
+      <author>UDR</author>
+      <description>Crédits Vidéo : UDR
+
+----------------------------------------------
+
+► Rejoignez l'UDR ici :
+https://www.udr.fr/
+https://www.instagram.com/partiudr
+https://www.tiktok.com/@partiudr
+https://www.facebook.com/udrofficiel
+https://twitter.com/partiudr
+
+----------------------------------------------
+
+► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
+
+#UDR #EricCiotti</description>
+      <channelTitle>UDR</channelTitle>
+      <videoId>9RkRIRbe2tM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/9RkRIRbe2tM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Lycéens: si le gouvernement ne répond pas aux revendication, nous allons vers la crise - A. Corbière</title>
@@ -428,7 +454,7 @@ Chapitres :
       <enclosure url="https://i.ytimg.com/vi/1aC3rLgThBA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>« Il faut libérer l’école de tout ce qui l’attire vers le bas »</title>
+      <title>« Il faut libérer l’école de tout ce qui la tire vers le bas. »</title>
       <link>https://www.youtube.com/watch?v=XUUzaVk2ntc</link>
       <guid>https://www.youtube.com/watch?v=XUUzaVk2ntc</guid>
       <pubDate>2026-10-07T17:04:41+00:00</pubDate>
@@ -593,6 +619,58 @@ Il en souligne l'incohérence économique, le gouvernement misant sur une hausse
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>U6XdmssjLNc</videoId>
       <enclosure url="https://i.ytimg.com/vi/U6XdmssjLNc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Je demande la révocation de monsieur Bagayoko ! Éric Ciotti dans Face à l'info</title>
+      <link>https://www.youtube.com/watch?v=IeKZzOKv0nk</link>
+      <guid>https://www.youtube.com/watch?v=IeKZzOKv0nk</guid>
+      <pubDate>2026-10-07T10:15:17+00:00</pubDate>
+      <author>UDR</author>
+      <description>Crédits Vidéo : CNEWS
+
+----------------------------------------------
+
+► Rejoignez l'UDR ici :
+https://www.udr.fr/
+https://www.instagram.com/partiudr
+https://www.tiktok.com/@partiudr
+https://www.facebook.com/udrofficiel
+https://twitter.com/partiudr
+
+----------------------------------------------
+
+► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
+
+#UDR #EricCiotti</description>
+      <channelTitle>UDR</channelTitle>
+      <videoId>IeKZzOKv0nk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/IeKZzOKv0nk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Il faut envoyer la facture à monsieur Mélenchon : Éric Ciotti dans les 4 Vérités</title>
+      <link>https://www.youtube.com/watch?v=SyOi3ywCIT8</link>
+      <guid>https://www.youtube.com/watch?v=SyOi3ywCIT8</guid>
+      <pubDate>2026-10-07T10:10:02+00:00</pubDate>
+      <author>UDR</author>
+      <description>Crédits Vidéo : France 2
+
+----------------------------------------------
+
+► Rejoignez l'UDR ici :
+https://www.udr.fr/
+https://www.instagram.com/partiudr
+https://www.tiktok.com/@partiudr
+https://www.facebook.com/udrofficiel
+https://twitter.com/partiudr
+
+----------------------------------------------
+
+► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
+
+#UDR #EricCiotti</description>
+      <channelTitle>UDR</channelTitle>
+      <videoId>SyOi3ywCIT8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SyOi3ywCIT8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>EN DIRECT | Rythmes scolaires, bâti scolaire, moyens, j'échange avec la jeunesse de France sur LCI.</title>
@@ -826,64 +904,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>bpPMl051UjQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/bpPMl051UjQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Le Pen présente la trajectoire financière de son quinquennat.</title>
-      <link>https://www.youtube.com/watch?v=YYwoEaAKdeE</link>
-      <guid>https://www.youtube.com/watch?v=YYwoEaAKdeE</guid>
-      <pubDate>2026-10-06T14:21:56+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>YYwoEaAKdeE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YYwoEaAKdeE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Pas d'usage de LBD ou de grenades de désencerlement dans des manif de lycéens!" Boris Vallaud (RMC)</title>
-      <link>https://www.youtube.com/watch?v=CUibMVDSYNU</link>
-      <guid>https://www.youtube.com/watch?v=CUibMVDSYNU</guid>
-      <pubDate>2026-10-06T14:10:17+00:00</pubDate>
-      <author>BorisVallaud</author>
-      <description>Boris Vallaud était l'invité d'Apolline de Malherbe ce mardi 6 octobre 2026 sur RMC pour évoquer la mobilisation lycéenne et sociale, et la question des violences et des blessés. 
-_____________________________________
-
-Suivez-moi sur les réseaux sociaux
-
-Twitter :  https://x.com/BorisVallaud
-Facebook :  https://www.facebook.com/BVallaud
-Instagram :  https://www.instagram.com/borisvallaud/ 
-Tiktok : https://www.tiktok.com/@borisvallaud
-Youtube : https://www.youtube.com/@Boris_Vallaud</description>
-      <channelTitle>BorisVallaud</channelTitle>
-      <videoId>CUibMVDSYNU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/CUibMVDSYNU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>90 000 profs, Parcoursup supprimé : le plan de Fabien Roussel pour la jeunesse</title>
-      <link>https://www.youtube.com/watch?v=Ow5wlZ8YzRE</link>
-      <guid>https://www.youtube.com/watch?v=Ow5wlZ8YzRE</guid>
-      <pubDate>2026-10-06T11:28:50+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Faire de la jeunesse une priorité nationale et lui donner les moyens de construire son avenir : c’est l’ambition portée par notre plan pour la jeunesse et l’éducation. 
-
-Face à la mobilisation des lycéens et à la crise que traverse l’Éducation nationale, Fabien Roussel présente notre plan pour la jeunesse et l’éducation.
-
-Rénovation des collèges et lycées, recrutement de 90 000 enseignants, réduction du nombre d’élèves par classe, remplacement des professeurs absents, retour à 32 heures de cours, rétablissement du bac pro en quatre ans, suppression de Parcoursup et de Mon Master : des moyens à la hauteur pour faire de la jeunesse une priorité nationale.
-
-À l’issue de son intervention, Fabien Roussel répond aux questions des journalistes sur la mobilisation lycéenne, les violences policières et la situation sociale.
-
-00:00 La jeunesse face à la crise de l’Éducation
-07:45 Un pacte d’urgence pour la jeunesse et l’éducation
-09:51 Présentation de notre plan pour la jeunesse
-10:22 Axe 1 : Des établissements dignes et rénovés
-11:22 Axe 2 : Des professeurs devant chaque élève
-12:32 Axe 3 : Rendre du temps d’école aux élèves
-13:37 Axe 4 : Ouvrir les études à toutes et tous
-14:02 Axe 5 : Renforcer la démocratie scolaire
-16:46 Questions-réponses avec les journalistes</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>Ow5wlZ8YzRE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ow5wlZ8YzRE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
