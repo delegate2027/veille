@@ -4,23 +4,8 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 09 Oct 2026 19:31:02 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:45:43 -0000</lastBuildDate>
     <feedCount>49</feedCount>
-    <item>
-      <title>🎀 Ruban rose : que signifie-t-il et pourquoi je ne le porterai pas durant ce mois d'octobre ?</title>
-      <link>https://www.youtube.com/watch?v=_YM89-dLCgs</link>
-      <guid>https://www.youtube.com/watch?v=_YM89-dLCgs</guid>
-      <pubDate>2026-10-09T19:02:49+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>🎀 Ruban rose : que signifie-t-il et pourquoi je ne le porterai pas durant ce mois d'octobre ?
-
-La lutte contre le cancer ne doit pas être du vernis rose.
-
-Nous ne voulons pas un "Octobre rose", mais un Octobre colère.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>_YM89-dLCgs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_YM89-dLCgs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
     <item>
       <title>Loi intégrale, les violences obstétricales et gynécologiques seront enfin nommées</title>
       <link>https://www.youtube.com/watch?v=huDK8-7RXeE</link>
@@ -873,6 +858,17 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>JQEw5RQe89I</videoId>
       <enclosure url="https://i.ytimg.com/vi/JQEw5RQe89I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Tondelier sur les violences policières : "le ministre de l'Intérieur doit démissionner" (BFM)</title>
+      <link>https://www.youtube.com/watch?v=2-cDfBrOwQo</link>
+      <guid>https://www.youtube.com/watch?v=2-cDfBrOwQo</guid>
+      <pubDate>2026-10-06T20:15:27+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Duplex en direct le 6 octobre 2026 après les manifestations lycéennes.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>2-cDfBrOwQo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2-cDfBrOwQo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
