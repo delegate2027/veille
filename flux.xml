@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 09 Oct 2026 12:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:01:08 -0000</lastBuildDate>
     <feedCount>49</feedCount>
+    <item>
+      <title>Le gouvernement a armé le bras de LFI lors des législatives de 2024 ! Éric Ciotti sur BFM</title>
+      <link>https://www.youtube.com/watch?v=JOQC3_gnNB4</link>
+      <guid>https://www.youtube.com/watch?v=JOQC3_gnNB4</guid>
+      <pubDate>2026-10-09T12:45:58+00:00</pubDate>
+      <author>UDR</author>
+      <description>Crédits Vidéo : BFM TV
+
+----------------------------------------------
+
+► Rejoignez l'UDR ici :
+https://www.udr.fr/
+https://www.instagram.com/partiudr
+https://www.tiktok.com/@partiudr
+https://www.facebook.com/udrofficiel
+https://twitter.com/partiudr
+
+----------------------------------------------
+
+► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
+
+#UDR #EricCiotti</description>
+      <channelTitle>UDR</channelTitle>
+      <videoId>JOQC3_gnNB4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/JOQC3_gnNB4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY est l'invité de la matinale de LCI !</title>
       <link>https://www.youtube.com/watch?v=GLjqYbqLCgQ</link>
@@ -869,24 +895,6 @@ Telegram : https://t.me/Sarah_Knafo
       <channelTitle>Louis Boyard</channelTitle>
       <videoId>t_xNcJtX5cY</videoId>
       <enclosure url="https://i.ytimg.com/vi/t_xNcJtX5cY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le RN ment.</title>
-      <link>https://www.youtube.com/watch?v=IfcWaDw74ic</link>
-      <guid>https://www.youtube.com/watch?v=IfcWaDw74ic</guid>
-      <pubDate>2026-10-06T19:12:10+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Le RN ment.   
-
-J'ai passé au peigne fin les 140 milliards d'économies promises par Marine Le Pen : les trois quarts sont de fausses économies.   
-
-Son budget ne tient pas la route et elle le sait. Ce qu'elle propose, c'est le plus grand choc fiscal de l'histoire, cinq fois plus lourd que celui de 2012.   
-Qui va payer l’addition ? Pas eux. C'est vous.
-
-Je vous explique tout.</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>IfcWaDw74ic</videoId>
-      <enclosure url="https://i.ytimg.com/vi/IfcWaDw74ic/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
