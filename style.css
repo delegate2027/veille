@@ -108,14 +108,10 @@ a {
   border-radius: 3px;
 }
 
+/* Le flash est volontairement joue meme quand le systeme est en mouvement
+   reduit : c'est un signal ponctuel et discret de mise a jour du flux. */
 .status-time.is-updated {
   animation: veille-time-flash 2.6s ease-out;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .status-time.is-updated {
-    animation: none;
-  }
 }
 
 /* Feed */
