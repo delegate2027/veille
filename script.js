@@ -412,7 +412,9 @@ function loadRSS() {
       return;
     }
     if (data.notModified) return;
-    updateStatus(data.lastModified);
+    /* Le chargement initial affiche l'heure pour la premiere fois : on l'anime
+       aussi, sinon le rappel visuel ne se voit qu'au rafraichissement en fond. */
+    updateStatus(data.lastModified, true);
     feedRevision++;
     feed = document.getElementById("feed");
     feed.innerHTML = "";
