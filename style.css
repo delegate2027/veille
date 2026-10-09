@@ -85,17 +85,27 @@ a {
 }
 
 /* Heure de mise a jour : discret rappel visuel au moment ou flux.xml change.
-   Uniquement une teinte et un halo qui s'estompent, sans deplacement ni
+   Une teinte, un fond et un halo qui s'estompent, sans deplacement ni
    changement de taille, pour ne pas attirer l'oeil sur le reste de la page. */
 @keyframes veille-time-flash {
   0% {
     color: var(--accent);
+    background-color: rgba(255, 138, 122, 0.18);
     text-shadow: 0 0 6px rgba(255, 138, 122, 0.5);
   }
   100% {
     color: var(--muted);
+    background-color: rgba(255, 138, 122, 0);
     text-shadow: 0 0 0 rgba(255, 138, 122, 0);
   }
+}
+
+/* Le retrait de is-updated entre deux flashs est indispensable : une classe
+   deja posee ne relance pas une animation (voir pulseElement). */
+.status-time {
+  display: inline-block;
+  padding: 0 2px;
+  border-radius: 3px;
 }
 
 .status-time.is-updated {
