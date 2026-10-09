@@ -310,12 +310,39 @@ function fetchAndParseRSS(callback, headers) {
   });
 }
 
-function updateStatus(lastModified) {
+function updateStatus(lastModified, animate) {
   var update = document.getElementById("lastUpdate");
-  if (lastModified) {
-    lastModifiedSeen = lastModified;
-    update.innerHTML = "Dernière mise à jour : " + escapeHtml(formatDate(lastModified));
+  var formatted, timeEl;
+
+  if (!lastModified) return;
+
+  lastModifiedSeen = lastModified;
+  formatted = formatDate(lastModified);
+
+  /* L'heure (HH:MM) est isolee dans un span pour porter seule l'animation :
+     la date et le libelle restent fixes pendant que l'heure s'eclaire. */
+  if (formatted.length > 5) {
+    update.innerHTML = "Dernière mise à jour : " +
+      escapeHtml(formatted.substr(0, formatted.length - 5)) +
+      '<span class="status-time">' + escapeHtml(formatted.substr(formatted.length - 5)) + "</span>";
+    if (animate) {
+      timeEl = update.getElementsByTagName("span")[0];
+      pulseElement(timeEl);
+    }
+  } else {
+    update.innerHTML = "Dernière mise à jour : " + escapeHtml(formatted);
   }
+}
+
+/* Rejoue l'animation CSS en retirant puis en reposant la classe. La lecture
+   forcee de offsetWidth oblige le navigateur a recalculer le style : sans ce
+   passage, une classe deja posee ne relancerait pas l'animation au prochain
+   rafraichissement. */
+function pulseElement(el) {
+  if (!el) return;
+  toggleClassName(el, "is-updated", false);
+  void el.offsetWidth;
+  toggleClassName(el, "is-updated", true);
 }
 
 function getItemElements(feed) {
@@ -398,7 +425,7 @@ function pollRSS() {
   fetchAndParseRSS(function(err, data) {
     if (err || data.notModified) return;
     if (data.lastModified && data.lastModified === lastModifiedSeen) return;
-    updateStatus(data.lastModified);
+    updateStatus(data.lastModified, true);
     feedRevision++;
 
     /* rss.py ecrit flux.xml et archives.xml dans le meme run : l'archive est donc

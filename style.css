@@ -84,6 +84,30 @@ a {
   letter-spacing: 0.02em;
 }
 
+/* Heure de mise a jour : discret rappel visuel au moment ou flux.xml change.
+   Uniquement une teinte et un halo qui s'estompent, sans deplacement ni
+   changement de taille, pour ne pas attirer l'oeil sur le reste de la page. */
+@keyframes veille-time-flash {
+  0% {
+    color: var(--accent);
+    text-shadow: 0 0 6px rgba(255, 138, 122, 0.5);
+  }
+  100% {
+    color: var(--muted);
+    text-shadow: 0 0 0 rgba(255, 138, 122, 0);
+  }
+}
+
+.status-time.is-updated {
+  animation: veille-time-flash 2.6s ease-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .status-time.is-updated {
+    animation: none;
+  }
+}
+
 /* Feed */
 
 .feed {
