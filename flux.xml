@@ -4,8 +4,31 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 09 Oct 2026 07:15:44 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:30:58 -0000</lastBuildDate>
     <feedCount>47</feedCount>
+    <item>
+      <title>Meeting de Jean-Luc Mélenchon à Clermont-Ferrand</title>
+      <link>https://www.youtube.com/watch?v=sBvVfHxcJp4</link>
+      <guid>https://www.youtube.com/watch?v=sBvVfHxcJp4</guid>
+      <pubDate>2026-10-09T07:19:46+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Ce dimanche 11 octobre, rendez-vous à 15h pour suivre en direct un meeting de Jean-Luc Mélenchon à Clermont-Ferrand.
+
+Retrouvez la version accessible aux personnes sourdes et malentendantes (vélotypie et LSF) ici : https://youtube.com/live/alTS84wDvu0
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>sBvVfHxcJp4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/sBvVfHxcJp4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Dans les couloirs du Conseil #4 : Soutien aux co-réalisateurs de NAZA et partenariat Winamax-Paris</title>
       <link>https://www.youtube.com/watch?v=R-k8XztLHSM</link>
@@ -861,17 +884,6 @@ Rénovation des collèges et lycées, recrutement de 90 000 enseignants, réduct
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>Ow5wlZ8YzRE</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ow5wlZ8YzRE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT l Présentation de la trajectoire financière du quinquennat de Marine Le Pen</title>
-      <link>https://www.youtube.com/watch?v=AukTdzBcgpc</link>
-      <guid>https://www.youtube.com/watch?v=AukTdzBcgpc</guid>
-      <pubDate>2026-10-06T09:58:35+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>AukTdzBcgpc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/AukTdzBcgpc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
