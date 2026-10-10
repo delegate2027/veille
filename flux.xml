@@ -4,8 +4,31 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 10 Oct 2026 10:01:13 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:15:41 -0000</lastBuildDate>
     <feedCount>49</feedCount>
+    <item>
+      <title>Mobilisations sociales et lycéennes : la colère monte dans le pays | Léna Raud</title>
+      <link>https://www.youtube.com/watch?v=0CEqzDWpZN4</link>
+      <guid>https://www.youtube.com/watch?v=0CEqzDWpZN4</guid>
+      <pubDate>2026-10-10T10:01:37+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Carburants, pouvoir d’achat, services publics, éducation : partout en France, la colère sociale grandit et les mobilisations se multiplient.
+
+À l’occasion du Conseil national du PCF du 10 octobre 2026, Léna Raud présente un rapport sur la situation sociale et politique du pays, avec une attention particulière à la mobilisation historique des lycéens et des étudiants.
+
+Face à la dégradation des conditions d’études, aux politiques d’austérité et à la répression des mobilisations, le Parti communiste français appelle à répondre aux revendications de la jeunesse, à investir massivement dans l’éducation et à construire la convergence des luttes.
+
+Une ambition : rassembler les colères autour d’un projet de transformation sociale et donner à la jeunesse les moyens de construire son avenir.
+
+00:00 Pouvoir d'achat et montée de la colère sociale
+01:23 Nationaliser TotalEnergies et rompre avec l'austérité
+03:08 La mobilisation historique de la jeunesse
+06:16 Répression et aspirations des lycéens
+08:06 Le plan du PCF pour la jeunesse et la convergence des luttes</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>0CEqzDWpZN4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0CEqzDWpZN4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Fabien Roussel : « Si Total ne bouge pas, il faut le nationaliser ! »</title>
       <link>https://www.youtube.com/watch?v=ldjHSE4H4F4</link>
@@ -894,32 +917,6 @@ https://twitter.com/partiudr
       <channelTitle>UDR</channelTitle>
       <videoId>IeKZzOKv0nk</videoId>
       <enclosure url="https://i.ytimg.com/vi/IeKZzOKv0nk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Il faut envoyer la facture à monsieur Mélenchon : Éric Ciotti dans les 4 Vérités</title>
-      <link>https://www.youtube.com/watch?v=SyOi3ywCIT8</link>
-      <guid>https://www.youtube.com/watch?v=SyOi3ywCIT8</guid>
-      <pubDate>2026-10-07T10:10:02+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : France 2
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>SyOi3ywCIT8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SyOi3ywCIT8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
