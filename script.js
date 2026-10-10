@@ -145,6 +145,7 @@ function sourceClass(author) {
       a.indexOf("corbiere") !== -1 || a.indexOf("l'après") !== -1 || a.indexOf("glucksmann") !== -1 ||
       a.indexOf("ruffin") !== -1 || a.indexOf("vallaud") !== -1 || a.indexOf("guedj") !== -1) return "ps";
   if (a.indexOf("horizons") !== -1 || a.indexOf("modem") !== -1 || a.indexOf("attal") !== -1 ||
+      a.indexOf("edouard philippe") !== -1 || a.indexOf("édouard philippe") !== -1 ||
       a.indexOf("bergé") !== -1 || a.indexOf("berge") !== -1 || a.indexOf("macron") !== -1) return "centre";
   if (a.indexOf("renaissance") !== -1 || a.indexOf("wauquiez") !== -1 || a.indexOf("retailleau") !== -1 ||
       a.indexOf("bellamy") !== -1 || a.indexOf("lisnard") !== -1) return "lr";
