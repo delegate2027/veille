@@ -152,7 +152,8 @@ function sourceClass(author) {
   if (a.indexOf("zemmour") !== -1 || a.indexOf("knafo") !== -1 || a.indexOf("le pen") !== -1 ||
       a.indexOf("bardella") !== -1 || a.indexOf("rassemblement national") !== -1 ||
       a.indexOf("udr") !== -1) return "ed";
-  if (a.indexOf("communiste") !== -1 || a.indexOf("pcf") !== -1) return "pcf";
+  if (a.indexOf("communiste") !== -1 || a.indexOf("pcf") !== -1 ||
+      a.indexOf("npa") !== -1 || a.indexOf("anticapitaliste") !== -1) return "pcf";
   return "meeting";
 }
 
