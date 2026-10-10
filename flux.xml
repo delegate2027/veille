@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 10 Oct 2026 07:01:18 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:15:44 -0000</lastBuildDate>
     <feedCount>49</feedCount>
+    <item>
+      <title>Le logement, c'est le pouvoir d'achat !</title>
+      <link>https://www.youtube.com/watch?v=dONPgdrK8-Y</link>
+      <guid>https://www.youtube.com/watch?v=dONPgdrK8-Y</guid>
+      <pubDate>2026-10-10T07:15:15+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>dONPgdrK8-Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dONPgdrK8-Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Le gouvernement panique face aux lycéens - L’Actu politique</title>
       <link>https://www.youtube.com/watch?v=VnoozfQsYsM</link>
@@ -896,24 +909,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>r4DkN2q6UVc</videoId>
       <enclosure url="https://i.ytimg.com/vi/r4DkN2q6UVc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face à la barbarie, notre devoir est toujours de choisir la vie et la civilisation.</title>
-      <link>https://www.youtube.com/watch?v=LVMrNkW5nBY</link>
-      <guid>https://www.youtube.com/watch?v=LVMrNkW5nBY</guid>
-      <pubDate>2026-10-07T07:37:32+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>LVMrNkW5nBY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LVMrNkW5nBY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
