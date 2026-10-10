@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 10 Oct 2026 15:45:41 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 16:01:03 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>La France qui lutte : Smael Afnaï sur les mobilisations lycéennes – En campagne #4</title>
+      <link>https://www.youtube.com/watch?v=v95lZET3q2Q</link>
+      <guid>https://www.youtube.com/watch?v=v95lZET3q2Q</guid>
+      <pubDate>2026-10-10T16:00:30+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=Mx2S9iwsgYs</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>v95lZET3q2Q</videoId>
+      <enclosure url="https://i.ytimg.com/vi/v95lZET3q2Q/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | À Lyon, mon discours à la jeunesse de France.</title>
       <link>https://www.youtube.com/watch?v=92Q8hDQxdBM</link>
@@ -916,28 +927,6 @@ Il revient sur les principales questions d’actualité liées au budget : pouvo
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>ra7S8fN43qw</videoId>
       <enclosure url="https://i.ytimg.com/vi/ra7S8fN43qw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Mobilisations lycéennes et étudiantes : Manuel Bompard, invité de TF1 !</title>
-      <link>https://www.youtube.com/watch?v=BEHr4j5P2sU</link>
-      <guid>https://www.youtube.com/watch?v=BEHr4j5P2sU</guid>
-      <pubDate>2026-10-07T13:32:57+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur TF1 dans Bonjour la matinale du mercredi 7 octobre 2026.
-----------
-
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>BEHr4j5P2sU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BEHr4j5P2sU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
