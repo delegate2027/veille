@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 10 Oct 2026 14:45:41 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 15:01:12 -0000</lastBuildDate>
     <feedCount>49</feedCount>
+    <item>
+      <title>EN DIRECT | À Lyon, mon discours à la jeunesse de France.</title>
+      <link>https://www.youtube.com/watch?v=92Q8hDQxdBM</link>
+      <guid>https://www.youtube.com/watch?v=92Q8hDQxdBM</guid>
+      <pubDate>2026-10-10T14:58:22+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>92Q8hDQxdBM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/92Q8hDQxdBM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Ce mouvement de la jeunesse est le plus ample depuis 50 ans !</title>
       <link>https://www.youtube.com/watch?v=2QZwlpyS3qk</link>
@@ -26,17 +37,6 @@
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>2QZwlpyS3qk</videoId>
       <enclosure url="https://i.ytimg.com/vi/2QZwlpyS3qk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | À Lyon, mon discours à la jeunesse de France.</title>
-      <link>https://www.youtube.com/watch?v=92Q8hDQxdBM</link>
-      <guid>https://www.youtube.com/watch?v=92Q8hDQxdBM</guid>
-      <pubDate>2026-10-10T12:47:31+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>92Q8hDQxdBM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/92Q8hDQxdBM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mobilisations sociales et lycéennes : la colère monte dans le pays | Léna Raud</title>
