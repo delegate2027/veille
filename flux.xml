@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 10 Oct 2026 12:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 13:01:17 -0000</lastBuildDate>
     <feedCount>49</feedCount>
+    <item>
+      <title>EN DIRECT | À Lyon, mon discours à la jeunesse de France.</title>
+      <link>https://www.youtube.com/watch?v=92Q8hDQxdBM</link>
+      <guid>https://www.youtube.com/watch?v=92Q8hDQxdBM</guid>
+      <pubDate>2026-10-10T12:47:31+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>92Q8hDQxdBM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/92Q8hDQxdBM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Mobilisations sociales et lycéennes : la colère monte dans le pays | Léna Raud</title>
       <link>https://www.youtube.com/watch?v=0CEqzDWpZN4</link>
@@ -891,32 +902,6 @@ Il en souligne l'incohérence économique, le gouvernement misant sur une hausse
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>U6XdmssjLNc</videoId>
       <enclosure url="https://i.ytimg.com/vi/U6XdmssjLNc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Je demande la révocation de monsieur Bagayoko ! Éric Ciotti dans Face à l'info</title>
-      <link>https://www.youtube.com/watch?v=IeKZzOKv0nk</link>
-      <guid>https://www.youtube.com/watch?v=IeKZzOKv0nk</guid>
-      <pubDate>2026-10-07T10:15:17+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : CNEWS
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>IeKZzOKv0nk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/IeKZzOKv0nk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
