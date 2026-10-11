@@ -4,272 +4,378 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 11 Oct 2026 05:45:33 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:01:14 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
-      <title>Lycéens dans la rue, RN dans les choux… quelle belle semaine ! - L’Actu politique</title>
-      <link>https://www.youtube.com/watch?v=VnoozfQsYsM</link>
-      <guid>https://www.youtube.com/watch?v=VnoozfQsYsM</guid>
-      <pubDate>2026-10-10T06:00:19+00:00</pubDate>
-      <author>Antoine Léaument</author>
-      <description>Dans cette vidéo d'actu politique de la semaine, Antoine Léaument revient sur quatre sujets majeurs : les mobilisations lycéennes et étudiantes qui ont atteint un pic avec les manifestations de mardi et jeudi, les violences policières et le rôle de La France Insoumise pour tenter de désamorcer les tensions, le fiasco de la niche parlementaire du Rassemblement National, les menaces de l'AFD sur l'Alsace-Moselle, et les déclarations du patron du Medef Patrick Martin sur l'impôt différentiel universel.
-
-Les lycéens et étudiants se sont massivement mobilisés cette semaine autour de revendications très concrètes : des professeurs devant chaque classe, des tables et des chaises en nombre suffisant, et la suppression de Parcoursup. Antoine Léaument explique pourquoi ce système cristallise autant la colère : il trie les élèves non seulement selon leurs notes, mais selon la réputation de leur lycée, aggravant ainsi les inégalités structurelles qui pèsent déjà sur les jeunes des quartiers populaires. Dans ces lycées, certains élèves n'ont eu qu'une heure d'anglais depuis le début de l'année, les transports sont de mauvaise qualité, les canalisations sont bouchées, il y a des rats dans la cantine. Le gouvernement a essayé de laisser le mouvement pourrir, mais c'est l'inverse qui s'est produit : les lycéens des beaux quartiers se sont mobilisés en solidarité avec ceux de banlieue, et le ministre de l'Éducation a finalement dû envisager de ne pas supprimer tous les postes prévus.
-
-Antoine Léaument décrit sa présence sur le terrain à Évry avec Farida Amrani, à Sciences Po avec Gabriel Catala et Thomas Portes, et à l'ICP qui se mobilisait pour la première fois. Le rôle des députés insoumis dans ces mobilisations est d'expliquer, de pacifier et de faire le lien entre les manifestants et les forces de l'ordre pour éviter les violences. Ce travail de désescalade commence à être reconnu par des médias comme BFM et LCI. Il rapporte aussi avoir saisi le procureur de la République après avoir récupéré des plaques d'immatriculation de véhicules de police ayant gazé des passants.
-
-Sur la niche parlementaire du RN, le bilan est cinglant : aucun texte du Rassemblement National n'a été voté ce jour-là, ni les résolutions inutiles, ni la proposition de loi sur les zones à faible émission. Le rapporteur s'est lui-même livré à de l'obstruction en parlant interminablement. En parallèle, des responsables de l'AFD, alliés récents du RN, réclament l'intégration de l'Alsace et de la Moselle dans une grande Allemagne. Antoine Léaument exprime son soutien aux habitants de ces territoires et alerte sur le danger que représente une extrême droite allemande portant de telles revendications.
-
-Enfin, il répond aux propos de Patrick Martin, président du Medef, qui a déclaré vouloir quitter la France si La France Insoumise était élue. Léaument lui répond : partez si vous voulez, mais l'impôt différentiel universel permettra au fisc français de réclamer la différence entre ce que vous auriez payé en France et ce que vous payez ailleurs. Il rappelle que s'enrichir sur le dos du peuple français impose d'y contribuer, et que depuis 1789, la République a aboli les privilèges fiscaux de la noblesse. Il n'est pas question de laisser une aristocratie de l'argent s'y substituer.
-
----
-
-**Chapitres**
-
-00:00:00 Introduction et programme de la semaine
-00:01:13 Les mobilisations lycéennes et étudiantes : contexte et revendications
-00:02:03 Parcoursup et les inégalités structurelles dans l'éducation
-00:07:31 L'échec de la stratégie du gouvernement face au mouvement
-00:10:08 Les mobilisations de mardi et jeudi : une unité populaire
-00:12:16 Le rôle des députés insoumis sur le terrain (Évry, Sciences Po, ICP)
-00:17:39 Violences policières et travail de désescalade de LFI
-00:22:36 Ce que ferait un ministre de l'Intérieur insoumis
-00:27:26 La police judiciaire : le vrai sujet de sécurité ignoré
-00:29:15 Le fiasco de la niche parlementaire du RN
-00:31:45 L'AFD menace l'Alsace et la Moselle
-00:33:24 Patrick Martin (Medef) veut fuir : réponse avec l'impôt différentiel universel
-
-***SUIVEZ-MOI SUR***
-- Twitch : https://twitch.tv/ALeaument
-- Tiktok : https://www.tiktok.com/@aleaument
-- Facebook : https://www.facebook.com/ALeaument/
-- Twitter : https://twitter.com/ALeaument
-- Discord : https://discord.gg/w83JavD
-- Instagram : https://www.instagram.com/aleaument/
-- Snapchat : @ALeaument
-- Youtube (pour vous abonner) : http://bit.ly/2gbk7cm
-- Whatsapp : https://whatsapp.com/channel/0029VaCUZ4U2Jl8JGtMZfK1J
-- Linkedin : https://www.linkedin.com/in/aleaument/</description>
-      <channelTitle>Antoine Léaument</channelTitle>
-      <videoId>VnoozfQsYsM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/VnoozfQsYsM/maxresdefault.jpg" type="image/jpeg" />
+      <title>Manon Aubry en débat face à la droite sur LCI</title>
+      <link>https://www.youtube.com/watch?v=wEXdxcxdqp8</link>
+      <guid>https://www.youtube.com/watch?v=wEXdxcxdqp8</guid>
+      <pubDate>2026-10-10T08:00:20+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>LCI le 09 octobre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>wEXdxcxdqp8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/wEXdxcxdqp8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>📺 Nuñez démission, au revoir à jamais Macron !</title>
-      <link>https://www.youtube.com/watch?v=MpMQyBQH16I</link>
-      <guid>https://www.youtube.com/watch?v=MpMQyBQH16I</guid>
-      <pubDate>2026-10-09T08:48:00+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce jeudi 8 octobre 2026 sur LCI
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/deputee_obono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@deputee_obono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>MpMQyBQH16I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MpMQyBQH16I/maxresdefault.jpg" type="image/jpeg" />
+      <title>Mobilisation lycéennes : même vous au Figaro, vous auriez aimé manifester à Bastille !</title>
+      <link>https://www.youtube.com/watch?v=qYnBmoKKL8E</link>
+      <guid>https://www.youtube.com/watch?v=qYnBmoKKL8E</guid>
+      <pubDate>2026-10-09T17:06:02+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>qYnBmoKKL8E</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qYnBmoKKL8E/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Récap d'une journée intense !</title>
-      <link>https://www.youtube.com/watch?v=1aC3rLgThBA</link>
-      <guid>https://www.youtube.com/watch?v=1aC3rLgThBA</guid>
-      <pubDate>2026-10-07T17:33:37+00:00</pubDate>
-      <author>Antoine Léaument</author>
-      <description>Dans cette vidéo tournée en conditions de terrain le 7 octobre 2026, Antoine Léaument documente une journée de mobilisation étudiante à Sciences Po Paris, depuis le blocus du matin jusqu'à son audition du ministre de l'Intérieur l'après-midi. La vidéo s'ouvre sur une interview réalisée en duplex sur BFMTV avec Seydou, lycéen mobilisé au lycée Charles de Gaulle de Rosny-sous-Bois, et se conclut par l'intervention d'Antoine Léaument en commission des lois face à Laurent Nuñez.
-
-Antoine Léaument explique d'abord pourquoi il a tenu à réaliser l'interview BFMTV avec un drapeau français dans le fond : pour répondre aux discours d'extrême droite qui prétendent que les mobilisants n'aiment pas la France. Les revendications lycéennes — égalité dans l'accès à l'éducation, un professeur devant chaque classe, la fin de Parcoursup — sont des revendications républicaines. Seydou témoigne de la solidarité intergénérationnelle et interétablissements qui caractérise ce mouvement : des lycéens de zones favorisées, conscients de leurs privilèges, se mobilisent aux côtés de lycéens de banlieue dont les conditions d'études sont bien plus difficiles. Sur la question du soutien politique, Seydou est direct : la France insoumise se bat H-24 à l'Assemblée nationale pour les droits des jeunes, et la présence des députés sur le terrain sert avant tout à protéger les manifestants d'éventuelles violences policières.
-
-Antoine Léaument raconte ensuite la journée dans le détail. Arrivé à Sciences Po vers 11 h avec Gabriel Catala, ils trouvent un cordon de police séparant les bloqueurs — sur place depuis 6 h du matin, sans accès à l'eau ni à la nourriture — des soutiens venus leur apporter sandwichs, bananes et eau. La police autorise les députés à passer le cordon, mais interdit le passage de la nourriture. Résultat : les madeleines et sandwichs sont lancés par-dessus le dispositif policier, qui finit par se replier. Plus tard dans la matinée, le mouvement débouche sur un blocage du boulevard Saint-Germain. Antoine Léaument décrit le rôle des députés insoumis dans ce type de situation : s'interposer entre manifestants et forces de l'ordre pour faire descendre la tension, rôle que Jean-Luc Mélenchon avait explicitement appelé à tenir. Il précise que s'interposer signifie se placer à l'endroit de contact pour dire calmement aux policiers que les gens bougent et qu'il n'est pas nécessaire de matraquer — et que la présence d'un élu rend cette violence plus difficile à exercer.
-
-Dans l'après-midi, Antoine Léaument prend la parole en commission des lois face au ministre de l'Intérieur Laurent Nuñez. Il dresse un bilan accablant de la répression depuis le début du mouvement, soit vingt jours : plus de 5 000 gardes à vue — davantage qu'au premier mois des gilets jaunes —, un jeune de quatorze ans édenté après une grenade dans la bouche, un jeune de seize ans borgne après un tir de LBD, un jeune de dix-sept ans maintenu la tête sous l'eau, un jeune de quinze ans qui a perdu une main et une partie de l'avant-bras dans l'explosion d'une grenade de police. Il interpelle le ministre sur le fait qu'il a attendu ce drame pour renoncer aux grenades, et réclame l'interdiction des LBD. Il conclut en dessinant ce que serait un ministre de l'Intérieur insoumis : interdiction des LBD et grenades mutilantes, dissolution de la BRAV-M, refondation de la police de la cave au grenier, formation portée à deux ans, remplacement de l'IGPN par une structure indépendante, et dotation de la police judiciaire d'un logiciel fonctionnel pour lutter contre les pédocriminels, les violeurs et les fraudeurs fiscaux plutôt que contre des lycéens.
-
----
-
-Chapitres :
-
-00:00 Introduction : une journée de terrain le 7 octobre
-00:35 Interview BFMTV avec Seydou : drapeaux tricolores et revendications républicaines
-01:39 Témoignage de Seydou : solidarité entre lycées favorisés et lycées de banlieue
-02:21 Le rôle des insoumis sur le terrain : protéger les manifestants
-04:31 Arrivée à Sciences Po : le cordon de police et les sandwichs lancés par-dessus
-06:55 Blocage du boulevard Saint-Germain : s'interposer pour faire baisser les tensions
-09:26 Le rôle de s'interposer expliqué : ni police, ni violence, mais désescalade
-11:06 En commission des lois : interpellation du ministre Nuñez sur les violences policières
-12:48 Ce que serait un ministre de l'Intérieur insoumis
-14:30 Conclusion et appel à l'abonnement
-
-***SUIVEZ-MOI SUR***
-- Twitch : https://twitch.tv/ALeaument
-- Tiktok : https://www.tiktok.com/@aleaument
-- Facebook : https://www.facebook.com/ALeaument/
-- Twitter : https://twitter.com/ALeaument
-- Discord : https://discord.gg/w83JavD
-- Instagram : https://www.instagram.com/aleaument/
-- Snapchat : @ALeaument
-- Youtube (pour vous abonner) : http://bit.ly/2gbk7cm
-- Whatsapp : https://whatsapp.com/channel/0029VaCUZ4U2Jl8JGtMZfK1J
-- Linkedin : https://www.linkedin.com/in/aleaument/</description>
-      <channelTitle>Antoine Léaument</channelTitle>
-      <videoId>1aC3rLgThBA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1aC3rLgThBA/maxresdefault.jpg" type="image/jpeg" />
+      <title>Titres restaurant : soutenons nos TPE, pas les monopoles capitalistes !</title>
+      <link>https://www.youtube.com/watch?v=Un3FaBCJwKo</link>
+      <guid>https://www.youtube.com/watch?v=Un3FaBCJwKo</guid>
+      <pubDate>2026-10-07T16:34:36+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description />
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>Un3FaBCJwKo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Un3FaBCJwKo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>📺 Le mouvement lycéen est légitime, STOP à la surenchère pénale !</title>
-      <link>https://www.youtube.com/watch?v=RXLhWwmw64g</link>
-      <guid>https://www.youtube.com/watch?v=RXLhWwmw64g</guid>
-      <pubDate>2026-10-06T20:01:08+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce mardi 6 octobre 2026 sur LCP
+      <title>🔴 Mobilisations lycéennes et étudiantes : Manuel Bompard, invité de TF1 !</title>
+      <link>https://www.youtube.com/watch?v=BEHr4j5P2sU</link>
+      <guid>https://www.youtube.com/watch?v=BEHr4j5P2sU</guid>
+      <pubDate>2026-10-07T13:32:57+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur TF1 dans Bonjour la matinale du mercredi 7 octobre 2026.
+----------
 
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/deputee_obono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@deputee_obono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>RXLhWwmw64g</videoId>
-      <enclosure url="https://i.ytimg.com/vi/RXLhWwmw64g/maxresdefault.jpg" type="image/jpeg" />
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>BEHr4j5P2sU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/BEHr4j5P2sU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Même Benalla est choqué des violences policières !</title>
-      <link>https://www.youtube.com/watch?v=iGIKoLr6pbg</link>
-      <guid>https://www.youtube.com/watch?v=iGIKoLr6pbg</guid>
-      <pubDate>2026-10-06T04:30:11+00:00</pubDate>
-      <author>Antoine Léaument</author>
-      <description>Le 5 octobre 2026, Antoine Léaument était l'invité de LCI. Alors qu'un lycéen de 15 ans vient d'avoir la main arrachée par une grenade lors d'une mobilisation, le député La France insoumise de l'Essonne dénonce les violences policières subies par la jeunesse mobilisée, face à une députée macroniste et à un ancien policier. Même Alexandre Benalla s'en dit choqué au point de réclamer la démission du ministre de l'Intérieur, Laurent Nuñez.
+      <title>🔴 Mobilisations lycéennes et étudiantes : Manuel Bompard, invité de C à vous !</title>
+      <link>https://www.youtube.com/watch?v=nF0A8Ap4ARQ</link>
+      <guid>https://www.youtube.com/watch?v=nF0A8Ap4ARQ</guid>
+      <pubDate>2026-10-06T19:04:42+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur France 5 dans C à vous du mardi 6 octobre 2026.
+----------
 
-Antoine Léaument ouvre le débat en apportant son soutien aux étudiants de la Sorbonne, où des CRS sont entrés dans l'université, et aux lycéens mobilisés pour leurs droits. Il refuse qu'un jeune homme perde sa main, un autre son œil, qu'une jeune femme soit étranglée par des policiers : ce sont des enfants, pas encore majeurs. Il interpelle la députée macroniste : elle juge leurs revendications légitimes, mais quand les écoute-t-elle ? Le gouvernement a supprimé 4 000 postes dans l'Éducation nationale l'an dernier et propose d'en supprimer encore cette année. Si tout va bien à Versailles ou à Paris, ça ne va pas à Sainte-Geneviève-des-Bois, à Saint-Michel-sur-Orge ou à Morsang-sur-Orge, dans sa circonscription.
+📲 Abonnez-vous à mes réseaux sociaux !
 
-Face à un ancien policier qui accuse des politiques d'avoir poussé les jeunes à manifester et reproche à Antoine Léaument son manque de compassion, puis aux chiffres de Matignon sur les blessés, il juge la charge honteuse : les responsables insoumis condamnent sans cesse les violences policières et soutiennent les jeunes. Il relève qu'il aura fallu qu'un enfant ait la main arrachée pour qu'une députée macroniste condamne enfin ces violences sur un plateau.
-
-Il témoigne ensuite : lui-même a reçu un éclat de grenade de désencerclement dans la jambe lors d'une manifestation syndicale. Il décrit cette arme qui projette dans tous les sens des billes de plastique très dures, capables d'éborgner, et rappelle que la France insoumise propose de l'interdire. Puis il dresse la liste des victimes : une lycéenne de 14 ans saisie au cou, un lycéen de 14 ans touché au visage par un tir de lance-grenade à bout portant, plusieurs lycéens blessés à l'œil, un jeune de 17 ans à Belfort la tête maintenue sous l'eau lors d'une intervention policière. Des vies et des familles brisées.
-
-Le débat se tend sur l'affaire de Belfort, l'ancien policier contestant toute tentative de noyade et rappelant qu'un commandant a été frappé au sol. Antoine Léaument répond qu'il ne veut pas qu'un policier soit blessé, mais refuse de considérer comme normale une intervention où un policier isolé maintient la tête d'un jeune dans l'eau. Interrogé sur l'agression d'une passante au spray enflammé, il refuse qu'on parle à sa place : il est contre toutes les violences et ne peut évidemment pas approuver qu'on brûle le visage de quelqu'un.
-
-Vient enfin la photo du préfet des Hauts-de-Seine faisant la leçon à des parents convoqués. Pour Antoine Léaument, la garde à vue n'est pas une preuve de culpabilité, et certains jeunes y finissent sans avoir rien fait. Le rôle d'un préfet n'est pas de donner des leçons à des citoyens de la République, mais d'assurer la sécurité de tous, y compris quand ce sont des policiers qui causent l'insécurité. Il plaide pour une meilleure formation au maintien de l'ordre, un métier que l'on confie aujourd'hui aux BAC, comme les policiers eux-mêmes le réclament. La séquence se termine sur l'appel de la France insoumise aux parents à manifester avec un brassard blanc, et l'intervention du député européen Anthony Smith face aux sommations policières.
-
-Sommaire :
-00:00 Sorbonne, lycéens blessés et suppressions de postes
-02:32 Grenade à Lens : un lycéen de 15 ans mutilé
-07:03 Violences policières : Antoine Léaument répond aux accusations
-07:44 Grenades de désencerclement et liste des lycéens blessés
-10:06 Belfort : une intervention policière en question
-12:05 Agression au spray enflammé et maintien de l'ordre
-17:12 Parents convoqués par le préfet : la garde à vue en question
-21:10 Formation au maintien de l'ordre et brassards blancs
-
-***SUIVEZ-MOI SUR***
-- Twitch : https://twitch.tv/ALeaument
-- Tiktok : https://www.tiktok.com/@aleaument
-- Facebook : https://www.facebook.com/ALeaument/
-- Twitter : https://twitter.com/ALeaument
-- Discord : https://discord.gg/w83JavD
-- Instagram : https://www.instagram.com/aleaument/
-- Snapchat : @ALeaument
-- Youtube (pour vous abonner) : http://bit.ly/2gbk7cm
-- Whatsapp : https://whatsapp.com/channel/0029VaCUZ4U2Jl8JGtMZfK1J
-- Linkedin : https://www.linkedin.com/in/aleaument/</description>
-      <channelTitle>Antoine Léaument</channelTitle>
-      <videoId>iGIKoLr6pbg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iGIKoLr6pbg/maxresdefault.jpg" type="image/jpeg" />
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>nF0A8Ap4ARQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nF0A8Ap4ARQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>📺 Macron, Lecornu, Nuñez et Darmanin : ce sont eux les CASSEURS !</title>
-      <link>https://www.youtube.com/watch?v=kYqbfau9fic</link>
-      <guid>https://www.youtube.com/watch?v=kYqbfau9fic</guid>
-      <pubDate>2026-10-04T13:44:18+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce dimanche 4 octobre 2026 sur France Info
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/deputee_obono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@deputee_obono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>kYqbfau9fic</videoId>
-      <enclosure url="https://i.ytimg.com/vi/kYqbfau9fic/maxresdefault.jpg" type="image/jpeg" />
+      <title>Soutien au mouvement lycéen ! Stop aux violences policières !</title>
+      <link>https://www.youtube.com/watch?v=Ni6e-6ZewpU</link>
+      <guid>https://www.youtube.com/watch?v=Ni6e-6ZewpU</guid>
+      <pubDate>2026-10-06T16:00:00+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Retrouvez mon passage sur LCI du Vendredi 2 octobre !</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>Ni6e-6ZewpU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Ni6e-6ZewpU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>📺 MOBILISATION générale le 6 octobre aux côtés des lycéen·nes !</title>
-      <link>https://www.youtube.com/watch?v=asa_cKS2gAM</link>
-      <guid>https://www.youtube.com/watch?v=asa_cKS2gAM</guid>
-      <pubDate>2026-10-04T08:30:23+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage d'hier samedi 3 octobre 2026 sur LCI 
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : / deputee_obono  
-➡️ Facebook : / danieleobono  
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Telegram : https://t.me/DeputeeObono
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok :  / danieleobono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>asa_cKS2gAM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/asa_cKS2gAM/maxresdefault.jpg" type="image/jpeg" />
+      <title>Je fais tomber les masques : le F.N. n'a pas changé !</title>
+      <link>https://www.youtube.com/watch?v=8I2JEj_BT9w</link>
+      <guid>https://www.youtube.com/watch?v=8I2JEj_BT9w</guid>
+      <pubDate>2026-10-05T10:04:09+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Retrouvez mon passage à l'émission du 29 septembre de Darius Rochebin</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>8I2JEj_BT9w</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8I2JEj_BT9w/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Pourquoi la diabolisation de LFI est vouée à l'échec - L'actu politique</title>
-      <link>https://www.youtube.com/watch?v=qx1aVP9k1kA</link>
-      <guid>https://www.youtube.com/watch?v=qx1aVP9k1kA</guid>
-      <pubDate>2026-10-03T06:00:31+00:00</pubDate>
-      <author>Antoine Léaument</author>
-      <description>Dans cette édition de l'actu politique de la semaine, Antoine Léaument revient sur deux sujets. D'abord, les mobilisations lycéennes : leurs causes profondes, la répression policière, le rôle des insoumis sur le terrain, et les tentatives de récupération médiatique. Ensuite, le projet de budget du gouvernement, qu'il qualifie d'inacceptable, avec ses coupes dans les retraites, les allocations familiales et la santé, et ses cadeaux aux plus riches.
+      <title>Les revendications des lycéen•nes doivent être entendues !</title>
+      <link>https://www.youtube.com/watch?v=94MRYkutP0I</link>
+      <guid>https://www.youtube.com/watch?v=94MRYkutP0I</guid>
+      <pubDate>2026-10-05T08:44:52+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>94MRYkutP0I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/94MRYkutP0I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Manuel Bompard face à Édouard Geffray sur France 2</title>
+      <link>https://www.youtube.com/watch?v=Np12sKLLYro</link>
+      <guid>https://www.youtube.com/watch?v=Np12sKLLYro</guid>
+      <pubDate>2026-10-04T12:34:53+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur France 2 face à Édouard Geffray du dimanche 4 octobre 2026.
 
-Les lycéens se mobilisent parce que les conditions d'enseignement sont pourries dans la septième puissance économique du monde. Antoine Léaument est allé à la rencontre des élèves de trois lycées de sa circonscription — Léonard de Vinci à Saint-Michel-sur-Orge, Einstein à Sainte-Geneviève-des-Bois, Paul Langevin à Sainte-Geneviève-des-Bois — et ils lui ont parlé de rats dans la cantine, de canalisations qui puent, de tables et chaises manquantes, de professeurs non remplacés, d'infirmières scolaires absentes, de salles surchauffées l'été et glaciales l'hiver. Il relie ces conditions à une inégalité structurelle : les enfants des quartiers populaires ont une moins bonne école maternelle, un moins bon primaire, un moins bon collège et un moins bon lycée. Parcoursup vient ensuite aggraver cette injustice en triant socialement et géographiquement des jeunes qui ont pourtant tout donné. Les revendications — plus de moyens, abrogation de Parcoursup, arrêt des BTS et prépas payants — sont légitimes et pourraient être satisfaites si on allait chercher l'argent là où il est : chez les milliardaires qui ont vu leur fortune passer de 600 à 1 200 milliards d'euros sous Macron.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
 
-Face à cette colère légitime, la réponse du gouvernement a été la matraque. Antoine Léaument condamne fermement la répression : un jeune éborgné à Tours, une grenade lacrymogène jetée en plein visage, des voitures de police diffusant des gaz au milieu d'une foule de lycéens, des gardes à vue en masse pour décourager la mobilisation. Il condamne avec la même fermeté les violences physiques commises contre la policière filmée au sol. Il distingue clairement violences physiques et dégradations matérielles, et refuse tout amalgame entre les lycéens mobilisés et les individus extérieurs qui viennent dégrader les établissements. Il raconte avoir lui-même éteint un départ d'incendie à Saint-Michel-sur-Orge, juste après avoir dit au micro que ça ne servirait à rien — bingo, ce qu'il avait prédit s'est produit. Il salue en revanche l'usage des symboles républicains — drapeaux tricolores, Marseillaise — comme stratégie de désescalade efficace, et annonce que les policiers au comportement antirépublicain seront sanctionnés à l'arrivée de la France insoumise au pouvoir.
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>Np12sKLLYro</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Np12sKLLYro/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Macron est le responsable de la crise des lycées !</title>
+      <link>https://www.youtube.com/watch?v=ND_l_N4B_Aw</link>
+      <guid>https://www.youtube.com/watch?v=ND_l_N4B_Aw</guid>
+      <pubDate>2026-10-02T07:29:44+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>RMC le 02 octobre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>ND_l_N4B_Aw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ND_l_N4B_Aw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴 Mobilisations lycéennes : Manuel Bompard, invité de LCI !</title>
+      <link>https://www.youtube.com/watch?v=f6TnGcw7xXU</link>
+      <guid>https://www.youtube.com/watch?v=f6TnGcw7xXU</guid>
+      <pubDate>2026-10-02T07:18:41+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur LCI du vendredi 2 octobre 2026.
+----------
 
-Sur le budget, Antoine Léaument dresse un tableau accablant. Le projet de loi de finances prévoit le gel des APL et de la prime d'activité, le gel du point d'indice des fonctionnaires, 7 milliards de restrictions sur les collectivités territoriales, la fiscalisation des indemnités journalières pour affections de longue durée — et dans le même temps, 2 milliards de cadeaux aux multinationales. Le projet de loi de financement de la Sécurité sociale prévoit le gel partiel ou total des pensions de retraite à partir de 1 260 € par mois, touchant les deux tiers des retraités, la suppression de l'allocation de rentrée scolaire pour 1,3 million d'enfants, le gel des allocations familiales, et 6,6 milliards de coupes dans les hôpitaux et EHPAD. Il annonce le dépôt d'une motion de censure si le gouvernement utilise le 49.3, et appelle à rejoindre la mobilisation nationale du 6 octobre et celle du 17 octobre.
+📲 Abonnez-vous à mes réseaux sociaux !
 
----
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>f6TnGcw7xXU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/f6TnGcw7xXU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>💥 Mobilisations lycéennes : je rétablis la vérité face aux macronistes et au RN.</title>
+      <link>https://www.youtube.com/watch?v=grSYcLIyKh0</link>
+      <guid>https://www.youtube.com/watch?v=grSYcLIyKh0</guid>
+      <pubDate>2026-10-01T21:22:08+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon débat face à Prisca Thevenot et Jean-Philippe Tanguy du jeudi 1er octobre sur LCI.
+----------
 
-Chapitres :
+📲 Abonnez-vous à mes réseaux sociaux !
 
-00:00 Introduction : mobilisations lycéennes et budget
-00:57 Les revendications des lycéens : rats, tables manquantes, professeurs absents
-04:41 Tri social, Parcoursup et inégalités dans l'éducation
-08:13 La fortune des milliardaires doublée sous Macron : où est l'argent ?
-08:58 Répression policière : LBD, grenades, gardes à vue
-12:42 Condamnation de toutes les violences physiques
-13:31 Drapeaux tricolores et Marseillaise comme outils de désescalade
-16:26 Les insoumis ciblés comme bouc émissaire médiatique
-18:07 Les pyromanes extérieurs qui abîment le mouvement
-20:49 Appel à la mobilisation du 6 et du 17 octobre
-21:32 Le budget : coupes dans les retraites, les familles et la santé
-26:00 Motion de censure et appel à l'unité populaire
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>grSYcLIyKh0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/grSYcLIyKh0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>⚠️ 💊 Les industriels empoisonnent des femmes !</title>
+      <link>https://www.youtube.com/watch?v=0xLvw8iaObA</link>
+      <guid>https://www.youtube.com/watch?v=0xLvw8iaObA</guid>
+      <pubDate>2026-09-25T16:10:00+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Les industriels peuvent tuer ou torturer des femmes en leur posant des implants ou des bandelettes sous-urétrales dangereuses, dans l'impunité totale. 
+Ca s'appelle le patriarcat ! Nous accueillions à l'Assemblée nationale les collectifs de victimes comme "balance ta bandelette" ou "association diva", des chercheurs et des autorités sanitaires pour exiger des mesures drastiques et qu'on écoute enfin la parole des femmes</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>0xLvw8iaObA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0xLvw8iaObA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Comment j'ai piégé les médias des milliardaires !</title>
+      <link>https://www.youtube.com/watch?v=_-lX1XD_tNE</link>
+      <guid>https://www.youtube.com/watch?v=_-lX1XD_tNE</guid>
+      <pubDate>2026-09-25T15:24:14+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Il y a quelques semaines, j'ai bouleversé tout le système médiatique avec une simple phrase.
 
-***SUIVEZ-MOI SUR***
-- Twitch : https://twitch.tv/ALeaument
-- Tiktok : https://www.tiktok.com/@aleaument
-- Facebook : https://www.facebook.com/ALeaument/
-- Twitter : https://twitter.com/ALeaument
-- Discord : https://discord.gg/w83JavD
-- Instagram : https://www.instagram.com/aleaument/
-- Snapchat : @ALeaument
-- Youtube (pour vous abonner) : http://bit.ly/2gbk7cm
-- Whatsapp : https://whatsapp.com/channel/0029VaCUZ4U2Jl8JGtMZfK1J
-- Linkedin : https://www.linkedin.com/in/aleaument/</description>
-      <channelTitle>Antoine Léaument</channelTitle>
-      <videoId>qx1aVP9k1kA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qx1aVP9k1kA/maxresdefault.jpg" type="image/jpeg" />
+« Les milliardaires sont des nuisibles. »
+
+Ça ne m'aura pris qu'une seconde, mais ça aura occupé les antennes pendant des semaines.
+
+Je vous révèle les ressorts de la polémique de la rentrée sur les milliardaires : comment j'ai pris les médias à leur propre jeu et pourquoi il faut, plus que jamais, mettre le sujet de l'extrême richesse au cœur des débats en 2027 !</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>_-lX1XD_tNE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_-lX1XD_tNE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Prix de l'essence : Macron préfère Total aux Français !</title>
+      <link>https://www.youtube.com/watch?v=4qNxokHD8dw</link>
+      <guid>https://www.youtube.com/watch?v=4qNxokHD8dw</guid>
+      <pubDate>2026-09-24T06:53:41+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>France info TV le 24 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>4qNxokHD8dw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4qNxokHD8dw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>J’apaise monsieur Falcon, conseiller logement de Marine Le Pen, sur l’USH.</title>
+      <link>https://www.youtube.com/watch?v=3mDvex4pAYY</link>
+      <guid>https://www.youtube.com/watch?v=3mDvex4pAYY</guid>
+      <pubDate>2026-09-23T10:36:50+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>J’apaise monsieur Falcon, conseiller logement de Marine Le Pen. 
+
+À la France insoumise, nous travaillons avec l’USH et nous sommes présents à leur congrès cette semaine … contrairement au Rassemblement national qui brille par son absence … 🤡</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>3mDvex4pAYY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/3mDvex4pAYY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Urgent : il faut bloquer les prix de l'essence !</title>
+      <link>https://www.youtube.com/watch?v=l4nsniyvdIo</link>
+      <guid>https://www.youtube.com/watch?v=l4nsniyvdIo</guid>
+      <pubDate>2026-09-22T07:43:41+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Sud Radio le 22 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>l4nsniyvdIo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/l4nsniyvdIo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Manon Aubry face à Sam Zirah</title>
+      <link>https://www.youtube.com/watch?v=SqT5e2GRgPA</link>
+      <guid>https://www.youtube.com/watch?v=SqT5e2GRgPA</guid>
+      <pubDate>2026-09-20T08:00:03+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Milliardaires, l'extrême droite en Europe et campagne présidentielle ! 
+
+Retrouvez mon entretien face à Sam Zirah</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>SqT5e2GRgPA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SqT5e2GRgPA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Présentation du livre - Election sous influence</title>
+      <link>https://www.youtube.com/watch?v=WeAnXh4nn8o</link>
+      <guid>https://www.youtube.com/watch?v=WeAnXh4nn8o</guid>
+      <pubDate>2026-09-17T11:24:21+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Le 10 septembre, nous avons présenté Élection sous influence, le livre de François Piquemal, préfacé par Jean-Luc Mélenchon. 
+
+L’ouvrage revient sur les ingérences étrangères survenues durant la campagne des élections municipales à Toulouse. 
+
+Ce dernier expose les éléments recueillis concernant les liens entre certaines officines et la municipalité actuelle, ainsi que les rapports réalisés par des servies de l'Etat venant attestés de cela.</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>WeAnXh4nn8o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WeAnXh4nn8o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Manon Aubry face à Ursula von der Leyen</title>
+      <link>https://www.youtube.com/watch?v=nwc4Hd8pO8o</link>
+      <guid>https://www.youtube.com/watch?v=nwc4Hd8pO8o</guid>
+      <pubDate>2026-09-16T14:38:34+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>"Nous privilégierons les milliards d'êtres humains aux milliards d'euros de quelques humains."
+
+J'ai répondu à Ursula von der Leyen, la Présidente de la Commission européenne, complètement déconnectée de la réalité.
+
+Le 16 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>nwc4Hd8pO8o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nwc4Hd8pO8o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Face cam' #7 : Baisser le salaire brut ? c'est pas net !</title>
+      <link>https://www.youtube.com/watch?v=a2Jml8XxSEs</link>
+      <guid>https://www.youtube.com/watch?v=a2Jml8XxSEs</guid>
+      <pubDate>2026-09-13T15:00:11+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Dans cet épisode on revient ensemble sur la dernière rentrée scolaire en macronie, sur la dernière escroquerie programmatique du bloc bourgeois, et sur la grève des pompiers !</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>a2Jml8XxSEs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/a2Jml8XxSEs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Vite le blocage des prix de l'essence ! (Manon Aubry sur LCI)</title>
+      <link>https://www.youtube.com/watch?v=FfFznhpL-rc</link>
+      <guid>https://www.youtube.com/watch?v=FfFznhpL-rc</guid>
+      <pubDate>2026-09-11T10:21:02+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Vite le blocage des prix de l'essence ! Manon Aubry sur LCI face à Darius Rochebin, Laure Lavalette et Jean-Charles Orsucci.</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>FfFznhpL-rc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/FfFznhpL-rc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Les insoumis seront toujours antiracistes !</title>
+      <link>https://www.youtube.com/watch?v=UQATO71KxBQ</link>
+      <guid>https://www.youtube.com/watch?v=UQATO71KxBQ</guid>
+      <pubDate>2026-09-07T16:39:23+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Retrouvez mon passage de ce lundi 7 septembre sur le plateau de BFM TV.</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>UQATO71KxBQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UQATO71KxBQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Face à l'extrême droite, nous serons la seule alternative !</title>
+      <link>https://www.youtube.com/watch?v=_3xMe0dUCYs</link>
+      <guid>https://www.youtube.com/watch?v=_3xMe0dUCYs</guid>
+      <pubDate>2026-09-07T08:14:15+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>BFM TV le 07 septembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>_3xMe0dUCYs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_3xMe0dUCYs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Amendes sur le port du voile : le RN sous son vrai visage, raciste et islamophobe</title>
+      <link>https://www.youtube.com/watch?v=Jfez2LARhhc</link>
+      <guid>https://www.youtube.com/watch?v=Jfez2LARhhc</guid>
+      <pubDate>2026-09-01T07:57:33+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>Jfez2LARhhc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Jfez2LARhhc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La répression protège la complicité</title>
+      <link>https://www.youtube.com/watch?v=8fPpBri8TOg</link>
+      <guid>https://www.youtube.com/watch?v=8fPpBri8TOg</guid>
+      <pubDate>2026-06-20T16:10:05+00:00</pubDate>
+      <author>Rima Hassan</author>
+      <description />
+      <channelTitle>Rima Hassan</channelTitle>
+      <videoId>8fPpBri8TOg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8fPpBri8TOg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Merci le PS.</title>
+      <link>https://www.youtube.com/watch?v=pBq9oMNg7Js</link>
+      <guid>https://www.youtube.com/watch?v=pBq9oMNg7Js</guid>
+      <pubDate>2026-06-18T16:41:27+00:00</pubDate>
+      <author>Rima Hassan</author>
+      <description />
+      <channelTitle>Rima Hassan</channelTitle>
+      <videoId>pBq9oMNg7Js</videoId>
+      <enclosure url="https://i.ytimg.com/vi/pBq9oMNg7Js/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
