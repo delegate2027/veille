@@ -4,378 +4,214 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 11 Oct 2026 06:01:14 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:15:38 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
-      <title>Manon Aubry en débat face à la droite sur LCI</title>
-      <link>https://www.youtube.com/watch?v=wEXdxcxdqp8</link>
-      <guid>https://www.youtube.com/watch?v=wEXdxcxdqp8</guid>
-      <pubDate>2026-10-10T08:00:20+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>LCI le 09 octobre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>wEXdxcxdqp8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/wEXdxcxdqp8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mobilisation lycéennes : même vous au Figaro, vous auriez aimé manifester à Bastille !</title>
-      <link>https://www.youtube.com/watch?v=qYnBmoKKL8E</link>
-      <guid>https://www.youtube.com/watch?v=qYnBmoKKL8E</guid>
-      <pubDate>2026-10-09T17:06:02+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description />
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>qYnBmoKKL8E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qYnBmoKKL8E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Titres restaurant : soutenons nos TPE, pas les monopoles capitalistes !</title>
-      <link>https://www.youtube.com/watch?v=Un3FaBCJwKo</link>
-      <guid>https://www.youtube.com/watch?v=Un3FaBCJwKo</guid>
-      <pubDate>2026-10-07T16:34:36+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description />
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>Un3FaBCJwKo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Un3FaBCJwKo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Mobilisations lycéennes et étudiantes : Manuel Bompard, invité de TF1 !</title>
-      <link>https://www.youtube.com/watch?v=BEHr4j5P2sU</link>
-      <guid>https://www.youtube.com/watch?v=BEHr4j5P2sU</guid>
-      <pubDate>2026-10-07T13:32:57+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur TF1 dans Bonjour la matinale du mercredi 7 octobre 2026.
-----------
+      <title>"Pas d'usage de LBD ou de grenades de désencerlement dans des manif de lycéens!" Boris Vallaud (RMC)</title>
+      <link>https://www.youtube.com/watch?v=CUibMVDSYNU</link>
+      <guid>https://www.youtube.com/watch?v=CUibMVDSYNU</guid>
+      <pubDate>2026-10-06T14:10:17+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité d'Apolline de Malherbe ce mardi 6 octobre 2026 sur RMC pour évoquer la mobilisation lycéenne et sociale, et la question des violences et des blessés. 
+_____________________________________
 
-📲 Abonnez-vous à mes réseaux sociaux !
+Suivez-moi sur les réseaux sociaux
 
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>BEHr4j5P2sU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BEHr4j5P2sU/maxresdefault.jpg" type="image/jpeg" />
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>CUibMVDSYNU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/CUibMVDSYNU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>🔴 Mobilisations lycéennes et étudiantes : Manuel Bompard, invité de C à vous !</title>
-      <link>https://www.youtube.com/watch?v=nF0A8Ap4ARQ</link>
-      <guid>https://www.youtube.com/watch?v=nF0A8Ap4ARQ</guid>
-      <pubDate>2026-10-06T19:04:42+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur France 5 dans C à vous du mardi 6 octobre 2026.
-----------
+      <title>"On ne gère pas l'Education nationale depuis le Ministère de l'Intérieur!" Boris Vallaud sur France2</title>
+      <link>https://www.youtube.com/watch?v=m-6aybqRfbg</link>
+      <guid>https://www.youtube.com/watch?v=m-6aybqRfbg</guid>
+      <pubDate>2026-10-02T14:05:42+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité ce vendredi 2 octobre 2026 de Francis Letellier sur France 2 pour l'interview matinale politique "Les 4 Vérités".
+_____________________________________
 
-📲 Abonnez-vous à mes réseaux sociaux !
+Suivez-moi sur les réseaux sociaux
 
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>nF0A8Ap4ARQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nF0A8Ap4ARQ/maxresdefault.jpg" type="image/jpeg" />
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>m-6aybqRfbg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/m-6aybqRfbg/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Soutien au mouvement lycéen ! Stop aux violences policières !</title>
-      <link>https://www.youtube.com/watch?v=Ni6e-6ZewpU</link>
-      <guid>https://www.youtube.com/watch?v=Ni6e-6ZewpU</guid>
-      <pubDate>2026-10-06T16:00:00+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Retrouvez mon passage sur LCI du Vendredi 2 octobre !</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>Ni6e-6ZewpU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ni6e-6ZewpU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Je fais tomber les masques : le F.N. n'a pas changé !</title>
-      <link>https://www.youtube.com/watch?v=8I2JEj_BT9w</link>
-      <guid>https://www.youtube.com/watch?v=8I2JEj_BT9w</guid>
-      <pubDate>2026-10-05T10:04:09+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Retrouvez mon passage à l'émission du 29 septembre de Darius Rochebin</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>8I2JEj_BT9w</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8I2JEj_BT9w/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les revendications des lycéen•nes doivent être entendues !</title>
-      <link>https://www.youtube.com/watch?v=94MRYkutP0I</link>
-      <guid>https://www.youtube.com/watch?v=94MRYkutP0I</guid>
-      <pubDate>2026-10-05T08:44:52+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description />
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>94MRYkutP0I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/94MRYkutP0I/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manuel Bompard face à Édouard Geffray sur France 2</title>
-      <link>https://www.youtube.com/watch?v=Np12sKLLYro</link>
-      <guid>https://www.youtube.com/watch?v=Np12sKLLYro</guid>
-      <pubDate>2026-10-04T12:34:53+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur France 2 face à Édouard Geffray du dimanche 4 octobre 2026.
+      <title>"J'en ai marre que les PME paient les impôts des multinationales !" Boris Vallaud sur BFM TV</title>
+      <link>https://www.youtube.com/watch?v=JeD1RUSzIuw</link>
+      <guid>https://www.youtube.com/watch?v=JeD1RUSzIuw</guid>
+      <pubDate>2026-09-25T09:10:55+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de Sonia Mabrouk sur BFM TV ce mercredi 23 septembre 2026. 
 
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
+_____________________________________
 
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>Np12sKLLYro</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Np12sKLLYro/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Macron est le responsable de la crise des lycées !</title>
-      <link>https://www.youtube.com/watch?v=ND_l_N4B_Aw</link>
-      <guid>https://www.youtube.com/watch?v=ND_l_N4B_Aw</guid>
-      <pubDate>2026-10-02T07:29:44+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>RMC le 02 octobre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>ND_l_N4B_Aw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ND_l_N4B_Aw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Mobilisations lycéennes : Manuel Bompard, invité de LCI !</title>
-      <link>https://www.youtube.com/watch?v=f6TnGcw7xXU</link>
-      <guid>https://www.youtube.com/watch?v=f6TnGcw7xXU</guid>
-      <pubDate>2026-10-02T07:18:41+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur LCI du vendredi 2 octobre 2026.
-----------
+Suivez-moi sur les réseaux sociaux
 
-📲 Abonnez-vous à mes réseaux sociaux !
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>JeD1RUSzIuw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/JeD1RUSzIuw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Ma place est aux côtés de celui à gauche qui peut gagner la présidentielle : Raphaël Glucksmann"</title>
+      <link>https://www.youtube.com/watch?v=WbbJDJbAwhY</link>
+      <guid>https://www.youtube.com/watch?v=WbbJDJbAwhY</guid>
+      <pubDate>2026-09-22T09:29:36+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de la matinale de Public Sénat, en partenariat avec le groupe EBRA de la presse régionale, ce mardi 22 septembre 2026.
 
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>f6TnGcw7xXU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/f6TnGcw7xXU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>💥 Mobilisations lycéennes : je rétablis la vérité face aux macronistes et au RN.</title>
-      <link>https://www.youtube.com/watch?v=grSYcLIyKh0</link>
-      <guid>https://www.youtube.com/watch?v=grSYcLIyKh0</guid>
-      <pubDate>2026-10-01T21:22:08+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon débat face à Prisca Thevenot et Jean-Philippe Tanguy du jeudi 1er octobre sur LCI.
-----------
+_____________________________________
 
-📲 Abonnez-vous à mes réseaux sociaux !
+Suivez-moi sur les réseaux sociaux
 
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>grSYcLIyKh0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/grSYcLIyKh0/maxresdefault.jpg" type="image/jpeg" />
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>WbbJDJbAwhY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WbbJDJbAwhY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>⚠️ 💊 Les industriels empoisonnent des femmes !</title>
-      <link>https://www.youtube.com/watch?v=0xLvw8iaObA</link>
-      <guid>https://www.youtube.com/watch?v=0xLvw8iaObA</guid>
-      <pubDate>2026-09-25T16:10:00+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Les industriels peuvent tuer ou torturer des femmes en leur posant des implants ou des bandelettes sous-urétrales dangereuses, dans l'impunité totale. 
-Ca s'appelle le patriarcat ! Nous accueillions à l'Assemblée nationale les collectifs de victimes comme "balance ta bandelette" ou "association diva", des chercheurs et des autorités sanitaires pour exiger des mesures drastiques et qu'on écoute enfin la parole des femmes</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>0xLvw8iaObA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0xLvw8iaObA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Comment j'ai piégé les médias des milliardaires !</title>
-      <link>https://www.youtube.com/watch?v=_-lX1XD_tNE</link>
-      <guid>https://www.youtube.com/watch?v=_-lX1XD_tNE</guid>
-      <pubDate>2026-09-25T15:24:14+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Il y a quelques semaines, j'ai bouleversé tout le système médiatique avec une simple phrase.
+      <title>"Marine Le Pen a les mains sales et la tête basse" - Boris Vallaud invité de TF1</title>
+      <link>https://www.youtube.com/watch?v=gx1ULVfKxwM</link>
+      <guid>https://www.youtube.com/watch?v=gx1ULVfKxwM</guid>
+      <pubDate>2026-07-08T14:41:10+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de la matinale de TF1 ce 8 juillet 2026.
+_____________________________________
 
-« Les milliardaires sont des nuisibles. »
+Suivez-moi sur les réseaux sociaux
 
-Ça ne m'aura pris qu'une seconde, mais ça aura occupé les antennes pendant des semaines.
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>gx1ULVfKxwM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gx1ULVfKxwM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Quelle politique énergétique pour la France ? - Boris Vallaud aux Entretiens de Terra Nova</title>
+      <link>https://www.youtube.com/watch?v=2WULcrdr_xg</link>
+      <guid>https://www.youtube.com/watch?v=2WULcrdr_xg</guid>
+      <pubDate>2026-07-06T12:28:29+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud présentait la ligne des députés socialistes sur la politique énergétique de la France lors des Entretiens de Terra Nova 2026.
 
-Je vous révèle les ressorts de la polémique de la rentrée sur les milliardaires : comment j'ai pris les médias à leur propre jeu et pourquoi il faut, plus que jamais, mettre le sujet de l'extrême richesse au cœur des débats en 2027 !</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>_-lX1XD_tNE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_-lX1XD_tNE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Prix de l'essence : Macron préfère Total aux Français !</title>
-      <link>https://www.youtube.com/watch?v=4qNxokHD8dw</link>
-      <guid>https://www.youtube.com/watch?v=4qNxokHD8dw</guid>
-      <pubDate>2026-09-24T06:53:41+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>France info TV le 24 septembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>4qNxokHD8dw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4qNxokHD8dw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>J’apaise monsieur Falcon, conseiller logement de Marine Le Pen, sur l’USH.</title>
-      <link>https://www.youtube.com/watch?v=3mDvex4pAYY</link>
-      <guid>https://www.youtube.com/watch?v=3mDvex4pAYY</guid>
-      <pubDate>2026-09-23T10:36:50+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description>J’apaise monsieur Falcon, conseiller logement de Marine Le Pen. 
+_____________________________________
 
-À la France insoumise, nous travaillons avec l’USH et nous sommes présents à leur congrès cette semaine … contrairement au Rassemblement national qui brille par son absence … 🤡</description>
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>3mDvex4pAYY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/3mDvex4pAYY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Urgent : il faut bloquer les prix de l'essence !</title>
-      <link>https://www.youtube.com/watch?v=l4nsniyvdIo</link>
-      <guid>https://www.youtube.com/watch?v=l4nsniyvdIo</guid>
-      <pubDate>2026-09-22T07:43:41+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Sud Radio le 22 septembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>l4nsniyvdIo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/l4nsniyvdIo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manon Aubry face à Sam Zirah</title>
-      <link>https://www.youtube.com/watch?v=SqT5e2GRgPA</link>
-      <guid>https://www.youtube.com/watch?v=SqT5e2GRgPA</guid>
-      <pubDate>2026-09-20T08:00:03+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Milliardaires, l'extrême droite en Europe et campagne présidentielle ! 
+Suivez-moi sur les réseaux sociaux
 
-Retrouvez mon entretien face à Sam Zirah</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>SqT5e2GRgPA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SqT5e2GRgPA/maxresdefault.jpg" type="image/jpeg" />
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>2WULcrdr_xg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2WULcrdr_xg/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Présentation du livre - Election sous influence</title>
-      <link>https://www.youtube.com/watch?v=WeAnXh4nn8o</link>
-      <guid>https://www.youtube.com/watch?v=WeAnXh4nn8o</guid>
-      <pubDate>2026-09-17T11:24:21+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description>Le 10 septembre, nous avons présenté Élection sous influence, le livre de François Piquemal, préfacé par Jean-Luc Mélenchon. 
+      <title>"L’économie est elle violente ?" - Controverse aux Rencontres économiques d'Aix</title>
+      <link>https://www.youtube.com/watch?v=6ZLx56gvSJ4</link>
+      <guid>https://www.youtube.com/watch?v=6ZLx56gvSJ4</guid>
+      <pubDate>2026-07-05T17:56:38+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud débattait face à Alain Di Crescenzo aux Rencontres économiques d'Aix-en-Provence 2026 sur la violence de l'économie et la démarchandisation qu'il propose. 
 
-L’ouvrage revient sur les ingérences étrangères survenues durant la campagne des élections municipales à Toulouse. 
+_____________________________________
 
-Ce dernier expose les éléments recueillis concernant les liens entre certaines officines et la municipalité actuelle, ainsi que les rapports réalisés par des servies de l'Etat venant attestés de cela.</description>
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>WeAnXh4nn8o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/WeAnXh4nn8o/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manon Aubry face à Ursula von der Leyen</title>
-      <link>https://www.youtube.com/watch?v=nwc4Hd8pO8o</link>
-      <guid>https://www.youtube.com/watch?v=nwc4Hd8pO8o</guid>
-      <pubDate>2026-09-16T14:38:34+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>"Nous privilégierons les milliards d'êtres humains aux milliards d'euros de quelques humains."
+Suivez-moi sur les réseaux sociaux
 
-J'ai répondu à Ursula von der Leyen, la Présidente de la Commission européenne, complètement déconnectée de la réalité.
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>6ZLx56gvSJ4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/6ZLx56gvSJ4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Le modèle landais est le miroir inversé du scandale Orpea !" Boris Vallaud à ICI Gascogne</title>
+      <link>https://www.youtube.com/watch?v=hctOfPcrVAI</link>
+      <guid>https://www.youtube.com/watch?v=hctOfPcrVAI</guid>
+      <pubDate>2026-06-05T09:31:50+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de la matinale d'ICI Gascogne ce vendredi 5 juin 2026.
+_____________________________________
 
-Le 16 septembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>nwc4Hd8pO8o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nwc4Hd8pO8o/maxresdefault.jpg" type="image/jpeg" />
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>hctOfPcrVAI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hctOfPcrVAI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Face cam' #7 : Baisser le salaire brut ? c'est pas net !</title>
-      <link>https://www.youtube.com/watch?v=a2Jml8XxSEs</link>
-      <guid>https://www.youtube.com/watch?v=a2Jml8XxSEs</guid>
-      <pubDate>2026-09-13T15:00:11+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Dans cet épisode on revient ensemble sur la dernière rentrée scolaire en macronie, sur la dernière escroquerie programmatique du bloc bourgeois, et sur la grève des pompiers !</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>a2Jml8XxSEs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/a2Jml8XxSEs/maxresdefault.jpg" type="image/jpeg" />
+      <title>"Je propose une rencontre de la nouvelle gauche plurielle !" Boris Vallaud sur France Inter</title>
+      <link>https://www.youtube.com/watch?v=g49hvcBkIBw</link>
+      <guid>https://www.youtube.com/watch?v=g49hvcBkIBw</guid>
+      <pubDate>2026-05-11T09:15:11+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de Benjamin Duhamel au 7h50 de France Inter quelques jours après avoir quitté la direction du Parti socialiste.
+
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>g49hvcBkIBw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/g49hvcBkIBw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Vite le blocage des prix de l'essence ! (Manon Aubry sur LCI)</title>
-      <link>https://www.youtube.com/watch?v=FfFznhpL-rc</link>
-      <guid>https://www.youtube.com/watch?v=FfFznhpL-rc</guid>
-      <pubDate>2026-09-11T10:21:02+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Vite le blocage des prix de l'essence ! Manon Aubry sur LCI face à Darius Rochebin, Laure Lavalette et Jean-Charles Orsucci.</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>FfFznhpL-rc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/FfFznhpL-rc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les insoumis seront toujours antiracistes !</title>
-      <link>https://www.youtube.com/watch?v=UQATO71KxBQ</link>
-      <guid>https://www.youtube.com/watch?v=UQATO71KxBQ</guid>
-      <pubDate>2026-09-07T16:39:23+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Retrouvez mon passage de ce lundi 7 septembre sur le plateau de BFM TV.</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>UQATO71KxBQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/UQATO71KxBQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face à l'extrême droite, nous serons la seule alternative !</title>
-      <link>https://www.youtube.com/watch?v=_3xMe0dUCYs</link>
-      <guid>https://www.youtube.com/watch?v=_3xMe0dUCYs</guid>
-      <pubDate>2026-09-07T08:14:15+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>BFM TV le 07 septembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>_3xMe0dUCYs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_3xMe0dUCYs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Amendes sur le port du voile : le RN sous son vrai visage, raciste et islamophobe</title>
-      <link>https://www.youtube.com/watch?v=Jfez2LARhhc</link>
-      <guid>https://www.youtube.com/watch?v=Jfez2LARhhc</guid>
-      <pubDate>2026-09-01T07:57:33+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description />
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>Jfez2LARhhc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Jfez2LARhhc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La répression protège la complicité</title>
-      <link>https://www.youtube.com/watch?v=8fPpBri8TOg</link>
-      <guid>https://www.youtube.com/watch?v=8fPpBri8TOg</guid>
-      <pubDate>2026-06-20T16:10:05+00:00</pubDate>
-      <author>Rima Hassan</author>
-      <description />
-      <channelTitle>Rima Hassan</channelTitle>
-      <videoId>8fPpBri8TOg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8fPpBri8TOg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Merci le PS.</title>
-      <link>https://www.youtube.com/watch?v=pBq9oMNg7Js</link>
-      <guid>https://www.youtube.com/watch?v=pBq9oMNg7Js</guid>
-      <pubDate>2026-06-18T16:41:27+00:00</pubDate>
-      <author>Rima Hassan</author>
-      <description />
-      <channelTitle>Rima Hassan</channelTitle>
-      <videoId>pBq9oMNg7Js</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pBq9oMNg7Js/maxresdefault.jpg" type="image/jpeg" />
+      <title>Boris Vallaud face à François Lenglet : le débat sur LCI !</title>
+      <link>https://www.youtube.com/watch?v=fRUNnNyttOc</link>
+      <guid>https://www.youtube.com/watch?v=fRUNnNyttOc</guid>
+      <pubDate>2026-05-07T13:33:06+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Le débat entre Boris Vallaud et l'économiste libéral François Lenglet au sujet de la démarchandisation sur LCI, dans l'émission de Darius Rochebin.
+
+"Nos vies ne sont pas des marchandises. Manifeste pour la démarchandisation" (Editions du Seuil)
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>fRUNnNyttOc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/fRUNnNyttOc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
