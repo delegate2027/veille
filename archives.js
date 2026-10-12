@@ -246,9 +246,9 @@ function loadArchive() {
   });
 }
 
-/* Charge l'archive seulement si necessaire : le fichier pese ~207 Ko et
-   grossit jusqu'au plafond de 2000 entrees. Le rechargement est declenche par
-   un signal, jamais par une horloge : sans changement, aucune requete de plus. */
+/* Charge l'archive seulement si necessaire : le fichier grossit jusqu'au
+   plafond de 10000 entrees. Le rechargement est declenche par un signal,
+   jamais par une horloge : sans changement, aucune requete de plus. */
 function ensureArchiveLoaded(force) {
   if (!archiveLoaded || force) loadArchive();
 }
