@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 12 Oct 2026 12:30:59 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:45:39 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>ROUTE NATIONALE AVEC GABRIEL ATTAL</title>
@@ -54,6 +54,7 @@ Retrouvez moi sur mes réseaux sociaux :
       <pubDate>2026-10-12T09:59:21+00:00</pubDate>
       <author>Bruno Retailleau</author>
       <description>Suivez la conférence de presse de Bruno Retailleau en direct.
+
 Lundi 12 octobre 2026</description>
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>W9KyeHyiQjU</videoId>
@@ -672,19 +673,6 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <enclosure url="https://i.ytimg.com/vi/RkEepByKOeM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>LAURE LAVALETTE : « Il faut un choc d'autorité à l'école ! »(FRANCE 2)</title>
-      <link>https://www.youtube.com/watch?v=qUdvK1fkNRc</link>
-      <guid>https://www.youtube.com/watch?v=qUdvK1fkNRc</guid>
-      <pubDate>2026-10-09T09:28:05+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>qUdvK1fkNRc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qUdvK1fkNRc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Les réponses politiques de François Ruffin sur les lycées !</title>
       <link>https://www.youtube.com/watch?v=3Qccdxn8Oho</link>
       <guid>https://www.youtube.com/watch?v=3Qccdxn8Oho</guid>
@@ -930,6 +918,33 @@ https://twitter.com/partiudr
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>rIBipTIusmo</videoId>
       <enclosure url="https://i.ytimg.com/vi/rIBipTIusmo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Collèges publics et privés à Paris : système à deux vitesse !</title>
+      <link>https://www.youtube.com/watch?v=kLePbgL5CWk</link>
+      <guid>https://www.youtube.com/watch?v=kLePbgL5CWk</guid>
+      <pubDate>2026-10-08T10:18:27+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>"Nous avons à Paris un système scolaire à deux vitesses. "
+
+Sophia Chikirou est intervenue en Conseil de Paris pour dénoncer l'opacité des financements parisiens entre les collèges publics et les collèges privés.
+
+En 2024, 37,6 % des collégiens parisiens étaient scolarisés dans le privé. Quand le collège public accueille 24 % d'élèves issus des milieux défavorisés, dans le privé c'est 3 %.
+
+Le groupe du Nouveau Paris Populaire propose deux ruptures :
+- Passer de l’accompagnement du privé à la priorité absolue au public : la Ville doit cesser toute aide facultative. L'argent public doit servir l'école publique.
+- La baisse démographique ne doit plus justifier des fermetures ou des réductions de capacité. Elle doit au contraire permettre de réduire le nombre d'élèves par classe afin d'améliorer l’éducation.
+
+______
+Pour suivre mes prochaines interventions : 
+Twitter : https://x.com/chikirouparis
+Instagram :   / sophia.chikirou  
+Facebook :   / sophiachikirouparis  
+TikTok :   / sophiachikirou  
+Telegram : @sophiachikirouParis</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>kLePbgL5CWk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/kLePbgL5CWk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
