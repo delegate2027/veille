@@ -144,17 +144,25 @@ def get_meetings_entries():
         return []
 
 
-def add_xml_item(channel, entry):
-    """Ecrit une entree dans le flux XML (titre, lien, meta, vignette)."""
+def add_xml_item(channel, entry, compact=False):
+    """Ecrit une entree dans le flux XML (titre, lien, meta, vignette).
+
+    En mode compact (archives), les champs redondants sont omis : guid (egal au
+    lien) et channelTitle (egal a l'auteur). La description reste ecrite."""
     item = ET.SubElement(channel, "item")
 
     ET.SubElement(item, "title").text = entry.get("title", "")
     ET.SubElement(item, "link").text = entry.get("link", "")
-    ET.SubElement(item, "guid").text = entry.get("link", "")
+
+    if not compact:
+        ET.SubElement(item, "guid").text = entry.get("link", "")
+
     ET.SubElement(item, "pubDate").text = entry.get("published", "")
     ET.SubElement(item, "author").text = entry.get("author", "")
     ET.SubElement(item, "description").text = entry.get("summary", "")
-    ET.SubElement(item, "channelTitle").text = entry.get("author", "")
+
+    if not compact:
+        ET.SubElement(item, "channelTitle").text = entry.get("author", "")
 
     video_id = entry.get("yt_videoid") or entry.get("video_id")
 
@@ -169,7 +177,7 @@ def add_xml_item(channel, entry):
         thumbnail.set("type", "image/jpeg")
 
 
-def build_xml(entries, title="YouTube Aggregated Feed", description="Flux RSS agrégé YouTube"):
+def build_xml(entries, title="YouTube Aggregated Feed", description="Flux RSS agrégé YouTube", compact=False):
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
 
@@ -180,7 +188,7 @@ def build_xml(entries, title="YouTube Aggregated Feed", description="Flux RSS ag
     ET.SubElement(channel, "feedCount").text = str(len(RSS_FEEDS))
 
     for entry in entries:
-        add_xml_item(channel, entry)
+        add_xml_item(channel, entry, compact)
 
     return ET.ElementTree(rss)
 
@@ -247,8 +255,8 @@ def update_archive(entries):
         ordered,
         title="Veille médiatique politique — archives",
         description="Archive historique de toutes les entrées déjà vues",
+        compact=True,
     )
-    ET.indent(tree, space="  ")
     tree.write(
         ARCHIVE_FILE,
         encoding="utf-8",
