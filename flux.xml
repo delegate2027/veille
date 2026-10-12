@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 12 Oct 2026 10:15:40 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:31:05 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🟠 RÉPRESSION DES LYCÉENS, LOI INTÉGRALE, UKRAINE - Clémentine Autain sur France Info</title>
+      <link>https://www.youtube.com/watch?v=HQC2RRaCWqQ</link>
+      <guid>https://www.youtube.com/watch?v=HQC2RRaCWqQ</guid>
+      <pubDate>2026-10-12T10:20:47+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>Clémentine Autain sur Franceinfo, dimanche 11 octobre 2026. 
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>HQC2RRaCWqQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/HQC2RRaCWqQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Rétablir l'ordre dans les comptes publics.</title>
       <link>https://www.youtube.com/watch?v=W9KyeHyiQjU</link>
@@ -916,17 +937,6 @@ Telegram : @sophiachikirouParis</description>
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>kLePbgL5CWk</videoId>
       <enclosure url="https://i.ytimg.com/vi/kLePbgL5CWk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Débat sur Public sénat suite au mouvement lycéens !</title>
-      <link>https://www.youtube.com/watch?v=RChCjj3kCrA</link>
-      <guid>https://www.youtube.com/watch?v=RChCjj3kCrA</guid>
-      <pubDate>2026-10-08T07:44:56+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>RChCjj3kCrA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/RChCjj3kCrA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
