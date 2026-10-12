@@ -4,7 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 12 Oct 2026 00:45:41 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 01:01:03 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>La répression protège la complicité</title>
+      <link>https://www.youtube.com/watch?v=8fPpBri8TOg</link>
+      <guid>https://www.youtube.com/watch?v=8fPpBri8TOg</guid>
+      <pubDate>2026-06-20T16:10:05+00:00</pubDate>
+      <author>Rima Hassan</author>
+      <description />
+      <channelTitle>Rima Hassan</channelTitle>
+      <videoId>8fPpBri8TOg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8fPpBri8TOg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Merci le PS.</title>
+      <link>https://www.youtube.com/watch?v=pBq9oMNg7Js</link>
+      <guid>https://www.youtube.com/watch?v=pBq9oMNg7Js</guid>
+      <pubDate>2026-06-18T16:41:27+00:00</pubDate>
+      <author>Rima Hassan</author>
+      <description />
+      <channelTitle>Rima Hassan</channelTitle>
+      <videoId>pBq9oMNg7Js</videoId>
+      <enclosure url="https://i.ytimg.com/vi/pBq9oMNg7Js/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
