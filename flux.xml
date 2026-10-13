@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 13 Oct 2026 12:46:01 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:01:14 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🎙La proposition de loi dite intégrale prévoit un parcours de soins qui exclut 80% des victimes.</title>
+      <link>https://www.youtube.com/watch?v=IMaNY2rJHwA</link>
+      <guid>https://www.youtube.com/watch?v=IMaNY2rJHwA</guid>
+      <pubDate>2026-10-13T12:48:49+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>🎙La proposition de loi dite intégrale prévoit un parcours de soins qui exclut 80% des victimes.
+
+Les soins spécialisés en psychotraumatisme ne seront pas remboursés pour les personnes victimes à l’âge adulte et celles qui ont subi des violences se*uelles pendant l’enfance. Ils seront seulement remboursés pour les enfants qui révèlent ces violences avant leur majorité.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>IMaNY2rJHwA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/IMaNY2rJHwA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Colombie : l’extrême droite veut enterrer la justice de paix</title>
       <link>https://www.youtube.com/watch?v=IPwwTaJFxHU</link>
@@ -1005,17 +1018,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>jtp1HB-rXMw</videoId>
       <enclosure url="https://i.ytimg.com/vi/jtp1HB-rXMw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Histoire de France : Corbière a-to-mi-se le RN !</title>
-      <link>https://www.youtube.com/watch?v=Z0hGw43TzsQ</link>
-      <guid>https://www.youtube.com/watch?v=Z0hGw43TzsQ</guid>
-      <pubDate>2026-10-08T16:48:38+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description />
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>Z0hGw43TzsQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Z0hGw43TzsQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
