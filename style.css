@@ -322,3 +322,51 @@ a {
 .author.lr { color: var(--lr-color); }
 .author.ed { color: var(--ed-color); }
 .author.pcf { color: var(--pcf-color); }
+
+/* Vue Archives : un resultat tient sur une seule ligne. Le nom de la source
+   et la date ne se coupent pas ; le titre se tronque par des points de
+   suspension pour rester lisible sans jamais passer a la ligne. La
+   description n'est pas affichee dans cette vue. */
+.archives-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 8px;
+  padding: 7px 16px;
+  white-space: nowrap;
+}
+
+.archives-item .author,
+.archives-item .date {
+  flex-shrink: 0;
+}
+
+.archives-item .archive-title {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.archives-item .archive-title:hover {
+  text-decoration: underline;
+}
+
+/* Le titre cliquable reprend la teinte de sa source, comme le nom. */
+.archives-item.meeting .archive-title { color: var(--meeting-color); }
+.archives-item.lfi .archive-title { color: var(--lfi-color); }
+.archives-item.eelv .archive-title { color: var(--eelv-color); }
+.archives-item.ps .archive-title { color: var(--ps-color); }
+.archives-item.centre .archive-title { color: var(--centre-color); }
+.archives-item.lr .archive-title { color: var(--lr-color); }
+.archives-item.ed .archive-title { color: var(--ed-color); }
+.archives-item.pcf .archive-title { color: var(--pcf-color); }
+
+/* Le lecteur video reste pleine largeur, sous la ligne. */
+.archives-item .youtube-player {
+  flex-basis: 100%;
+  width: 100%;
+  margin: 10px 0 0 0;
+}

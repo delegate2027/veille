@@ -157,26 +157,35 @@ function sourceClass(author) {
   return "meeting";
 }
 
-function buildItemElement(item) {
+/* compact (vue Archives) : une seule ligne, sans description, le titre
+   portant la teinte de sa source. Sinon rendu complet du flux. */
+function buildItemElement(item, compact) {
   var title = removeExcessiveRepeats(removeEmojis(item.title));
   var link = item.link || "#";
   var author = trimString(item.author || "Auteur");
   var description = removeExcessiveRepeats(removeEmojis(replaceUrlsWithPlaceholder(item.description || "")));
   var displayAuthor = capitalizeWords(author);
   var videoId = extractVideoId(link);
+  var cls = sourceClass(author);
   var div = document.createElement("div");
   var html;
 
-  div.className = "item item-left " + sourceClass(author);
+  div.className = "item item-left " + cls + (compact ? " archives-item" : "");
   div.setAttribute("data-author", author);
   div.setAttribute("data-pubdate", item.pubDate || "");
 
-  html = '<div class="top">' +
-           '<span class="author ' + sourceClass(author) + '">' + escapeHtml(displayAuthor) + '</span>' +
+  if (compact) {
+    html = '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +
            '<span class="date">' + escapeHtml(formatDate(item.pubDate)) + '</span>' +
-         '</div>' +
-         '<div class="title"><a href="' + escapeHtml(link) + '" class="video-link">' + escapeHtml(title) + '</a></div>' +
-         '<div class="desc">' + escapeHtml(description.replace(/[\r\n]+/g, " ")) + '</div>';
+           '<a href="' + escapeHtml(link) + '" class="video-link archive-title">' + escapeHtml(title) + '</a>';
+  } else {
+    html = '<div class="top">' +
+             '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +
+             '<span class="date">' + escapeHtml(formatDate(item.pubDate)) + '</span>' +
+           '</div>' +
+           '<div class="title"><a href="' + escapeHtml(link) + '" class="video-link">' + escapeHtml(title) + '</a></div>' +
+           '<div class="desc">' + escapeHtml(description.replace(/[\r\n]+/g, " ")) + '</div>';
+  }
 
   div.innerHTML = html;
 

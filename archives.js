@@ -192,10 +192,10 @@ function renderArchive() {
     return;
   }
 
-  /* buildItemElement : rendu identique a celui du flux (pastille de source,
-     titre nettoye, description, lecture video au clic). */
+  /* buildItemElement(..., true) : rendu compact des archives, une ligne par
+     entree, sans description, titre teinte comme sa source, lecture video au clic. */
   for (i = 0; i < visible.length; i++) {
-    container.appendChild(buildItemElement(visible[i]));
+    container.appendChild(buildItemElement(visible[i], true));
   }
 
   updateArchiveCount(visible.length);
