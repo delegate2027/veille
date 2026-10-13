@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 13 Oct 2026 17:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:01:12 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>« Le catastrophisme du gouvernement pour imposer l’austérité » - Discours sur la dette</title>
+      <link>https://www.youtube.com/watch?v=TEoTM3oigX8</link>
+      <guid>https://www.youtube.com/watch?v=TEoTM3oigX8</guid>
+      <pubDate>2026-10-13T17:58:09+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez le discours d’Éric Coquerel à l’occasion d’un débat sur la dette, lors de l’ouverture de l’examen du budget en séance publique, à l’Assemblée nationale, le mardi 13 octobre 2026.
+
+🔴🗣 Depuis 10 ans, les défenseurs de la politique de l’offre ont tellement affirmé tout et son contraire sur la dette qu’aujourd’hui, lorsqu’ils prétendent crier au loup, on se demande qui il faut croire.
+
+Le catastrophisme budgétaire sert à faire accepter l’austérité. Derrière le déficit, des choix politiques : des cadeaux fiscaux aux plus riches et aux grandes entreprises, et des coupes budgétaires qui freinent la croissance.
+
+Il faut changer la politique qui nous a menés là et sortir notre dette du monopole des marchés financiers.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>TEoTM3oigX8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/TEoTM3oigX8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jordan Bardella à Madrid : « La France doit retrouver sa stabilité économique ! »</title>
       <link>https://www.youtube.com/watch?v=RV_qFNCSM0k</link>
@@ -977,27 +994,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>3Qccdxn8Oho</videoId>
       <enclosure url="https://i.ytimg.com/vi/3Qccdxn8Oho/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📺 Nuñez démission, au revoir à jamais Macron !</title>
-      <link>https://www.youtube.com/watch?v=MpMQyBQH16I</link>
-      <guid>https://www.youtube.com/watch?v=MpMQyBQH16I</guid>
-      <pubDate>2026-10-09T08:48:00+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce jeudi 8 octobre 2026 sur LCI
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/deputee_obono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@deputee_obono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>MpMQyBQH16I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MpMQyBQH16I/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
