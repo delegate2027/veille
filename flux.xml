@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 13 Oct 2026 08:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:01:04 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>JULIEN ODOUL est face à ANTOINE LÉAUMENT sur LCI !</title>
@@ -247,19 +247,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>LvSjTY3tcoA</videoId>
       <enclosure url="https://i.ytimg.com/vi/LvSjTY3tcoA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ALEKSANDAR NIKOLIC : « Jean-Luc Mélenchon n'a pas eu un mot pour nos policiers blessés ! » (CNEWS)</title>
-      <link>https://www.youtube.com/watch?v=DW24SodEtm8</link>
-      <guid>https://www.youtube.com/watch?v=DW24SodEtm8</guid>
-      <pubDate>2026-10-12T08:20:41+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>DW24SodEtm8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DW24SodEtm8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>🎙️Où est l’argent pour financer l’extension de l’aide juridictionnelle ?</title>
@@ -973,6 +960,24 @@ Retrouvez mon intervention lors de la conférence de presse de présentation de 
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>5w1VHuerZ4A</videoId>
       <enclosure url="https://i.ytimg.com/vi/5w1VHuerZ4A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"C'est la jeunesse du monde qui se mobilise" - Bally Bagayoko</title>
+      <link>https://www.youtube.com/watch?v=6ZKqmRe2rVU</link>
+      <guid>https://www.youtube.com/watch?v=6ZKqmRe2rVU</guid>
+      <pubDate>2026-10-08T15:50:58+00:00</pubDate>
+      <author>Bally BAGAYOKO</author>
+      <description>Interview BFMTV du jeudi 8 octobre 2026, place de la Bastille. 
+
+Instagram : https://www.instagram.com/ballybagayoko/
+Facebook : https://www.facebook.com/bagayokobally/
+Tiktok : https://www.tiktok.com/@ballybagayoko  
+X : https://x.com/BallyBagayoko
+
+www.ballybagayoko.com</description>
+      <channelTitle>Bally BAGAYOKO</channelTitle>
+      <videoId>6ZKqmRe2rVU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/6ZKqmRe2rVU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
