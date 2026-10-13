@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 13 Oct 2026 08:15:40 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:31:09 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>JULIEN ODOUL est face à ANTOINE LÉAUMENT sur LCI !</title>
@@ -260,19 +260,6 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>DW24SodEtm8</videoId>
       <enclosure url="https://i.ytimg.com/vi/DW24SodEtm8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURENT JACOBELLI est l'invité de FRANCE INFO !</title>
-      <link>https://www.youtube.com/watch?v=QDYgypaQkUM</link>
-      <guid>https://www.youtube.com/watch?v=QDYgypaQkUM</guid>
-      <pubDate>2026-10-12T08:03:42+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>QDYgypaQkUM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QDYgypaQkUM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>🎙️Où est l’argent pour financer l’extension de l’aide juridictionnelle ?</title>
@@ -971,6 +958,21 @@ Retrouvez l'émission En Campagne dans son intégralité : https://youtu.be/Mx2S
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>rvDyFTmbt3g</videoId>
       <enclosure url="https://i.ytimg.com/vi/rvDyFTmbt3g/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🎮 JEUX VIDÉO : DÉFENDRE LES DROITS DES JOUEURS !</title>
+      <link>https://www.youtube.com/watch?v=5w1VHuerZ4A</link>
+      <guid>https://www.youtube.com/watch?v=5w1VHuerZ4A</guid>
+      <pubDate>2026-10-08T15:54:34+00:00</pubDate>
+      <author>Ugo Bernalicis</author>
+      <description>Je présente aujourd’hui la proposition de loi dont je suis rapporteur, consacrée aux droits des joueuses et des joueurs de jeux vidéo.
+
+Pour nous, le jeu vidéo est d’abord un bien culturel, avant d’être un produit industriel et commercial. Cela implique de protéger celles et ceux qui jouent, mais aussi de garantir que les œuvres puissent être conservées, transmises et rester accessibles.
+
+Retrouvez mon intervention lors de la conférence de presse de présentation de la niche parlementaire de La France insoumise, « Jusqu'à minuit pour changer la vie ».</description>
+      <channelTitle>Ugo Bernalicis</channelTitle>
+      <videoId>5w1VHuerZ4A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5w1VHuerZ4A/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
