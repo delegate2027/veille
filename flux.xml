@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 13 Oct 2026 11:01:11 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:15:40 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Protection de l'enfance : la conférence de presse de Marine Le Pen</title>
+      <link>https://www.youtube.com/watch?v=-zrL5bBd2Lg</link>
+      <guid>https://www.youtube.com/watch?v=-zrL5bBd2Lg</guid>
+      <pubDate>2026-10-13T11:15:11+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Il y a des causes qui devraient nous réunir. La protection de l'enfance en fait partie.
+
+Les enfants concernés par la protection de l'enfance sont au nombre de 400 000, soit l'équivalent de la ville de Nice. Ce chiffre a augmenté de moitié en vingt ans.
+
+On parle ici non pas de statistiques, mais de nos enfants. L'État n'a pas le droit d'être un parent défaillant.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>-zrL5bBd2Lg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-zrL5bBd2Lg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Europe, automobile, IA : Édouard Philippe au sommet de POLITICO</title>
       <link>https://www.youtube.com/watch?v=sxOOLOqnefU</link>
@@ -987,21 +1002,6 @@ Retrouvez l'émission En Campagne dans son intégralité : https://youtu.be/Mx2S
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>rvDyFTmbt3g</videoId>
       <enclosure url="https://i.ytimg.com/vi/rvDyFTmbt3g/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🎮 JEUX VIDÉO : DÉFENDRE LES DROITS DES JOUEURS !</title>
-      <link>https://www.youtube.com/watch?v=5w1VHuerZ4A</link>
-      <guid>https://www.youtube.com/watch?v=5w1VHuerZ4A</guid>
-      <pubDate>2026-10-08T15:54:34+00:00</pubDate>
-      <author>Ugo Bernalicis</author>
-      <description>Je présente aujourd’hui la proposition de loi dont je suis rapporteur, consacrée aux droits des joueuses et des joueurs de jeux vidéo.
-
-Pour nous, le jeu vidéo est d’abord un bien culturel, avant d’être un produit industriel et commercial. Cela implique de protéger celles et ceux qui jouent, mais aussi de garantir que les œuvres puissent être conservées, transmises et rester accessibles.
-
-Retrouvez mon intervention lors de la conférence de presse de présentation de la niche parlementaire de La France insoumise, « Jusqu'à minuit pour changer la vie ».</description>
-      <channelTitle>Ugo Bernalicis</channelTitle>
-      <videoId>5w1VHuerZ4A</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5w1VHuerZ4A/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
