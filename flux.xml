@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 13 Oct 2026 18:30:55 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:45:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>AlloBally 7</title>
+      <link>https://www.youtube.com/watch?v=vRaL8Keq1gY</link>
+      <guid>https://www.youtube.com/watch?v=vRaL8Keq1gY</guid>
+      <pubDate>2026-10-13T18:31:16+00:00</pubDate>
+      <author>Bally BAGAYOKO</author>
+      <description>Posez-moi vos questions en direct !</description>
+      <channelTitle>Bally BAGAYOKO</channelTitle>
+      <videoId>vRaL8Keq1gY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vRaL8Keq1gY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>« Le catastrophisme du gouvernement pour imposer l’austérité » - Discours sur la dette</title>
       <link>https://www.youtube.com/watch?v=TEoTM3oigX8</link>
@@ -981,19 +992,6 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <channelTitle>NPA - L’Anticapitaliste</channelTitle>
       <videoId>BmlMsjyUVik</videoId>
       <enclosure url="https://i.ytimg.com/vi/BmlMsjyUVik/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les réponses politiques de François Ruffin sur les lycées !</title>
-      <link>https://www.youtube.com/watch?v=3Qccdxn8Oho</link>
-      <guid>https://www.youtube.com/watch?v=3Qccdxn8Oho</guid>
-      <pubDate>2026-10-09T09:07:50+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>➡️ Soutenez François Ruffin : nouspresident.fr
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>3Qccdxn8Oho</videoId>
-      <enclosure url="https://i.ytimg.com/vi/3Qccdxn8Oho/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
