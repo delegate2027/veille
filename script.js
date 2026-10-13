@@ -127,16 +127,14 @@ function getTagText(parent, tagName) {
 }
 
 function getItemsFromXml(xml) {
-  var nodes = xml.getElementsByTagName("item"), result = [], i, node;
+  var nodes = xml.getElementsByTagName("item"), result = [], i;
   for (i = 0; i < nodes.length; i++) {
-    node = nodes[i];
     result.push({
-      node: node,
-      title: getTagText(node, "title"),
-      link: getTagText(node, "link"),
-      author: getTagText(node, "author"),
-      description: getTagText(node, "description"),
-      pubDate: getTagText(node, "pubDate")
+      title: getTagText(nodes[i], "title"),
+      link: getTagText(nodes[i], "link"),
+      author: getTagText(nodes[i], "author"),
+      description: getTagText(nodes[i], "description"),
+      pubDate: getTagText(nodes[i], "pubDate")
     });
   }
   result.sort(compareByDateDesc);
@@ -185,21 +183,20 @@ function buildItemElement(item, compact) {
   var div = document.createElement("div");
   var html;
 
-  div.className = "item item-left " + cls + (compact ? " archives-item" : "");
-  div.setAttribute("data-author", author);
+  div.className = "item " + cls + (compact ? " archives-item" : "");
   div.setAttribute("data-pubdate", item.pubDate || "");
   div.setAttribute("data-link", link);
 
   if (compact) {
     html = '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +
-           '<a href="' + escapeHtml(link) + '" class="video-link archive-title">' + escapeHtml(title) + '</a>' +
+           '<a href="' + escapeHtml(link) + '" class="archive-title">' + escapeHtml(title) + '</a>' +
            '<span class="date">' + escapeHtml(formatDateShort(item.pubDate)) + '</span>';
   } else {
     html = '<div class="top">' +
              '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +
              '<span class="date">' + escapeHtml(formatDate(item.pubDate)) + '</span>' +
            '</div>' +
-           '<div class="title"><a href="' + escapeHtml(link) + '" class="video-link">' + escapeHtml(title) + '</a></div>' +
+           '<div class="title"><a href="' + escapeHtml(link) + '">' + escapeHtml(title) + '</a></div>' +
            '<div class="desc">' + escapeHtml(description.replace(/[\r\n]+/g, " ")) + '</div>';
   }
 
@@ -208,8 +205,6 @@ function buildItemElement(item, compact) {
   var videoLink = div.getElementsByTagName("a")[0];
 
   if (videoId) {
-    div.setAttribute("data-video-id", videoId);
-    div.setAttribute("data-title", title);
     videoLink.onclick = function() {
       var existing = findChildByClass(div, "youtube-player");
       var players = document.getElementsByTagName("div");
