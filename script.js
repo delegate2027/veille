@@ -188,6 +188,7 @@ function buildItemElement(item, compact) {
   div.className = "item item-left " + cls + (compact ? " archives-item" : "");
   div.setAttribute("data-author", author);
   div.setAttribute("data-pubdate", item.pubDate || "");
+  div.setAttribute("data-link", link);
 
   if (compact) {
     html = '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +

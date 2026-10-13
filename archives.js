@@ -189,32 +189,47 @@ function archiveVisibleKey(visible) {
   return parts.join("\n");
 }
 
-/* Identifiant de la video en cours de lecture dans la liste, s'il y en a une. */
-function getOpenVideoId(container) {
-  var players = container.getElementsByTagName("div");
-  var i, item;
+/* Indexe les items deja presents dans la liste par leur lien. */
+function indexArchiveItems(container) {
+  var nodes = container.childNodes;
+  var map = {};
+  var i, node;
 
-  for (i = 0; i < players.length; i++) {
-    if (hasClass(players[i], "youtube-player")) {
-      item = players[i].parentNode;
-      if (item && item.getAttribute) return item.getAttribute("data-video-id");
+  for (i = 0; i < nodes.length; i++) {
+    node = nodes[i];
+    if (node.nodeType === 1 && hasClass(node, "archives-item")) {
+      map[node.getAttribute("data-link") || ""] = node;
     }
   }
 
-  return null;
+  return map;
+}
+
+/* Retire les noeuds qui ne font pas partie des resultats courants (items
+   disparus, message d'erreur, invite de chargement). */
+function pruneArchiveItems(container, keep) {
+  var nodes = container.childNodes;
+  var i, node;
+
+  for (i = nodes.length - 1; i >= 0; i--) {
+    node = nodes[i];
+    if (node.nodeType !== 1) continue;
+    if (hasClass(node, "archives-item") && keep[node.getAttribute("data-link") || ""]) continue;
+    container.removeChild(node);
+  }
 }
 
 var archiveRenderedKey = null;
 
-/* keepPlayer est vrai au rafraichissement en fond (loadArchive) : la video
-   eventuellement ouverte est conservee et, sans changement visible des
-   resultats, la liste n'est pas reconstruite du tout. */
-function renderArchive(keepPlayer) {
+/* Rendu par reconciliation : les items deja affiches sont conserves et
+   repositionnes via la propriete CSS order, les nouveaux sont ajoutes et les
+   disparus retires. Le noeud qui porte un lecteur video n'est donc jamais
+   deplace ni recree : la lecture en cours n'est jamais interrompue. */
+function renderArchive() {
   var container = document.getElementById("archive");
   var input = document.getElementById("archiveFilter");
   var needle = lower(trimString(input ? input.value : ""));
-  var openVideoId = keepPlayer ? getOpenVideoId(container) : null;
-  var visible, key, element;
+  var existing, visible, keep, key, item, element;
   var i;
 
   if (!needle) {
@@ -227,15 +242,12 @@ function renderArchive(keepPlayer) {
   visible = getVisibleArchiveItems(needle);
   key = archiveVisibleKey(visible);
 
-  /* Rafraichissement en fond sans changement visible : on laisse la liste
-     (et la video ouverte) intacte, plutot que de tout reconstruire. */
-  if (keepPlayer && key === archiveRenderedKey) {
+  /* Rafraichissement sans changement visible : rien a reconstruire. */
+  if (key === archiveRenderedKey) {
     updateArchiveCount(visible.length);
     return;
   }
-
   archiveRenderedKey = key;
-  container.innerHTML = "";
 
   if (!visible.length) {
     container.innerHTML = '<div class="error">Aucune entrée ne correspond à cette recherche.</div>';
@@ -243,17 +255,24 @@ function renderArchive(keepPlayer) {
     return;
   }
 
+  existing = indexArchiveItems(container);
+  keep = {};
+
   /* buildItemElement(..., true) : rendu compact des archives, une ligne par
      entree, sans description, titre teinte comme sa source, lecture video au clic.
-     La video precedemment ouverte est reinstallee si elle est encore listee. */
+     Un item deja affiche est reutilise tel quel (order le repositionne). */
   for (i = 0; i < visible.length; i++) {
-    element = buildItemElement(visible[i], true);
-    container.appendChild(element);
-    if (openVideoId && element.getAttribute("data-video-id") === openVideoId) {
-      element.appendChild(createPlayer(openVideoId, element.getAttribute("data-title") || ""));
+    item = visible[i];
+    keep[item.link] = true;
+    element = existing[item.link];
+    if (!element) {
+      element = buildItemElement(item, true);
+      container.appendChild(element);
     }
+    element.style.order = i;
   }
 
+  pruneArchiveItems(container, keep);
   updateArchiveCount(visible.length);
 }
 
@@ -279,9 +298,12 @@ function loadArchive() {
   fetchXML("archives.xml", null, function(err, xml, notModified) {
     /* En cas d'erreur, archiveLoaded reste false : un nouveau passage
        sur l'onglet relancera le chargement au lieu de figer l'archive
-       jusqu'au prochain changement de flux. */
+       jusqu'au prochain changement de flux. Une liste deja affichee (et
+       une lecture en cours) n'est pas effacee pour autant. */
     if (err) {
-      container.innerHTML = '<div class="error">Impossible de charger les archives (' + escapeHtml(err.message) + ').</div>';
+      if (!archiveLoaded) {
+        container.innerHTML = '<div class="error">Impossible de charger les archives (' + escapeHtml(err.message) + ').</div>';
+      }
       return;
     }
 
@@ -290,7 +312,7 @@ function loadArchive() {
     if (notModified) {
       archiveLoaded = true;
       archiveFeedRevision = feedRevision;
-      renderArchive(true);
+      renderArchive();
       return;
     }
 
@@ -298,7 +320,7 @@ function loadArchive() {
     archiveLoaded = true;
     archiveFeedRevision = feedRevision;
     updateArchiveCount();
-    renderArchive(true);
+    renderArchive();
   });
 }
 
