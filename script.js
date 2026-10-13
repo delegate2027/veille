@@ -69,18 +69,20 @@ function capitalizeWords(str) {
   return result.join(" ");
 }
 
-/* Format unique pour le flux, les archives et la date de mise a jour :
-   l'annee est necessaire car les archives couvrent plusieurs mois. */
+/* Format unique pour le flux et la date de mise a jour : l'annee sur deux
+   chiffres suffit, comme dans les archives. 13/10/2026 14:48 devient
+   13/10/26 14:48. */
 function formatDate(dateText) {
   var d = new Date(dateText), day, month, year, hour, minute;
   if (isNaN(d.getTime())) return "";
   day = d.getDate();
   month = d.getMonth() + 1;
-  year = d.getFullYear();
+  year = d.getFullYear() % 100;
   hour = d.getHours();
   minute = d.getMinutes();
   return (day < 10 ? "0" : "") + day + "/" +
-         (month < 10 ? "0" : "") + month + "/" + year + " " +
+         (month < 10 ? "0" : "") + month + "/" +
+         (year < 10 ? "0" : "") + year + " " +
          (hour < 10 ? "0" : "") + hour + ":" +
          (minute < 10 ? "0" : "") + minute;
 }
