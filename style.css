@@ -208,12 +208,25 @@ a {
   height: 1px;
 }
 
-/* Bascule Flux / Archives */
+/* Bascule Flux / Archives : les onglets a gauche, la date de mise a jour
+   a droite, sur la meme ligne. */
+.view-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 0 0 8px 0;
+}
 
 .view-nav {
   display: flex;
   gap: 4px;
-  margin: 0 0 8px 0;
+  margin: 0;
+}
+
+/* Dans la barre, l'etat n'a plus a gerer sa propre marge basse. */
+.view-bar .status {
+  margin: 0;
 }
 
 .view-tab {
