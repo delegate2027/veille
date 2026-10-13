@@ -243,21 +243,6 @@ function findChildByClass(parent, cls) {
   return null;
 }
 
-/* Onglet Flux seul : developpe le player du premier item affiche, sans lecture
-   automatique (l'embed sans parametre autoplay reste en pause). */
-function openFirstItemPlayer() {
-  var feed = document.getElementById("feed");
-  var items = getItemElements(feed);
-  var first, videoId;
-
-  if (!items.length) return;
-  first = items[0];
-  videoId = first.getAttribute("data-video-id");
-  if (!videoId || findChildByClass(first, "youtube-player")) return;
-
-  first.appendChild(createPlayer(videoId, first.getAttribute("data-title") || ""));
-}
-
 function createPlayer(videoId, title) {
   var wrap = document.createElement("div");
   var iframe = document.createElement("iframe");
@@ -452,7 +437,6 @@ function loadRSS() {
     feed = document.getElementById("feed");
     feed.innerHTML = "";
     renderFeedItems(data.items, appendItem);
-    openFirstItemPlayer();
   }, null);
 }
 
