@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 13 Oct 2026 13:31:02 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:45:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 Mobilisations lycéennes, budget, présidentielle : Manuel Bompard, invité de Sud Radio !</title>
+      <link>https://www.youtube.com/watch?v=RDklkkjtUqA</link>
+      <guid>https://www.youtube.com/watch?v=RDklkkjtUqA</guid>
+      <pubDate>2026-10-13T13:43:59+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur Sud Radio du mardi 13 octobre 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>RDklkkjtUqA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/RDklkkjtUqA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🎙La proposition de loi dite intégrale prévoit un parcours de soins qui exclut 80% des victimes.</title>
       <link>https://www.youtube.com/watch?v=IMaNY2rJHwA</link>
@@ -999,25 +1020,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>K7gtoTSzNUA</videoId>
       <enclosure url="https://i.ytimg.com/vi/K7gtoTSzNUA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🇫🇷 « Le Grand Entretien » avec Darius Rochebin : suivez en direct mon émission sur LCI !</title>
-      <link>https://www.youtube.com/watch?v=jtp1HB-rXMw</link>
-      <guid>https://www.youtube.com/watch?v=jtp1HB-rXMw</guid>
-      <pubDate>2026-10-08T20:21:44+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>jtp1HB-rXMw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/jtp1HB-rXMw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
