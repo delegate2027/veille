@@ -274,8 +274,10 @@ function initArchiveFilter() {
   if (!input) return;
 
   /* Le mois en cours est pre-rempli : l'onglet s'ouvre sur les entrees du
-     mois courant, sans saisie. Respecte une valeur deja presente. */
-  if (!trimString(input.value)) {
+     mois courant, sans saisie. Respecte une valeur deja presente.
+     Pas de trimString ici : archives.js s'execute avant script.js, dont
+     les helpers ne sont pas encore definis a ce moment. */
+  if (!input.value) {
     input.value = MOIS_NOMS[new Date().getMonth()];
   }
 
