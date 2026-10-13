@@ -50,6 +50,14 @@ var MOIS_FR = {
   juillet: 7, aout: 8, septembre: 9, octobre: 10, novembre: 11, decembre: 12
 };
 
+/* Noms affiches des mois, indexes 0-11 (comme Date.getMonth) : servent a
+   pre-remplir la recherche avec le mois en cours. Accents en echappement
+   unicode pour garder ce fichier ASCII. */
+var MOIS_NOMS = [
+  "janvier", "f\u00e9vrier", "mars", "avril", "mai", "juin",
+  "juillet", "ao\u00fbt", "septembre", "octobre", "novembre", "d\u00e9cembre"
+];
+
 /* Les caracteres accentues sont ecrits en echappement unicode pour rester
    dans un fichier ASCII. Seul le resultat importe : taper "melencon" doit
    trouver "Mélenchon", comme l'inverse. */
@@ -264,6 +272,12 @@ function initArchiveFilter() {
   var refresh;
 
   if (!input) return;
+
+  /* Le mois en cours est pre-rempli : l'onglet s'ouvre sur les entrees du
+     mois courant, sans saisie. Respecte une valeur deja presente. */
+  if (!trimString(input.value)) {
+    input.value = MOIS_NOMS[new Date().getMonth()];
+  }
 
   refresh = function() {
     if (!archiveLoaded) return;
