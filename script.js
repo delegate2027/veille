@@ -405,16 +405,18 @@ function trimFeedToLimit() {
 }
 
 /* Rendu commun a loadRSS et pollRSS : filtre les shorts, ignore les liens
-   deja affiches et s'arrete une fois FEED_LIMIT items affiches. insertFn
-   choisit l'ordre d'insertion (appendItem au chargement, insertItemInOrder au
-   rafraichissement) ; les nouvelles entrees poussent alors les plus anciennes
-   hors de la limite, retirees par trimFeedToLimit. */
+   deja affiches. Au chargement initial (appendItem) on s'arrete a FEED_LIMIT
+   pour ne pas construire tout l'historique ; au rafraichissement
+   (insertItemInOrder) les nouvelles entrees sont inserees meme si la limite
+   est atteinte, puis les plus anciennes sont retirees par trimFeedToLimit. */
 function renderFeedItems(items, insertFn) {
   var feed = document.getElementById("feed");
   var shown = getItemElements(feed).length;
+  var adding = insertFn === insertItemInOrder;
   var i, item, link;
 
-  for (i = 0; i < items.length && shown < FEED_LIMIT; i++) {
+  for (i = 0; i < items.length; i++) {
+    if (!adding && shown >= FEED_LIMIT) break;
     item = items[i];
     if (isShort(item.title, item.link, item.description)) continue;
     link = item.link || "#";
