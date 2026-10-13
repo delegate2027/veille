@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 13 Oct 2026 14:01:28 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:15:40 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Ce sont nos usines, nos emplois, nos savoir-faire qui sont en jeu | Romain Daubié</title>
+      <link>https://www.youtube.com/watch?v=_RYtQ_WEONY</link>
+      <guid>https://www.youtube.com/watch?v=_RYtQ_WEONY</guid>
+      <pubDate>2026-10-13T14:04:42+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Dans cette compétition automobile mondiale, ce sont nos usines, nos emplois, nos savoir-faire qui sont en jeu | Romain Daubié
+
+Aux questions au gouvernement de ce mardi 13 octobre, Romain Daubié, député apparenté au groupe Les Démocrates, a interrogé le ministre de l’Économie sur l’industrie automobile Française et européenne, à l’occasion du Mondial de l’automobile.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/romain-daubie-dans-cette-competition-automobile-mondiale-ce-sont-nos-usines-nos
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>_RYtQ_WEONY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_RYtQ_WEONY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Mobilisations lycéennes, budget, présidentielle : Manuel Bompard, invité de Sud Radio !</title>
       <link>https://www.youtube.com/watch?v=RDklkkjtUqA</link>
@@ -1002,24 +1028,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>PhiQlLKZNYI</videoId>
       <enclosure url="https://i.ytimg.com/vi/PhiQlLKZNYI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella sur LCI : « Qui va payer les dizaines de millions d'euros de dégâts des émeutes ? »</title>
-      <link>https://www.youtube.com/watch?v=K7gtoTSzNUA</link>
-      <guid>https://www.youtube.com/watch?v=K7gtoTSzNUA</guid>
-      <pubDate>2026-10-08T20:36:42+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>K7gtoTSzNUA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/K7gtoTSzNUA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
