@@ -84,6 +84,32 @@ a {
   letter-spacing: 0.02em;
 }
 
+/* L'icone d'horloge remplace le libelle "Dernière mise à jour :". Meme teinte
+   discrete que le texte qu'elle precede, collee a la date. */
+.status-update {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.status-icon {
+  display: inline-flex;
+  padding: 0 2px;
+  border-radius: 3px;
+  color: var(--muted);
+}
+
+.status-icon svg {
+  display: block;
+  width: 12px;
+  height: 12px;
+}
+
+/* Meme flash que l'heure : l'icone s'eclaire avec la date quand le flux change. */
+.status-icon.is-updated {
+  animation: veille-time-flash 2.6s ease-out;
+}
+
 /* Heure de mise a jour : discret rappel visuel au moment ou flux.xml change.
    Une teinte, un fond et un halo qui s'estompent, sans deplacement ni
    changement de taille, pour ne pas attirer l'oeil sur le reste de la page. */

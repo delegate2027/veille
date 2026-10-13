@@ -338,6 +338,7 @@ function fetchAndParseRSS(callback, headers) {
 
 function updateStatus(lastModified, animate) {
   var update = document.getElementById("lastUpdate");
+  var icon = document.getElementById("lastUpdateIcon");
   var formatted, timeEl;
 
   if (!lastModified) return;
@@ -346,17 +347,20 @@ function updateStatus(lastModified, animate) {
   formatted = formatDate(lastModified);
 
   /* L'heure (HH:MM) est isolee dans un span pour porter seule l'animation :
-     la date et le libelle restent fixes pendant que l'heure s'eclaire. */
+     la date reste fixe pendant que l'heure s'eclaire, l'icone d'horloge qui
+     remplace le libelle s'eclaire en meme temps. */
   if (formatted.length > 5) {
-    update.innerHTML = "Dernière mise à jour : " +
+    update.innerHTML =
       escapeHtml(formatted.substr(0, formatted.length - 5)) +
       '<span class="status-time">' + escapeHtml(formatted.substr(formatted.length - 5)) + "</span>";
     if (animate) {
       timeEl = update.getElementsByTagName("span")[0];
       pulseElement(timeEl);
+      pulseElement(icon);
     }
   } else {
-    update.innerHTML = "Dernière mise à jour : " + escapeHtml(formatted);
+    update.innerHTML = escapeHtml(formatted);
+    if (animate) pulseElement(icon);
   }
 }
 
