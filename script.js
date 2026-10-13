@@ -530,7 +530,8 @@ function initViewNav() {
     };
   }
 
-  setView(lower(window.location.hash || "") === "#archives" ? "archives" : "feed");
+  /* Archives par defaut a l'arrivee ; "#flux" permet d'ouvrir directement le flux. */
+  setView(lower(window.location.hash || "") === "#flux" ? "feed" : "archives");
 }
 
 initViewNav();
