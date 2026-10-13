@@ -18,7 +18,7 @@ function parseArchive(xml) {
   var nodes = xml.getElementsByTagName("item");
   var result = [];
   var seen = {};
-  var i, node, link;
+  var i, node, link, item;
 
   for (i = 0; i < nodes.length; i++) {
     node = nodes[i];
@@ -28,13 +28,21 @@ function parseArchive(xml) {
     if (!link || seen[link]) continue;
     seen[link] = true;
 
-    result.push({
+    item = {
       title: getTagText(node, "title"),
       link: link,
       author: getTagText(node, "author"),
       description: getTagText(node, "description"),
       pubDate: getTagText(node, "pubDate")
-    });
+    };
+
+    /* Precalcule une fois par entree ce que la recherche reclame : le texte
+       normalise (sans accents) et les composants de date. La frappe ne fait
+       alors plus que comparer, sur les 10000 entrees possibles. */
+    item.searchBase = sansAccent(item.title + " " + item.author + " " + item.link);
+    item.date = parseDateParts(item.pubDate);
+
+    result.push(item);
   }
 
   /* Tri partage avec le flux (compareByDateDesc) : plus recent d'abord. */
@@ -105,72 +113,85 @@ function splitQuery(needle) {
   return tokens;
 }
 
-/* Comparaison d'un terme avec la date d'une entree. Les separateurs saisis
-   n'ont pas d'importance : 2026-10-02, 02/10/2026 et 2.10.2026 sont equivalents.
-   Les dates sont lues en heure locale, comme au rendu (formatDate). */
-function matchesDate(dateText, token) {
+/* Composants annee/mois/jour d'une date, ou null si illisible. Calcule une
+   seule fois par entree, au chargement. Les dates sont lues en heure locale,
+   comme au rendu (formatDate). */
+function parseDateParts(dateText) {
   var d = new Date(dateText);
-  var y, m, jour, num, mois;
 
-  if (isNaN(d.getTime())) return false;
+  if (isNaN(d.getTime())) return null;
 
-  y = d.getFullYear();
-  m = d.getMonth() + 1;
-  jour = d.getDate();
+  return { y: d.getFullYear(), m: d.getMonth() + 1, d: d.getDate() };
+}
+
+/* Comparaison d'un terme avec la date d'une entree. Les separateurs saisis
+   n'ont pas d'importance : 2026-10-02, 02/10/2026 et 2.10.2026 sont equivalents. */
+function matchesDate(parts, token) {
+  var num, mois;
+
+  if (!parts) return false;
+
   num = token.match(/^(\d{4})[-/.](\d{1,2})[-/.](\d{1,2})$/);
 
-  if (num) return +num[1] === y && +num[2] === m && +num[3] === jour;
+  if (num) return +num[1] === parts.y && +num[2] === parts.m && +num[3] === parts.d;
 
   num = token.match(/^(\d{1,2})[-/.](\d{1,2})[-/.](\d{4})$/);
 
-  if (num) return +num[3] === y && +num[2] === m && +num[1] === jour;
+  if (num) return +num[3] === parts.y && +num[2] === parts.m && +num[1] === parts.d;
 
   num = token.match(/^(\d{1,2})[-/.](\d{1,2})$/);
 
-  if (num) return +num[2] === m && +num[1] === jour;
+  if (num) return +num[2] === parts.m && +num[1] === parts.d;
 
-  if (/^\d{4}$/.test(token)) return +token === y;
+  if (/^\d{4}$/.test(token)) return +token === parts.y;
 
   mois = monthIndex(token);
 
-  return mois !== 0 && mois === m;
+  return mois !== 0 && mois === parts.m;
 }
 
 /* La recherche porte sur le titre, l'auteur, le lien et la date, et ignore
    les accents des deux cotes : taper "melenchon" trouve "Mélenchon".
    La description n'est cherche que si la case est cochee : generee par
    les flux, elle est trop bavarde et remontait des entrees sans rapport
-   avec le terme. */
-function matchesFilter(item, needle) {
-  var tokens, haystack, i, texte;
+   avec le terme. Le texte avec description est construit a la demande puis
+   garde sur l'entree (searchDesc), pour ne pas retarder le cas par defaut. */
+function matchesFilter(item, tokens) {
+  var haystack, i, t;
 
-  if (!needle) return true;
+  if (!tokens.length) return true;
 
-  tokens = splitQuery(needle);
-  haystack = sansAccent(item.title + " " + item.author + " " + item.link);
-  if (archiveSearchDesc) haystack += " " + item.description;
+  haystack = archiveSearchDesc
+    ? (item.searchDesc || (item.searchDesc = item.searchBase + " " + sansAccent(item.description)))
+    : item.searchBase;
 
   for (i = 0; i < tokens.length; i++) {
-    if (matchesDate(item.pubDate, tokens[i])) continue;
-    texte = sansAccent(tokens[i]);
-    if (haystack.indexOf(texte) !== -1) continue;
+    t = tokens[i];
+    if (matchesDate(item.date, t.raw)) continue;
+    if (haystack.indexOf(t.norm) !== -1) continue;
     return false;
   }
 
   return true;
 }
 
+/* Les tokens sont prepares une fois pour toute la liste : sans cela, chaque
+   entree retokenise et renormalise la meme saisie. La liste vient de
+   parseArchive, deja triee du plus recent au plus ancien ; l'ordre est donc
+   conserve sans nouveau tri. */
 function getVisibleArchiveItems(needle) {
+  var words = splitQuery(needle);
+  var tokens = [];
   var visible = [];
   var i;
 
-  for (i = 0; i < archiveItems.length; i++) {
-    if (matchesFilter(archiveItems[i], needle)) visible.push(archiveItems[i]);
+  for (i = 0; i < words.length; i++) {
+    tokens.push({ raw: words[i], norm: sansAccent(words[i]) });
   }
 
-  /* L'ordre est regaranti ici : quel que soit l'ordre de stockage des
-     entrees, les resultats restent du plus recent au plus ancien. */
-  visible.sort(compareByDateDesc);
+  for (i = 0; i < archiveItems.length; i++) {
+    if (matchesFilter(archiveItems[i], tokens)) visible.push(archiveItems[i]);
+  }
 
   return visible;
 }
