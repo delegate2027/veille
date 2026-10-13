@@ -4,8 +4,35 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 13 Oct 2026 11:45:37 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:01:08 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Colombie : l’extrême droite veut enterrer la justice de paix</title>
+      <link>https://www.youtube.com/watch?v=IPwwTaJFxHU</link>
+      <guid>https://www.youtube.com/watch?v=IPwwTaJFxHU</guid>
+      <pubDate>2026-10-13T11:48:34+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>Le 12 octobre 2026, l’Assemblée nationale examinait la convention d’extradition entre la France et la Colombie. Sophia Chikirou, députée de Paris, est intervenue au nom du groupe LFI.
+
+Signée sous Gustavo Petro, premier président de gauche de l’histoire de la Colombie, la convention élargit la coopération judiciaire au trafic de stupéfiants, au blanchiment et aux infractions fiscales et environnementales. Elle doit servir à poursuivre aussi les financiers du crime. Surtout, son article 3 protège de l’extradition les personnes auxquelles la Juridiction spéciale pour la paix, le tribunal né de l’accord de paix de 2016, reconnaît cette garantie.
+
+Cette juridiction a établi qu’au moins 6 402 civils avaient été tués par l’armée puis présentés comme des guérilleros morts au combat : les « faux positifs ». Elle juge les crimes de tous les camps, ce que la droite colombienne, d’Álvaro Uribe à Abelardo de la Espriella, n'a jamais accepté.
+
+Depuis le 7 août, De la Espriella, président d’extrême droite soutenu par Donald Trump, veut amputer d’un cinquième le budget de cette juridiction, qu’il promettait de supprimer « d’un trait de plume ». Sophia Chikirou demande à la ministre Éléonore Caroit comment la France garantira l’application de l’article 3 si la juridiction n'est pas respectée. Elle rappelle qu’aucune demande visant un opposant ne doit être exécutée, alors que la France accueille plus de 2 000 réfugiés colombiens.
+
+Elle l’interpelle aussi sur le sort de l’ancien président Gustavo Petro : Air France, dont l’État est le premier actionnaire, a refusé de lui émettre des billets d’avion parce qu’il figure sur la liste de sanctions du Trésor américain, sans aucune inculpation.
+
+______
+Pour suivre mes prochaines interventions : 
+Twitter : https://x.com/chikirouparis
+Instagram :   / sophia.chikirou  
+Facebook :   / sophiachikirouparis  
+TikTok :   / sophiachikirou  
+Telegram : @sophiachikirouParis</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>IPwwTaJFxHU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/IPwwTaJFxHU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Protection de l'enfance : la conférence de presse de Marine Le Pen</title>
       <link>https://www.youtube.com/watch?v=-zrL5bBd2Lg</link>
@@ -989,19 +1016,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>Z0hGw43TzsQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/Z0hGw43TzsQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le dossier du jour : Macron pyromane ! – En campagne #4</title>
-      <link>https://www.youtube.com/watch?v=rvDyFTmbt3g</link>
-      <guid>https://www.youtube.com/watch?v=rvDyFTmbt3g</guid>
-      <pubDate>2026-10-08T16:00:11+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Avec Sébastien Delavoux, Gaspard d'Allens et Béranger Cernon.
-
-Retrouvez l'émission En Campagne dans son intégralité : https://youtu.be/Mx2S9iwsgYs</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>rvDyFTmbt3g</videoId>
-      <enclosure url="https://i.ytimg.com/vi/rvDyFTmbt3g/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
