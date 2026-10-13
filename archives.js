@@ -178,21 +178,64 @@ function getVisibleArchiveItems(needle) {
 /* Aucune liste n'est affichee au repos : seules les entrees correspondant
    a une recherche saisie sont montrees. Sans terme saisi, la zone reste vide,
    l'invite a chercher tenant lieu de message dans le champ lui-meme. */
-function renderArchive() {
+
+/* Empreinte des resultats affiches, pour detecter un rafraichissement sans
+   effet visible. */
+function archiveVisibleKey(visible) {
+  var parts = [];
+  var i;
+
+  for (i = 0; i < visible.length; i++) parts.push(visible[i].link || "");
+  return parts.join("\n");
+}
+
+/* Identifiant de la video en cours de lecture dans la liste, s'il y en a une. */
+function getOpenVideoId(container) {
+  var players = container.getElementsByTagName("div");
+  var i, item;
+
+  for (i = 0; i < players.length; i++) {
+    if (hasClass(players[i], "youtube-player")) {
+      item = players[i].parentNode;
+      if (item && item.getAttribute) return item.getAttribute("data-video-id");
+    }
+  }
+
+  return null;
+}
+
+var archiveRenderedKey = null;
+
+/* keepPlayer est vrai au rafraichissement en fond (loadArchive) : la video
+   eventuellement ouverte est conservee et, sans changement visible des
+   resultats, la liste n'est pas reconstruite du tout. */
+function renderArchive(keepPlayer) {
   var container = document.getElementById("archive");
   var input = document.getElementById("archiveFilter");
   var needle = lower(trimString(input ? input.value : ""));
-  var visible;
+  var openVideoId = keepPlayer ? getOpenVideoId(container) : null;
+  var visible, key, element;
   var i;
 
-  container.innerHTML = "";
-
   if (!needle) {
+    container.innerHTML = "";
+    archiveRenderedKey = null;
     updateArchiveCount();
     return;
   }
 
   visible = getVisibleArchiveItems(needle);
+  key = archiveVisibleKey(visible);
+
+  /* Rafraichissement en fond sans changement visible : on laisse la liste
+     (et la video ouverte) intacte, plutot que de tout reconstruire. */
+  if (keepPlayer && key === archiveRenderedKey) {
+    updateArchiveCount(visible.length);
+    return;
+  }
+
+  archiveRenderedKey = key;
+  container.innerHTML = "";
 
   if (!visible.length) {
     container.innerHTML = '<div class="error">Aucune entrée ne correspond à cette recherche.</div>';
@@ -201,9 +244,14 @@ function renderArchive() {
   }
 
   /* buildItemElement(..., true) : rendu compact des archives, une ligne par
-     entree, sans description, titre teinte comme sa source, lecture video au clic. */
+     entree, sans description, titre teinte comme sa source, lecture video au clic.
+     La video precedemment ouverte est reinstallee si elle est encore listee. */
   for (i = 0; i < visible.length; i++) {
-    container.appendChild(buildItemElement(visible[i], true));
+    element = buildItemElement(visible[i], true);
+    container.appendChild(element);
+    if (openVideoId && element.getAttribute("data-video-id") === openVideoId) {
+      element.appendChild(createPlayer(openVideoId, element.getAttribute("data-title") || ""));
+    }
   }
 
   updateArchiveCount(visible.length);
@@ -242,7 +290,7 @@ function loadArchive() {
     if (notModified) {
       archiveLoaded = true;
       archiveFeedRevision = feedRevision;
-      renderArchive();
+      renderArchive(true);
       return;
     }
 
@@ -250,7 +298,7 @@ function loadArchive() {
     archiveLoaded = true;
     archiveFeedRevision = feedRevision;
     updateArchiveCount();
-    renderArchive();
+    renderArchive(true);
   });
 }
 
