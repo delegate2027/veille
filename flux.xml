@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 13 Oct 2026 09:31:01 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:45:39 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Grande mobilisation populaire de la jeunesse !</title>
+      <link>https://www.youtube.com/watch?v=PemjTaLprK8</link>
+      <guid>https://www.youtube.com/watch?v=PemjTaLprK8</guid>
+      <pubDate>2026-10-13T09:40:18+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>BFM le 13 octobre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>PemjTaLprK8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PemjTaLprK8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JULIEN ODOUL est face à ANTOINE LÉAUMENT sur LCI !</title>
       <link>https://www.youtube.com/watch?v=BIxEziPLzDg</link>
@@ -960,24 +971,6 @@ Retrouvez mon intervention lors de la conférence de presse de présentation de 
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>5w1VHuerZ4A</videoId>
       <enclosure url="https://i.ytimg.com/vi/5w1VHuerZ4A/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"C'est la jeunesse du monde qui se mobilise" - Bally Bagayoko</title>
-      <link>https://www.youtube.com/watch?v=6ZKqmRe2rVU</link>
-      <guid>https://www.youtube.com/watch?v=6ZKqmRe2rVU</guid>
-      <pubDate>2026-10-08T15:50:58+00:00</pubDate>
-      <author>Bally BAGAYOKO</author>
-      <description>Interview BFMTV du jeudi 8 octobre 2026, place de la Bastille. 
-
-Instagram : https://www.instagram.com/ballybagayoko/
-Facebook : https://www.facebook.com/bagayokobally/
-Tiktok : https://www.tiktok.com/@ballybagayoko  
-X : https://x.com/BallyBagayoko
-
-www.ballybagayoko.com</description>
-      <channelTitle>Bally BAGAYOKO</channelTitle>
-      <videoId>6ZKqmRe2rVU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/6ZKqmRe2rVU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
