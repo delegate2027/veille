@@ -3,7 +3,7 @@ var renderedLinks = {};
 var lastModifiedSeen = null;
 var currentView = "feed";
 var POLL_INTERVAL = 60000;
-var FEED_LIMIT = 25;
+var FEED_LIMIT = 20;
 
 /* Incremente uniquement lorsque le flux apporte reellement du nouveau.
    rss.py ecrivant flux.xml et archives.xml dans la meme execution, ce compteur
