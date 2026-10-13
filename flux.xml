@@ -4,8 +4,26 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 13 Oct 2026 15:31:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:45:42 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Jordan Bardella à Madrid : « La France doit retrouver sa stabilité économique ! »</title>
+      <link>https://www.youtube.com/watch?v=RV_qFNCSM0k</link>
+      <guid>https://www.youtube.com/watch?v=RV_qFNCSM0k</guid>
+      <pubDate>2026-10-13T15:39:08+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>RV_qFNCSM0k</videoId>
+      <enclosure url="https://i.ytimg.com/vi/RV_qFNCSM0k/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de presse de Jean-Luc Mélenchon et Éric Coquerel</title>
       <link>https://www.youtube.com/watch?v=-Nb_bTgARWw</link>
@@ -980,21 +998,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>MpMQyBQH16I</videoId>
       <enclosure url="https://i.ytimg.com/vi/MpMQyBQH16I/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Dans les couloirs du Conseil #4 : Soutien aux co-réalisateurs de NAZA et partenariat Winamax-Paris</title>
-      <link>https://www.youtube.com/watch?v=R-k8XztLHSM</link>
-      <guid>https://www.youtube.com/watch?v=R-k8XztLHSM</guid>
-      <pubDate>2026-10-09T06:23:39+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>🔴 Dans les couloirs du Conseil de Paris
-
-Débrief à chaud après la séance du Conseil de Paris. Nous revenons sur le soutien aux co-réalisateurs de NAZA, le partenariat Winamax-Paris Basketball, la protection de l’enfance, les droits LGBTQIA+, la lutte contre le racisme, l’éducation populaire et les partenariats public-privé de la Ville.
-
-Nous répondons également à vos questions en direct. Rejoignez-nous !</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>R-k8XztLHSM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/R-k8XztLHSM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
