@@ -85,6 +85,19 @@ function formatDate(dateText) {
          (minute < 10 ? "0" : "") + minute;
 }
 
+/* Version compacte pour la vue Archives : sans l'heure, annee sur deux
+   chiffres. 28/09/2026 18:16 devient 28/09/26. */
+function formatDateShort(dateText) {
+  var d = new Date(dateText), day, month, year;
+  if (isNaN(d.getTime())) return "";
+  day = d.getDate();
+  month = d.getMonth() + 1;
+  year = d.getFullYear() % 100;
+  return (day < 10 ? "0" : "") + day + "/" +
+         (month < 10 ? "0" : "") + month + "/" +
+         (year < 10 ? "0" : "") + year;
+}
+
 function parseTime(value) {
   var time = new Date(value || "").getTime();
   return isNaN(time) ? 0 : time;
@@ -176,8 +189,8 @@ function buildItemElement(item, compact) {
 
   if (compact) {
     html = '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +
-           '<span class="date">' + escapeHtml(formatDate(item.pubDate)) + '</span>' +
-           '<a href="' + escapeHtml(link) + '" class="video-link archive-title">' + escapeHtml(title) + '</a>';
+           '<a href="' + escapeHtml(link) + '" class="video-link archive-title">' + escapeHtml(title) + '</a>' +
+           '<span class="date">' + escapeHtml(formatDateShort(item.pubDate)) + '</span>';
   } else {
     html = '<div class="top">' +
              '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +

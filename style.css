@@ -332,6 +332,7 @@ a {
   flex-wrap: wrap;
   align-items: baseline;
   gap: 4px 8px;
+  border-top: none;
   padding: 7px 16px;
   white-space: nowrap;
 }
