@@ -394,16 +394,17 @@ a {
 }
 
 /* Couleur de la source : la pastille a ete retiree, seul le nom
-   porte la teinte du groupe. */
+   porte la teinte du groupe. Dans le flux, le nom de la chaine reste
+   neutre ; seules les archives sont teintees. */
 
-.author.meeting { color: var(--meeting-color); }
-.author.lfi { color: var(--lfi-color); }
-.author.eelv { color: var(--eelv-color); }
-.author.ps { color: var(--ps-color); }
-.author.centre { color: var(--centre-color); }
-.author.lr { color: var(--lr-color); }
-.author.ed { color: var(--ed-color); }
-.author.pcf { color: var(--pcf-color); }
+.archives-item .author.meeting { color: var(--meeting-color); }
+.archives-item .author.lfi { color: var(--lfi-color); }
+.archives-item .author.eelv { color: var(--eelv-color); }
+.archives-item .author.ps { color: var(--ps-color); }
+.archives-item .author.centre { color: var(--centre-color); }
+.archives-item .author.lr { color: var(--lr-color); }
+.archives-item .author.ed { color: var(--ed-color); }
+.archives-item .author.pcf { color: var(--pcf-color); }
 
 /* Vue Archives : un resultat tient sur une seule ligne. Le nom de la source
    et la date ne se coupent pas ; le titre se tronque par des points de
