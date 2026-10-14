@@ -92,6 +92,14 @@ a {
   gap: 5px;
 }
 
+/* La ligne de texte porte un interligne qui la fait paraitre un peu basse par
+   rapport a l'icone : on remonte la date de quelques pixels pour l'aligner
+   optiquement. Cible uniquement la date de mise a jour, pas le compteur. */
+.status-update .status-text {
+  position: relative;
+  top: -2px;
+}
+
 .status-icon {
   display: inline-flex;
   padding: 0 2px;
