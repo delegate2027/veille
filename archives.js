@@ -58,14 +58,6 @@ var MOIS_FR = {
   juillet: 7, aout: 8, septembre: 9, octobre: 10, novembre: 11, decembre: 12
 };
 
-/* Noms affiches des mois, indexes 0-11 (comme Date.getMonth) : servent a
-   pre-remplir la recherche avec le mois en cours. Accents en echappement
-   unicode pour garder ce fichier ASCII. */
-var MOIS_NOMS = [
-  "janvier", "f\u00e9vrier", "mars", "avril", "mai", "juin",
-  "juillet", "ao\u00fbt", "septembre", "octobre", "novembre", "d\u00e9cembre"
-];
-
 /* Les caracteres accentues sont ecrits en echappement unicode pour rester
    dans un fichier ASCII. Seul le resultat importe : taper "melencon" doit
    trouver "Mélenchon", comme l'inverse. */
@@ -124,13 +116,40 @@ function parseDateParts(dateText) {
   return { y: d.getFullYear(), m: d.getMonth() + 1, d: d.getDate() };
 }
 
+/* Le mot "aujourd'hui" (apostrophe droite ou courbe, accents ignores) sert de
+   raccourci pour la date du jour. */
+function isTodayToken(token) {
+  return sansAccent(token).replace(/[\u2019']/g, "") === "aujourdhui";
+}
+
+/* Composants de la date du jour, recalcules seulement quand la journee change. */
+var todayParts = null;
+var todayKey = null;
+
+function getTodayParts() {
+  var d = new Date();
+  var key = d.getFullYear() + "-" + d.getMonth() + "-" + d.getDate();
+
+  if (key !== todayKey) {
+    todayParts = { y: d.getFullYear(), m: d.getMonth() + 1, d: d.getDate() };
+    todayKey = key;
+  }
+
+  return todayParts;
+}
+
 /* Comparaison d'un terme avec la date d'une entree. Les separateurs saisis
    n'ont pas d'importance : 2026-10-02, 02/10/2026, 2.10.2026 et 02/10/26 sont
    equivalents. L'annee sur deux chiffres est lue au XXIe siecle (26 -> 2026). */
 function matchesDate(parts, token) {
-  var num, mois;
+  var num, mois, today;
 
   if (!parts) return false;
+
+  if (isTodayToken(token)) {
+    today = getTodayParts();
+    return today.y === parts.y && today.m === parts.m && today.d === parts.d;
+  }
 
   num = token.match(/^(\d{4})[-/.](\d{1,2})[-/.](\d{1,2})$/);
 
@@ -369,12 +388,12 @@ function initArchiveFilter() {
 
   if (!input) return;
 
-  /* Le mois en cours est pre-rempli : l'onglet s'ouvre sur les entrees du
-     mois courant, sans saisie. Respecte une valeur deja presente.
+  /* "aujourd'hui" est pre-rempli : l'onglet s'ouvre sur les entrees du jour,
+     sans saisie. Respecte une valeur deja presente.
      Pas de trimString ici : archives.js s'execute avant script.js, dont
      les helpers ne sont pas encore definis a ce moment. */
   if (!input.value) {
-    input.value = MOIS_NOMS[new Date().getMonth()];
+    input.value = "aujourd'hui";
   }
 
   refresh = function() {
