@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 14 Oct 2026 08:01:12 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:15:51 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY est l'invité de SONIA MABROUK sur BFM !</title>
+      <link>https://www.youtube.com/watch?v=INU5rR6u8D4</link>
+      <guid>https://www.youtube.com/watch?v=INU5rR6u8D4</guid>
+      <pubDate>2026-10-14T08:13:03+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>INU5rR6u8D4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/INU5rR6u8D4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Il faut abolir Parcoursup !</title>
       <link>https://www.youtube.com/watch?v=1_2K15bvSfg</link>
@@ -502,19 +515,6 @@ TikTok : https://www.tiktok.com/@zemmour_eric
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>LCdt3FcuvYw</videoId>
       <enclosure url="https://i.ytimg.com/vi/LCdt3FcuvYw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ALEKSANDAR NIKOLIC est l'invité de BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=AA82ibfZAXo</link>
-      <guid>https://www.youtube.com/watch?v=AA82ibfZAXo</guid>
-      <pubDate>2026-10-12T13:38:44+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>AA82ibfZAXo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/AA82ibfZAXo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Jordan Bardella à Ceuta : « L’immigration est utilisée comme un moyen de pression ! »</title>
