@@ -192,7 +192,7 @@ function buildItemElement(item, compact) {
              '<span class="date">' + escapeHtml(formatDate(item.pubDate)) + '</span>' +
            '</div>' +
            '<div class="title"><a href="' + escapeHtml(link) + '">' + escapeHtml(title) + '</a></div>' +
-           '<div class="desc">' + escapeHtml(description.replace(/[\r\n]+/g, " ")) + '</div>';
+           '<div class="desc">' + escapeHtml(description) + '</div>';
   }
 
   div.innerHTML = html;
