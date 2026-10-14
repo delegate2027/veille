@@ -97,7 +97,7 @@ a {
    signaler que le flux est suivi, sans distraire du contenu. */
 .status-icon {
   position: relative;
-  top: 3px;
+  top: 1px;
   display: inline-flex;
   padding: 0 2px;
   border-radius: 3px;
