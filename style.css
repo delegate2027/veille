@@ -96,6 +96,8 @@ a {
 /* Point vert "en direct" : un rond discret qui pulse tres lentement pour
    signaler que le flux est suivi, sans distraire du contenu. */
 .status-icon {
+  position: relative;
+  top: 3px;
   display: inline-flex;
   padding: 0 2px;
   border-radius: 3px;
