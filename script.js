@@ -64,6 +64,17 @@ function capitalizeWords(str) {
   return result.join(" ");
 }
 
+/* Chaines au nom trop long : on les affiche sous une forme courte. La cle est
+   le nom d'origine en minuscules. Le nom d'origine n'est jamais modifie : il
+   sert encore au rattachement de couleur (sourceClass) et a la recherche. */
+var AUTHOR_LABELS = {
+  "pcf - parti communiste français (pcf)": "PCF"
+};
+
+function displayAuthorName(author) {
+  return AUTHOR_LABELS[lower(author)] || capitalizeWords(author);
+}
+
 /* Format unique pour le flux et la date de mise a jour : l'annee sur deux
    chiffres suffit, comme dans les archives. 13/10/2026 14:48 devient
    13/10/26 14:48. */
@@ -172,7 +183,7 @@ function buildItemElement(item, compact) {
   var link = item.link || "#";
   var author = trimString(item.author || "Auteur");
   var description = removeExcessiveRepeats(removeEmojis(item.description || ""));
-  var displayAuthor = capitalizeWords(author);
+  var displayAuthor = displayAuthorName(author);
   var videoId = extractVideoId(link);
   var cls = sourceClass(author);
   var div = document.createElement("div");
