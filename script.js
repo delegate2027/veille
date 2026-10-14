@@ -55,6 +55,27 @@ function removeExcessiveRepeats(str) {
   return String(str || "").replace(/(.)\1{3,}/g, "$1");
 }
 
+/* Les url des descriptions sont longues et cassent la mise en page : on les
+   remplace par un lien discret portant le mot "lien". Le texte hors url reste
+   echappe, l'adresse ne servant que d'attribut href. */
+var DESCRIPTION_URL = /(https?:\/\/[^\s]+|www\.[^\s]+|[A-Za-z0-9.-]+\.[A-Za-z]{2,}(?:\/[^\s]*)?)/gi;
+
+function linkifyDescription(text) {
+  var parts = String(text || "").split(DESCRIPTION_URL);
+  var html = "", i, part, href;
+  for (i = 0; i < parts.length; i++) {
+    part = parts[i];
+    if (!part) continue;
+    if (i % 2 === 1) {
+      href = /^https?:\/\//i.test(part) ? part : "http://" + part;
+      html += '<a href="' + escapeHtml(href) + '" target="_blank" rel="noopener">lien</a>';
+    } else {
+      html += escapeHtml(part);
+    }
+  }
+  return html;
+}
+
 function capitalizeWords(str) {
   var parts = String(str || "").split(" "), i, word, result = [];
   for (i = 0; i < parts.length; i++) {
@@ -203,7 +224,7 @@ function buildItemElement(item, compact) {
              '<span class="date">' + escapeHtml(formatDate(item.pubDate)) + '</span>' +
            '</div>' +
            '<div class="title"><a href="' + escapeHtml(link) + '">' + escapeHtml(title) + '</a></div>' +
-           '<div class="desc">' + escapeHtml(description) + '</div>';
+           '<div class="desc">' + linkifyDescription(description) + '</div>';
   }
 
   div.innerHTML = html;
