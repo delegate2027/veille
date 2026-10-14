@@ -377,8 +377,11 @@ function renderArchive() {
   updateArchiveCount(visible.length);
 
   /* "aujourd'hui" : la video du jour la plus recente s'ouvre d'office, sans
-     lecture automatique. */
-  if (autoVideo && containsTodayToken(splitQuery(needle))) {
+     lecture automatique. Mais si une video est deja ouverte, on n'y touche
+     pas : un rafraichissement qui apporte une nouvelle entree ne doit ni
+     fermer la lecture en cours ni deployer le lecteur du nouvel item. */
+  if (autoVideo && containsTodayToken(splitQuery(needle)) &&
+      !findChildByClass(container, "youtube-player")) {
     openArchiveVideo(autoVideo);
   }
 }
