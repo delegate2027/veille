@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 14 Oct 2026 14:15:51 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:31:01 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>L'agriculture de montagne est pleinement au rendez-vous de la transition écologique | Hubert Ott</title>
+      <link>https://www.youtube.com/watch?v=zJR8AtJxFjg</link>
+      <guid>https://www.youtube.com/watch?v=zJR8AtJxFjg</guid>
+      <pubDate>2026-10-14T14:28:27+00:00</pubDate>
+      <author>MoDem</author>
+      <description>L'agriculture de montagne française est pleinement au rendez-vous de la transition écologique | Hubert Ott
+
+Lors des questions au gouvernement de ce mercredi 14 octobre, notre député du Haut-Rhin, Hubert Ott, a interrogé la ministre de l’Agriculture sur l'agriculture de montagne.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/hubert-ott-lagriculture-de-montagne-francaise-est-pleinement-au-rendez-vous-de
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>zJR8AtJxFjg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zJR8AtJxFjg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Pour LFI, le budget, c'est NON ! - Aurélien LE COQ</title>
       <link>https://www.youtube.com/watch?v=gt94k4t7poM</link>
@@ -1038,23 +1064,6 @@ Devant leurs visages et leurs noms, j’en fais le serment : nous ne vous oublie
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>5_K5l-naz08</videoId>
       <enclosure url="https://i.ytimg.com/vi/5_K5l-naz08/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Loi intégrale, les violences obstétricales et gynécologiques seront enfin nommées</title>
-      <link>https://www.youtube.com/watch?v=huDK8-7RXeE</link>
-      <guid>https://www.youtube.com/watch?v=huDK8-7RXeE</guid>
-      <pubDate>2026-10-09T18:16:17+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>86 % des femmes disent avoir vécu du sexisme dans le cadre d’un suivi gynécologique ou obstétrical. 60 % des femmes qui ont subi une épisiotomie n’avaient pas donné leur consentement.
-
-Avec la loi intégrale contre les violences sexistes et sexuelles, les violences obstétricales et gynécologiques vont enfin être nommées, puisqu'elle reprend le cœur de ma proposition de loi.
-
-Pour toutes les femmes qui se battent depuis des années, et à tous les collectifs, dont StopVOG, avec qui je travaille depuis ma proposition de loi de 2023, c’est une grande avancée.
-
-Mais il reste du travail. Les moyens manquent, et la bataille budgétaire sera essentielle. Une loi sans budget, c’est une promesse de plus.</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>huDK8-7RXeE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/huDK8-7RXeE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
