@@ -92,12 +92,6 @@ a {
   gap: 5px;
 }
 
-/* Interligne nul : la date se cale sur la hauteur reelle du texte, et
-   align-items: center la centre sur l'icone. Cible la date, pas le compteur. */
-.status-update .status-text {
-  line-height: 1;
-}
-
 .status-icon {
   display: inline-flex;
   padding: 0 2px;
