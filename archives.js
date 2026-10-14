@@ -125,7 +125,8 @@ function parseDateParts(dateText) {
 }
 
 /* Comparaison d'un terme avec la date d'une entree. Les separateurs saisis
-   n'ont pas d'importance : 2026-10-02, 02/10/2026 et 2.10.2026 sont equivalents. */
+   n'ont pas d'importance : 2026-10-02, 02/10/2026, 2.10.2026 et 02/10/26 sont
+   equivalents. L'annee sur deux chiffres est lue au XXIe siecle (26 -> 2026). */
 function matchesDate(parts, token) {
   var num, mois;
 
@@ -138,6 +139,10 @@ function matchesDate(parts, token) {
   num = token.match(/^(\d{1,2})[-/.](\d{1,2})[-/.](\d{4})$/);
 
   if (num) return +num[3] === parts.y && +num[2] === parts.m && +num[1] === parts.d;
+
+  num = token.match(/^(\d{1,2})[-/.](\d{1,2})[-/.](\d{2})$/);
+
+  if (num) return (2000 + +num[3]) === parts.y && +num[2] === parts.m && +num[1] === parts.d;
 
   num = token.match(/^(\d{1,2})[-/.](\d{1,2})$/);
 
