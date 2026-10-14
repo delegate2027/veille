@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 14 Oct 2026 15:45:43 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:01:13 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Budget 2027 : les ultra-riches épargnés, tout le monde pénalisé</title>
+      <link>https://www.youtube.com/watch?v=iNB-lcU_k04</link>
+      <guid>https://www.youtube.com/watch?v=iNB-lcU_k04</guid>
+      <pubDate>2026-10-14T16:00:11+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez le discours d'Eric Coquerel le mardi 13 octobre, lors du début des discussions sur la première partie du projet de loi de finances pour 2027 en hémicycle.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>iNB-lcU_k04</videoId>
+      <enclosure url="https://i.ytimg.com/vi/iNB-lcU_k04/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>MATTHIEU VALET est face à un COMMUNISTE sur CNEWS !</title>
       <link>https://www.youtube.com/watch?v=e2VVku9JNKg</link>
@@ -1002,17 +1013,6 @@ Interrogé sur la mobilisation lycéenne, Fabien Roussel appelle le gouvernement
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>ldjHSE4H4F4</videoId>
       <enclosure url="https://i.ytimg.com/vi/ldjHSE4H4F4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manon Aubry en débat face à la droite sur LCI</title>
-      <link>https://www.youtube.com/watch?v=wEXdxcxdqp8</link>
-      <guid>https://www.youtube.com/watch?v=wEXdxcxdqp8</guid>
-      <pubDate>2026-10-10T08:00:20+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>LCI le 09 octobre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>wEXdxcxdqp8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/wEXdxcxdqp8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
