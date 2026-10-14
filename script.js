@@ -51,11 +51,6 @@ function removeEmojis(str) {
   return str.replace(/[ \t]{2,}/g, " ").replace(/^\s+|\s+$/g, "");
 }
 
-function replaceUrlsWithPlaceholder(text) {
-  var re = /(https?:\/\/[^\s]+|www\.[^\s]+|[A-Za-z0-9.-]+\.[A-Za-z]{2,}(?:\/[^\s]*)?)/gi;
-  return String(text || "").replace(re, "url");
-}
-
 function removeExcessiveRepeats(str) {
   return String(str || "").replace(/(.)\1{3,}/g, "$1");
 }
@@ -176,7 +171,7 @@ function buildItemElement(item, compact) {
   var title = removeExcessiveRepeats(removeEmojis(item.title));
   var link = item.link || "#";
   var author = trimString(item.author || "Auteur");
-  var description = removeExcessiveRepeats(removeEmojis(replaceUrlsWithPlaceholder(item.description || "")));
+  var description = removeExcessiveRepeats(removeEmojis(item.description || ""));
   var displayAuthor = capitalizeWords(author);
   var videoId = extractVideoId(link);
   var cls = sourceClass(author);
