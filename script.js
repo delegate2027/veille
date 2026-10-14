@@ -326,6 +326,37 @@ function fetchXML(url, headers, callback) {
   xhr.send(null);
 }
 
+/* Le point vert clignote quand un rafraichissement apporte au moins un nouvel
+   item (voir renderFeedItems). Trois cycles sont imposes par la CSS ; le
+   clignotement est relance a chaque ajout et se retire seul a la fin de
+   l'animation (initUpdateBlinkEnd), ce qui garantit trois cycles visibles. */
+function setUpdating() {
+  var icon = document.getElementById("lastUpdateIcon");
+
+  if (!icon) return;
+
+  toggleClassName(icon, "is-updating", false);
+  void icon.offsetWidth;
+  toggleClassName(icon, "is-updating", true);
+}
+
+/* Fin du clignotement : le point revient a son pulse normal. Pose sur l'icone
+   des le chargement, avant tout clignotement. */
+function initUpdateBlinkEnd() {
+  var icon = document.getElementById("lastUpdateIcon");
+  var svg = icon ? icon.getElementsByTagName("svg")[0] : null;
+  var handler;
+
+  if (!svg) return;
+
+  handler = function() {
+    toggleClassName(icon, "is-updating", false);
+  };
+
+  svg.onanimationend = handler;
+  svg.onwebkitanimationend = handler;
+}
+
 function fetchAndParseRSS(callback, headers) {
   fetchXML("flux.xml", headers, function(err, xml, notModified, lastModified) {
     var items;
@@ -422,11 +453,15 @@ function trimFeedToLimit() {
    deja affiches. Au chargement initial (appendItem) on s'arrete a FEED_LIMIT
    pour ne pas construire tout l'historique ; au rafraichissement
    (insertItemInOrder) les nouvelles entrees sont inserees meme si la limite
-   est atteinte, puis les plus anciennes sont retirees par trimFeedToLimit. */
+   est atteinte, puis les plus anciennes sont retirees par trimFeedToLimit.
+   Le point vert ne clignote que si un rafraichissement ajoute au moins un
+   item ; au chargement initial tout le flux est nouveau, donc pas de
+   clignotement. */
 function renderFeedItems(items, insertFn) {
   var feed = document.getElementById("feed");
   var shown = getItemElements(feed).length;
   var adding = insertFn === insertItemInOrder;
+  var added = 0;
   var i, item, link;
 
   for (i = 0; i < items.length; i++) {
@@ -438,9 +473,12 @@ function renderFeedItems(items, insertFn) {
     renderedLinks[link] = true;
     insertFn(buildItemElement(item));
     shown++;
+    added++;
   }
 
   trimFeedToLimit();
+
+  if (adding && added > 0) setUpdating();
 }
 
 function loadRSS() {
@@ -550,5 +588,6 @@ function initViewNav() {
 }
 
 initViewNav();
+initUpdateBlinkEnd();
 loadRSS();
 window.setInterval(pollRSS, POLL_INTERVAL);

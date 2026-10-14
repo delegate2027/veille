@@ -123,6 +123,25 @@ a {
   }
 }
 
+/* Pendant une requete sur flux.xml, le point clignote lentement, trois cycles
+   imposes pour que le signal soit toujours visible meme si la requete est
+   instantanee. */
+.status-icon.is-updating svg {
+  animation: veille-live-blink 1.6s ease-in-out 3;
+}
+
+@keyframes veille-live-blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.12;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 /* Meme flash que l'heure quand le flux change, mais le point revient a sa
    teinte verte (et non grise). */
 .status-icon.is-updated {
@@ -142,8 +161,9 @@ a {
   }
 }
 
-/* Le pulse continu est coupe si le systeme demande moins d'animation ; le
-   flash ponctuel de mise a jour reste joue (voir plus bas). */
+/* Le pulse continu est coupe si le systeme demande moins d'animation. Le
+   clignotement de mise a jour (trois cycles) et le flash ponctuel restent
+   joues : ce sont des signaux brefs, volontairement conserves. */
 @media (prefers-reduced-motion: reduce) {
   .status-icon svg {
     animation: none;
