@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 14 Oct 2026 16:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:01:14 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Budget 2027 : les ultra-riches épargnés, tout le monde pénalisé</title>
@@ -180,6 +180,19 @@ Telegram : https://t.me/Sarah_Knafo
       <channelTitle>Sarah Knafo</channelTitle>
       <videoId>4YG1U1sGpfU</videoId>
       <enclosure url="https://i.ytimg.com/vi/4YG1U1sGpfU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY est l'invité de SONIA MABROUK sur BFM !</title>
+      <link>https://www.youtube.com/watch?v=INU5rR6u8D4</link>
+      <guid>https://www.youtube.com/watch?v=INU5rR6u8D4</guid>
+      <pubDate>2026-10-14T08:13:03+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>INU5rR6u8D4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/INU5rR6u8D4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Il faut abolir Parcoursup !</title>
@@ -1000,17 +1013,6 @@ Interrogé sur la mobilisation lycéenne, Fabien Roussel appelle le gouvernement
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>ldjHSE4H4F4</videoId>
       <enclosure url="https://i.ytimg.com/vi/ldjHSE4H4F4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manon Aubry en débat face à la droite sur LCI</title>
-      <link>https://www.youtube.com/watch?v=wEXdxcxdqp8</link>
-      <guid>https://www.youtube.com/watch?v=wEXdxcxdqp8</guid>
-      <pubDate>2026-10-10T08:00:20+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>LCI le 09 octobre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>wEXdxcxdqp8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/wEXdxcxdqp8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
