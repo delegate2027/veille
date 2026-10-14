@@ -4,8 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 14 Oct 2026 14:01:17 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:15:51 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 Pour LFI, le budget, c'est NON ! - Aurélien LE COQ</title>
+      <link>https://www.youtube.com/watch?v=gt94k4t7poM</link>
+      <guid>https://www.youtube.com/watch?v=gt94k4t7poM</guid>
+      <pubDate>2026-10-14T14:12:04+00:00</pubDate>
+      <author>Aurélien Le Coq</author>
+      <description>Aurélien Le Coq, député LFI-NFP du Nord, est intervenu ce mercredi 14 octobre 2026 à la tribune de l’Assemblée nationale, lors de l’ouverture des débats sur le budget, au lendemain d’une journée de mobilisation de la jeunesse partout en France.
+
+M. Le Coq relaie le cri de colère des lycéens et des étudiants, qu’il présente comme le signal d’un véritable état d’urgence sociale. Il dresse le portrait d’une jeunesse sacrifiée, délaissée, abandonnée et frappée par la faim : un jeune sur trois mange moins que nécessaire faute de moyens, un enfant sur quatre vit sous le seuil de pauvreté, et des parents se privent de repas sans parvenir à payer la cantine. Il décrit aussi des établissements scolaires à l’abandon, avec des classes surchargées, des locaux vétustes, des températures insupportables et des enseignants non remplacés. Il dénonce enfin le chômage, la précarité et les discriminations à l’embauche, ainsi que la répression policière des mobilisations de jeunes.
+
+Le député du Nord accuse le gouvernement de répondre à cette détresse par un budget d’austérité, qu’il qualifie de première sépulture du ministre. Il chiffre à près d’un milliard d’euros les coupes visant l’éducation et la jeunesse : 558 millions en moins pour les collèges et lycées, 268 millions pour les universités et 13 millions pour la vie étudiante. Il y ajoute la suppression de 1 588 postes d’enseignants, après 10 000 depuis 2017. Il raille la prévision gouvernementale d’un doublement de la croissance porté par la consommation, alors que le budget prélève 5,5 milliards d’euros sur les retraités, fait payer 2 milliards aux malades, gèle les APL, les allocations familiales et l’allocation de rentrée scolaire, et ponctionne 2 milliards sur les salaires des enseignants, pompiers et infirmiers.
+
+Aurélien Le Coq oppose à ces sacrifices les 2 milliards d’euros de cadeaux fiscaux accordés aux détenteurs de portefeuilles boursiers. Il rappelle que la France n’a jamais été aussi riche, mais que cette richesse est prise en otage par une petite caste dorée, protégée par une alliance entre le Rassemblement national, Renaissance et Horizons, qui ont empêché ensemble le rejet du budget la veille. 
+
+Il conclut en promettant que ce budget sera battu, par la censure ou par la rue et appelle la jeunesse mobilisée à tenir bon jusqu’en 2027 avec Jean-Luc Mélenchon.</description>
+      <channelTitle>Aurélien Le Coq</channelTitle>
+      <videoId>gt94k4t7poM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gt94k4t7poM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SÉBASTIEN CHENU est l'invité de Sud Radio !</title>
       <link>https://www.youtube.com/watch?v=PyK7QUF6syo</link>
@@ -1036,17 +1055,6 @@ Mais il reste du travail. Les moyens manquent, et la bataille budgétaire sera e
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>huDK8-7RXeE</videoId>
       <enclosure url="https://i.ytimg.com/vi/huDK8-7RXeE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mobilisation lycéennes : même vous au Figaro, vous auriez aimé manifester à Bastille !</title>
-      <link>https://www.youtube.com/watch?v=qYnBmoKKL8E</link>
-      <guid>https://www.youtube.com/watch?v=qYnBmoKKL8E</guid>
-      <pubDate>2026-10-09T17:06:02+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description />
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>qYnBmoKKL8E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qYnBmoKKL8E/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
