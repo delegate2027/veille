@@ -18,7 +18,7 @@ function parseArchive(xml) {
   var nodes = xml.getElementsByTagName("item");
   var result = [];
   var seen = {};
-  var i, node, link, item;
+  var i, node, link, item, pub;
 
   for (i = 0; i < nodes.length; i++) {
     node = nodes[i];
@@ -37,10 +37,14 @@ function parseArchive(xml) {
     };
 
     /* Precalcule une fois par entree ce que la recherche reclame : le texte
-       normalise (sans accents) et les composants de date. La frappe ne fait
-       alors plus que comparer, sur les 10000 entrees possibles. */
+       normalise (sans accents) et les deux vues de la date. item.date reste
+       sur le calendrier normal (dates saisies explicitement) ; item.day suit
+       la journee de veille a frontiere de 6 h (aujourd'hui / hier). La frappe
+       ne fait alors plus que comparer, sur les 10000 entrees possibles. */
+    pub = parseDate(item.pubDate);
     item.searchBase = sansAccent(item.title + " " + item.author + " " + item.link);
-    item.date = parseDateParts(item.pubDate);
+    item.date = pub ? dateParts(pub) : null;
+    item.day = pub ? broadcastDayParts(pub) : null;
 
     result.push(item);
   }
@@ -105,15 +109,25 @@ function splitQuery(needle) {
   return tokens;
 }
 
-/* Composants annee/mois/jour d'une date, ou null si illisible. Calcule une
-   seule fois par entree, au chargement. Les dates sont lues en heure locale,
-   comme au rendu (formatDate). */
-function parseDateParts(dateText) {
+/* Composants annee/mois/jour d'un instant, en heure locale. */
+function dateParts(dateObj) {
+  return { y: dateObj.getFullYear(), m: dateObj.getMonth() + 1, d: dateObj.getDate() };
+}
+
+/* La journee de veille va de 6 h du matin a 6 h du matin : une video publiee
+   a 3 h appartient encore a la veille. On decale donc l'instant de 6 heures
+   avant d'en lire la date, ce qui place la frontiere a 6 h. */
+var DAY_SHIFT_HOURS = 6;
+
+function broadcastDayParts(dateObj) {
+  return dateParts(new Date(dateObj.getTime() - DAY_SHIFT_HOURS * 3600000));
+}
+
+/* Instant local d'une date textuelle, ou null si illisible. */
+function parseDate(dateText) {
   var d = new Date(dateText);
 
-  if (isNaN(d.getTime())) return null;
-
-  return { y: d.getFullYear(), m: d.getMonth() + 1, d: d.getDate() };
+  return isNaN(d.getTime()) ? null : d;
 }
 
 /* Le mot "aujourd'hui" (apostrophe droite ou courbe, accents ignores) sert de
@@ -127,20 +141,21 @@ function isYesterdayToken(token) {
   return sansAccent(token) === "hier";
 }
 
-/* Composants des dates du jour et de la veille, recalcules seulement quand la
-   journee change. */
+/* Composants des journees du jour et de la veille (frontiere a 6 h),
+   recalcules seulement quand la journee de veille change : le basculement se
+   fait donc a 6 h du matin, pas a minuit. */
 var todayParts = null;
 var yesterdayParts = null;
 var todayKey = null;
 
 function getTodayParts() {
-  var d = new Date();
+  var today = broadcastDayParts(new Date());
   var y;
-  var key = d.getFullYear() + "-" + d.getMonth() + "-" + d.getDate();
+  var key = today.y + "-" + today.m + "-" + today.d;
 
   if (key !== todayKey) {
-    todayParts = { y: d.getFullYear(), m: d.getMonth() + 1, d: d.getDate() };
-    y = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+    todayParts = today;
+    y = new Date(today.y, today.m - 1, today.d);
     y.setDate(y.getDate() - 1);
     yesterdayParts = { y: y.getFullYear(), m: y.getMonth() + 1, d: y.getDate() };
     todayKey = key;
@@ -159,17 +174,20 @@ function sameDay(parts, day) {
   return day.y === parts.y && day.m === parts.m && day.d === parts.d;
 }
 
-/* Comparaison d'un terme avec la date d'une entree. Les separateurs saisis
-   n'ont pas d'importance : 2026-10-02, 02/10/2026, 2.10.2026 et 02/10/26 sont
+/* Comparaison d'un terme avec la date d'une entree. "aujourd'hui" et "hier"
+   s'appuient sur la journee de veille (frontiere a 6 h) ; les dates saisies
+   explicitement restent sur le calendrier normal. Les separateurs n'ont pas
+   d'importance : 2026-10-02, 02/10/2026, 2.10.2026 et 02/10/26 sont
    equivalents. L'annee sur deux chiffres est lue au XXIe siecle (26 -> 2026). */
-function matchesDate(parts, token) {
+function matchesDate(item, token) {
+  var parts = item.date;
   var num, mois;
 
+  if (isTodayToken(token)) return !!item.day && sameDay(item.day, getTodayParts());
+
+  if (isYesterdayToken(token)) return !!item.day && sameDay(item.day, getYesterdayParts());
+
   if (!parts) return false;
-
-  if (isTodayToken(token)) return sameDay(parts, getTodayParts());
-
-  if (isYesterdayToken(token)) return sameDay(parts, getYesterdayParts());
 
   num = token.match(/^(\d{4})[-/.](\d{1,2})[-/.](\d{1,2})$/);
 
@@ -215,10 +233,10 @@ function matchesFilter(item, tokens) {
        tombent pas sur la bonne date, l'entree est rejetee, meme si le mot
        figure dans son texte. */
     if (isTodayToken(t.raw) || isYesterdayToken(t.raw)) {
-      if (!matchesDate(item.date, t.raw)) return false;
+      if (!matchesDate(item, t.raw)) return false;
       continue;
     }
-    if (matchesDate(item.date, t.raw)) continue;
+    if (matchesDate(item, t.raw)) continue;
     if (haystack.indexOf(t.norm) !== -1) continue;
     return false;
   }
