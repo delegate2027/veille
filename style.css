@@ -45,6 +45,8 @@ body {
   font-size: 14px;
   line-height: 1.45;
   -webkit-font-smoothing: antialiased;
+  /* Proportions generales du site agrandies de 10 %. */
+  zoom: 1.1;
 }
 
 a {
