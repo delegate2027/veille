@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 14 Oct 2026 21:01:08 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:15:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Les jeunes nous font honneur - Mon intervention au meeting de Paris</title>
@@ -18,12 +18,12 @@
       <enclosure url="https://i.ytimg.com/vi/3QUZoFMQQig/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Retour en campagne, santé des femmes, mobilisation lycéenne… Marine Tondelier sur BFMTV</title>
+      <title>Mobilisation lycéenne, union de la gauche… Marine Tondelier reprend sa campagne sur BFM TV !</title>
       <link>https://www.youtube.com/watch?v=_grQ-tiJrlk</link>
       <guid>https://www.youtube.com/watch?v=_grQ-tiJrlk</guid>
       <pubDate>2026-10-14T20:42:34+00:00</pubDate>
       <author>Les Écologistes</author>
-      <description>Marine Tondelier était le mercredi 14 octobre l'invité de Maxime Switek sur BFMtv.</description>
+      <description>Marine Tondelier était le mercredi 14 octobre l'invité de Maxime Switek sur BFMTV.</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>_grQ-tiJrlk</videoId>
       <enclosure url="https://i.ytimg.com/vi/_grQ-tiJrlk/maxresdefault.jpg" type="image/jpeg" />
