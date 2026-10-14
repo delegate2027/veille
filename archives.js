@@ -191,6 +191,12 @@ function matchesFilter(item, tokens) {
 
   for (i = 0; i < tokens.length; i++) {
     t = tokens[i];
+    /* "aujourd'hui" n'est qu'un filtre de date : s'il ne tombe pas sur la date
+       du jour, l'entree est rejetee, meme si le mot figure dans son texte. */
+    if (isTodayToken(t.raw)) {
+      if (!matchesDate(item.date, t.raw)) return false;
+      continue;
+    }
     if (matchesDate(item.date, t.raw)) continue;
     if (haystack.indexOf(t.norm) !== -1) continue;
     return false;
