@@ -122,34 +122,54 @@ function isTodayToken(token) {
   return sansAccent(token).replace(/[\u2019']/g, "") === "aujourdhui";
 }
 
-/* Composants de la date du jour, recalcules seulement quand la journee change. */
+/* Le mot "hier" (accents ignores) sert de raccourci pour la date de la veille. */
+function isYesterdayToken(token) {
+  return sansAccent(token) === "hier";
+}
+
+/* Composants des dates du jour et de la veille, recalcules seulement quand la
+   journee change. */
 var todayParts = null;
+var yesterdayParts = null;
 var todayKey = null;
 
 function getTodayParts() {
   var d = new Date();
+  var y;
   var key = d.getFullYear() + "-" + d.getMonth() + "-" + d.getDate();
 
   if (key !== todayKey) {
     todayParts = { y: d.getFullYear(), m: d.getMonth() + 1, d: d.getDate() };
+    y = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+    y.setDate(y.getDate() - 1);
+    yesterdayParts = { y: y.getFullYear(), m: y.getMonth() + 1, d: y.getDate() };
     todayKey = key;
   }
 
   return todayParts;
 }
 
+function getYesterdayParts() {
+  getTodayParts();
+  return yesterdayParts;
+}
+
+/* Egalite de deux dates a composants annee/mois/jour. */
+function sameDay(parts, day) {
+  return day.y === parts.y && day.m === parts.m && day.d === parts.d;
+}
+
 /* Comparaison d'un terme avec la date d'une entree. Les separateurs saisis
    n'ont pas d'importance : 2026-10-02, 02/10/2026, 2.10.2026 et 02/10/26 sont
    equivalents. L'annee sur deux chiffres est lue au XXIe siecle (26 -> 2026). */
 function matchesDate(parts, token) {
-  var num, mois, today;
+  var num, mois;
 
   if (!parts) return false;
 
-  if (isTodayToken(token)) {
-    today = getTodayParts();
-    return today.y === parts.y && today.m === parts.m && today.d === parts.d;
-  }
+  if (isTodayToken(token)) return sameDay(parts, getTodayParts());
+
+  if (isYesterdayToken(token)) return sameDay(parts, getYesterdayParts());
 
   num = token.match(/^(\d{4})[-/.](\d{1,2})[-/.](\d{1,2})$/);
 
@@ -191,9 +211,10 @@ function matchesFilter(item, tokens) {
 
   for (i = 0; i < tokens.length; i++) {
     t = tokens[i];
-    /* "aujourd'hui" n'est qu'un filtre de date : s'il ne tombe pas sur la date
-       du jour, l'entree est rejetee, meme si le mot figure dans son texte. */
-    if (isTodayToken(t.raw)) {
+    /* "aujourd'hui" et "hier" ne sont que des filtres de date : s'ils ne
+       tombent pas sur la bonne date, l'entree est rejetee, meme si le mot
+       figure dans son texte. */
+    if (isTodayToken(t.raw) || isYesterdayToken(t.raw)) {
       if (!matchesDate(item.date, t.raw)) return false;
       continue;
     }
@@ -203,6 +224,30 @@ function matchesFilter(item, tokens) {
   }
 
   return true;
+}
+
+/* Vrai si la recherche contient le raccourci "aujourd'hui" : la video du jour
+   la plus recente est alors deployee d'office. */
+function containsTodayToken(words) {
+  var i;
+
+  for (i = 0; i < words.length; i++) {
+    if (isTodayToken(words[i])) return true;
+  }
+
+  return false;
+}
+
+/* Deploie le lecteur d'un item sans jamais lancer la lecture (le lecteur est
+   une simple iframe d'integration). Le lecteur est cree par le meme
+   gestionnaire que le clic sur le titre ; on evite seulement de le refermer
+   quand il est deja ouvert. */
+function openArchiveVideo(element) {
+  var anchor = element.getElementsByTagName("a")[0];
+
+  if (anchor && anchor.onclick && !findChildByClass(element, "youtube-player")) {
+    anchor.onclick();
+  }
 }
 
 /* Les tokens sont prepares une fois pour toute la liste : sans cela, chaque
@@ -280,7 +325,7 @@ function renderArchive() {
   var container = document.getElementById("archive");
   var input = document.getElementById("archiveFilter");
   var needle = lower(trimString(input ? input.value : ""));
-  var existing, visible, keep, key, item, element;
+  var existing, visible, keep, key, item, element, anchor, autoVideo;
   var i;
 
   if (!needle) {
@@ -308,6 +353,7 @@ function renderArchive() {
 
   existing = indexArchiveItems(container);
   keep = {};
+  autoVideo = null;
 
   /* buildItemElement(..., true) : rendu compact des archives, une ligne par
      entree, sans description, titre teinte comme sa source, lecture video au clic.
@@ -321,10 +367,20 @@ function renderArchive() {
       container.appendChild(element);
     }
     element.style.order = i;
+    /* Premier item (donc le plus recent) porteur d'une video : il sera
+       deploye si la recherche porte sur aujourd'hui. */
+    anchor = element.getElementsByTagName("a")[0];
+    if (!autoVideo && anchor && anchor.onclick) autoVideo = element;
   }
 
   pruneArchiveItems(container, keep);
   updateArchiveCount(visible.length);
+
+  /* "aujourd'hui" : la video du jour la plus recente s'ouvre d'office, sans
+     lecture automatique. */
+  if (autoVideo && containsTodayToken(splitQuery(needle))) {
+    openArchiveVideo(autoVideo);
+  }
 }
 
 function updateArchiveCount(visible) {
