@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 14 Oct 2026 12:45:50 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:01:16 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>SÉBASTIEN CHENU est l'invité de Sud Radio !</title>
+      <link>https://www.youtube.com/watch?v=PyK7QUF6syo</link>
+      <guid>https://www.youtube.com/watch?v=PyK7QUF6syo</guid>
+      <pubDate>2026-10-14T12:43:46+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>PyK7QUF6syo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PyK7QUF6syo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de presse de Jean-Luc Mélenchon et Éric Coquerel</title>
       <link>https://www.youtube.com/watch?v=-Nb_bTgARWw</link>
@@ -1034,17 +1047,6 @@ Mais il reste du travail. Les moyens manquent, et la bataille budgétaire sera e
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>qYnBmoKKL8E</videoId>
       <enclosure url="https://i.ytimg.com/vi/qYnBmoKKL8E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Clémence Guetté dans l'Heure de Vérité !</title>
-      <link>https://www.youtube.com/watch?v=9jB-e9IaLkg</link>
-      <guid>https://www.youtube.com/watch?v=9jB-e9IaLkg</guid>
-      <pubDate>2026-10-09T16:05:57+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>J'étais hier soir l'invitée de l'Heure de Vérité, sur France 2. L'occasion de revenir sur les proposition d'Édouard Philippe, candidat macroniste à l'élection présidentielle.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>9jB-e9IaLkg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/9jB-e9IaLkg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
