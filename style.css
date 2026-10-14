@@ -202,6 +202,13 @@ a {
   white-space: pre-line;
 }
 
+/* Les url des descriptions sont remplacees par un lien "lien" : discret,
+   meme teinte que le texte, souligne pour rester identifiable. */
+.desc a {
+  color: var(--muted);
+  text-decoration: underline;
+}
+
 .youtube-player {
   width: calc(100% + 32px);
   margin: 12px -16px 0 -16px;
