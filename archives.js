@@ -423,10 +423,9 @@ function initArchiveFilter() {
   }
 }
 
-/* Place le curseur dans le champ a l'ouverture de l'onglet : rien n'est liste
-   tant qu'un terme n'est pas saisi, autant proposer directement le clavier.
-   Appele au clic uniquement, pour ne pas ouvrir le clavier sur mobile au
-   chargement d'une URL contenant #archives. */
+/* Place le curseur dans le champ : a l'arrivee sur la page (vue archives par
+   defaut) comme au clic sur l'onglet. Rien n'est liste tant qu'un terme n'est
+   pas saisi, autant proposer directement le clavier. */
 function focusArchiveFilter() {
   var input = document.getElementById("archiveFilter");
 
