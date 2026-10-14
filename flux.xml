@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 14 Oct 2026 20:30:56 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:45:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Retour en campagne, santé des femmes, mobilisation lycéenne… Marine Tondelier sur BFMTV</title>
+      <link>https://www.youtube.com/watch?v=_grQ-tiJrlk</link>
+      <guid>https://www.youtube.com/watch?v=_grQ-tiJrlk</guid>
+      <pubDate>2026-10-14T20:42:34+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Marine Tondelier était le mercredi 14 octobre l'invité de Maxime Switek sur BFMtv.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>_grQ-tiJrlk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_grQ-tiJrlk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Casse du siècle : Sarah Knafo face aux Français sur LCI !</title>
       <link>https://www.youtube.com/watch?v=xXSVUvyfRQU</link>
@@ -977,35 +988,6 @@ Mes réseaux sociaux
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>2QZwlpyS3qk</videoId>
       <enclosure url="https://i.ytimg.com/vi/2QZwlpyS3qk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>OLIVIER BESANCENOT : "MOBILISATIONS LYCÉENNES : UN ÉLÉMENT DE REVITALITÉ DÉMOCRATIQUE"</title>
-      <link>https://www.youtube.com/watch?v=BOZM3nTFcEw</link>
-      <guid>https://www.youtube.com/watch?v=BOZM3nTFcEw</guid>
-      <pubDate>2026-10-10T10:30:33+00:00</pubDate>
-      <author>NPA - L’Anticapitaliste</author>
-      <description>Olivier Besancenot était l'invité de Face à Duhamel sur BFM TV le 9 octobre 2026 pour parler de la mobilisation lycéenne et étudiante qui marque ce début de campagné présidentielle.
-
-Suivez L’Anticapitaliste, le média :
-http://lanticapitaliste.org
-Instagram : http://www.instagram.com/l_anticapitaliste
-Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
-Twitter : http://www.twitter.com/Lanticapitalis1
-Tik Tok : http://www.tiktok.com/@lanticapitaliste
-Facebook : http://www.facebook.com/anticapitaliste.presse
-Threads : http://www.threads.net/@l_anticapitaliste
-
-L’actu du NPA l'Anticapitaliste :
-http://npa-lanticapitaliste.org
-Instagram : http://www.instagram.com/npa.anticapitaliste
-Bluesky : http://bsky.app/profile/npa-antica.bsky.social
-Twitter : http://www.twitter.com/NPA_antica
-Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
-Facebook : http://www.facebook.com/npa.anticapitaliste
-Threads : http://www.threads.net/@npa.officiel</description>
-      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
-      <videoId>BOZM3nTFcEw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BOZM3nTFcEw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
