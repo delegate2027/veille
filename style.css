@@ -92,12 +92,10 @@ a {
   gap: 5px;
 }
 
-/* La ligne de texte porte un interligne qui la fait paraitre un peu basse par
-   rapport a l'icone : on remonte la date de quelques pixels pour l'aligner
-   optiquement. Cible uniquement la date de mise a jour, pas le compteur. */
+/* Interligne nul : la date se cale sur la hauteur reelle du texte, et
+   align-items: center la centre sur l'icone. Cible la date, pas le compteur. */
 .status-update .status-text {
-  position: relative;
-  top: -2px;
+  line-height: 1;
 }
 
 .status-icon {
