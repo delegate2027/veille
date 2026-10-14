@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 14 Oct 2026 19:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:01:08 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🎀 Il était une fois Octobre Rose.</title>
+      <link>https://www.youtube.com/watch?v=OkA1y4cpaBs</link>
+      <guid>https://www.youtube.com/watch?v=OkA1y4cpaBs</guid>
+      <pubDate>2026-10-14T19:41:37+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>La lutte contre le cancer ne doit pas être du vernis rose.
+
+Nous ne voulons pas un "Octobre rose", mais un Octobre colère.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>OkA1y4cpaBs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/OkA1y4cpaBs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Budget 2027 : les ultra-riches épargnés, tout le monde pénalisé</title>
       <link>https://www.youtube.com/watch?v=iNB-lcU_k04</link>
@@ -989,30 +1002,6 @@ Une ambition : rassembler les colères autour d’un projet de transformation so
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>0CEqzDWpZN4</videoId>
       <enclosure url="https://i.ytimg.com/vi/0CEqzDWpZN4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fabien Roussel : « Si Total ne bouge pas, il faut le nationaliser ! »</title>
-      <link>https://www.youtube.com/watch?v=ldjHSE4H4F4</link>
-      <guid>https://www.youtube.com/watch?v=ldjHSE4H4F4</guid>
-      <pubDate>2026-10-10T09:00:16+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>À l'occasion de la semaine nationale d'action des communistes devant les stations-service et les dépôts pétroliers de TotalEnergies, Fabien Roussel dénonce la flambée des prix des carburants qui frappe le pouvoir d'achat des Français.
-
-Baisse de la TVA sur les carburants, l'électricité et le gaz, réduction des marges de TotalEnergies, nationalisation du groupe : il défend des mesures immédiates pour faire baisser les factures et reprendre la main sur une industrie stratégique.
-
-Il apporte également son soutien aux salariés et sous-traitants de TotalEnergies mobilisés pour les salaires et l'emploi.
-
-Interrogé sur la mobilisation lycéenne, Fabien Roussel appelle le gouvernement à débloquer les moyens nécessaires pour rénover les établissements et recruter des enseignants, et encourage les lycéens à poursuivre leur mobilisation.
-
-00:00  Carburants : l'action des communistes contre la hausse des prix
-01:00  Nationaliser TotalEnergies pour reprendre la main
-01:32  Réserves stratégiques : une réponse insuffisante
-02:06  Soutien aux salariés de TotalEnergies
-03:05  Mobilisation lycéenne : des moyens pour l'éducation
-04:16  Fabien Roussel appelle les lycéens à tenir bon</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>ldjHSE4H4F4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ldjHSE4H4F4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
