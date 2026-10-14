@@ -10,6 +10,7 @@
   --line: #343431;
   --accent: #ff8a7a;
   --on-accent: #171716;
+  --live-color: #5ec98a;
   --bg: #171716;
   --meeting-color: #aab5c5;
   --lfi-color: #a99cff;
@@ -92,22 +93,59 @@ a {
   gap: 5px;
 }
 
+/* Point vert "en direct" : un rond discret qui pulse tres lentement pour
+   signaler que le flux est suivi, sans distraire du contenu. */
 .status-icon {
   display: inline-flex;
   padding: 0 2px;
   border-radius: 3px;
-  color: var(--muted);
+  color: var(--live-color);
 }
 
 .status-icon svg {
   display: block;
   width: 12px;
   height: 12px;
+  animation: veille-live-pulse 6s ease-in-out infinite;
 }
 
-/* Meme flash que l'heure : l'icone s'eclaire avec la date quand le flux change. */
+@keyframes veille-live-pulse {
+  0% {
+    opacity: 0.35;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.35;
+  }
+}
+
+/* Meme flash que l'heure quand le flux change, mais le point revient a sa
+   teinte verte (et non grise). */
 .status-icon.is-updated {
-  animation: veille-time-flash 2.6s ease-out;
+  animation: veille-icon-flash 2.6s ease-out;
+}
+
+@keyframes veille-icon-flash {
+  0% {
+    color: var(--accent);
+    background-color: rgba(255, 138, 122, 0.18);
+    text-shadow: 0 0 6px rgba(255, 138, 122, 0.5);
+  }
+  100% {
+    color: var(--live-color);
+    background-color: rgba(255, 138, 122, 0);
+    text-shadow: 0 0 0 rgba(255, 138, 122, 0);
+  }
+}
+
+/* Le pulse continu est coupe si le systeme demande moins d'animation ; le
+   flash ponctuel de mise a jour reste joue (voir plus bas). */
+@media (prefers-reduced-motion: reduce) {
+  .status-icon svg {
+    animation: none;
+  }
 }
 
 /* Heure de mise a jour : discret rappel visuel au moment ou flux.xml change.
