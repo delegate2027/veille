@@ -515,8 +515,17 @@ function initViewNav() {
     };
   }
 
-  /* Archives par defaut a l'arrivee ; "#flux" permet d'ouvrir directement le flux. */
-  setView(lower(window.location.hash || "") === "#flux" ? "feed" : "archives");
+  /* Archives par defaut a l'arrivee ; "#flux" permet d'ouvrir directement le
+     flux. Sur la vue archives, le focus est place dans la recherche des
+     l'ouverture de la page. Le focus vient apres setView : le champ est masque
+     tant que la vue archives ne porte plus is-hidden, et un element invisible
+     ne le prend pas. */
+  if (lower(window.location.hash || "") === "#flux") {
+    setView("feed");
+  } else {
+    setView("archives");
+    focusArchiveFilter();
+  }
 }
 
 initViewNav();
