@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 15 Oct 2026 19:01:14 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:15:42 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>LA GARDE À VUE : OUTIL DE LA RÉPRESSION SOCIALE</title>
@@ -206,6 +206,17 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>gEDCq5yrEjE</videoId>
       <enclosure url="https://i.ytimg.com/vi/gEDCq5yrEjE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Le Pen est l'invitée de l'émission « Objectif Elysée 2027 » sur CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=ETpKxX9oaFY</link>
+      <guid>https://www.youtube.com/watch?v=ETpKxX9oaFY</guid>
+      <pubDate>2026-10-15T10:15:52+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>ETpKxX9oaFY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ETpKxX9oaFY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>L'urgence, c'est l'alternance !</title>
@@ -458,32 +469,6 @@ Mes réseaux sociaux
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>EJ2qNM1TxJw</videoId>
       <enclosure url="https://i.ytimg.com/vi/EJ2qNM1TxJw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'agriculture de montagne est pleinement au rendez-vous de la transition écologique | Hubert Ott</title>
-      <link>https://www.youtube.com/watch?v=zJR8AtJxFjg</link>
-      <guid>https://www.youtube.com/watch?v=zJR8AtJxFjg</guid>
-      <pubDate>2026-10-14T14:28:27+00:00</pubDate>
-      <author>MoDem</author>
-      <description>L'agriculture de montagne française est pleinement au rendez-vous de la transition écologique | Hubert Ott
-
-Lors des questions au gouvernement de ce mercredi 14 octobre, notre député du Haut-Rhin, Hubert Ott, a interrogé la ministre de l’Agriculture sur l'agriculture de montagne.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/hubert-ott-lagriculture-de-montagne-francaise-est-pleinement-au-rendez-vous-de
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>zJR8AtJxFjg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zJR8AtJxFjg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
