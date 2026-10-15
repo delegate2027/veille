@@ -2,7 +2,7 @@
 
 ## Projet
 
-Application web statique de veille médiatique politique. Le navigateur affiche un flux RSS agrégé généré côté Python à partir de flux YouTube et, éventuellement, de `meetings.xml`.
+Application web statique de veille médiatique politique. Le navigateur affiche un flux RSS agrégé généré côté Python à partir de flux YouTube.
 
 ## Structure
 
@@ -11,7 +11,6 @@ Application web statique de veille médiatique politique. Le navigateur affiche 
 - `script.js` : chargement, filtrage, rendu et actualisation du flux.
 - `rss.py` : agrégation des flux et génération de `flux.xml`.
 - `flux.xml` : fichier généré à ne pas modifier manuellement.
-- `meetings.xml` : entrée facultative consumed par `rss.py` si le fichier existe.
 - `requirements.txt` : dépendances Python.
 
 ## Commandes

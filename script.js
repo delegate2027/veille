@@ -171,7 +171,6 @@ function getItemsFromXml(xml) {
 
 function sourceClass(author) {
   var a = lower(author);
-  if (a === "meeting") return "meeting";
   if (a.indexOf("coquerel") !== -1 || a.indexOf("boyard") !== -1 || a.indexOf("aubry") !== -1 ||
       a.indexOf("chikirou") !== -1 || a.indexOf("panot") !== -1 || a.indexOf("mélenchon") !== -1 ||
       a.indexOf("melenchon") !== -1 || a.indexOf("vannier") !== -1 || a.indexOf("bompard") !== -1 ||
