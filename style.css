@@ -216,10 +216,12 @@ a {
   border-top: none;
 }
 
+/* Ligne d'en-tete d'un item du flux : date puis nom de chaine, groupes a
+   gauche. */
 .top {
   display: flex;
   align-items: baseline;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 10px;
   margin-bottom: 4px;
 }
