@@ -4,8 +4,40 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 15 Oct 2026 17:01:06 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:15:47 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>LA GARDE À VUE : OUTIL DE LA RÉPESSION SOCIALE</title>
+      <link>https://www.youtube.com/watch?v=Jen8xeu0cf4</link>
+      <guid>https://www.youtube.com/watch?v=Jen8xeu0cf4</guid>
+      <pubDate>2026-10-15T17:00:29+00:00</pubDate>
+      <author>NPA - L’Anticapitaliste</author>
+      <description>L'Anticapitaliste a interrogée l'avocate Camille Souleil-Balducci. Elle revient avec nous sur l’état actuel du droit et son expérience du système répressif à l’encontre des militantEs du mouvement social. Elle est interrogée par Manon Boltansky.
+
+Avec la macronie finissante, les violences policières n'ont plus de limites contre le mouvement social. Ces dernières semaines les lycéenNEs mobilisées sont humiliés, arrêtés, gazés, mutilés... Alors que la jeunesse se bat pour le droit à un avenir qui ne soit pas de misère ou de désolation,  Macron, Lecornu ou Nunez ordonnent à leurs milices de frapper sans retenue avec des armes de guerre. 
+Face aux garde-à-vue et à la justice bourgeoise, il faut apprendre à se défendre pied à pied avec les quelques droits existant, mais surtout par notre force collective et notre solidarité.
+
+Suivez L’Anticapitaliste, le média :
+http://lanticapitaliste.org
+Instagram : http://www.instagram.com/l_anticapitaliste
+Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
+Twitter : http://www.twitter.com/Lanticapitalis1
+Tik Tok : http://www.tiktok.com/@lanticapitaliste
+Facebook : http://www.facebook.com/anticapitaliste.presse
+Threads : http://www.threads.net/@l_anticapitaliste
+
+L’actu du NPA l'Anticapitaliste :
+http://npa-lanticapitaliste.org
+Instagram : http://www.instagram.com/npa.anticapitaliste
+Bluesky : http://bsky.app/profile/npa-antica.bsky.social
+Twitter : http://www.twitter.com/NPA_antica
+Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
+Facebook : http://www.facebook.com/npa.anticapitaliste
+Threads : http://www.threads.net/@npa.officiel</description>
+      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
+      <videoId>Jen8xeu0cf4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Jen8xeu0cf4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Réunion publique à Paris - Sophia Chikirou  | Présidentielle 2027</title>
       <link>https://www.youtube.com/watch?v=MZ7maKdeQTE</link>
@@ -987,26 +1019,6 @@ Lundi 12 octobre 2026</description>
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>KMNk94h_NcI</videoId>
       <enclosure url="https://i.ytimg.com/vi/KMNk94h_NcI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ROUTE NATIONALE AVEC GABRIEL ATTAL</title>
-      <link>https://www.youtube.com/watch?v=azxAzaEmoPE</link>
-      <guid>https://www.youtube.com/watch?v=azxAzaEmoPE</guid>
-      <pubDate>2026-10-12T11:42:26+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>azxAzaEmoPE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/azxAzaEmoPE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
