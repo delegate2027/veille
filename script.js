@@ -198,6 +198,17 @@ function sourceClass(author) {
   return "meeting";
 }
 
+/* Certaines chaines (YouTube) repetent le titre en premiere ligne de la
+   description : on retire cet echo pour ne pas afficher deux fois le meme
+   texte dans le flux. Rien n'est touche si la premiere ligne differe. */
+function removeTitleEcho(title, description) {
+  var head;
+  if (!title || !description) return description;
+  head = description.split(/\r?\n/)[0];
+  if (lower(trimString(head)) !== lower(trimString(title))) return description;
+  return description.substring(head.length).replace(/^\s+/, "");
+}
+
 /* compact (vue Archives) : une seule ligne, sans description, le titre
    portant la teinte de sa source. Sinon rendu complet du flux. */
 function buildItemElement(item, compact) {
@@ -220,6 +231,7 @@ function buildItemElement(item, compact) {
            '<a href="' + escapeHtml(link) + '" class="archive-title">' + escapeHtml(title) + '</a>' +
            '<span class="date">' + escapeHtml(formatDateShort(item.pubDate)) + '</span>';
   } else {
+    description = removeTitleEcho(title, description);
     html = '<div class="top">' +
              '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +
              '<span class="date">' + escapeHtml(formatDate(item.pubDate)) + '</span>' +
