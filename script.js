@@ -247,7 +247,9 @@ function buildItemElement(item, compact) {
   if (videoId) {
     videoLink.onclick = function() {
       var existing = findChildByClass(div, "youtube-player");
+      var titleBox = findChildByClass(div, "title");
       var players = document.getElementsByTagName("div");
+      var player;
       var i;
       if (existing) {
         div.removeChild(existing);
@@ -258,7 +260,14 @@ function buildItemElement(item, compact) {
           players[i].parentNode.removeChild(players[i]);
         }
       }
-      div.appendChild(createPlayer(videoId, title));
+      /* Flux : le lecteur se glisse juste sous le titre, avant la description.
+         Archives : pas de bloc titre, le lecteur reste en fin de ligne. */
+      player = createPlayer(videoId, title);
+      if (titleBox && titleBox.parentNode) {
+        titleBox.parentNode.insertBefore(player, titleBox.nextSibling);
+      } else {
+        div.appendChild(player);
+      }
       return false;
     };
   } else {
