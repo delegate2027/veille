@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 15 Oct 2026 15:01:17 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:15:43 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>MATTHIEU VALET : «Au RN, nous soutenons nos policiers !  » (CNEWS)</title>
+      <link>https://www.youtube.com/watch?v=sZAByikiKBI</link>
+      <guid>https://www.youtube.com/watch?v=sZAByikiKBI</guid>
+      <pubDate>2026-10-15T14:57:58+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>sZAByikiKBI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/sZAByikiKBI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>PHILIPPE BALLARD : « Notre agriculture française est en danger de mort » (LCI)</title>
+      <link>https://www.youtube.com/watch?v=8nwl2gvZjnc</link>
+      <guid>https://www.youtube.com/watch?v=8nwl2gvZjnc</guid>
+      <pubDate>2026-10-15T14:57:20+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>8nwl2gvZjnc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8nwl2gvZjnc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>L'UE doit rompre son accord d'association avec Israël</title>
       <link>https://www.youtube.com/watch?v=orLr-6Xm4fk</link>
@@ -164,45 +190,6 @@ Notre continent est à la croisée des chemins, pour une Europe, des peuples et 
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>6diThbHrS5M</videoId>
       <enclosure url="https://i.ytimg.com/vi/6diThbHrS5M/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MATTHIEU VALET est l'invité d'EUROPE 1 !</title>
-      <link>https://www.youtube.com/watch?v=IGTFW6V9HOg</link>
-      <guid>https://www.youtube.com/watch?v=IGTFW6V9HOg</guid>
-      <pubDate>2026-10-15T08:12:47+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>IGTFW6V9HOg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/IGTFW6V9HOg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>GAËTAN DUSSAUSAYE : « L'État doit faire des économies sur son train de vie ! » (BFMTV)</title>
-      <link>https://www.youtube.com/watch?v=WmkA3SC8g20</link>
-      <guid>https://www.youtube.com/watch?v=WmkA3SC8g20</guid>
-      <pubDate>2026-10-15T08:12:25+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>WmkA3SC8g20</videoId>
-      <enclosure url="https://i.ytimg.com/vi/WmkA3SC8g20/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>GAËTAN DUSSAUSAYE est face à RICHARD RAMOS sur FRANCE INFO !</title>
-      <link>https://www.youtube.com/watch?v=i5Sb1hUip38</link>
-      <guid>https://www.youtube.com/watch?v=i5Sb1hUip38</guid>
-      <pubDate>2026-10-15T08:12:03+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>i5Sb1hUip38</videoId>
-      <enclosure url="https://i.ytimg.com/vi/i5Sb1hUip38/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Marine Tondelier: "Jordan Bardella a tenu des propos antisémites mais ça ne dérange pas le RN" (LCI)</title>
@@ -993,6 +980,17 @@ Retrouvez moi sur mes réseaux sociaux :
       <channelTitle>Clémentine Autain</channelTitle>
       <videoId>HQC2RRaCWqQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/HQC2RRaCWqQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🎙️Où est l’argent pour financer l’extension de l’aide juridictionnelle ?</title>
+      <link>https://www.youtube.com/watch?v=nzrv1-hPbBA</link>
+      <guid>https://www.youtube.com/watch?v=nzrv1-hPbBA</guid>
+      <pubDate>2026-10-12T08:00:06+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>🎙️Où est l’argent pour financer l’extension de l’aide juridictionnelle ?</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>nzrv1-hPbBA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nzrv1-hPbBA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
