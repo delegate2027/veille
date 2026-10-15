@@ -294,10 +294,11 @@ a {
 }
 
 /* Onglet Flux : entrees plus compactes et texte plus petit, pour condenser la
-   liste. Le bloc est limite a #viewFeed : la vue Archives garde ses
-   espacements et sa taille. */
+   liste ; le separateur horizontal entre items est retire. Le bloc est limite
+   a #viewFeed : la vue Archives garde son rendu. */
 #viewFeed .item {
   padding: 10px 16px;
+  border-top: none;
 }
 
 #viewFeed .top,
