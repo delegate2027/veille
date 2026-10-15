@@ -310,13 +310,6 @@ a {
   line-height: 1.45;
 }
 
-/* Onglet Flux : tous les textes passent en police machine a ecrire (Special
-   Elite, chargee par Google Fonts ; Courier New sert de secours hors ligne).
-   Le bloc est limite a #viewFeed : la vue Archives garde la police du site. */
-#viewFeed {
-  font-family: "Special Elite", "Courier New", Courier, monospace;
-}
-
 .youtube-player {
   width: calc(100% + 32px);
   margin: 12px -16px 0 -16px;
