@@ -7,8 +7,8 @@ from pathlib import Path
 
 OUTPUT_FILE = "flux.xml"
 ARCHIVE_FILE = "archives.xml"
-MAX_PER_SOURCE = 10
-MAX_FEED_ITEMS = 50
+MAX_PER_SOURCE = 5
+MAX_FEED_ITEMS = 25
 MAX_ARCHIVE_ITEMS = 10000
 
 FEEDS = {
