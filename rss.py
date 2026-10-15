@@ -131,20 +131,6 @@ def get_entries(feed_url):
         return []
 
 
-def get_meetings_entries():
-    meetings_file = Path("meetings.xml")
-
-    if not meetings_file.exists():
-        return []
-
-    try:
-        parsed = feedparser.parse(str(meetings_file))
-        return parsed.entries
-    except Exception as e:
-        print(f"Erreur lors de la lecture de meetings.xml : {e}")
-        return []
-
-
 def add_xml_item(channel, entry, compact=False):
     """Ecrit une entree dans le flux XML (titre, lien, meta, vignette).
 
@@ -290,12 +276,6 @@ def fetch_all_entries():
 
 def main():
     all_entries, unavailable = fetch_all_entries()
-
-    meetings = get_meetings_entries()
-    all_entries.extend(meetings)
-
-    if meetings:
-        print(f"{len(meetings)} entrée(s) ajoutée(s) depuis meetings.xml")
 
     if unavailable:
         print(f"Avertissement : {unavailable} flux inaccessibles sur {len(RSS_FEEDS)}")
