@@ -244,30 +244,6 @@ function matchesFilter(item, tokens) {
   return true;
 }
 
-/* Vrai si la recherche contient le raccourci "aujourd'hui" : la video du jour
-   la plus recente est alors deployee d'office. */
-function containsTodayToken(words) {
-  var i;
-
-  for (i = 0; i < words.length; i++) {
-    if (isTodayToken(words[i])) return true;
-  }
-
-  return false;
-}
-
-/* Deploie le lecteur d'un item sans jamais lancer la lecture (le lecteur est
-   une simple iframe d'integration). Le lecteur est cree par le meme
-   gestionnaire que le clic sur le titre ; on evite seulement de le refermer
-   quand il est deja ouvert. */
-function openArchiveVideo(element) {
-  var anchor = element.getElementsByTagName("a")[0];
-
-  if (anchor && anchor.onclick && !findChildByClass(element, "youtube-player")) {
-    anchor.onclick();
-  }
-}
-
 /* Les tokens sont prepares une fois pour toute la liste : sans cela, chaque
    entree retokenise et renormalise la meme saisie. La liste vient de
    parseArchive, deja triee du plus recent au plus ancien ; l'ordre est donc
@@ -343,7 +319,7 @@ function renderArchive() {
   var container = document.getElementById("archive");
   var input = document.getElementById("archiveFilter");
   var needle = lower(trimString(input ? input.value : ""));
-  var existing, visible, keep, key, item, element, anchor, autoVideo;
+  var existing, visible, keep, key, item, element;
   var i;
 
   if (!needle) {
@@ -371,7 +347,6 @@ function renderArchive() {
 
   existing = indexArchiveItems(container);
   keep = {};
-  autoVideo = null;
 
   /* buildItemElement(..., true) : rendu compact des archives, une ligne par
      entree, sans description, titre teinte comme sa source, lecture video au clic.
@@ -385,23 +360,10 @@ function renderArchive() {
       container.appendChild(element);
     }
     element.style.order = i;
-    /* Premier item (donc le plus recent) porteur d'une video : il sera
-       deploye si la recherche porte sur aujourd'hui. */
-    anchor = element.getElementsByTagName("a")[0];
-    if (!autoVideo && anchor && anchor.onclick) autoVideo = element;
   }
 
   pruneArchiveItems(container, keep);
   updateArchiveCount(visible.length);
-
-  /* "aujourd'hui" : la video du jour la plus recente s'ouvre d'office, sans
-     lecture automatique. Mais si une video est deja ouverte, on n'y touche
-     pas : un rafraichissement qui apporte une nouvelle entree ne doit ni
-     fermer la lecture en cours ni deployer le lecteur du nouvel item. */
-  if (autoVideo && containsTodayToken(splitQuery(needle)) &&
-      !findChildByClass(container, "youtube-player")) {
-    openArchiveVideo(autoVideo);
-  }
 }
 
 function updateArchiveCount(visible) {
