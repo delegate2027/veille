@@ -355,9 +355,11 @@ a {
   margin: 0;
 }
 
-/* Dans la barre, l'etat n'a plus a gerer sa propre marge basse. */
+/* Dans la barre, l'etat n'a plus a gerer sa propre marge basse. Sa marge a
+   droite reprend celle du compteur d'archives (.archive-meta, 6px) : la date
+   de mise a jour et le nombre d'entrees s'alignent sur le meme bord. */
 .view-bar .status {
-  margin: 0;
+  margin: 0 6px 0 0;
 }
 
 .view-tab {
