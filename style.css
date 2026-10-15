@@ -269,6 +269,31 @@ a {
   text-decoration: underline;
 }
 
+/* Onglet Flux : nom de chaine, date et titre prennent le style et la taille
+   du texte de description, pour un rendu uniforme. Le bloc est limite a
+   #viewFeed : la vue Archives (sous #viewArchive) conserve sa mise en page. */
+#viewFeed .author,
+#viewFeed .date,
+#viewFeed .title {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+#viewFeed .title a {
+  color: var(--muted);
+}
+
+/* Onglet Flux : tous les textes passent en police machine a ecrire (Special
+   Elite, chargee par Google Fonts ; Courier New sert de secours hors ligne).
+   Le bloc est limite a #viewFeed : la vue Archives garde la police du site. */
+#viewFeed {
+  font-family: "Special Elite", "Courier New", Courier, monospace;
+}
+
 .youtube-player {
   width: calc(100% + 32px);
   margin: 12px -16px 0 -16px;

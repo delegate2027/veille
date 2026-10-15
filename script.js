@@ -85,9 +85,10 @@ function capitalizeWords(str) {
   return result.join(" ");
 }
 
-/* Chaines au nom trop long : on les affiche sous une forme courte. La cle est
-   le nom d'origine en minuscules. Le nom d'origine n'est jamais modifie : il
-   sert encore au rattachement de couleur (sourceClass) et a la recherche. */
+/* En vue Archives, chaines au nom trop long : on les affiche sous une forme
+   courte. La cle est le nom d'origine en minuscules. Le nom d'origine n'est
+   jamais modifie : il sert encore au rattachement de couleur (sourceClass) et
+   a la recherche. Le flux affiche le nom brut de la chaine, sans edition. */
 var AUTHOR_LABELS = {
   "pcf - parti communiste français (pcf)": "PCF"
 };
@@ -204,7 +205,7 @@ function buildItemElement(item, compact) {
   var link = item.link || "#";
   var author = trimString(item.author || "Auteur");
   var description = removeExcessiveRepeats(removeEmojis(item.description || ""));
-  var displayAuthor = displayAuthorName(author);
+  var displayAuthor = compact ? displayAuthorName(author) : author;
   var videoId = extractVideoId(link);
   var cls = sourceClass(author);
   var div = document.createElement("div");
