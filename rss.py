@@ -45,6 +45,7 @@ FEEDS = {
     "PCF": [
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCSwPcnzaMTuDcTgjRiJvZnw",
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCAKzgWr5laB3Yf44hvqqZZQ",
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCwLLr_Fo9dpdJ9UHq4A7PjA",
     ],
 
     "BLOC SOCIAL DEMOCRATE": [
