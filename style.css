@@ -276,9 +276,9 @@ a {
 #viewFeed .date,
 #viewFeed .title {
   color: var(--muted);
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 400;
-  line-height: 1.5;
+  line-height: 1.4;
   text-transform: none;
   letter-spacing: normal;
 }
@@ -291,6 +291,23 @@ a {
 #viewFeed .author,
 #viewFeed .title {
   font-weight: 700;
+}
+
+/* Onglet Flux : entrees plus compactes et texte plus petit, pour condenser la
+   liste. Le bloc est limite a #viewFeed : la vue Archives garde ses
+   espacements et sa taille. */
+#viewFeed .item {
+  padding: 10px 16px;
+}
+
+#viewFeed .top,
+#viewFeed .title {
+  margin-bottom: 2px;
+}
+
+#viewFeed .desc {
+  font-size: 12px;
+  line-height: 1.45;
 }
 
 /* Onglet Flux : tous les textes passent en police machine a ecrire (Special
