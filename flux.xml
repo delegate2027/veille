@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 15 Oct 2026 07:01:12 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:15:42 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Gabriel Attal sur France Info | Un pacte pour la jeunesse</title>
+      <link>https://www.youtube.com/watch?v=qo_pw-FKa3Y</link>
+      <guid>https://www.youtube.com/watch?v=qo_pw-FKa3Y</guid>
+      <pubDate>2026-10-15T07:04:59+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Ce jeudi 15 octobre, Gabriel Attal est l'invité de Franceinfo.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr
+
+Suivez son action sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>qo_pw-FKa3Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qo_pw-FKa3Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Aucune vitrine ne justifie une main arrachée à un gamin !</title>
       <link>https://www.youtube.com/watch?v=jEzqW2C83wY</link>
@@ -1003,19 +1027,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>IsfBpqx9naI</videoId>
       <enclosure url="https://i.ytimg.com/vi/IsfBpqx9naI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🚨 Partie recettes du budget 2027 rejetée en commission : pourquoi j’ai voté contre ?</title>
-      <link>https://www.youtube.com/watch?v=G7BNLyLACrs</link>
-      <guid>https://www.youtube.com/watch?v=G7BNLyLACrs</guid>
-      <pubDate>2026-10-11T06:00:13+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez l'explication de vote d'Eric Coquerel lors du vote de la première partie "recettes" du budget 2027 en commission.
-
-🚨 La partie recettes du budget 2027 a été largement  rejetée par la commission des Finances. Pour la troisième année consécutive, le résultat est sans appel : 31 contre, 3 pour et 2 abstentions. Seul le groupe EPR a voté pour le budget, les démocrates s'abstenant.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>G7BNLyLACrs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/G7BNLyLACrs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
