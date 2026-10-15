@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 15 Oct 2026 21:30:54 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:45:40 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>🎙️BATAILLE budgétaire, mouvement lycéen, GUERRE et paix en Ukraine...Je réponds à vos questions</title>
+      <link>https://www.youtube.com/watch?v=F79sFrAhfEM</link>
+      <guid>https://www.youtube.com/watch?v=F79sFrAhfEM</guid>
+      <pubDate>2026-10-15T21:34:40+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Retrouvez l'intégralité de mon passage sur Twitch pour L'insoumission ce jeudi 15 octobre 2026
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/Deputee_Obono
+➡️ Instagram : https://www.instagram.com/deputee_obono/
+➡️ Facebook : https://www.facebook.com/DeputeeObono/
+➡️ Bluesky : https://bsky.app/profile/deputeeobono.bsky.social
+➡️ Threads : https://www.threads.com/@deputee_obono
+➡️ TikTok : https://www.tiktok.com/@deputee_obono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>F79sFrAhfEM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/F79sFrAhfEM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LA GARDE À VUE : OUTIL DE LA RÉPRESSION SOCIALE</title>
       <link>https://www.youtube.com/watch?v=Jen8xeu0cf4</link>
@@ -460,25 +481,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>zJR8AtJxFjg</videoId>
       <enclosure url="https://i.ytimg.com/vi/zJR8AtJxFjg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Pour LFI, le budget, c'est NON ! - Aurélien LE COQ</title>
-      <link>https://www.youtube.com/watch?v=gt94k4t7poM</link>
-      <guid>https://www.youtube.com/watch?v=gt94k4t7poM</guid>
-      <pubDate>2026-10-14T14:12:04+00:00</pubDate>
-      <author>Aurélien Le Coq</author>
-      <description>Aurélien Le Coq, député LFI-NFP du Nord, est intervenu ce mercredi 14 octobre 2026 à la tribune de l’Assemblée nationale, lors de l’ouverture des débats sur le budget, au lendemain d’une journée de mobilisation de la jeunesse partout en France.
-
-M. Le Coq relaie le cri de colère des lycéens et des étudiants, qu’il présente comme le signal d’un véritable état d’urgence sociale. Il dresse le portrait d’une jeunesse sacrifiée, délaissée, abandonnée et frappée par la faim : un jeune sur trois mange moins que nécessaire faute de moyens, un enfant sur quatre vit sous le seuil de pauvreté, et des parents se privent de repas sans parvenir à payer la cantine. Il décrit aussi des établissements scolaires à l’abandon, avec des classes surchargées, des locaux vétustes, des températures insupportables et des enseignants non remplacés. Il dénonce enfin le chômage, la précarité et les discriminations à l’embauche, ainsi que la répression policière des mobilisations de jeunes.
-
-Le député du Nord accuse le gouvernement de répondre à cette détresse par un budget d’austérité, qu’il qualifie de première sépulture du ministre. Il chiffre à près d’un milliard d’euros les coupes visant l’éducation et la jeunesse : 558 millions en moins pour les collèges et lycées, 268 millions pour les universités et 13 millions pour la vie étudiante. Il y ajoute la suppression de 1 588 postes d’enseignants, après 10 000 depuis 2017. Il raille la prévision gouvernementale d’un doublement de la croissance porté par la consommation, alors que le budget prélève 5,5 milliards d’euros sur les retraités, fait payer 2 milliards aux malades, gèle les APL, les allocations familiales et l’allocation de rentrée scolaire, et ponctionne 2 milliards sur les salaires des enseignants, pompiers et infirmiers.
-
-Aurélien Le Coq oppose à ces sacrifices les 2 milliards d’euros de cadeaux fiscaux accordés aux détenteurs de portefeuilles boursiers. Il rappelle que la France n’a jamais été aussi riche, mais que cette richesse est prise en otage par une petite caste dorée, protégée par une alliance entre le Rassemblement national, Renaissance et Horizons, qui ont empêché ensemble le rejet du budget la veille. 
-
-Il conclut en promettant que ce budget sera battu, par la censure ou par la rue et appelle la jeunesse mobilisée à tenir bon jusqu’en 2027 avec Jean-Luc Mélenchon.</description>
-      <channelTitle>Aurélien Le Coq</channelTitle>
-      <videoId>gt94k4t7poM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gt94k4t7poM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
