@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 15 Oct 2026 20:31:00 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:45:40 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Marine Le Pen est l'invitée de l'émission « Objectif Elysée 2027 » sur CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=MFx25fue25Y</link>
+      <guid>https://www.youtube.com/watch?v=MFx25fue25Y</guid>
+      <pubDate>2026-10-15T20:35:52+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>MFx25fue25Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/MFx25fue25Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LA GARDE À VUE : OUTIL DE LA RÉPRESSION SOCIALE</title>
       <link>https://www.youtube.com/watch?v=Jen8xeu0cf4</link>
@@ -182,17 +193,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>gEDCq5yrEjE</videoId>
       <enclosure url="https://i.ytimg.com/vi/gEDCq5yrEjE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Le Pen est l'invitée de l'émission « Objectif Elysée 2027 » sur CNEWS !</title>
-      <link>https://www.youtube.com/watch?v=ETpKxX9oaFY</link>
-      <guid>https://www.youtube.com/watch?v=ETpKxX9oaFY</guid>
-      <pubDate>2026-10-15T10:15:52+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>ETpKxX9oaFY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ETpKxX9oaFY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>L'urgence, c'est l'alternance !</title>
