@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 15 Oct 2026 20:15:38 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:31:00 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>LA GARDE À VUE : OUTIL DE LA RÉPRESSION SOCIALE</title>
@@ -37,30 +37,6 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <channelTitle>NPA - L’Anticapitaliste</channelTitle>
       <videoId>Jen8xeu0cf4</videoId>
       <enclosure url="https://i.ytimg.com/vi/Jen8xeu0cf4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Le 17 octobre se fait contre VOS POLITIQUES » Elsa Marcel détruit RN &amp; MACRONISTES sur BFM</title>
-      <link>https://www.youtube.com/watch?v=Ks-544E30vE</link>
-      <guid>https://www.youtube.com/watch?v=Ks-544E30vE</guid>
-      <pubDate>2026-10-15T16:59:41+00:00</pubDate>
-      <author>Révolution Permanente</author>
-      <description>Elsa Marcel était sur le plateau de BFM hier soir face à Aleksandar Nikolic, porte-parole du RN, Pierre Cazeneuve, député macroniste et Arthur Delaporte, député PS, dans le cadre d'un débat sur le mouvement lycéen. Face à ce plateau particulièrement à droite, Elsa a pu recadrer et dénoncer à la fois la répression extrême employée par le gouvernement contre le mouvement, mais également épingler l'hypocrisie du RN, qui se targue d'être du côté du mouvement lycéen tout en soutenant ceux qui mutilent les jeunes. Face à eux, elle a pu défendre l'urgence de construire la jonction de la mobilisation avec le mouvement ouvrier, par en bas, en vue du 17 octobre.
-
-Abonnez-vous à notre chaîne YouTube !
-➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
-
-★ Retrouvez-nous sur les réseaux sociaux :
-▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
-▸Twitter ▸ https://twitter.com/@RevPermanente
-▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
-▸Telegram ▸ https://t.me/revolution_permanente
-▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
-      <channelTitle>Révolution Permanente</channelTitle>
-      <videoId>Ks-544E30vE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ks-544E30vE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Réunion publique à Paris - Sophia Chikirou  | Présidentielle 2027</title>
@@ -469,6 +445,32 @@ Mes réseaux sociaux
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>EJ2qNM1TxJw</videoId>
       <enclosure url="https://i.ytimg.com/vi/EJ2qNM1TxJw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>L'agriculture de montagne est pleinement au rendez-vous de la transition écologique | Hubert Ott</title>
+      <link>https://www.youtube.com/watch?v=zJR8AtJxFjg</link>
+      <guid>https://www.youtube.com/watch?v=zJR8AtJxFjg</guid>
+      <pubDate>2026-10-14T14:28:27+00:00</pubDate>
+      <author>MoDem</author>
+      <description>L'agriculture de montagne française est pleinement au rendez-vous de la transition écologique | Hubert Ott
+
+Lors des questions au gouvernement de ce mercredi 14 octobre, notre député du Haut-Rhin, Hubert Ott, a interrogé la ministre de l’Agriculture sur l'agriculture de montagne.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/hubert-ott-lagriculture-de-montagne-francaise-est-pleinement-au-rendez-vous-de
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>zJR8AtJxFjg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zJR8AtJxFjg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
