@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 15 Oct 2026 22:01:13 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:15:44 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>L'objectif 2027 de François Ruffin !</title>
+      <link>https://www.youtube.com/watch?v=R-N3alO94O8</link>
+      <guid>https://www.youtube.com/watch?v=R-N3alO94O8</guid>
+      <pubDate>2026-10-15T21:59:10+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>R-N3alO94O8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/R-N3alO94O8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🎙️BATAILLE budgétaire, mouvement lycéen, GUERRE et paix en Ukraine...Je réponds à vos questions</title>
       <link>https://www.youtube.com/watch?v=F79sFrAhfEM</link>
@@ -455,17 +468,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>lKUFXzUUb_s</videoId>
       <enclosure url="https://i.ytimg.com/vi/lKUFXzUUb_s/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Steevy Gustave : "Ce sont des enfants. Nos enfants, les enfants de la République”</title>
-      <link>https://www.youtube.com/watch?v=EJ2qNM1TxJw</link>
-      <guid>https://www.youtube.com/watch?v=EJ2qNM1TxJw</guid>
-      <pubDate>2026-10-14T15:12:57+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>EJ2qNM1TxJw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/EJ2qNM1TxJw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
