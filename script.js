@@ -233,8 +233,8 @@ function buildItemElement(item, compact) {
   } else {
     description = removeTitleEcho(title, description);
     html = '<div class="top">' +
-             '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +
              '<span class="date">' + escapeHtml(formatDate(item.pubDate)) + '</span>' +
+             '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +
            '</div>' +
            '<div class="title"><a href="' + escapeHtml(link) + '">' + escapeHtml(title) + '</a></div>' +
            '<div class="desc">' + linkifyDescription(description) + '</div>';
