@@ -4,8 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 15 Oct 2026 10:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:30:59 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>L'urgence, c'est l'alternance !</title>
+      <link>https://www.youtube.com/watch?v=dYTK6KLdpNE</link>
+      <guid>https://www.youtube.com/watch?v=dYTK6KLdpNE</guid>
+      <pubDate>2026-10-15T10:14:23+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Les crises énergétique, sécuritaire et migratoire ne viennent pas de nulle part : le gouvernement et Emmanuel Macron sont les seuls responsables.
+Nous sommes, nous les patriotes, la solution !</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>dYTK6KLdpNE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dYTK6KLdpNE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Il y a un danger plus sourd : l'IA conversationnelle | Sarah El Haïry</title>
       <link>https://www.youtube.com/watch?v=jhJJe5tES1w</link>
@@ -973,17 +985,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>Vlp_OIcdexU</videoId>
       <enclosure url="https://i.ytimg.com/vi/Vlp_OIcdexU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ma réaction après le meeting de Jean-Luc Mélenchon</title>
-      <link>https://www.youtube.com/watch?v=BdtpDrmrQ9c</link>
-      <guid>https://www.youtube.com/watch?v=BdtpDrmrQ9c</guid>
-      <pubDate>2026-10-11T16:26:44+00:00</pubDate>
-      <author>Louis Boyard</author>
-      <description />
-      <channelTitle>Louis Boyard</channelTitle>
-      <videoId>BdtpDrmrQ9c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BdtpDrmrQ9c/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
