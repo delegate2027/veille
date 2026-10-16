@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 16 Oct 2026 16:01:09 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:15:44 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>BUDGET : Macron n'aime pas les ados... et ça se voit !</title>
+      <link>https://www.youtube.com/watch?v=eBoy14kIceg</link>
+      <guid>https://www.youtube.com/watch?v=eBoy14kIceg</guid>
+      <pubDate>2026-10-16T16:00:08+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description>« Je n’ai jamais été un adolescent. Je n’aime pas les adolescents. Je ne les comprends pas. » C'est ce que déclarait Emmanuel Macron à l'été 2025.
+
+On le comprend bien avec le budget proposé par son gouvernement. Ils préfèrent aller gratter entre 50 et 90 euros à des apprentis au SMIC pour faire des économies plutôt que d'aller chercher dans les exonérations de cotisations sociales faites aux grandes entreprises, qui rapporteraient pourtant 222 fois plus !</description>
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>eBoy14kIceg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/eBoy14kIceg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>👥 2/La lutte contre l'antisémitisme détournée à des fins autoritaires ?</title>
       <link>https://www.youtube.com/watch?v=8HtixGY3snQ</link>
@@ -457,30 +470,6 @@ Notre continent est à la croisée des chemins, pour une Europe, des peuples et 
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>18TiIwTfoFE</videoId>
       <enclosure url="https://i.ytimg.com/vi/18TiIwTfoFE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Gabriel Attal sur France Info | Un pacte pour la jeunesse</title>
-      <link>https://www.youtube.com/watch?v=qo_pw-FKa3Y</link>
-      <guid>https://www.youtube.com/watch?v=qo_pw-FKa3Y</guid>
-      <pubDate>2026-10-15T07:04:59+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Ce jeudi 15 octobre, Gabriel Attal est l'invité de Franceinfo.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr
-
-Suivez son action sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>qo_pw-FKa3Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qo_pw-FKa3Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
