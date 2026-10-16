@@ -4,7 +4,55 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 16 Oct 2026 05:15:35 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:30:52 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>🎀 Il était une fois Octobre Rose.</title>
+      <link>https://www.youtube.com/watch?v=OkA1y4cpaBs</link>
+      <guid>https://www.youtube.com/watch?v=OkA1y4cpaBs</guid>
+      <pubDate>2026-10-14T19:41:37+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>La lutte contre le cancer ne doit pas être du vernis rose.
+
+Nous ne voulons pas un "Octobre rose", mais un Octobre colère.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>OkA1y4cpaBs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/OkA1y4cpaBs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Il faut abolir Parcoursup !</title>
+      <link>https://www.youtube.com/watch?v=1_2K15bvSfg</link>
+      <guid>https://www.youtube.com/watch?v=1_2K15bvSfg</guid>
+      <pubDate>2026-10-14T07:21:39+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Revivez l'interview de Mathilde Panot sur franceinfo, le mercredi 14 octobre 2026 à 8h30.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>1_2K15bvSfg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/1_2K15bvSfg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>L'instant militant : Le média L'insoumission, avec Sylvain Noël – En campagne #4</title>
+      <link>https://www.youtube.com/watch?v=LCdt3FcuvYw</link>
+      <guid>https://www.youtube.com/watch?v=LCdt3FcuvYw</guid>
+      <pubDate>2026-10-12T16:00:12+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=Mx2S9iwsgYs</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>LCdt3FcuvYw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/LCdt3FcuvYw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>3615 Clouet : peut-on filmer une intervention policière ? (spoiler : OUI !)  – En campagne #4</title>
+      <link>https://www.youtube.com/watch?v=fLPsdk2ab4o</link>
+      <guid>https://www.youtube.com/watch?v=fLPsdk2ab4o</guid>
+      <pubDate>2026-10-11T16:00:19+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Avec Hadrien Clouet.
+
+Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=Mx2S9iwsgYs</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>fLPsdk2ab4o</videoId>
+      <enclosure url="https://i.ytimg.com/vi/fLPsdk2ab4o/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
