@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 16 Oct 2026 08:15:44 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:30:57 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>17 octobre / Lycée Paul Éluard : contre la répression du mouvement de la jeunesse</title>
+      <link>https://www.youtube.com/watch?v=u1D6D_yQa0Y</link>
+      <guid>https://www.youtube.com/watch?v=u1D6D_yQa0Y</guid>
+      <pubDate>2026-10-16T08:24:57+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Éric Coquerel était l'invité de la matinale d'Apolline de Malherbe sur RMC, le vendredi 16 octobre 2026. 
+
+Il dénonce la stratégie du gouvernement d’utiliser la police pour juguler ce mouvement social de la jeunesse, par la répression.
+
+Hier, après une première intervention injustifiée lors d'un rassemblement pacifique devant le lycée Paul Eluard, la BAC est entrée au sein de l'établissement pour embarquer un lycéen et a molesté des enseignants qui tentaient de protéger leur élève.
+
+En passant, rappel à ce journaliste en plateau : le droit de manifester est constitutionnel. Envoyer la police parce que l’on conteste, ce n’est plus tout à fait respecter l’Etat de droit.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>u1D6D_yQa0Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/u1D6D_yQa0Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURE LAVALETTE est l'invitée de FRANCE INFO TV !</title>
       <link>https://www.youtube.com/watch?v=cfFkqRbbTpo</link>
@@ -447,17 +464,6 @@ Reculs environnementaux, mise en concurrence des agricultures, austérité : la 
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>pVDmNzFus9E</videoId>
       <enclosure url="https://i.ytimg.com/vi/pVDmNzFus9E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Budget 2027 : les ultra-riches épargnés, tout le monde pénalisé</title>
-      <link>https://www.youtube.com/watch?v=iNB-lcU_k04</link>
-      <guid>https://www.youtube.com/watch?v=iNB-lcU_k04</guid>
-      <pubDate>2026-10-14T16:00:11+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez le discours d'Eric Coquerel le mardi 13 octobre, lors du début des discussions sur la première partie du projet de loi de finances pour 2027 en hémicycle.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>iNB-lcU_k04</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iNB-lcU_k04/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
