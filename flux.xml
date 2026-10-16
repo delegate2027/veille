@@ -4,48 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 16 Oct 2026 01:15:35 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:30:51 -0000</lastBuildDate>
     <feedCount>51</feedCount>
-    <item>
-      <title>L'UE doit rompre son accord d'association avec Israël</title>
-      <link>https://www.youtube.com/watch?v=orLr-6Xm4fk</link>
-      <guid>https://www.youtube.com/watch?v=orLr-6Xm4fk</guid>
-      <pubDate>2026-10-15T14:43:49+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>🎙️Hier soir, je défendais un amendement pour réduire de 10% la participation de la France au budget de l’Union européenne tant que l’accord d’association UE-Israël n’est pas rompu.
-
-Un amendement à minima, rejeté du PS jusqu’au RN, en passant par le bloc macroniste et les LR.
-
-Les pressions sur le plan économique sont pourtant essentielles.
-
-Free Palestine 🇵🇸</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>orLr-6Xm4fk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/orLr-6Xm4fk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🎙La proposition de loi dite intégrale prévoit un parcours de soins qui exclut 80% des victimes.</title>
-      <link>https://www.youtube.com/watch?v=IMaNY2rJHwA</link>
-      <guid>https://www.youtube.com/watch?v=IMaNY2rJHwA</guid>
-      <pubDate>2026-10-13T12:48:49+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>🎙La proposition de loi dite intégrale prévoit un parcours de soins qui exclut 80% des victimes.
-
-Les soins spécialisés en psychotraumatisme ne seront pas remboursés pour les personnes victimes à l’âge adulte et celles qui ont subi des violences se*uelles pendant l’enfance. Ils seront seulement remboursés pour les enfants qui révèlent ces violences avant leur majorité.</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>IMaNY2rJHwA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/IMaNY2rJHwA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🎙️Où est l’argent pour financer l’extension de l’aide juridictionnelle ?</title>
-      <link>https://www.youtube.com/watch?v=nzrv1-hPbBA</link>
-      <guid>https://www.youtube.com/watch?v=nzrv1-hPbBA</guid>
-      <pubDate>2026-10-12T08:00:06+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>🎙️Où est l’argent pour financer l’extension de l’aide juridictionnelle ?</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>nzrv1-hPbBA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nzrv1-hPbBA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
