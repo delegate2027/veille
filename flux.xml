@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 16 Oct 2026 10:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:31:01 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>LAURE LAVALETTE est l'invitée de PASCAL PRAUD sur CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=CFB3kC6soMw</link>
+      <guid>https://www.youtube.com/watch?v=CFB3kC6soMw</guid>
+      <pubDate>2026-10-16T10:17:27+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>CFB3kC6soMw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/CFB3kC6soMw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>18 octobre | Hommage aux fusillés de Châteaubriant</title>
       <link>https://www.youtube.com/watch?v=Yaa0lwryb7A</link>
@@ -90,19 +103,6 @@ En passant, rappel à ce journaliste en plateau : le droit de manifester est con
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>cfFkqRbbTpo</videoId>
       <enclosure url="https://i.ytimg.com/vi/cfFkqRbbTpo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU est l'invité de la matinale de LCI !</title>
-      <link>https://www.youtube.com/watch?v=iEmAbQSr3FI</link>
-      <guid>https://www.youtube.com/watch?v=iEmAbQSr3FI</guid>
-      <pubDate>2026-10-16T08:09:51+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>iEmAbQSr3FI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iEmAbQSr3FI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Le coût de la vie n'est pas une fatalité, c'est un choix politique.</title>
