@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 16 Oct 2026 12:01:15 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:15:43 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>Le libéralisme français, par Alexandre Avril - les RDV de l'UDR</title>
@@ -116,19 +116,6 @@ En passant, rappel à ce journaliste en plateau : le droit de manifester est con
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>u1D6D_yQa0Y</videoId>
       <enclosure url="https://i.ytimg.com/vi/u1D6D_yQa0Y/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURE LAVALETTE est l'invitée de FRANCE INFO TV !</title>
-      <link>https://www.youtube.com/watch?v=cfFkqRbbTpo</link>
-      <guid>https://www.youtube.com/watch?v=cfFkqRbbTpo</guid>
-      <pubDate>2026-10-16T08:12:02+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>cfFkqRbbTpo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/cfFkqRbbTpo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Le coût de la vie n'est pas une fatalité, c'est un choix politique.</title>
@@ -493,6 +480,17 @@ Le débat s'enflamme sur les violences policières. Léaument condamne avec forc
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>12j8y3HMUmE</videoId>
       <enclosure url="https://i.ytimg.com/vi/12j8y3HMUmE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Les jeunes nous font honneur - Mon intervention au meeting de Paris</title>
+      <link>https://www.youtube.com/watch?v=3QUZoFMQQig</link>
+      <guid>https://www.youtube.com/watch?v=3QUZoFMQQig</guid>
+      <pubDate>2026-10-14T20:58:24+00:00</pubDate>
+      <author>Louis Boyard</author>
+      <description />
+      <channelTitle>Louis Boyard</channelTitle>
+      <videoId>3QUZoFMQQig</videoId>
+      <enclosure url="https://i.ytimg.com/vi/3QUZoFMQQig/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
