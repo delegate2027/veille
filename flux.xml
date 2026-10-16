@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 16 Oct 2026 11:01:12 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:15:42 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Le libéralisme français, par Alexandre Avril - les RDV de l'UDR</title>
+      <link>https://www.youtube.com/watch?v=afIFOiI0uF8</link>
+      <guid>https://www.youtube.com/watch?v=afIFOiI0uF8</guid>
+      <pubDate>2026-10-16T11:08:02+00:00</pubDate>
+      <author>UDR</author>
+      <description>Crédits Vidéo : UDR
+
+----------------------------------------------
+
+► Rejoignez l'UDR ici :
+https://www.udr.fr/
+https://www.instagram.com/partiudr
+https://www.tiktok.com/@partiudr
+https://www.facebook.com/udrofficiel
+https://twitter.com/partiudr
+
+----------------------------------------------
+
+► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
+
+#UDR #EricCiotti</description>
+      <channelTitle>UDR</channelTitle>
+      <videoId>afIFOiI0uF8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/afIFOiI0uF8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURE LAVALETTE est l'invitée de PASCAL PRAUD sur CNEWS !</title>
       <link>https://www.youtube.com/watch?v=CFB3kC6soMw</link>
@@ -467,17 +493,6 @@ Le débat s'enflamme sur les violences policières. Léaument condamne avec forc
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>12j8y3HMUmE</videoId>
       <enclosure url="https://i.ytimg.com/vi/12j8y3HMUmE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les jeunes nous font honneur - Mon intervention au meeting de Paris</title>
-      <link>https://www.youtube.com/watch?v=3QUZoFMQQig</link>
-      <guid>https://www.youtube.com/watch?v=3QUZoFMQQig</guid>
-      <pubDate>2026-10-14T20:58:24+00:00</pubDate>
-      <author>Louis Boyard</author>
-      <description />
-      <channelTitle>Louis Boyard</channelTitle>
-      <videoId>3QUZoFMQQig</videoId>
-      <enclosure url="https://i.ytimg.com/vi/3QUZoFMQQig/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
