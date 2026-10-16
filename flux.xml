@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 16 Oct 2026 08:30:57 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:45:38 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Hommage à Samuel Paty.</title>
+      <link>https://www.youtube.com/watch?v=9ewA1M8dyM4</link>
+      <guid>https://www.youtube.com/watch?v=9ewA1M8dyM4</guid>
+      <pubDate>2026-10-16T08:39:18+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Aujourd'hui, trois jours après le triste anniversaire de l’attentat d’Arras contre Dominique Bernard, nous commémorons l’assassinat de Samuel Paty, ce professeur d’histoire-géographie sauvagement tué par un islamiste pour avoir enseigné à ses élèves la liberté d’expression.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>9ewA1M8dyM4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/9ewA1M8dyM4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>17 octobre / Lycée Paul Éluard : contre la répression du mouvement de la jeunesse</title>
       <link>https://www.youtube.com/watch?v=u1D6D_yQa0Y</link>
@@ -447,23 +458,6 @@ Nous ne voulons pas un "Octobre rose", mais un Octobre colère.</description>
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>OkA1y4cpaBs</videoId>
       <enclosure url="https://i.ytimg.com/vi/OkA1y4cpaBs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Budget européen : faire de la contribution française un levier pour changer l’Europe !</title>
-      <link>https://www.youtube.com/watch?v=pVDmNzFus9E</link>
-      <guid>https://www.youtube.com/watch?v=pVDmNzFus9E</guid>
-      <pubDate>2026-10-14T17:08:37+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez le discours d’Éric Coquerel lors du débat sur le prélèvement sur recettes au profit de l’Union européenne, à l’Assemblée nationale, le 14 octobre 2026.
-
-🔴🗣 Votre vision de l’Europe nous mène vers l’abîme.
-
-Telle qu’elle existe aujourd’hui, l’Union européenne reste le cheval de Troie d’un néolibéralisme et d’une politique de l’offre dont la duplicité ne nous laisse que plus d’échecs.
-
-Reculs environnementaux, mise en concurrence des agricultures, austérité : la contribution française au budget européen doit devenir un levier pour changer cette Europe, pas une simple variable budgétaire.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>pVDmNzFus9E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pVDmNzFus9E/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
