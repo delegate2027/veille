@@ -4,8 +4,37 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 17 Oct 2026 12:30:56 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:45:39 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>OLIVIER BESANCENOT : "17 OCTOBRE, UNE RÉVOLTE CONTRE LA VIE CHÈRE"</title>
+      <link>https://www.youtube.com/watch?v=lccjm0pitvs</link>
+      <guid>https://www.youtube.com/watch?v=lccjm0pitvs</guid>
+      <pubDate>2026-10-17T12:42:40+00:00</pubDate>
+      <author>NPA - L’Anticapitaliste</author>
+      <description>Olivier Besancenot était l'invité de BFM TV le 16 octobre, veille de la grande journée de mobilisation de convergence des luttes : gilets jaunes, mouvement lycéen et étudiant, contre la vie chère etc...
+
+Suivez L’Anticapitaliste, le média :
+http://lanticapitaliste.org
+Instagram : http://www.instagram.com/l_anticapitaliste
+Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
+Twitter : http://www.twitter.com/Lanticapitalis1
+Tik Tok : http://www.tiktok.com/@lanticapitaliste
+Facebook : http://www.facebook.com/anticapitaliste.presse
+Threads : http://www.threads.net/@l_anticapitaliste
+
+L’actu du NPA l'Anticapitaliste :
+http://npa-lanticapitaliste.org
+Instagram : http://www.instagram.com/npa.anticapitaliste
+Bluesky : http://bsky.app/profile/npa-antica.bsky.social
+Twitter : http://www.twitter.com/NPA_antica
+Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
+Facebook : http://www.facebook.com/npa.anticapitaliste
+Threads : http://www.threads.net/@npa.officiel</description>
+      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
+      <videoId>lccjm0pitvs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/lccjm0pitvs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>📺 Le 17 octobre agglomère les colères en un RAS-LE-BOL général</title>
       <link>https://www.youtube.com/watch?v=9q5RbKsNk6w</link>
@@ -477,32 +506,6 @@ Nous sommes, nous les patriotes, la solution !</description>
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>dYTK6KLdpNE</videoId>
       <enclosure url="https://i.ytimg.com/vi/dYTK6KLdpNE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Il y a un danger plus sourd : l'IA conversationnelle | Sarah El Haïry</title>
-      <link>https://www.youtube.com/watch?v=jhJJe5tES1w</link>
-      <guid>https://www.youtube.com/watch?v=jhJJe5tES1w</guid>
-      <pubDate>2026-10-15T09:18:56+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Il y a un danger plus sourd : l'IA conversationnelle | Sarah El Haïry
-
-Notre Haute-commissaire à l'Enfance et vice-présidente du MoDem était l'invitée de Sud Radio ce jeudi 15 octobre.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 [Lien vers l'article]
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>jhJJe5tES1w</videoId>
-      <enclosure url="https://i.ytimg.com/vi/jhJJe5tES1w/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
