@@ -4,71 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 17 Oct 2026 03:01:01 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:15:34 -0000</lastBuildDate>
     <feedCount>51</feedCount>
-    <item>
-      <title>David Guiraud recadre un journaliste de Valeurs Actuelles</title>
-      <link>https://www.youtube.com/watch?v=gRPOHaPkk04</link>
-      <guid>https://www.youtube.com/watch?v=gRPOHaPkk04</guid>
-      <pubDate>2026-09-10T20:37:46+00:00</pubDate>
-      <author>David Guiraud</author>
-      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
-
-Sur Tiktok : @davidguiraudlfi
-Twitter : https://twitter.com/guiraudind
-Instagram : https://www.instagram.com/guirauddavid/
-Facebook : https://www.facebook.com/david.guiraud.50</description>
-      <channelTitle>David Guiraud</channelTitle>
-      <videoId>gRPOHaPkk04</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gRPOHaPkk04/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>David Guiraud, Maire de Roubaix : Quel bilan après 4 mois ?</title>
-      <link>https://www.youtube.com/watch?v=8MVDNDbdYvg</link>
-      <guid>https://www.youtube.com/watch?v=8MVDNDbdYvg</guid>
-      <pubDate>2026-08-07T20:15:25+00:00</pubDate>
-      <author>David Guiraud</author>
-      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
-
-Sur Tiktok : @davidguiraudlfi
-Twitter : https://twitter.com/guiraudind
-Instagram : https://www.instagram.com/guirauddavid/
-Facebook : https://www.facebook.com/david.guiraud.50</description>
-      <channelTitle>David Guiraud</channelTitle>
-      <videoId>8MVDNDbdYvg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8MVDNDbdYvg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Superbe ambiance au match France - Maroc à la Fan zone de Roubaix</title>
-      <link>https://www.youtube.com/watch?v=q7jsM4GpRHM</link>
-      <guid>https://www.youtube.com/watch?v=q7jsM4GpRHM</guid>
-      <pubDate>2026-07-10T13:20:22+00:00</pubDate>
-      <author>David Guiraud</author>
-      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
-
-Sur Tiktok : @davidguiraudlfi
-Twitter : https://twitter.com/guiraudind
-Instagram : https://www.instagram.com/guirauddavid/
-Facebook : https://www.facebook.com/david.guiraud.50</description>
-      <channelTitle>David Guiraud</channelTitle>
-      <videoId>q7jsM4GpRHM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/q7jsM4GpRHM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ambiance de folie lors du match France - Sénégal à la Fan Zone de Roubaix</title>
-      <link>https://www.youtube.com/watch?v=kuGSSTyIGiw</link>
-      <guid>https://www.youtube.com/watch?v=kuGSSTyIGiw</guid>
-      <pubDate>2026-06-17T15:15:39+00:00</pubDate>
-      <author>David Guiraud</author>
-      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
-
-Sur Tiktok : @davidguiraudlfi
-Twitter : https://twitter.com/guiraudind
-Instagram : https://www.instagram.com/guirauddavid/
-Facebook : https://www.facebook.com/david.guiraud.50</description>
-      <channelTitle>David Guiraud</channelTitle>
-      <videoId>kuGSSTyIGiw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/kuGSSTyIGiw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
