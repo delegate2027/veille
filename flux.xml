@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 17 Oct 2026 20:31:01 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:45:48 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>Journée du 17 octobre : réaction de Marine Tondelier sur le plateau de LCI</title>
@@ -16,30 +16,6 @@
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>CB7YUgjP7EY</videoId>
       <enclosure url="https://i.ytimg.com/vi/CB7YUgjP7EY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>17 octobre réussi : construisons des assemblées interpros pour la GRÈVE GÉNÉRALE ! - Anasse Kazib</title>
-      <link>https://www.youtube.com/watch?v=1bA2IVS41ww</link>
-      <guid>https://www.youtube.com/watch?v=1bA2IVS41ww</guid>
-      <pubDate>2026-10-17T18:04:13+00:00</pubDate>
-      <author>Révolution Permanente</author>
-      <description>« Après cette journée réussie, on doit développer l'auto-organisation pour construire le mouvement. Dès la semaine prochaine, on doit organiser des assemblées inter-pro dans toute la France. Il faut que l’ensemble des travailleurs du pays rentrent dans la bataille par la grève pour impacter réellement l’économie et mettre à terre le gouvernement » 📢 - Anasse Kazib, candidat à la présidentielle pour Révolution Permanente.
-
-Abonnez-vous à notre chaîne YouTube !
-➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
-
-★ Retrouvez-nous sur les réseaux sociaux :
-▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
-▸Twitter ▸ https://twitter.com/@RevPermanente
-▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
-▸Telegram ▸ https://t.me/revolution_permanente
-▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
-      <channelTitle>Révolution Permanente</channelTitle>
-      <videoId>1bA2IVS41ww</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1bA2IVS41ww/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>OLIVIER BESANCENOT : "17 OCTOBRE, UNE RÉVOLTE CONTRE LA VIE CHÈRE"</title>
@@ -498,6 +474,32 @@ Nous sommes, nous les patriotes, la solution !</description>
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>dYTK6KLdpNE</videoId>
       <enclosure url="https://i.ytimg.com/vi/dYTK6KLdpNE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Il y a un danger plus sourd : l'IA conversationnelle | Sarah El Haïry</title>
+      <link>https://www.youtube.com/watch?v=jhJJe5tES1w</link>
+      <guid>https://www.youtube.com/watch?v=jhJJe5tES1w</guid>
+      <pubDate>2026-10-15T09:18:56+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Il y a un danger plus sourd : l'IA conversationnelle | Sarah El Haïry
+
+Notre Haute-commissaire à l'Enfance et vice-présidente du MoDem était l'invitée de Sud Radio ce jeudi 15 octobre.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 [Lien vers l'article]
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>jhJJe5tES1w</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jhJJe5tES1w/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
