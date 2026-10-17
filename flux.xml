@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 17 Oct 2026 14:30:54 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:45:40 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>OLIVIER BESANCENOT : "17 OCTOBRE, UNE RÉVOLTE CONTRE LA VIE CHÈRE"</title>
@@ -255,19 +255,6 @@ https://twitter.com/partiudr
       <enclosure url="https://i.ytimg.com/vi/afIFOiI0uF8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>LAURE LAVALETTE est l'invitée de PASCAL PRAUD sur CNEWS !</title>
-      <link>https://www.youtube.com/watch?v=CFB3kC6soMw</link>
-      <guid>https://www.youtube.com/watch?v=CFB3kC6soMw</guid>
-      <pubDate>2026-10-16T10:17:27+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>CFB3kC6soMw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/CFB3kC6soMw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>18 octobre | Hommage aux fusillés de Châteaubriant</title>
       <link>https://www.youtube.com/watch?v=Yaa0lwryb7A</link>
       <guid>https://www.youtube.com/watch?v=Yaa0lwryb7A</guid>
@@ -506,6 +493,32 @@ Nous sommes, nous les patriotes, la solution !</description>
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>dYTK6KLdpNE</videoId>
       <enclosure url="https://i.ytimg.com/vi/dYTK6KLdpNE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Il y a un danger plus sourd : l'IA conversationnelle | Sarah El Haïry</title>
+      <link>https://www.youtube.com/watch?v=jhJJe5tES1w</link>
+      <guid>https://www.youtube.com/watch?v=jhJJe5tES1w</guid>
+      <pubDate>2026-10-15T09:18:56+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Il y a un danger plus sourd : l'IA conversationnelle | Sarah El Haïry
+
+Notre Haute-commissaire à l'Enfance et vice-présidente du MoDem était l'invitée de Sud Radio ce jeudi 15 octobre.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 [Lien vers l'article]
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>jhJJe5tES1w</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jhJJe5tES1w/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
