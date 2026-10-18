@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 18 Oct 2026 09:15:36 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:30:51 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>17 octobre : LFI en mode 5 VS 1 sur LCI</title>
@@ -55,6 +55,35 @@ Chapitres :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>CB7YUgjP7EY</videoId>
       <enclosure url="https://i.ytimg.com/vi/CB7YUgjP7EY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>👥 3/ La lutte contre l'ANTISÉMITISME au cœur des luttes antiracistes</title>
+      <link>https://www.youtube.com/watch?v=YnpnCnmtTdc</link>
+      <guid>https://www.youtube.com/watch?v=YnpnCnmtTdc</guid>
+      <pubDate>2026-10-17T16:50:27+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>3ème table ronde du colloque « Lutter contre l'antisémitisme : une lutte antiraciste » organisé le 24 septembre 2026 à l'Assemblée nationale par Danièle Obono et Gabrielle Cathala, député·es LFI
+
+Intervenant·es : Brendan McGeever, sociologue au Birbeck Institute for the Study of Antisemitisme, Reza Zia-Ebrahimi, historien au King's College de Londres, et Sonia Dayan-Herzbrun, sociologue et professeure émérite à l'université de Paris Diderot
+Animation : Imane El Hamzaoui, co-animatrice du livre antiraciste de LFI
+
+Pour aller plus loin
+-  Reza Zia-Ebrahimi, Antisémitisme et Islamophobie, une histoire croisée, 2021 : https://www.editionsamsterdam.fr/antisemitisme-et-islamophobie/
+- Brendan McGeever, Facing antisemitism: the struggle for safety and solidarity, Runnymede Trust », janvier 2025 : https://www.runnymedetrust.org/publications/facing-antisemitism-the-struggle-for-safety-and-solidarity
+Sonia Dayan-Herzbrun, Le sionisme, une invention européenne. Genèse d'une idéologie, 2025
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram : https://www.instagram.com/deputee_obono
+➡️ Facebook : https://www.facebook.com/DanieleObono
+➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
+➡️ Threads : https://www.threads.com/@deputee_obono
+➡️ TikTok : https://www.tiktok.com/@danieleobono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>YnpnCnmtTdc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YnpnCnmtTdc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>OLIVIER BESANCENOT : "17 OCTOBRE, UNE RÉVOLTE CONTRE LA VIE CHÈRE"</title>
@@ -372,27 +401,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>R-N3alO94O8</videoId>
       <enclosure url="https://i.ytimg.com/vi/R-N3alO94O8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🎙️BATAILLE budgétaire, mouvement lycéen, GUERRE et paix en Ukraine...Je réponds à vos questions</title>
-      <link>https://www.youtube.com/watch?v=F79sFrAhfEM</link>
-      <guid>https://www.youtube.com/watch?v=F79sFrAhfEM</guid>
-      <pubDate>2026-10-15T21:34:40+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage sur Twitch pour L'insoumission ce jeudi 15 octobre 2026
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/Deputee_Obono
-➡️ Instagram : https://www.instagram.com/deputee_obono/
-➡️ Facebook : https://www.facebook.com/DeputeeObono/
-➡️ Bluesky : https://bsky.app/profile/deputeeobono.bsky.social
-➡️ Threads : https://www.threads.com/@deputee_obono
-➡️ TikTok : https://www.tiktok.com/@deputee_obono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>F79sFrAhfEM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/F79sFrAhfEM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>J'ai confiance dans le peuple français | Marine Le Pen sur CNEWS</title>
