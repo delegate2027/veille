@@ -4,8 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 18 Oct 2026 10:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:30:52 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>"Je demande une commission d'enquête sur la journée du 17 octobre !" - Alexis Corbière</title>
+      <link>https://www.youtube.com/watch?v=-fuA5X3PhyM</link>
+      <guid>https://www.youtube.com/watch?v=-fuA5X3PhyM</guid>
+      <pubDate>2026-10-18T10:01:13+00:00</pubDate>
+      <author>Alexis Corbière</author>
+      <description>Le député Alexis Corbière était invité de la matinale France info Tv pour revenir sur la journée du 17 octobre et les violences qui l'ont émaillé, malgré d'imposants cortèges, pacifiques et prônant des revendications légitimes.
+Il a notamment demandé la démission du ministre de l'intérieur ainsi que la création d'une commission d'enquête à l'Assemblée nationale.</description>
+      <channelTitle>Alexis Corbière</channelTitle>
+      <videoId>-fuA5X3PhyM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-fuA5X3PhyM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>17 octobre : LFI en mode 5 VS 1 sur LCI</title>
       <link>https://www.youtube.com/watch?v=KAakFaE5_Xc</link>
@@ -509,18 +521,6 @@ Free Palestine 🇵🇸</description>
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>orLr-6Xm4fk</videoId>
       <enclosure url="https://i.ytimg.com/vi/orLr-6Xm4fk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'urgence, c'est l'alternance !</title>
-      <link>https://www.youtube.com/watch?v=dYTK6KLdpNE</link>
-      <guid>https://www.youtube.com/watch?v=dYTK6KLdpNE</guid>
-      <pubDate>2026-10-15T10:14:23+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Les crises énergétique, sécuritaire et migratoire ne viennent pas de nulle part : le gouvernement et Emmanuel Macron sont les seuls responsables.
-Nous sommes, nous les patriotes, la solution !</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>dYTK6KLdpNE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dYTK6KLdpNE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
