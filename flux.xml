@@ -4,15 +4,26 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 18 Oct 2026 12:15:40 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:31:04 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Je réagis sur LCI à la journée de mobilisation de masse du 17 octobre</title>
+      <link>https://www.youtube.com/watch?v=Ac7_2s9BhqM</link>
+      <guid>https://www.youtube.com/watch?v=Ac7_2s9BhqM</guid>
+      <pubDate>2026-10-18T12:22:13+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez l'interview d'Eric Coquerel invité de LCI le dimanche 18 octobre, sur la mobilisation historique du 17 octobre, de la mauvaise gestion du maintien de l'ordre et du manque d'anticipation du gouvernement.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>Ac7_2s9BhqM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Ac7_2s9BhqM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier face à Bruno Retailleau, le débat sur le maintien de l'ordre avec Benjamin Duhamel</title>
       <link>https://www.youtube.com/watch?v=LnuQsGlinys</link>
       <guid>https://www.youtube.com/watch?v=LnuQsGlinys</guid>
       <pubDate>2026-10-18T12:06:26+00:00</pubDate>
       <author>Les Écologistes</author>
-      <description>Débat du 18 octobre 2026 dans Franc-Jeu sur France 2.</description>
+      <description>Débat du 18 octobre 2026 dans Franc-Jeu sur France 2 et France Inter.</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>LnuQsGlinys</videoId>
       <enclosure url="https://i.ytimg.com/vi/LnuQsGlinys/maxresdefault.jpg" type="image/jpeg" />
@@ -488,28 +499,6 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <channelTitle>NPA - L’Anticapitaliste</channelTitle>
       <videoId>Jen8xeu0cf4</videoId>
       <enclosure url="https://i.ytimg.com/vi/Jen8xeu0cf4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Réunion publique à Paris - Sophia Chikirou  | Présidentielle 2027</title>
-      <link>https://www.youtube.com/watch?v=MZ7maKdeQTE</link>
-      <guid>https://www.youtube.com/watch?v=MZ7maKdeQTE</guid>
-      <pubDate>2026-10-15T16:45:32+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>Discours de Sophia Chikirou lors de la réunion publique de soutien à la candidature de Jean-Luc Mélenchon à l’élection présidentielle de 2027, organisée à Paris le mercredi 14 octobre à partir de 19h30.
-
-Retrouvez la captation de la réunion entière sur la chaîne de la France insoumise, avec la participation de :
-Louis Boyard
-Manon Aubry
-Assa Traoré 
-Sophia Chikirou 
-Danièle Obono 
-Sarah Legrain 
-Rodrigo Arenas 
-
-👉 Rejoignez la campagne : melenchon2027.fr</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>MZ7maKdeQTE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MZ7maKdeQTE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
