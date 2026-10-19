@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 13:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:01:08 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>Je demande des aides d’urgence au gouvernement pour les petits commerces.</title>
@@ -219,6 +219,20 @@ https://twitter.com/partiudr
       <enclosure url="https://i.ytimg.com/vi/kCt42s2BTGw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Budget 2027 : stop au catastrophisme, le bilan du macronisme en cause - Éric Coquerel</title>
+      <link>https://www.youtube.com/watch?v=ayImSQcHpUo</link>
+      <guid>https://www.youtube.com/watch?v=ayImSQcHpUo</guid>
+      <pubDate>2026-10-19T06:00:38+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez l’intervention d’Éric Coquerel, le mardi 14 octobre, lors du point presse hebdomadaire du groupe LFI sur le budget 2027.
+
+Il appelle à ne pas céder aux discours catastrophistes sur la situation budgétaire : la France n’est pas en faillite et la peur ne doit pas servir à imposer n’importe quelle solution.
+Le rejet massif de la première partie du PLF en commission des finances témoigne aussi de l’échec des politiques économiques menées depuis plusieurs années, qui creusent les déficits, freinent la croissance et font peser l’austérité sur les ménages sans répondre aux besoins du pays.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>ayImSQcHpUo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ayImSQcHpUo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>🔴 MÉLENCHON : « Le fond de l'affaire, ce sont les revendications des gens »</title>
       <link>https://www.youtube.com/watch?v=Lep-S8yECO8</link>
       <guid>https://www.youtube.com/watch?v=Lep-S8yECO8</guid>
@@ -431,27 +445,6 @@ Le constat doit nous alerter : notre pays est pris en étau, voire en otage, ent
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>LnuQsGlinys</videoId>
       <enclosure url="https://i.ytimg.com/vi/LnuQsGlinys/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>👥Conclusion Gabrielle Cathala - Colloque « Lutter contre l'antisémitisme : une lutte antiraciste »</title>
-      <link>https://www.youtube.com/watch?v=pnEqQBal-hk</link>
-      <guid>https://www.youtube.com/watch?v=pnEqQBal-hk</guid>
-      <pubDate>2026-10-18T11:00:05+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez la conclusion du colloque du 24 septembre 2026 intitulé « Lutter contre l'antisémitisme : une lutte antiraciste », organisé par Danièle Obono et Gabrielle Cathala.
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/deputee_obono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@deputee_obono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>pnEqQBal-hk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pnEqQBal-hk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
