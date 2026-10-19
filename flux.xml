@@ -4,8 +4,44 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 09:31:12 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:45:40 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>EN DIRECT | Face au chaos, la France en ordre : suivez ma conférence de presse.</title>
+      <link>https://www.youtube.com/watch?v=yAyalr_6q90</link>
+      <guid>https://www.youtube.com/watch?v=yAyalr_6q90</guid>
+      <pubDate>2026-10-19T09:35:49+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Rejoignez la campagne :
+https://marinelepen.com/</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>yAyalr_6q90</videoId>
+      <enclosure url="https://i.ytimg.com/vi/yAyalr_6q90/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Anasse 2027 : faire entrer les luttes des LYCÉENS et des TRAVAILLEURS dans la Présidentielle ?</title>
+      <link>https://www.youtube.com/watch?v=gKuTKwz5Dgs</link>
+      <guid>https://www.youtube.com/watch?v=gKuTKwz5Dgs</guid>
+      <pubDate>2026-10-19T09:31:42+00:00</pubDate>
+      <author>Révolution Permanente</author>
+      <description>Ce dimanche 11 octobre, Révolution Permanente organisait une Assemblée ouverte à la Bourse du travail de Saint-Denis pour présenter la candidature d’Anasse Kazib à l’élection présidentielle. La révolte de la jeunesse en cours a été au centre des discussions : quel projet politique peut prolonger la radicalité du mouvement dans la présidentielle et permettre de s’affronter à un régime radicalisé ?
+
+Abonnez-vous à notre chaîne YouTube !
+➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
+
+★ Retrouvez-nous sur les réseaux sociaux :
+▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
+▸Twitter ▸ https://twitter.com/@RevPermanente
+▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
+▸Telegram ▸ https://t.me/revolution_permanente
+▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
+      <channelTitle>Révolution Permanente</channelTitle>
+      <videoId>gKuTKwz5Dgs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gKuTKwz5Dgs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Mobilisation du 17 octobre 2026 : l'allocution du Président Macron est une farce ! - Alexis Corbière</title>
       <link>https://www.youtube.com/watch?v=Bq9uPa_Terw</link>
@@ -16,18 +52,6 @@
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>Bq9uPa_Terw</videoId>
       <enclosure url="https://i.ytimg.com/vi/Bq9uPa_Terw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Face au chaos, la France en ordre : suivez ma conférence de presse.</title>
-      <link>https://www.youtube.com/watch?v=yAyalr_6q90</link>
-      <guid>https://www.youtube.com/watch?v=yAyalr_6q90</guid>
-      <pubDate>2026-10-19T08:55:55+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Rejoignez la campagne :
-https://marinelepen.com/</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>yAyalr_6q90</videoId>
-      <enclosure url="https://i.ytimg.com/vi/yAyalr_6q90/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>THOMAS MÉNAGÉ : « Les casseurs doivent payer ! » (FRANCE INFO)</title>
@@ -428,18 +452,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>pnEqQBal-hk</videoId>
       <enclosure url="https://i.ytimg.com/vi/pnEqQBal-hk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Je demande une commission d'enquête sur la journée du 17 octobre !" - Alexis Corbière</title>
-      <link>https://www.youtube.com/watch?v=-fuA5X3PhyM</link>
-      <guid>https://www.youtube.com/watch?v=-fuA5X3PhyM</guid>
-      <pubDate>2026-10-18T10:01:13+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député Alexis Corbière était invité de la matinale France info Tv pour revenir sur la journée du 17 octobre et les violences qui l'ont émaillé, malgré d'imposants cortèges, pacifiques et prônant des revendications légitimes.
-Il a notamment demandé la démission du ministre de l'intérieur ainsi que la création d'une commission d'enquête à l'Assemblée nationale.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>-fuA5X3PhyM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-fuA5X3PhyM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
