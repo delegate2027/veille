@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 09:15:38 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:31:12 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>Mobilisation du 17 octobre 2026 : l'allocution du Président Macron est une farce ! - Alexis Corbière</title>
@@ -16,19 +16,6 @@
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>Bq9uPa_Terw</videoId>
       <enclosure url="https://i.ytimg.com/vi/Bq9uPa_Terw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Notre budget 2027 : je réponds à Nicolas Doze</title>
-      <link>https://www.youtube.com/watch?v=mych9O3bAWI</link>
-      <guid>https://www.youtube.com/watch?v=mych9O3bAWI</guid>
-      <pubDate>2026-10-19T08:56:35+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>L’éditorialiste économique de LCI Nicolas Doze a pilonné notre « contre-budget ». Pas étonnant de la part de cet ultra-libéral. Je lui réponds ici point par point. 
-
-Une bonne occasion de faire un SAV de ce budget 2027 😉</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>mych9O3bAWI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/mych9O3bAWI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>EN DIRECT | Face au chaos, la France en ordre : suivez ma conférence de presse.</title>
@@ -441,6 +428,18 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>pnEqQBal-hk</videoId>
       <enclosure url="https://i.ytimg.com/vi/pnEqQBal-hk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Je demande une commission d'enquête sur la journée du 17 octobre !" - Alexis Corbière</title>
+      <link>https://www.youtube.com/watch?v=-fuA5X3PhyM</link>
+      <guid>https://www.youtube.com/watch?v=-fuA5X3PhyM</guid>
+      <pubDate>2026-10-18T10:01:13+00:00</pubDate>
+      <author>Alexis Corbière</author>
+      <description>Le député Alexis Corbière était invité de la matinale France info Tv pour revenir sur la journée du 17 octobre et les violences qui l'ont émaillé, malgré d'imposants cortèges, pacifiques et prônant des revendications légitimes.
+Il a notamment demandé la démission du ministre de l'intérieur ainsi que la création d'une commission d'enquête à l'Assemblée nationale.</description>
+      <channelTitle>Alexis Corbière</channelTitle>
+      <videoId>-fuA5X3PhyM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-fuA5X3PhyM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
