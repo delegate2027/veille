@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 17:15:38 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:30:54 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>EN DIRECT | Je réponds à toutes les questions de Sonia Mabrouk sur BFMTV.</title>
+      <link>https://www.youtube.com/watch?v=raZJV6w7Nfc</link>
+      <guid>https://www.youtube.com/watch?v=raZJV6w7Nfc</guid>
+      <pubDate>2026-10-19T17:27:27+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>raZJV6w7Nfc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/raZJV6w7Nfc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Vite l'augmentation du SMIC et l'échelle mobile des salaires</title>
       <link>https://www.youtube.com/watch?v=ANvh6AvD8iM</link>
@@ -432,17 +443,6 @@ Aussi la droite : voudrait que tous les Français, même les plus précaires, pa
       <channelTitle>DAMIEN MAUDET</channelTitle>
       <videoId>pIhgYdkhgtI</videoId>
       <enclosure url="https://i.ytimg.com/vi/pIhgYdkhgtI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Je réagis sur LCI à la journée de mobilisation de masse du 17 octobre</title>
-      <link>https://www.youtube.com/watch?v=Ac7_2s9BhqM</link>
-      <guid>https://www.youtube.com/watch?v=Ac7_2s9BhqM</guid>
-      <pubDate>2026-10-18T12:22:13+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez l'interview d'Eric Coquerel invité de LCI le dimanche 18 octobre, sur la mobilisation historique du 17 octobre, de la mauvaise gestion du maintien de l'ordre et du manque d'anticipation du gouvernement.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>Ac7_2s9BhqM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ac7_2s9BhqM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
