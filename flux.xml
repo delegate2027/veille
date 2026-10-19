@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 15:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:31:00 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Rétablir l'ordre.</title>
+      <link>https://www.youtube.com/watch?v=g86HpR_Nxgk</link>
+      <guid>https://www.youtube.com/watch?v=g86HpR_Nxgk</guid>
+      <pubDate>2026-10-19T15:12:54+00:00</pubDate>
+      <author>Bruno Retailleau</author>
+      <description>Suivez ma déclaration en direct.</description>
+      <channelTitle>Bruno Retailleau</channelTitle>
+      <videoId>g86HpR_Nxgk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/g86HpR_Nxgk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Mobilisation du #17octobre : ce mouvement est inarrêtable il s'agit de survie ! | Sandrine Rousseau</title>
       <link>https://www.youtube.com/watch?v=j42Li_8G5tY</link>
@@ -430,27 +441,6 @@ Le constat doit nous alerter : notre pays est pris en étau, voire en otage, ent
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>LnuQsGlinys</videoId>
       <enclosure url="https://i.ytimg.com/vi/LnuQsGlinys/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>👥Conclusion Gabrielle Cathala - Colloque « Lutter contre l'antisémitisme : une lutte antiraciste »</title>
-      <link>https://www.youtube.com/watch?v=pnEqQBal-hk</link>
-      <guid>https://www.youtube.com/watch?v=pnEqQBal-hk</guid>
-      <pubDate>2026-10-18T11:00:05+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez la conclusion du colloque du 24 septembre 2026 intitulé « Lutter contre l'antisémitisme : une lutte antiraciste », organisé par Danièle Obono et Gabrielle Cathala.
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/deputee_obono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@deputee_obono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>pnEqQBal-hk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pnEqQBal-hk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
