@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 07:15:37 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:30:52 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Emeutes du 7 octobre : la réaction d'Eric Ciotti sur BFM</title>
+      <link>https://www.youtube.com/watch?v=TpkY-o1xZUg</link>
+      <guid>https://www.youtube.com/watch?v=TpkY-o1xZUg</guid>
+      <pubDate>2026-10-19T07:29:00+00:00</pubDate>
+      <author>UDR</author>
+      <description>Crédits Vidéo : BFM TV
+
+----------------------------------------------
+
+► Rejoignez l'UDR ici :
+https://www.udr.fr/
+https://www.instagram.com/partiudr
+https://www.tiktok.com/@partiudr
+https://www.facebook.com/udrofficiel
+https://twitter.com/partiudr
+
+----------------------------------------------
+
+► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
+
+#UDR #EricCiotti</description>
+      <channelTitle>UDR</channelTitle>
+      <videoId>TpkY-o1xZUg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/TpkY-o1xZUg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jordan Bardella sur CNEWS : « Ceux qui ont casser doivent payer ! »</title>
       <link>https://www.youtube.com/watch?v=kCt42s2BTGw</link>
@@ -483,23 +509,6 @@ Retrouvez le discours de Paul Vannier à la tribune de l'Assemblée nationale, l
       <channelTitle>Paul Vannier</channelTitle>
       <videoId>1fM9EWC0yN8</videoId>
       <enclosure url="https://i.ytimg.com/vi/1fM9EWC0yN8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Comment nous allons remettre de l’ordre dans les comptes publics ? [extrait]</title>
-      <link>https://www.youtube.com/watch?v=V_q_obcWqjI</link>
-      <guid>https://www.youtube.com/watch?v=V_q_obcWqjI</guid>
-      <pubDate>2026-10-17T06:00:05+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez l'extrait du passage d'Eric Coquerel lors de la conférence de presse intitulée « Comment nous allons remettre de l’ordre dans les comptes publics » avec Jean-Luc Mélenchon.
-
-Ce budget consiste de manière très raisonnable à imposer davantage le capitalisme financier improductif pour répondre aux besoins. Et dégager une marge conséquente pour réduire les déficits mieux que sous 10 ans de macronisme.
-
-🖇Lien vers l'intégralité de la conférence 👉 https://www.youtube.com/live/-Nb_bTgARWw?is=iqsyL9uOgzn6Lodq
-
-📄 Retrouvez le document budgétaire pour 2027 👉 https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>V_q_obcWqjI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/V_q_obcWqjI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
