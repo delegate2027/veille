@@ -4,10 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 07:30:52 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:45:35 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
-      <title>Emeutes du 7 octobre : la réaction d'Eric Ciotti sur BFM</title>
+      <title>Gabriel Attal sur RTL I Réaction aux violences de ce week-end</title>
+      <link>https://www.youtube.com/watch?v=DejUrE5fkzo</link>
+      <guid>https://www.youtube.com/watch?v=DejUrE5fkzo</guid>
+      <pubDate>2026-10-19T07:41:17+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal était l'invité de RTL pour parler des violences survenues le week-end du 17 octobre et 18 octobre.
+
+Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>DejUrE5fkzo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DejUrE5fkzo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nous sommes face à une intifada française : la réaction d'Eric Ciotti sur BFM</title>
       <link>https://www.youtube.com/watch?v=TpkY-o1xZUg</link>
       <guid>https://www.youtube.com/watch?v=TpkY-o1xZUg</guid>
       <pubDate>2026-10-19T07:29:00+00:00</pubDate>
@@ -486,29 +508,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>9q5RbKsNk6w</videoId>
       <enclosure url="https://i.ytimg.com/vi/9q5RbKsNk6w/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Ici, on noie les Algériens. » La France doit reconnaître le crime d’État du 17 octobre 1961.</title>
-      <link>https://www.youtube.com/watch?v=1fM9EWC0yN8</link>
-      <guid>https://www.youtube.com/watch?v=1fM9EWC0yN8</guid>
-      <pubDate>2026-10-17T07:00:30+00:00</pubDate>
-      <author>Paul Vannier</author>
-      <description>Le 17 octobre 1961, la police aux ordres de Papon réprimait les Algériens dans le sang et les jetait dans la Seine.
-
-Ce massacre doit être reconnu par la France comme un crime d’État.
-
-Retrouvez le discours de Paul Vannier à la tribune de l'Assemblée nationale, le 28 mars 2024.
-
-📲 RETROUVEZ PAUL VANNIER SUR :
-
-🔗 Telegram : https://t.me/paulvannier
-🔗 Facebook : https://bit.ly/3PD1FZ1
-🔗 Twitter : https://twitter.com/PaulVannierFI
-🔗 Instagram : https://www.instagram.com/paulvannier_/
-🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
-      <channelTitle>Paul Vannier</channelTitle>
-      <videoId>1fM9EWC0yN8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1fM9EWC0yN8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
