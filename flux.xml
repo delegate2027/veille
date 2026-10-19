@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 15:31:00 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:45:39 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
+      <link>https://www.youtube.com/watch?v=SJ1BhZdb8sI</link>
+      <guid>https://www.youtube.com/watch?v=SJ1BhZdb8sI</guid>
+      <pubDate>2026-10-19T15:38:30+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Ce mardi 20 octobre, rendez-vous à 19h15 pour suivre en direct une conférence de Jean-Luc Mélenchon sur le moment politique.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>SJ1BhZdb8sI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SJ1BhZdb8sI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Rétablir l'ordre.</title>
       <link>https://www.youtube.com/watch?v=g86HpR_Nxgk</link>
@@ -370,27 +391,6 @@ Leur responsabilité dans ces scènes de chaos est accablante.</description>
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>5ucNlO-q3xM</videoId>
       <enclosure url="https://i.ytimg.com/vi/5ucNlO-q3xM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>17 octobre : Macron joue le pourrissement</title>
-      <link>https://www.youtube.com/watch?v=c9oy1l8w8Ig</link>
-      <guid>https://www.youtube.com/watch?v=c9oy1l8w8Ig</guid>
-      <pubDate>2026-10-18T17:33:25+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un entretien sur LCI, le 18 octobre 2026.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>c9oy1l8w8Ig</videoId>
-      <enclosure url="https://i.ytimg.com/vi/c9oy1l8w8Ig/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Ils veulent que tout le monde paye au moins 50€ d'impôt sur le revenu ?!</title>
