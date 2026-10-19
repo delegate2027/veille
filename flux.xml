@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 15:45:39 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:01:02 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Limoges : les fermetures de commerces se multiplient depuis des semaines...</title>
+      <link>https://www.youtube.com/watch?v=jtMmQvo_q6w</link>
+      <guid>https://www.youtube.com/watch?v=jtMmQvo_q6w</guid>
+      <pubDate>2026-10-19T16:00:27+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description>« En une semaine sur la même place de centre-ville à Limoges, c'est le café de Philippe qui ferme et la boulangerie. »
+
+À Limoges, les fermetures de commerces se multiplient depuis des semaines. 
+
+Il existe plusieurs causes à ces fermetures, mais l'une d'elles, c'est le prix des loyers, beaucoup trop élevé comparé au chiffre d'affaire réalisé par les commerçants. 
+
+C'est pourquoi nous proposons de geler les loyers commerciaux.</description>
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>jtMmQvo_q6w</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jtMmQvo_q6w/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
       <link>https://www.youtube.com/watch?v=SJ1BhZdb8sI</link>
@@ -39,7 +56,7 @@
       <enclosure url="https://i.ytimg.com/vi/g86HpR_Nxgk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Mobilisation du #17octobre : ce mouvement est inarrêtable il s'agit de survie ! | Sandrine Rousseau</title>
+      <title>Mobilisations : ce mouvement est inarrêtable il s'agit de survie ! | Sandrine Rousseau</title>
       <link>https://www.youtube.com/watch?v=j42Li_8G5tY</link>
       <guid>https://www.youtube.com/watch?v=j42Li_8G5tY</guid>
       <pubDate>2026-10-19T14:36:26+00:00</pubDate>
@@ -404,21 +421,6 @@ Aussi la droite : voudrait que tous les Français, même les plus précaires, pa
       <channelTitle>DAMIEN MAUDET</channelTitle>
       <videoId>pIhgYdkhgtI</videoId>
       <enclosure url="https://i.ytimg.com/vi/pIhgYdkhgtI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rétablir l’ordre. Rendre la parole au peuple. Ouvrir la voie de la Renaissance.</title>
-      <link>https://www.youtube.com/watch?v=Qr3tCe8ZrdE</link>
-      <guid>https://www.youtube.com/watch?v=Qr3tCe8ZrdE</guid>
-      <pubDate>2026-10-18T15:57:14+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Vous avez vu hier nos villes, nos rues, notre pays, malmenés, maltraités, mis à sac.
-
-Nous vivons une crise profonde de confiance, d’autorité qui fait peser une menace sur la démocratie.
-
-Le constat doit nous alerter : notre pays est pris en étau, voire en otage, entre la violence et l’impuissance.</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>Qr3tCe8ZrdE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Qr3tCe8ZrdE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Je réagis sur LCI à la journée de mobilisation de masse du 17 octobre</title>
