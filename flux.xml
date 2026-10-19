@@ -4,8 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 19:15:40 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 19:30:55 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>🔴 17 OCTOBRE : NUÑEZ DOIT PARTIR, LES REVENDICATIONS ÊTRE SATISFAITES.</title>
+      <link>https://www.youtube.com/watch?v=g1SuOb_8w_A</link>
+      <guid>https://www.youtube.com/watch?v=g1SuOb_8w_A</guid>
+      <pubDate>2026-10-19T19:23:22+00:00</pubDate>
+      <author>Paul Vannier</author>
+      <description>Paul Vannier était invité de "Lundi, c'est politique" sur LCP avec Radio Classique et Challenges ce 19 octobre.
+
+📲 RETROUVEZ PAUL VANNIER SUR :
+
+🔗 Telegram : https://t.me/paulvannier
+🔗 Facebook : https://bit.ly/3PD1FZ1
+🔗 Twitter : https://twitter.com/PaulVannierFI
+🔗 Instagram : https://www.instagram.com/paulvannier_/
+🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
+      <channelTitle>Paul Vannier</channelTitle>
+      <videoId>g1SuOb_8w_A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/g1SuOb_8w_A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Gabriel Attal sur BFMTV  I Je réponds à toutes les questions de Sonia Mabrouk</title>
       <link>https://www.youtube.com/watch?v=Se0hzcMiIng</link>
@@ -437,23 +456,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>MnILfV4VQeg</videoId>
       <enclosure url="https://i.ytimg.com/vi/MnILfV4VQeg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La République est en danger.</title>
-      <link>https://www.youtube.com/watch?v=5ucNlO-q3xM</link>
-      <guid>https://www.youtube.com/watch?v=5ucNlO-q3xM</guid>
-      <pubDate>2026-10-18T17:34:58+00:00</pubDate>
-      <author>Bruno Retailleau</author>
-      <description>Bruno Retailleau était l'invité de Benjamin Duhamel sur France 2. 
-
-La « nouvelle France » de Jean-Luc Mélenchon, ce sont des individus qui bloquent les camions de pompiers et leur jettent des pavés, des incendies et des pillages. Voilà le chaos que l’extrême gauche fait régner sous le haut patronage de LFI. 
-
-À force de présenter la police comme provocatrice ou incompétente et de parler de « violence légitime » contre nos forces de l’ordre et nos pompiers, Jean-Luc Mélenchon et son camp ont armé les pilleurs avec leurs mots. 
-
-Leur responsabilité dans ces scènes de chaos est accablante.</description>
-      <channelTitle>Bruno Retailleau</channelTitle>
-      <videoId>5ucNlO-q3xM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5ucNlO-q3xM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
