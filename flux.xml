@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 02:00:58 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 02:15:33 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Jeunesse, censure, budget, vote à 16 ans : Clémence Guetté dans la matinale de France Info</title>
+      <link>https://www.youtube.com/watch?v=OvsTY9QD2LU</link>
+      <guid>https://www.youtube.com/watch?v=OvsTY9QD2LU</guid>
+      <pubDate>2026-10-14T06:59:22+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>J'étais ce matin l'invitée de la matinale de France Info. À retrouver en intégralité.</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>OvsTY9QD2LU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/OvsTY9QD2LU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
