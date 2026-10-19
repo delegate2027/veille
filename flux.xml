@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 10:45:44 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:01:06 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>PHILIPPE POUTOU, EST-CE QUE VOUS CONDAMNEZ LES VIOLENCES ?</title>
@@ -81,6 +81,19 @@ Abonnez-vous à notre chaîne YouTube !
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>Bq9uPa_Terw</videoId>
       <enclosure url="https://i.ytimg.com/vi/Bq9uPa_Terw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Notre budget 2027 : je réponds à Nicolas Doze</title>
+      <link>https://www.youtube.com/watch?v=mych9O3bAWI</link>
+      <guid>https://www.youtube.com/watch?v=mych9O3bAWI</guid>
+      <pubDate>2026-10-19T08:56:35+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>L’éditorialiste économique de LCI Nicolas Doze a pilonné notre « contre-budget ». Pas étonnant de la part de cet ultra-libéral. Je lui réponds ici point par point. 
+
+Une bonne occasion de faire un SAV de ce budget 2027 😉</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>mych9O3bAWI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/mych9O3bAWI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>THOMAS MÉNAGÉ : « Les casseurs doivent payer ! » (FRANCE INFO)</title>
@@ -449,17 +462,6 @@ Le constat doit nous alerter : notre pays est pris en étau, voire en otage, ent
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>Ac7_2s9BhqM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ac7_2s9BhqM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier face à Bruno Retailleau, le débat sur le maintien de l'ordre avec Benjamin Duhamel</title>
-      <link>https://www.youtube.com/watch?v=LnuQsGlinys</link>
-      <guid>https://www.youtube.com/watch?v=LnuQsGlinys</guid>
-      <pubDate>2026-10-18T12:06:26+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Débat du 18 octobre 2026 dans Franc-Jeu sur France 2 et France Inter.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>LnuQsGlinys</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LnuQsGlinys/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
