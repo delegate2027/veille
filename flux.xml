@@ -4,8 +4,31 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 20:15:39 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 20:30:48 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Une trouille au plus haut sommet de l’État.</title>
+      <link>https://www.youtube.com/watch?v=GZgsGjrfWx8</link>
+      <guid>https://www.youtube.com/watch?v=GZgsGjrfWx8</guid>
+      <pubDate>2026-10-19T20:19:58+00:00</pubDate>
+      <author>Bruno Retailleau</author>
+      <description>« Si on ne tape pas fort tout de suite, on est en retard. » Face à Sonia Mabrouk sur BFMTV, Bruno Retailleau réclame l’état d’urgence et dénonce « une trouille au plus haut sommet de l’État ».
+
+Pour l’ancien ministre de l’Intérieur, « l’ordre public, c’est un rapport de force ». Il revient sur sa méthode face aux casseurs, défend la responsabilité politique du ministre et accuse les propos d’Emmanuel Macron d’avoir désarmé les forces de l’ordre.
+
+État d’urgence dans l’immédiat, loi anticasseurs dans la durée : Bruno Retailleau détaille ses propositions. Il défend une révision de la Constitution, des peines minimales, l’abaissement de la majorité pénale à 15 ans et davantage de moyens pour le renseignement sur les messageries cryptées.
+
+Au cœur de cet échange : la protection des Français, l’équilibre entre droits individuels et sécurité collective, et la capacité de l’État à faire respecter l’ordre. Une ligne qu’il résume ainsi : « Le désordre, c’est l’asservissement. »
+
+État d’urgence, sanctions, moyens policiers : quelle devrait être la priorité ? Donnez votre avis en commentaire.
+
+Source : entretien de Bruno Retailleau avec Sonia Mabrouk sur BFMTV. Les positions et accusations rapportées sont celles de l’invité.
+
+#BrunoRetailleau #SoniaMabrouk #Politique</description>
+      <channelTitle>Bruno Retailleau</channelTitle>
+      <videoId>GZgsGjrfWx8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/GZgsGjrfWx8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>David Lisnard invité du 20h sur TF1</title>
       <link>https://www.youtube.com/watch?v=2TmA1q5CsEY</link>
@@ -405,23 +428,6 @@ Le rejet massif de la première partie du PLF en commission des finances témoig
       <channelTitle>Emmanuel Macron</channelTitle>
       <videoId>5iyWmbKCwNg</videoId>
       <enclosure url="https://i.ytimg.com/vi/5iyWmbKCwNg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fabien Roussel à Châteaubriant : « Soyons dignes des 27 fusillés ! »</title>
-      <link>https://www.youtube.com/watch?v=rYVFQL6OKq8</link>
-      <guid>https://www.youtube.com/watch?v=rYVFQL6OKq8</guid>
-      <pubDate>2026-10-18T17:40:49+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>À Châteaubriant, Fabien Roussel, secrétaire national du Parti communiste français, rend hommage aux 27 résistants fusillés par les nazis le 22 octobre 1941.
-
-85 ans après leur assassinat, leur combat pour la liberté, la paix et la justice sociale demeure plus que jamais d'actualité.
-
-Dans ce discours, Fabien Roussel rappelle le rôle des communistes et des syndicalistes dans la Résistance, dénonce les tentatives de réécriture de l'Histoire et appelle à combattre la haine, le racisme, l'antisémitisme et l'extrême droite.
-
-Face aux tensions qui traversent notre pays, il appelle également à entendre les aspirations populaires, à défendre la dignité de chacun et à faire vivre l'héritage du Conseil national de la Résistance.</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>rYVFQL6OKq8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/rYVFQL6OKq8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
