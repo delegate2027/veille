@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 11:30:55 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:45:45 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Je demande des aides d’urgence au gouvernement pour les petits commerces.</title>
+      <link>https://www.youtube.com/watch?v=AhQ3ycRzzng</link>
+      <guid>https://www.youtube.com/watch?v=AhQ3ycRzzng</guid>
+      <pubDate>2026-10-19T11:40:09+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Les petit•e•s commerçant•e•s doivent être indeminsé•e•s dans les plus brefs délais ! 
+Nous avons déposé ce matin une question écrite au gouvernement. 
+À Toulouse, je demande à la municipalité de mettre en place les dispostifs d’acompagnement nécessaires.</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>AhQ3ycRzzng</videoId>
+      <enclosure url="https://i.ytimg.com/vi/AhQ3ycRzzng/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Notre budget 2027 : je réponds à Nicolas Doze</title>
       <link>https://www.youtube.com/watch?v=WdRlID4_1Ks</link>
@@ -433,17 +446,6 @@ Le constat doit nous alerter : notre pays est pris en étau, voire en otage, ent
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>Ac7_2s9BhqM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ac7_2s9BhqM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier face à Bruno Retailleau, le débat sur le maintien de l'ordre avec Benjamin Duhamel</title>
-      <link>https://www.youtube.com/watch?v=LnuQsGlinys</link>
-      <guid>https://www.youtube.com/watch?v=LnuQsGlinys</guid>
-      <pubDate>2026-10-18T12:06:26+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Débat du 18 octobre 2026 dans Franc-Jeu sur France 2 et France Inter.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>LnuQsGlinys</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LnuQsGlinys/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
