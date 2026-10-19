@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 18:01:11 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:15:40 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Gabriel Attal sur BFMTV  I Je réponds à toutes les questions de Sonia Mabrouk</title>
+      <link>https://www.youtube.com/watch?v=Se0hzcMiIng</link>
+      <guid>https://www.youtube.com/watch?v=Se0hzcMiIng</guid>
+      <pubDate>2026-10-19T18:04:21+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Ce lundi 19 octobre, Gabriel Attal est l'invité de BFMTV.
+
+Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>Se0hzcMiIng</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Se0hzcMiIng/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nous vivons des heures capitales pour ce pays.</title>
       <link>https://www.youtube.com/watch?v=rKIfx-iVBsM</link>
@@ -432,19 +454,6 @@ Leur responsabilité dans ces scènes de chaos est accablante.</description>
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>5ucNlO-q3xM</videoId>
       <enclosure url="https://i.ytimg.com/vi/5ucNlO-q3xM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ils veulent que tout le monde paye au moins 50€ d'impôt sur le revenu ?!</title>
-      <link>https://www.youtube.com/watch?v=pIhgYdkhgtI</link>
-      <guid>https://www.youtube.com/watch?v=pIhgYdkhgtI</guid>
-      <pubDate>2026-10-18T16:00:35+00:00</pubDate>
-      <author>DAMIEN MAUDET</author>
-      <description>La droite : ne veut pas que 13 000 millionnaires français payent leur juste part d'impôt.
-
-Aussi la droite : voudrait que tous les Français, même les plus précaires, payent au moins 50 euros d'impôt sur le revenu.</description>
-      <channelTitle>DAMIEN MAUDET</channelTitle>
-      <videoId>pIhgYdkhgtI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pIhgYdkhgtI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
