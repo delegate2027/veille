@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 14:30:51 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:45:43 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Mobilisation du #17octobre : ce mouvement est inarrêtable il s'agit de survie ! | Sandrine Rousseau</title>
+      <link>https://www.youtube.com/watch?v=j42Li_8G5tY</link>
+      <guid>https://www.youtube.com/watch?v=j42Li_8G5tY</guid>
+      <pubDate>2026-10-19T14:36:26+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description>@RMCStory</description>
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>j42Li_8G5tY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/j42Li_8G5tY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Je demande des aides d’urgence au gouvernement pour les petits commerces.</title>
       <link>https://www.youtube.com/watch?v=AhQ3ycRzzng</link>
@@ -125,19 +136,6 @@ Abonnez-vous à notre chaîne YouTube !
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>Bq9uPa_Terw</videoId>
       <enclosure url="https://i.ytimg.com/vi/Bq9uPa_Terw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>THOMAS MÉNAGÉ : « Les casseurs doivent payer ! » (FRANCE INFO)</title>
-      <link>https://www.youtube.com/watch?v=MlydVHKpBro</link>
-      <guid>https://www.youtube.com/watch?v=MlydVHKpBro</guid>
-      <pubDate>2026-10-19T07:46:29+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>MlydVHKpBro</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MlydVHKpBro/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Gabriel Attal sur RTL I Réaction aux violences de ce week-end</title>
