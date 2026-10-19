@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 16:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:30:54 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Vite l'augmentation du SMIC et l'échelle mobile des salaires</title>
+      <link>https://www.youtube.com/watch?v=ANvh6AvD8iM</link>
+      <guid>https://www.youtube.com/watch?v=ANvh6AvD8iM</guid>
+      <pubDate>2026-10-19T16:21:34+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>J'ai pu défendre auprès de la commission des affaires sociales une propositions de loi de La France Insoumise : Hausse du smic, indexation des salaires sur l'inflation et revalorisation du minimum vieillesse</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>ANvh6AvD8iM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ANvh6AvD8iM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rétablir l'ordre.</title>
+      <link>https://www.youtube.com/watch?v=g86HpR_Nxgk</link>
+      <guid>https://www.youtube.com/watch?v=g86HpR_Nxgk</guid>
+      <pubDate>2026-10-19T16:18:27+00:00</pubDate>
+      <author>Bruno Retailleau</author>
+      <description>Suivez ma déclaration en direct.</description>
+      <channelTitle>Bruno Retailleau</channelTitle>
+      <videoId>g86HpR_Nxgk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/g86HpR_Nxgk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Limoges : les fermetures de commerces se multiplient depuis des semaines...</title>
       <link>https://www.youtube.com/watch?v=jtMmQvo_q6w</link>
@@ -43,17 +65,6 @@ C'est pourquoi nous proposons de geler les loyers commerciaux.</description>
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>SJ1BhZdb8sI</videoId>
       <enclosure url="https://i.ytimg.com/vi/SJ1BhZdb8sI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rétablir l'ordre.</title>
-      <link>https://www.youtube.com/watch?v=g86HpR_Nxgk</link>
-      <guid>https://www.youtube.com/watch?v=g86HpR_Nxgk</guid>
-      <pubDate>2026-10-19T15:12:54+00:00</pubDate>
-      <author>Bruno Retailleau</author>
-      <description>Suivez ma déclaration en direct.</description>
-      <channelTitle>Bruno Retailleau</channelTitle>
-      <videoId>g86HpR_Nxgk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/g86HpR_Nxgk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mobilisations : ce mouvement est inarrêtable il s'agit de survie ! | Sandrine Rousseau</title>
@@ -432,17 +443,6 @@ Aussi la droite : voudrait que tous les Français, même les plus précaires, pa
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>Ac7_2s9BhqM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ac7_2s9BhqM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier face à Bruno Retailleau, le débat sur le maintien de l'ordre avec Benjamin Duhamel</title>
-      <link>https://www.youtube.com/watch?v=LnuQsGlinys</link>
-      <guid>https://www.youtube.com/watch?v=LnuQsGlinys</guid>
-      <pubDate>2026-10-18T12:06:26+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Débat du 18 octobre 2026 dans Franc-Jeu sur France 2 et France Inter.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>LnuQsGlinys</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LnuQsGlinys/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
