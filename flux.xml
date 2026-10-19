@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 19 Oct 2026 12:15:37 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:30:53 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>Je demande des aides d’urgence au gouvernement pour les petits commerces.</title>
@@ -164,19 +164,6 @@ Abonnez-vous à notre chaîne YouTube !
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>EVlGw-My-2Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/EVlGw-My-2Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY est face à ALAIN DUHAMEL sur BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=Kq6em2NFq-o</link>
-      <guid>https://www.youtube.com/watch?v=Kq6em2NFq-o</guid>
-      <pubDate>2026-10-19T07:42:48+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>Kq6em2NFq-o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Kq6em2NFq-o/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Gabriel Attal sur RTL I Réaction aux violences de ce week-end</title>
@@ -446,6 +433,17 @@ Le constat doit nous alerter : notre pays est pris en étau, voire en otage, ent
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>Ac7_2s9BhqM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ac7_2s9BhqM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Tondelier face à Bruno Retailleau, le débat sur le maintien de l'ordre avec Benjamin Duhamel</title>
+      <link>https://www.youtube.com/watch?v=LnuQsGlinys</link>
+      <guid>https://www.youtube.com/watch?v=LnuQsGlinys</guid>
+      <pubDate>2026-10-18T12:06:26+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Débat du 18 octobre 2026 dans Franc-Jeu sur France 2 et France Inter.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>LnuQsGlinys</videoId>
+      <enclosure url="https://i.ytimg.com/vi/LnuQsGlinys/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
