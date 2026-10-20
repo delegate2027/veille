@@ -4,19 +4,8 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 20 Oct 2026 06:15:35 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:30:48 -0000</lastBuildDate>
     <feedCount>51</feedCount>
-    <item>
-      <title>Mobilisation du 17 octobre 2026 : l'allocution du Président Macron est une farce ! - Alexis Corbière</title>
-      <link>https://www.youtube.com/watch?v=Bq9uPa_Terw</link>
-      <guid>https://www.youtube.com/watch?v=Bq9uPa_Terw</guid>
-      <pubDate>2026-10-19T08:58:38+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député Alexis Corbière était l'invité de BFMTV hier soir, pour revenir sur l'allocution du Président Emmanuel Macron, en réponse aux événements et aux mobilisations du 17 octobre.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>Bq9uPa_Terw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Bq9uPa_Terw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
     <item>
       <title>Réunion publique à Paris - Sophia Chikirou  | Présidentielle 2027</title>
       <link>https://www.youtube.com/watch?v=MZ7maKdeQTE</link>
@@ -38,28 +27,6 @@ Rodrigo Arenas
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>MZ7maKdeQTE</videoId>
       <enclosure url="https://i.ytimg.com/vi/MZ7maKdeQTE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Derrière les violences, l’effondrement silencieux de notre école »</title>
-      <link>https://www.youtube.com/watch?v=qoQ2li9CVJ0</link>
-      <guid>https://www.youtube.com/watch?v=qoQ2li9CVJ0</guid>
-      <pubDate>2026-10-02T07:17:03+00:00</pubDate>
-      <author>François-Xavier Bellamy</author>
-      <description>François-Xavier Bellamy était l'invité de Cnews et Europe 1. Il est revenu sur les violences dans les lycées ainsi que sur le budget qui sera bientôt examiné à l'Assemblée nationale.</description>
-      <channelTitle>François-Xavier Bellamy</channelTitle>
-      <videoId>qoQ2li9CVJ0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qoQ2li9CVJ0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Des journalistes choqués par des confessions sur les Champs. Ils préféraient les vitrines cassées ?</title>
-      <link>https://www.youtube.com/watch?v=RyvWI8eT6PI</link>
-      <guid>https://www.youtube.com/watch?v=RyvWI8eT6PI</guid>
-      <pubDate>2026-10-01T06:49:17+00:00</pubDate>
-      <author>François-Xavier Bellamy</author>
-      <description>François-Xavier Bellamy était l'invité de BFM, il est revenu notamment sur la visite du Pape.</description>
-      <channelTitle>François-Xavier Bellamy</channelTitle>
-      <videoId>RyvWI8eT6PI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/RyvWI8eT6PI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
