@@ -1,3 +1,4 @@
+import calendar
 import feedparser
 import xml.etree.ElementTree as ET
 
@@ -10,6 +11,10 @@ ARCHIVE_FILE = "archives.xml"
 MAX_PER_SOURCE = 5
 MAX_FEED_ITEMS = 25
 MAX_ARCHIVE_ITEMS = 10000
+
+# Meme titre et meme auteur dans cet intervalle : YouTube a recree la video
+# (redemarrage d'un direct, republication), on ne garde que la plus recente.
+DUPLICATE_WINDOW_SECONDS = 2 * 3600
 
 FEEDS = {
     "LFI": [
@@ -193,6 +198,61 @@ def entry_to_dict(entry):
     }
 
 
+def duplicate_key(item):
+    """Signature d'une video : titre et auteur, casse et espaces ignores.
+
+    Le lien ne suffit pas : un direct redemarre sur YouTube recoit un nouveau
+    videoId, donc un nouveau lien, alors que titre et auteur restent identiques.
+    Une entree sans titre n'est jamais consideree comme un doublon."""
+    title = " ".join(item.get("title", "").lower().split())
+
+    if not title:
+        return None
+
+    author = " ".join(item.get("author", "").lower().split())
+    return title, author
+
+
+def archive_timestamp(item):
+    """Instant d'une entree d'archive en secondes, pour comparer deux dates."""
+    return calendar.timegm(item["timestamp"])
+
+
+def dedupe_archive(items):
+    """Ecarte les republications d'une meme video dans une fenetre courte.
+
+    Les entrees sont parcourues de la plus recente a la plus ancienne : une
+    entree dont une version plus recente de meme signature a deja ete retenue
+    dans la fenetre est ignoree. La plus recente est donc conservee, qu'elle
+    soit nouvelle ou deja presente dans l'archive."""
+    ordered = sorted(
+        items,
+        key=lambda x: x["timestamp"],
+        reverse=True,
+    )
+    kept = []
+    last_seen = {}
+
+    for item in ordered:
+        key = duplicate_key(item)
+
+        if key is not None:
+            previous = last_seen.get(key)
+            timestamp = archive_timestamp(item)
+
+            if (
+                previous is not None
+                and previous - timestamp < DUPLICATE_WINDOW_SECONDS
+            ):
+                continue
+
+            last_seen[key] = timestamp
+
+        kept.append(item)
+
+    return kept
+
+
 def load_archive():
     """Relit l'archive existante et renvoie ses entrées sous forme de dictionnaire."""
     archive_path = Path(ARCHIVE_FILE)
@@ -218,7 +278,10 @@ def load_archive():
 
 
 def update_archive(entries):
-    """Ajoute les nouvelles entrées à l'archive et écarte les doublons (même lien)."""
+    """Ajoute les nouvelles entrées à l'archive et écarte les doublons.
+
+    Deux doublons sont traites : le meme lien, puis les republications d'une
+    meme video (meme titre et auteur) dans une fenetre courte."""
     archive = load_archive()
     new_items = 0
 
@@ -232,11 +295,7 @@ def update_archive(entries):
         archive[link] = item
         new_items += 1
 
-    ordered = sorted(
-        archive.values(),
-        key=lambda x: x["timestamp"],
-        reverse=True,
-    )[:MAX_ARCHIVE_ITEMS]
+    ordered = dedupe_archive(archive.values())[:MAX_ARCHIVE_ITEMS]
 
     tree = build_xml(
         ordered,
