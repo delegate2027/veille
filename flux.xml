@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 20 Oct 2026 16:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:01:13 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>🏛️ COMMISSION d'ENQUÊTE 17 octobre : nous ferons toute la lumière sur les événements</title>
+      <link>https://www.youtube.com/watch?v=Y5sfbzEMnqI</link>
+      <guid>https://www.youtube.com/watch?v=Y5sfbzEMnqI</guid>
+      <pubDate>2026-10-20T17:00:26+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Conférence de presse des député·es LFI, mardi 20 octobre 2026, à l'Assemblée nationale, suite au vote en commission validant la création d'une commission d'enquête sur « les événements liés au manifestations du 17 octobre 2026 »</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>Y5sfbzEMnqI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Y5sfbzEMnqI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>« Nous faisons face à une crise profonde du capitalisme » - Fabien Roussel sur SKYNEWS.</title>
       <link>https://www.youtube.com/watch?v=rVWKbsDKwxU</link>
@@ -421,19 +432,6 @@ Nous avons déposé ce matin une question écrite au gouvernement.
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>AhQ3ycRzzng</videoId>
       <enclosure url="https://i.ytimg.com/vi/AhQ3ycRzzng/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Notre budget 2027 : je réponds à Nicolas Doze</title>
-      <link>https://www.youtube.com/watch?v=WdRlID4_1Ks</link>
-      <guid>https://www.youtube.com/watch?v=WdRlID4_1Ks</guid>
-      <pubDate>2026-10-19T11:18:05+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>L’éditorialiste économique de LCI Nicolas Doze a pilonné notre « contre-budget ». Pas étonnant de la part de cet ultra-libéral. Je lui réponds ici point par point. 
-
-Une bonne occasion de faire un SAV de ce budget 2027 😉</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>WdRlID4_1Ks</videoId>
-      <enclosure url="https://i.ytimg.com/vi/WdRlID4_1Ks/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
