@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 20 Oct 2026 19:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:01:11 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>17 OCTOBRE : ELSA MARCEL défend la RÉVOLTE face à la propagande sur la CASSE sur BFM</title>
+      <link>https://www.youtube.com/watch?v=HcxdQiZ2cz8</link>
+      <guid>https://www.youtube.com/watch?v=HcxdQiZ2cz8</guid>
+      <pubDate>2026-10-20T19:50:12+00:00</pubDate>
+      <author>Révolution Permanente</author>
+      <description>« La discussion sur la casse le 17 octobre est hypocrite et sert à écraser le mouvement. La réalité c’est que le gouvernement, les médias bourgeois et Charles Consigny détestent que les gens se révoltent, quelle que soit la méthode. » Elsa Marcel, avocate et élue à Saint-Denis pour Révolution Permanente sur le plateau de BFMTV
+
+Abonnez-vous à notre chaîne YouTube !
+➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
+
+★ Retrouvez-nous sur les réseaux sociaux :
+▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
+▸Twitter ▸ https://twitter.com/@RevPermanente
+▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
+▸Telegram ▸ https://t.me/revolution_permanente
+▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
+      <channelTitle>Révolution Permanente</channelTitle>
+      <videoId>HcxdQiZ2cz8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/HcxdQiZ2cz8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
       <link>https://www.youtube.com/watch?v=SJ1BhZdb8sI</link>
@@ -425,17 +449,6 @@ C'est pourquoi nous proposons de geler les loyers commerciaux.</description>
       <channelTitle>DAMIEN MAUDET</channelTitle>
       <videoId>jtMmQvo_q6w</videoId>
       <enclosure url="https://i.ytimg.com/vi/jtMmQvo_q6w/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mobilisations : ce mouvement est inarrêtable il s'agit de survie ! | Sandrine Rousseau</title>
-      <link>https://www.youtube.com/watch?v=j42Li_8G5tY</link>
-      <guid>https://www.youtube.com/watch?v=j42Li_8G5tY</guid>
-      <pubDate>2026-10-19T14:36:26+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description>@RMCStory</description>
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>j42Li_8G5tY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/j42Li_8G5tY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
