@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 20 Oct 2026 13:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:01:06 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Manifestation du 17 octobre : "Le Gouvernement a été gravement défaillant !" Boris Vallaud sur LCP</title>
+      <link>https://www.youtube.com/watch?v=ONoggFGwa1M</link>
+      <guid>https://www.youtube.com/watch?v=ONoggFGwa1M</guid>
+      <pubDate>2026-10-20T13:55:06+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de l'émission "Lundi C'est Politique" spéciale consacrée aux événements du 17 octobre 2026, sur LCP en partenariat avec Challenges et Radio classique.
+
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>ONoggFGwa1M</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ONoggFGwa1M/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La violence débridée ce ne sera jamais une réponse aux inquiétudes des jeunes | Marc Fesneau</title>
       <link>https://www.youtube.com/watch?v=6SGQCeFoFRs</link>
@@ -165,19 +186,6 @@ Adhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion<
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>Z5A_xfukloU</videoId>
       <enclosure url="https://i.ytimg.com/vi/Z5A_xfukloU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU est l'invité de la matinale de FRANCE 2 !</title>
-      <link>https://www.youtube.com/watch?v=ZjNlDTdPduQ</link>
-      <guid>https://www.youtube.com/watch?v=ZjNlDTdPduQ</guid>
-      <pubDate>2026-10-20T08:35:12+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>ZjNlDTdPduQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ZjNlDTdPduQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>JÉRÔME GUEDJ DANS « LA GRANDE CONFRONTATION » | Violences, mobilisations lycéennes...</title>
