@@ -400,8 +400,7 @@ a {
   margin: 10px 0 12px 0;
 }
 
-/* Zone de recherche : le champ et la case a cocher partagent le
-   meme cadre, la case est a l'interieur, a droite du texte saisi. */
+/* Zone de recherche : le champ occupe toute la largeur du cadre. */
 .archive-search {
   display: flex;
   align-items: center;
@@ -433,17 +432,6 @@ a {
 
 .archive-filter::placeholder {
   color: var(--muted);
-}
-
-.archive-option {
-  margin: 0 0 0 8px;
-  white-space: nowrap;
-  cursor: pointer;
-}
-
-.archive-option input {
-  margin: 0 4px 0 0;
-  vertical-align: -1px;
 }
 
 /* Ligne meta sous la zone de recherche : exemples a gauche, nombre
@@ -479,8 +467,7 @@ a {
 
 /* Vue Archives : un resultat tient sur une seule ligne. Le nom de la source
    et la date ne se coupent pas ; le titre se tronque par des points de
-   suspension pour rester lisible sans jamais passer a la ligne. La
-   description n'est pas affichee dans cette vue. */
+   suspension pour rester lisible sans jamais passer a la ligne. */
 .archives-item {
   display: flex;
   flex-wrap: wrap;

@@ -209,13 +209,13 @@ function removeTitleEcho(title, description) {
   return description.substring(head.length).replace(/^\s+/, "");
 }
 
-/* compact (vue Archives) : une seule ligne, sans description, le titre
-   portant la teinte de sa source. Sinon rendu complet du flux. */
+/* compact (vue Archives) : une seule ligne, le titre portant la teinte de sa
+   source. Sinon rendu complet du flux. */
 function buildItemElement(item, compact) {
   var title = removeExcessiveRepeats(removeEmojis(item.title));
   var link = item.link || "#";
   var author = trimString(item.author || "Auteur");
-  var description = removeExcessiveRepeats(removeEmojis(item.description || ""));
+  var description = compact ? "" : removeExcessiveRepeats(removeEmojis(item.description || ""));
   var displayAuthor = compact ? displayAuthorName(author) : author;
   var videoId = extractVideoId(link);
   var cls = sourceClass(author);

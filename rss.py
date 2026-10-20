@@ -140,7 +140,7 @@ def add_xml_item(channel, entry, compact=False):
     """Ecrit une entree dans le flux XML (titre, lien, meta, vignette).
 
     En mode compact (archives), les champs redondants sont omis : guid (egal au
-    lien) et channelTitle (egal a l'auteur). La description reste ecrite."""
+    lien), channelTitle (egal a l'auteur) et description."""
     item = ET.SubElement(channel, "item")
 
     ET.SubElement(item, "title").text = entry.get("title", "")
@@ -151,9 +151,9 @@ def add_xml_item(channel, entry, compact=False):
 
     ET.SubElement(item, "pubDate").text = entry.get("published", "")
     ET.SubElement(item, "author").text = entry.get("author", "")
-    ET.SubElement(item, "description").text = entry.get("summary", "")
 
     if not compact:
+        ET.SubElement(item, "description").text = entry.get("summary", "")
         ET.SubElement(item, "channelTitle").text = entry.get("author", "")
 
     video_id = entry.get("yt_videoid") or entry.get("video_id")
@@ -174,7 +174,10 @@ def build_xml(entries, title="YouTube Aggregated Feed", description="Flux RSS ag
     channel = ET.SubElement(rss, "channel")
 
     ET.SubElement(channel, "title").text = title
-    ET.SubElement(channel, "description").text = description
+
+    if not compact:
+        ET.SubElement(channel, "description").text = description
+
     ET.SubElement(channel, "link").text = "https://youtube.com"
     ET.SubElement(channel, "lastBuildDate").text = formatdate()
     ET.SubElement(channel, "feedCount").text = str(len(RSS_FEEDS))
@@ -192,7 +195,6 @@ def entry_to_dict(entry):
         "link": entry.get("link", ""),
         "published": entry.get("published", ""),
         "author": entry.get("author", ""),
-        "summary": entry.get("summary", ""),
         "video_id": entry.get("yt_videoid", ""),
         "timestamp": entry_timestamp(entry),
     }
@@ -300,7 +302,6 @@ def update_archive(entries):
     tree = build_xml(
         ordered,
         title="Veille médiatique politique — archives",
-        description="Archive historique de toutes les entrées déjà vues",
         compact=True,
     )
     tree.write(
