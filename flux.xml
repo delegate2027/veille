@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 20 Oct 2026 12:31:01 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:45:46 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>"Un pays qui se tient sage"</title>
@@ -132,19 +132,6 @@ Adhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion<
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>ZjNlDTdPduQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/ZjNlDTdPduQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY est l'invité de la matinale de BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=4ZKC3b9mIjM</link>
-      <guid>https://www.youtube.com/watch?v=4ZKC3b9mIjM</guid>
-      <pubDate>2026-10-20T08:34:50+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>4ZKC3b9mIjM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4ZKC3b9mIjM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>JÉRÔME GUEDJ DANS « LA GRANDE CONFRONTATION » | Violences, mobilisations lycéennes...</title>
@@ -411,6 +398,24 @@ Une bonne occasion de faire un SAV de ce budget 2027 😉</description>
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>WdRlID4_1Ks</videoId>
       <enclosure url="https://i.ytimg.com/vi/WdRlID4_1Ks/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Jordan Bardella : « L'État doit reprendre le contrôle ! »</title>
+      <link>https://www.youtube.com/watch?v=v3MegQ8tUuc</link>
+      <guid>https://www.youtube.com/watch?v=v3MegQ8tUuc</guid>
+      <pubDate>2026-10-19T11:02:04+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>v3MegQ8tUuc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/v3MegQ8tUuc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
