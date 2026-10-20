@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 20 Oct 2026 07:30:57 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:45:44 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>🔴 Mobilisation du 17 octobre, scandale d'État, couvre-feux : Manuel Bompard, invité de France info !</title>
+      <link>https://www.youtube.com/watch?v=d4KO-lqadNI</link>
+      <guid>https://www.youtube.com/watch?v=d4KO-lqadNI</guid>
+      <pubDate>2026-10-20T07:39:52+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur France info du mardi 20 octobre 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>d4KO-lqadNI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/d4KO-lqadNI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Burger King d'Epinay : c’est un détournement d’argent public qui se passe ici</title>
       <link>https://www.youtube.com/watch?v=V-jKu-UgMHI</link>
@@ -421,17 +442,6 @@ Le rejet massif de la première partie du PLF en commission des finances témoig
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>W0sPyQQJFYU</videoId>
       <enclosure url="https://i.ytimg.com/vi/W0sPyQQJFYU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Il nous convoque comme des enfants" Marine Tondelier réagit à l'allocution d'Emmanuel Macron (BFM)</title>
-      <link>https://www.youtube.com/watch?v=C0JmRg61pyo</link>
-      <guid>https://www.youtube.com/watch?v=C0JmRg61pyo</guid>
-      <pubDate>2026-10-18T18:28:17+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>C0JmRg61pyo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/C0JmRg61pyo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
