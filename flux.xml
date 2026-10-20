@@ -4,8 +4,26 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 20 Oct 2026 20:15:47 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:31:02 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Jordan Bardella sur BFMTV : « Nous portons l'ambition de remettre la France en ordre ! »</title>
+      <link>https://www.youtube.com/watch?v=6GFA3XBOmxk</link>
+      <guid>https://www.youtube.com/watch?v=6GFA3XBOmxk</guid>
+      <pubDate>2026-10-20T20:24:52+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>6GFA3XBOmxk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/6GFA3XBOmxk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>17 OCTOBRE : ELSA MARCEL défend la RÉVOLTE face à la propagande sur la CASSE sur BFM</title>
       <link>https://www.youtube.com/watch?v=HcxdQiZ2cz8</link>
@@ -432,23 +450,6 @@ C'est le moment de faire preuve de sang froid. Et d'écouter les Français.</des
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>g86HpR_Nxgk</videoId>
       <enclosure url="https://i.ytimg.com/vi/g86HpR_Nxgk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Limoges : les fermetures de commerces se multiplient depuis des semaines...</title>
-      <link>https://www.youtube.com/watch?v=jtMmQvo_q6w</link>
-      <guid>https://www.youtube.com/watch?v=jtMmQvo_q6w</guid>
-      <pubDate>2026-10-19T16:00:27+00:00</pubDate>
-      <author>DAMIEN MAUDET</author>
-      <description>« En une semaine sur la même place de centre-ville à Limoges, c'est le café de Philippe qui ferme et la boulangerie. »
-
-À Limoges, les fermetures de commerces se multiplient depuis des semaines. 
-
-Il existe plusieurs causes à ces fermetures, mais l'une d'elles, c'est le prix des loyers, beaucoup trop élevé comparé au chiffre d'affaire réalisé par les commerçants. 
-
-C'est pourquoi nous proposons de geler les loyers commerciaux.</description>
-      <channelTitle>DAMIEN MAUDET</channelTitle>
-      <videoId>jtMmQvo_q6w</videoId>
-      <enclosure url="https://i.ytimg.com/vi/jtMmQvo_q6w/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
