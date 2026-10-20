@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 20 Oct 2026 08:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:15:46 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Sébastien Lecornu est un incapable.</title>
+      <link>https://www.youtube.com/watch?v=4tVAvD5blDo</link>
+      <guid>https://www.youtube.com/watch?v=4tVAvD5blDo</guid>
+      <pubDate>2026-10-20T08:04:30+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Revivez l'interview de Mathilde Panot sur LCI, le mardi 20 octobre 2026 à 8h25.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>4tVAvD5blDo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4tVAvD5blDo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Mobilisation du 17 octobre, scandale d'État, couvre-feux : Manuel Bompard, invité de France info !</title>
       <link>https://www.youtube.com/watch?v=d4KO-lqadNI</link>
@@ -421,27 +432,6 @@ Le rejet massif de la première partie du PLF en commission des finances témoig
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>Lep-S8yECO8</videoId>
       <enclosure url="https://i.ytimg.com/vi/Lep-S8yECO8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Mobilisation du 17 octobre : Manuel Bompard, invité de LCI !</title>
-      <link>https://www.youtube.com/watch?v=W0sPyQQJFYU</link>
-      <guid>https://www.youtube.com/watch?v=W0sPyQQJFYU</guid>
-      <pubDate>2026-10-18T20:15:45+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur LCI du dimanche 18 octobre 2026.
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>W0sPyQQJFYU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/W0sPyQQJFYU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
