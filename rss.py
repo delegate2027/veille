@@ -279,23 +279,43 @@ def load_archive():
     return archive
 
 
+def archive_item_changed(existing, item):
+    """Vrai si les metadonnees visibles d'un meme lien ont change.
+
+    YouTube peut modifier la date, le titre ou l'auteur d'une video deja vue
+    (direct programme puis publie, par exemple). L'archive doit suivre ces
+    changements au lieu de conserver la premiere version rencontree."""
+    return any(
+        existing.get(field) != item.get(field)
+        for field in ("title", "published", "author")
+    )
+
+
 def update_archive(entries):
     """Ajoute les nouvelles entrées à l'archive et écarte les doublons.
 
     Deux doublons sont traites : le meme lien, puis les republications d'une
-    meme video (meme titre et auteur) dans une fenetre courte."""
+    meme video (meme titre et auteur) dans une fenetre courte. Un lien deja
+    present est mis a jour si ses metadonnees ont change."""
     archive = load_archive()
     new_items = 0
+    updated_items = 0
 
     for entry in entries:
         item = entry_to_dict(entry)
         link = item["link"]
 
-        if not link or link in archive:
+        if not link:
             continue
 
-        archive[link] = item
-        new_items += 1
+        existing = archive.get(link)
+
+        if existing is None:
+            archive[link] = item
+            new_items += 1
+        elif archive_item_changed(existing, item):
+            archive[link] = item
+            updated_items += 1
 
     ordered = dedupe_archive(archive.values())[:MAX_ARCHIVE_ITEMS]
 
@@ -312,7 +332,8 @@ def update_archive(entries):
 
     print(
         f"Fichier créé : {ARCHIVE_FILE} "
-        f"({len(ordered)} entrées, {new_items} nouvelle(s))"
+        f"({len(ordered)} entrées, {new_items} nouvelle(s), "
+        f"{updated_items} mise(s) à jour)"
     )
 
 
