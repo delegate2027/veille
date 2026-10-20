@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 20 Oct 2026 08:15:46 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:30:58 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>JÉRÔME GUEDJ DANS « LA GRANDE CONFRONTATION » | Violences, mobilisations lycéennes...</title>
+      <link>https://www.youtube.com/watch?v=_LlQqR6kzhM</link>
+      <guid>https://www.youtube.com/watch?v=_LlQqR6kzhM</guid>
+      <pubDate>2026-10-20T08:23:51+00:00</pubDate>
+      <author>Jérôme Guedj</author>
+      <description />
+      <channelTitle>Jérôme Guedj</channelTitle>
+      <videoId>_LlQqR6kzhM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_LlQqR6kzhM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Sébastien Lecornu est un incapable.</title>
       <link>https://www.youtube.com/watch?v=4tVAvD5blDo</link>
@@ -16,6 +27,17 @@
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>4tVAvD5blDo</videoId>
       <enclosure url="https://i.ytimg.com/vi/4tVAvD5blDo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Conférence de presse de Fabien Roussel - 20 octobre</title>
+      <link>https://www.youtube.com/watch?v=_vNCdYexU78</link>
+      <guid>https://www.youtube.com/watch?v=_vNCdYexU78</guid>
+      <pubDate>2026-10-20T08:03:16+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Conférence de presse de Fabien Roussel - 20 octobre</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>_vNCdYexU78</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_vNCdYexU78/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>🔴 Mobilisation du 17 octobre, scandale d'État, couvre-feux : Manuel Bompard, invité de France info !</title>
@@ -343,28 +365,6 @@ Abonnez-vous à notre chaîne YouTube !
       <enclosure url="https://i.ytimg.com/vi/Bq9uPa_Terw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Gabriel Attal sur RTL I Réaction aux violences de ce week-end</title>
-      <link>https://www.youtube.com/watch?v=DejUrE5fkzo</link>
-      <guid>https://www.youtube.com/watch?v=DejUrE5fkzo</guid>
-      <pubDate>2026-10-19T07:41:17+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Gabriel Attal était l'invité de RTL pour parler des violences survenues le week-end du 17 octobre et 18 octobre.
-
-Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>DejUrE5fkzo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DejUrE5fkzo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Nous sommes face à une intifada française : la réaction d'Eric Ciotti sur BFM</title>
       <link>https://www.youtube.com/watch?v=TpkY-o1xZUg</link>
       <guid>https://www.youtube.com/watch?v=TpkY-o1xZUg</guid>
@@ -421,17 +421,6 @@ Le rejet massif de la première partie du PLF en commission des finances témoig
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>ayImSQcHpUo</videoId>
       <enclosure url="https://i.ytimg.com/vi/ayImSQcHpUo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 MÉLENCHON : « Le fond de l'affaire, ce sont les revendications des gens »</title>
-      <link>https://www.youtube.com/watch?v=Lep-S8yECO8</link>
-      <guid>https://www.youtube.com/watch?v=Lep-S8yECO8</guid>
-      <pubDate>2026-10-18T20:32:17+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Extraits de l'entretien de Jean-Luc Mélenchon, ce dimanche 18 octobre 2026, sur LCI</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>Lep-S8yECO8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Lep-S8yECO8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
