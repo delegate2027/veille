@@ -5,10 +5,6 @@
 var archiveItems = [];
 var archiveLoaded = false;
 
-/* Case "Inclure les descriptions" : la description est exclue de la
-   recherche par defaut, trop bavarde pour etre utile. */
-var archiveSearchDesc = false;
-
 /* Revision du flux au moment du dernier chargement. rss.py ecrit flux.xml et
    archives.xml dans la meme execution : comparer les deux revisions suffit a
    savoir que l'archive est perimee, sans telecharger le fichier pour le savoir. */
@@ -32,7 +28,6 @@ function parseArchive(xml) {
       title: getTagText(node, "title"),
       link: link,
       author: getTagText(node, "author"),
-      description: getTagText(node, "description"),
       pubDate: getTagText(node, "pubDate")
     };
 
@@ -213,19 +208,12 @@ function matchesDate(item, token) {
 }
 
 /* La recherche porte sur le titre, l'auteur, le lien et la date, et ignore
-   les accents des deux cotes : taper "melenchon" trouve "Mélenchon".
-   La description n'est cherche que si la case est cochee : generee par
-   les flux, elle est trop bavarde et remontait des entrees sans rapport
-   avec le terme. Le texte avec description est construit a la demande puis
-   garde sur l'entree (searchDesc), pour ne pas retarder le cas par defaut. */
+   les accents des deux cotes : taper "melenchon" trouve "Mélenchon". */
 function matchesFilter(item, tokens) {
-  var haystack, i, t;
+  var haystack = item.searchBase;
+  var i, t;
 
   if (!tokens.length) return true;
-
-  haystack = archiveSearchDesc
-    ? (item.searchDesc || (item.searchDesc = item.searchBase + " " + sansAccent(item.description)))
-    : item.searchBase;
 
   for (i = 0; i < tokens.length; i++) {
     t = tokens[i];
@@ -349,7 +337,7 @@ function renderArchive() {
   keep = {};
 
   /* buildItemElement(..., true) : rendu compact des archives, une ligne par
-     entree, sans description, titre teinte comme sa source, lecture video au clic.
+     entree, titre teinte comme sa source, lecture video au clic.
      Un item deja affiche est reutilise tel quel (order le repositionne). */
   for (i = 0; i < visible.length; i++) {
     item = visible[i];
@@ -428,7 +416,6 @@ function isArchiveStale() {
 
 function initArchiveFilter() {
   var input = document.getElementById("archiveFilter");
-  var descBox = document.getElementById("archiveSearchDesc");
   var refresh;
 
   if (!input) return;
@@ -451,15 +438,6 @@ function initArchiveFilter() {
      rien a jour. */
   if ("oninput" in input) input.oninput = refresh;
   else input.onkeyup = refresh;
-
-  /* Cocher la case etend la recherche a la description ; la liste
-     est refiltree a chaque changement. */
-  if (descBox) {
-    descBox.onchange = function() {
-      archiveSearchDesc = descBox.checked;
-      refresh();
-    };
-  }
 }
 
 /* Place le curseur dans le champ : a l'arrivee sur la page (vue archives par
