@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 20 Oct 2026 19:15:43 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:30:56 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
+      <link>https://www.youtube.com/watch?v=SJ1BhZdb8sI</link>
+      <guid>https://www.youtube.com/watch?v=SJ1BhZdb8sI</guid>
+      <pubDate>2026-10-20T19:17:46+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'une conférence sur le moment politique, le 20 octobre 2026.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>SJ1BhZdb8sI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SJ1BhZdb8sI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Mon soutien aux agentes et à agents à Limoges</title>
       <link>https://www.youtube.com/watch?v=x5Dzhgej000</link>
@@ -404,27 +425,6 @@ C'est pourquoi nous proposons de geler les loyers commerciaux.</description>
       <channelTitle>DAMIEN MAUDET</channelTitle>
       <videoId>jtMmQvo_q6w</videoId>
       <enclosure url="https://i.ytimg.com/vi/jtMmQvo_q6w/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de Jean-Luc Mélenchon sur le moment politique</title>
-      <link>https://www.youtube.com/watch?v=SJ1BhZdb8sI</link>
-      <guid>https://www.youtube.com/watch?v=SJ1BhZdb8sI</guid>
-      <pubDate>2026-10-19T15:38:30+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Ce mardi 20 octobre, rendez-vous à 19h15 pour suivre en direct une conférence de Jean-Luc Mélenchon sur le moment politique.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>SJ1BhZdb8sI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SJ1BhZdb8sI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mobilisations : ce mouvement est inarrêtable il s'agit de survie ! | Sandrine Rousseau</title>
