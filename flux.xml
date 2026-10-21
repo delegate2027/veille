@@ -4,8 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 17:01:14 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:15:46 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Mon interview franceinfo TV sur les mobilisations du 17 octobre</title>
+      <link>https://www.youtube.com/watch?v=EXxdjurMUlQ</link>
+      <guid>https://www.youtube.com/watch?v=EXxdjurMUlQ</guid>
+      <pubDate>2026-10-21T17:00:33+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez l’interview d’Éric Coquerel, invité politique de la matinale de Franceinfo TV le 21 octobre 2026, sur la mobilisation du 17 octobre, la gestion chaotique du maintien de l’ordre, les couvre-feux et les mensonges du gouvernement contre LFI.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>EXxdjurMUlQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EXxdjurMUlQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Émeutes de 2023 : « Qu'avez-vous fait de la France ? » lance Marine Le Pen à Élisabeth Borne</title>
+      <link>https://www.youtube.com/watch?v=_TlDYmSK6hg</link>
+      <guid>https://www.youtube.com/watch?v=_TlDYmSK6hg</guid>
+      <pubDate>2026-10-21T17:00:16+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Archive – Assemblée nationale, 4 juillet 2023.
+Après une semaine d'émeutes et de pillages qui avaient secoué le pays et blessé plus de 700 membres des forces de l'ordre, Marine Le Pen interpellait la Première ministre Élisabeth Borne lors des questions au gouvernement : « Qu'avez-vous fait de la France ? »</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>_TlDYmSK6hg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_TlDYmSK6hg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JULIEN ODOUL : « L'extrême-gauche est un danger pour la France » (CNEWS)</title>
       <link>https://www.youtube.com/watch?v=ytslIwzhoWE</link>
@@ -414,22 +439,6 @@ Extrait de la matinale de franceinfo du 21 octobre 2026.
       <enclosure url="https://i.ytimg.com/vi/GJlMTrK7ank/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>On n'arrêtera rien du tout : c'est eux qui vont s'arrêter !</title>
-      <link>https://www.youtube.com/watch?v=QDbU_mXTDec</link>
-      <guid>https://www.youtube.com/watch?v=QDbU_mXTDec</guid>
-      <pubDate>2026-10-21T08:43:21+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-À quelques jours du congrès d'Orléans, face à ceux qui veulent empêcher un parti politique de se réunir.
-
-Extrait de la matinale de franceinfo du 21 octobre 2026.
-▶️ L'émission en intégralité : https://youtu.be/j0pP0ySHrZ0</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>QDbU_mXTDec</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QDbU_mXTDec/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Protéger les joueurs de jeux vidéo, faire respecter leurs droits !</title>
       <link>https://www.youtube.com/watch?v=VgmDUkVYZ_A</link>
       <guid>https://www.youtube.com/watch?v=VgmDUkVYZ_A</guid>
@@ -500,17 +509,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>OKVD8PGc9Rc</videoId>
       <enclosure url="https://i.ytimg.com/vi/OKVD8PGc9Rc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face à BFM : je réagis sur le 17 octobre</title>
-      <link>https://www.youtube.com/watch?v=bayVyfU0OUk</link>
-      <guid>https://www.youtube.com/watch?v=bayVyfU0OUk</guid>
-      <pubDate>2026-10-21T06:40:50+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description />
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>bayVyfU0OUk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/bayVyfU0OUk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
