@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 10:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:45:44 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>L'ultime braquage de la Sécu</title>
+      <link>https://www.youtube.com/watch?v=4rs3nApChNc</link>
+      <guid>https://www.youtube.com/watch?v=4rs3nApChNc</guid>
+      <pubDate>2026-10-21T10:35:35+00:00</pubDate>
+      <author>Hadrien Clouet</author>
+      <description>Motion de rejet du projet de loi de financement de la Sécurité sociale : un texte injuste qui fait payer les malades, les pauvres, les retraités, les jeunes et les étrangers pour financer l'opulence des riches.</description>
+      <channelTitle>Hadrien Clouet</channelTitle>
+      <videoId>4rs3nApChNc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4rs3nApChNc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Budget 2027 : présentation du rapport sur l’avis budgétaire logement et urbanisme</title>
       <link>https://www.youtube.com/watch?v=FLvd6oolhc8</link>
@@ -447,17 +458,6 @@ Cette rencontre réaffirme un combat commun : défendre le droit du peuple pales
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>TldMRa1B9WU</videoId>
       <enclosure url="https://i.ytimg.com/vi/TldMRa1B9WU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Un pays qui se tient sage"</title>
-      <link>https://www.youtube.com/watch?v=0dpJtiv4Fz8</link>
-      <guid>https://www.youtube.com/watch?v=0dpJtiv4Fz8</guid>
-      <pubDate>2026-10-20T12:30:07+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>Voilà à quoi ressemble un « maintien de l’ordre » violent dénoncé par les Nations unies et toutes les organisations de défense des droits humains.</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>0dpJtiv4Fz8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0dpJtiv4Fz8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
