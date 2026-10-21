@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 08:01:11 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:15:40 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Protéger les joueurs de jeux vidéo, faire respecter leurs droits !</title>
+      <link>https://www.youtube.com/watch?v=VgmDUkVYZ_A</link>
+      <guid>https://www.youtube.com/watch?v=VgmDUkVYZ_A</guid>
+      <pubDate>2026-10-21T08:14:08+00:00</pubDate>
+      <author>Ugo Bernalicis</author>
+      <description>Le mercredi 21 octobre 2026, je suis intervenu en commission des affaires culturelles et de l’éducation à l’Assemblée nationale pour défendre ma proposition de loi visant à garantir les droits des joueuses et des joueurs et à assurer la pérennité des jeux vidéo.
+
+Suivez Ugo Bernalicis sur :
+👉 Facebook : https://www.facebook.com/ugobernalicis
+👉 Twitter : https://twitter.com/Ugobernalicis
+👉 Instagram : https://www.instagram.com/ugo_bernalicis/
+👉 YouTube : https://youtube.com/c/UgoBernalicisofficiel
+👉 Twitch : https://www.twitch.tv/deputwitch/
+👉 Telegram : https://t.me/ub_actu
+👉 Son blog : https://www.ugobernalicis.fr</description>
+      <channelTitle>Ugo Bernalicis</channelTitle>
+      <videoId>VgmDUkVYZ_A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/VgmDUkVYZ_A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Léa Balage El Mariky : "Ce chaos, c'est le vôtre"</title>
       <link>https://www.youtube.com/watch?v=0R8jNJuKox8</link>
@@ -443,29 +463,6 @@ En tant que président de la commission des finances, j’interpellerai le minis
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>V-jKu-UgMHI</videoId>
       <enclosure url="https://i.ytimg.com/vi/V-jKu-UgMHI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Une trouille au plus haut sommet de l’État.</title>
-      <link>https://www.youtube.com/watch?v=GZgsGjrfWx8</link>
-      <guid>https://www.youtube.com/watch?v=GZgsGjrfWx8</guid>
-      <pubDate>2026-10-19T20:19:58+00:00</pubDate>
-      <author>Bruno Retailleau</author>
-      <description>« Si on ne tape pas fort tout de suite, on est en retard. » Face à Sonia Mabrouk sur BFMTV, Bruno Retailleau réclame l’état d’urgence et dénonce « une trouille au plus haut sommet de l’État ».
-
-Pour l’ancien ministre de l’Intérieur, « l’ordre public, c’est un rapport de force ». Il revient sur sa méthode face aux casseurs, défend la responsabilité politique du ministre et accuse les propos d’Emmanuel Macron d’avoir désarmé les forces de l’ordre.
-
-État d’urgence dans l’immédiat, loi anticasseurs dans la durée : Bruno Retailleau détaille ses propositions. Il défend une révision de la Constitution, des peines minimales, l’abaissement de la majorité pénale à 15 ans et davantage de moyens pour le renseignement sur les messageries cryptées.
-
-Au cœur de cet échange : la protection des Français, l’équilibre entre droits individuels et sécurité collective, et la capacité de l’État à faire respecter l’ordre. Une ligne qu’il résume ainsi : « Le désordre, c’est l’asservissement. »
-
-État d’urgence, sanctions, moyens policiers : quelle devrait être la priorité ? Donnez votre avis en commentaire.
-
-Source : entretien de Bruno Retailleau avec Sonia Mabrouk sur BFMTV. Les positions et accusations rapportées sont celles de l’invité.
-
-#BrunoRetailleau #SoniaMabrouk #Politique</description>
-      <channelTitle>Bruno Retailleau</channelTitle>
-      <videoId>GZgsGjrfWx8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/GZgsGjrfWx8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
