@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 14:45:45 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:01:25 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Il faut adapter nos moyens aux pratiques des adversaires de notre société | Isabelle Florennes</title>
+      <link>https://www.youtube.com/watch?v=dtHZQ7Et4Mc</link>
+      <guid>https://www.youtube.com/watch?v=dtHZQ7Et4Mc</guid>
+      <pubDate>2026-10-21T14:52:12+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Il faut adapter les moyens de nos forces aux pratiques des adversaires de notre société | Isabelle Florennes
+
+Aux questions au gouvernement, notre sénatrice des Hauts-de-Seine, Isabelle Florennes, a interrogé le ministre de l’Intérieur sur le contrôle des réseaux sociaux en cas d’émeutes après les événements de ce weekend.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/isabelle-florennes-il-faut-adapter-les-moyens-de-nos-forces-aux-pratiques-des
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>dtHZQ7Et4Mc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dtHZQ7Et4Mc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Victoire : Ma proposition de loi adoptée en commission des lois !</title>
       <link>https://www.youtube.com/watch?v=tL2S-IkfNPI</link>
@@ -74,7 +100,7 @@ Chapitres :
       <enclosure url="https://i.ytimg.com/vi/JSa0536asNM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>La diplomatie féministe n'est une variable d’ajustement budgétaire</title>
+      <title>La diplomatie féministe n'est pas une variable d’ajustement budgétaire</title>
       <link>https://www.youtube.com/watch?v=40m35uZFAVc</link>
       <guid>https://www.youtube.com/watch?v=40m35uZFAVc</guid>
       <pubDate>2026-10-21T13:52:21+00:00</pubDate>
@@ -480,17 +506,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Paul Vannier</channelTitle>
       <videoId>2g4jXEFNKtE</videoId>
       <enclosure url="https://i.ytimg.com/vi/2g4jXEFNKtE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Où est l’État ? » - Conférence de presse de Fabien Roussel à la suite des mobilisations</title>
-      <link>https://www.youtube.com/watch?v=_vNCdYexU78</link>
-      <guid>https://www.youtube.com/watch?v=_vNCdYexU78</guid>
-      <pubDate>2026-10-20T22:21:27+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description />
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>_vNCdYexU78</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_vNCdYexU78/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
