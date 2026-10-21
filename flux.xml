@@ -4,8 +4,44 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 08:15:40 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:31:03 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Ils rentreront dans les appartements | La matinale en intégralité de Marine Le Pen, sur franceinfo</title>
+      <link>https://www.youtube.com/watch?v=j0pP0ySHrZ0</link>
+      <guid>https://www.youtube.com/watch?v=j0pP0ySHrZ0</guid>
+      <pubDate>2026-10-21T08:23:46+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Marine Le Pen, candidate à l'élection présidentielle, était l'invitée du 8.30 franceinfo ce mercredi 21 octobre 2026, face à Agathe Lambret et Hadrien Bect.
+
+Au programme :
+• Les pillages et les violences du 17 octobre : « Si on n'arrête pas les criminels, ils ne s'arrêtent pas. »
+• La fermeté de la réponse pénale et le soutien aux forces de l'ordre
+• L'écosystème de LFI et les associations subventionnées par l'argent des contribuables
+• Faire payer les casseurs, jusque sur leurs allocations
+• La justice : passer de 10 à 20 magistrats pour 100 000 habitants
+• Le congrès d'Orléans ce week-end : « On n'arrêtera rien du tout, c'est eux qui vont s'arrêter. »
+
+Chapitres :
+0:00 Un pouvoir qui « n'a plus la main »
+1:35 « Il doit partir » : le Premier ministre
+3:03 Pourquoi ne pas répondre à l'invitation de Matignon
+6:30 Couvre-feux et maintien de l'ordre
+9:00 « Demain, ils rentreront dans les appartements »
+10:32 La réponse pénale face aux pilleurs
+13:00 LFI, son écosystème et les associations subventionnées
+14:36 La vidéo d'allocution de Marine Le Pen
+16:18 Un risque de guerre civile ? « Quand je serai élue, la loi s'appliquera »
+18:26 Faire payer les pilleurs, jusque sur leurs allocations
+19:44 La justice : 20 magistrats pour 100 000 habitants
+20:17 Le congrès d'Orléans ce week-end
+23:01 « On n'arrêtera rien du tout, c'est eux qui vont s'arrêter »</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>j0pP0ySHrZ0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/j0pP0ySHrZ0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Protéger les joueurs de jeux vidéo, faire respecter leurs droits !</title>
       <link>https://www.youtube.com/watch?v=VgmDUkVYZ_A</link>
@@ -13,6 +49,8 @@
       <pubDate>2026-10-21T08:14:08+00:00</pubDate>
       <author>Ugo Bernalicis</author>
       <description>Le mercredi 21 octobre 2026, je suis intervenu en commission des affaires culturelles et de l’éducation à l’Assemblée nationale pour défendre ma proposition de loi visant à garantir les droits des joueuses et des joueurs et à assurer la pérennité des jeux vidéo.
+
+#ChangerLaVie
 
 Suivez Ugo Bernalicis sur :
 👉 Facebook : https://www.facebook.com/ugobernalicis
@@ -88,7 +126,7 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <enclosure url="https://i.ytimg.com/vi/bayVyfU0OUk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>17 octobre, fiasco du gouvernement, bascule autoritaire : Paul Vannier sur LCI.</title>
+      <title>17 octobre, fiasco gouvernemental, bascule autoritaire : Paul Vannier sur LCI.</title>
       <link>https://www.youtube.com/watch?v=2g4jXEFNKtE</link>
       <guid>https://www.youtube.com/watch?v=2g4jXEFNKtE</guid>
       <pubDate>2026-10-21T06:00:13+00:00</pubDate>
@@ -448,21 +486,6 @@ Pour (re)voir l'interview de Jean-Luc Mélenchon sur LCI du dimanche 18 octobre 
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>d4KO-lqadNI</videoId>
       <enclosure url="https://i.ytimg.com/vi/d4KO-lqadNI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Burger King d'Epinay : c’est un détournement d’argent public qui se passe ici</title>
-      <link>https://www.youtube.com/watch?v=V-jKu-UgMHI</link>
-      <guid>https://www.youtube.com/watch?v=V-jKu-UgMHI</guid>
-      <pubDate>2026-10-20T06:00:11+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez mon discours prononcé au Burger King d’Épinay-sur-Seine le 24 septembre, en soutien aux salariés exploités.
-
-🗣️ « C’est un détournement d’argent public qui se passe ici, c’est une arnaque, une escroquerie, puisqu’on a une entreprise qui utilise le statut de l’alternance, qui reçoit des aides, qui bénéficie d’exonérations quasi totales pour faire travailler des alternants sans quasiment de formation, […] employés à temps plein ou quasiment. »
-
-En tant que président de la commission des finances, j’interpellerai le ministre du Travail sur l’utilisation de l’argent public et les conditions d’emploi des alternants.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>V-jKu-UgMHI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/V-jKu-UgMHI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
