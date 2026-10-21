@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 15:30:58 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:45:46 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>DÉFENDONS L'ANDOUILLE DE GUÉMENÉ !</title>
@@ -169,19 +169,6 @@ Les droits et la santé des femmes ne sont pas une variable d’ajustement budg�
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>ZvEX-_CEtB8</videoId>
       <enclosure url="https://i.ytimg.com/vi/ZvEX-_CEtB8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>GAËTAN DUSSAUSAYE est l'invité de LAURENCE FERRARI sur CNEWS !</title>
-      <link>https://www.youtube.com/watch?v=Jse_tkzx2F8</link>
-      <guid>https://www.youtube.com/watch?v=Jse_tkzx2F8</guid>
-      <pubDate>2026-10-21T13:39:32+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>Jse_tkzx2F8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Jse_tkzx2F8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>NOUS SOMMES DANS UNE BASCULE AUTORITAIRE</title>
@@ -513,6 +500,17 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>OKVD8PGc9Rc</videoId>
       <enclosure url="https://i.ytimg.com/vi/OKVD8PGc9Rc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Face à BFM : je réagis sur le 17 octobre</title>
+      <link>https://www.youtube.com/watch?v=bayVyfU0OUk</link>
+      <guid>https://www.youtube.com/watch?v=bayVyfU0OUk</guid>
+      <pubDate>2026-10-21T06:40:50+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description />
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>bayVyfU0OUk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/bayVyfU0OUk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
