@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 15:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:01:15 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>JULIEN ODOUL : « L'extrême-gauche est un danger pour la France » (CNEWS)</title>
+      <link>https://www.youtube.com/watch?v=ytslIwzhoWE</link>
+      <guid>https://www.youtube.com/watch?v=ytslIwzhoWE</guid>
+      <pubDate>2026-10-21T15:50:42+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>ytslIwzhoWE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ytslIwzhoWE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>DÉFENDONS L'ANDOUILLE DE GUÉMENÉ !</title>
       <link>https://www.youtube.com/watch?v=vqA26bsdexE</link>
@@ -158,19 +171,6 @@ Les droits et la santé des femmes ne sont pas une variable d’ajustement budg�
       <enclosure url="https://i.ytimg.com/vi/40m35uZFAVc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>JULIEN ODOUL est face à une ÉCOLOGISTE sur FRANCE INFO !</title>
-      <link>https://www.youtube.com/watch?v=ZvEX-_CEtB8</link>
-      <guid>https://www.youtube.com/watch?v=ZvEX-_CEtB8</guid>
-      <pubDate>2026-10-21T13:47:47+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>ZvEX-_CEtB8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ZvEX-_CEtB8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>NOUS SOMMES DANS UNE BASCULE AUTORITAIRE</title>
       <link>https://www.youtube.com/watch?v=sXHd9zp8n-I</link>
       <guid>https://www.youtube.com/watch?v=sXHd9zp8n-I</guid>
@@ -217,7 +217,7 @@ https://twitter.com/partiudr
       <enclosure url="https://i.ytimg.com/vi/PP1kLKV3xcE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Macron à la matraque ! – En Campagne à la Fête de l'Humanité</title>
+      <title>Macron à la matraque ! – En Campagne EP5</title>
       <link>https://www.youtube.com/watch?v=oa3-ITRTDQA</link>
       <guid>https://www.youtube.com/watch?v=oa3-ITRTDQA</guid>
       <pubDate>2026-10-21T13:16:24+00:00</pubDate>
