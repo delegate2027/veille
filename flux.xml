@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 12:45:41 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:01:16 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Une censure ne ferait que précipiter la France dans une crise majeure | Cyrille Isaac-Sibille</title>
+      <link>https://www.youtube.com/watch?v=Bb08jCIKQnQ</link>
+      <guid>https://www.youtube.com/watch?v=Bb08jCIKQnQ</guid>
+      <pubDate>2026-10-21T12:44:10+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Une censure du budget ne ferait que précipiter la France dans une crise financière majeure | Cyrille Isaac-Sibille
+
+Aux questions au gouvernement de ce mercredi 21 octobre, notre député du Rhône, Cyrille Isaac-Sibille, a interrogé le Premier ministre sur les taux d'emprunt de la France et le débat budgétaire, en particulier en matière de santé et de prévention.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/cyrille-isaac-sibille-restaurer-notre-credibilite-suppose-davantage-que-de
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>Bb08jCIKQnQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Bb08jCIKQnQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>David Lisnard  : discours à Cannes du 19 octobre</title>
       <link>https://www.youtube.com/watch?v=moO2RZaqIFE</link>
@@ -438,27 +464,6 @@ https://twitter.com/partiudr
       <channelTitle>UDR</channelTitle>
       <videoId>WfjIQaiNtYs</videoId>
       <enclosure url="https://i.ytimg.com/vi/WfjIQaiNtYs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manifestation du 17 octobre : "Le Gouvernement a été gravement défaillant !" Boris Vallaud sur LCP</title>
-      <link>https://www.youtube.com/watch?v=ONoggFGwa1M</link>
-      <guid>https://www.youtube.com/watch?v=ONoggFGwa1M</guid>
-      <pubDate>2026-10-20T13:55:06+00:00</pubDate>
-      <author>BorisVallaud</author>
-      <description>Boris Vallaud était l'invité de l'émission "Lundi C'est Politique" spéciale consacrée aux événements du 17 octobre 2026, sur LCP en partenariat avec Challenges et Radio classique.
-
-_____________________________________
-
-Suivez-moi sur les réseaux sociaux
-
-Twitter :  https://x.com/BorisVallaud
-Facebook :  https://www.facebook.com/BVallaud
-Instagram :  https://www.instagram.com/borisvallaud/ 
-Tiktok : https://www.tiktok.com/@borisvallaud
-Youtube : https://www.youtube.com/@Boris_Vallaud</description>
-      <channelTitle>BorisVallaud</channelTitle>
-      <videoId>ONoggFGwa1M</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ONoggFGwa1M/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
