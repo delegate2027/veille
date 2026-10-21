@@ -4,8 +4,24 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 21:30:59 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:45:42 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Les casseurs masqués auraient dû être arrêtés immédiatement !</title>
+      <link>https://www.youtube.com/watch?v=hpxJ_uyDBlE</link>
+      <guid>https://www.youtube.com/watch?v=hpxJ_uyDBlE</guid>
+      <pubDate>2026-10-21T21:45:13+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Lorsque je serai élue, la loi s'appliquera, parce que la loi a tous les moyens d'empêcher ce que nous avons vu samedi.
+
+Extrait de la matinale de franceinfo du 21 octobre 2026.
+▶️ L'émission en intégralité : https://youtu.be/j0pP0ySHrZ0</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>hpxJ_uyDBlE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hpxJ_uyDBlE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Macron à la matraque ! – En Campagne EP5</title>
       <link>https://www.youtube.com/watch?v=oa3-ITRTDQA</link>
@@ -426,22 +442,6 @@ Parce que ça évite à la Macronie d’assumer ses responsabilités et au RN d�
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>Ka-APpewi2M</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ka-APpewi2M/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Demain, ils rentreront dans les appartements et agresseront les personnes !</title>
-      <link>https://www.youtube.com/watch?v=CLTzXxxS4mk</link>
-      <guid>https://www.youtube.com/watch?v=CLTzXxxS4mk</guid>
-      <pubDate>2026-10-21T08:44:17+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Si on n'arrête pas les criminels, ils ne s'arrêtent pas. C'est ça la réalité.
-
-Extrait de la matinale de franceinfo du 21 octobre 2026.
-▶️ L'émission en intégralité : https://youtu.be/j0pP0ySHrZ0</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>CLTzXxxS4mk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/CLTzXxxS4mk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Protéger les joueurs de jeux vidéo, faire respecter leurs droits !</title>
