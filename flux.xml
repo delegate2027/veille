@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 14:01:24 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:15:57 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>THOMAS MÉNAGÉ est SEUL CONTRE TOUS sur BFMTV !</title>
+      <link>https://www.youtube.com/watch?v=jmhOopNtJ3I</link>
+      <guid>https://www.youtube.com/watch?v=jmhOopNtJ3I</guid>
+      <pubDate>2026-10-21T14:08:33+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>jmhOopNtJ3I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jmhOopNtJ3I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>FRANCK ALLISIO est face à un DÉPUTÉ D'EXTRÊME-GAUCHE sur LCI !</title>
       <link>https://www.youtube.com/watch?v=JSa0536asNM</link>
@@ -453,17 +466,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>_vNCdYexU78</videoId>
       <enclosure url="https://i.ytimg.com/vi/_vNCdYexU78/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier : "des militants d'extrême droite ont déjà bravé le couvre-feu" (BFM TV)</title>
-      <link>https://www.youtube.com/watch?v=8zdOBbf3CVU</link>
-      <guid>https://www.youtube.com/watch?v=8zdOBbf3CVU</guid>
-      <pubDate>2026-10-20T21:14:12+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Plateau du 20 octobre 2026 sur BFM TV pour évoquer les événements du 17 octobre en France.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>8zdOBbf3CVU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8zdOBbf3CVU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
