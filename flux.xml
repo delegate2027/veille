@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 13:31:04 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:45:42 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>GAËTAN DUSSAUSAYE est l'invité de LAURENCE FERRARI sur CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=Jse_tkzx2F8</link>
+      <guid>https://www.youtube.com/watch?v=Jse_tkzx2F8</guid>
+      <pubDate>2026-10-21T13:39:32+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>Jse_tkzx2F8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Jse_tkzx2F8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>NOUS SOMMES DANS UNE BASCULE AUTORITAIRE</title>
       <link>https://www.youtube.com/watch?v=sXHd9zp8n-I</link>
@@ -467,23 +480,6 @@ Abonnez-vous à notre chaîne YouTube !
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>SJ1BhZdb8sI</videoId>
       <enclosure url="https://i.ytimg.com/vi/SJ1BhZdb8sI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mon soutien aux agentes et à agents à Limoges</title>
-      <link>https://www.youtube.com/watch?v=x5Dzhgej000</link>
-      <guid>https://www.youtube.com/watch?v=x5Dzhgej000</guid>
-      <pubDate>2026-10-20T18:12:35+00:00</pubDate>
-      <author>DAMIEN MAUDET</author>
-      <description>Mon soutien aux agentes et à agents à Limoges. À celles et ceux qui ont dû faire face et qui ont été menacés, à celles et ceux qui ont été déplacés et doivent travailler dans des conditions extrêmement compliquées. La lumière doit être faite et les responsabilités doivent être établies pour que la justice puisse se prononcer.
-
-Limoges ne doit pas être laissée seule. L'Etat doit affirmer sa présence et s'engager financièrement dans la reconstruction.
-
-Ce 17 octobre des centaines de milliers de manifestants sont descendus dans les rues contre la vie chère et pour une vie digne.
-
-Or, le budget proposé par Macron et son gouvernement est tout l'inverse : moins d'accès aux soins, des soins plus chers, des prestations gelées. Un budget qui va continuer d'appauvrir les Français et de détruire la protection sociale. Nous ne pouvons l'accepter.</description>
-      <channelTitle>DAMIEN MAUDET</channelTitle>
-      <videoId>x5Dzhgej000</videoId>
-      <enclosure url="https://i.ytimg.com/vi/x5Dzhgej000/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
