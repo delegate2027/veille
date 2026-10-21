@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 09:15:49 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:31:04 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Pourquoi c’est toujours la faute de LFI ?</title>
+      <link>https://www.youtube.com/watch?v=Ka-APpewi2M</link>
+      <guid>https://www.youtube.com/watch?v=Ka-APpewi2M</guid>
+      <pubDate>2026-10-21T09:15:43+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Pourquoi c’est toujours la faute de LFI ? 
+
+Parce que ça évite à la Macronie d’assumer ses responsabilités et au RN d’apporter de vraies solutions politiques.</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>Ka-APpewi2M</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Ka-APpewi2M/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Demain, ils rentreront dans les appartements et agresseront les personnes !</title>
       <link>https://www.youtube.com/watch?v=CLTzXxxS4mk</link>
@@ -462,26 +475,6 @@ En 2027, nous reconstruirons l’école publique et garantirons le droit à l’
       <channelTitle>Paul Vannier</channelTitle>
       <videoId>1GihOazAynA</videoId>
       <enclosure url="https://i.ytimg.com/vi/1GihOazAynA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴  Mobilisation du 17 octobre, révélations de Mediapart : Manuel Bompard face aux Grandes Gueules !</title>
-      <link>https://www.youtube.com/watch?v=7GwCNTWyBVs</link>
-      <guid>https://www.youtube.com/watch?v=7GwCNTWyBVs</guid>
-      <pubDate>2026-10-20T10:42:32+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>7GwCNTWyBVs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7GwCNTWyBVs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
