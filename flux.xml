@@ -4,8 +4,45 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 21 Oct 2026 15:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:30:58 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>DÉFENDONS L'ANDOUILLE DE GUÉMENÉ !</title>
+      <link>https://www.youtube.com/watch?v=vqA26bsdexE</link>
+      <guid>https://www.youtube.com/watch?v=vqA26bsdexE</guid>
+      <pubDate>2026-10-21T15:21:29+00:00</pubDate>
+      <author>UDR</author>
+      <description>Crédits Vidéo : UDR
+
+----------------------------------------------
+
+► Rejoignez l'UDR ici :
+https://www.udr.fr/
+https://www.instagram.com/partiudr
+https://www.tiktok.com/@partiudr
+https://www.facebook.com/udrofficiel
+https://twitter.com/partiudr
+
+----------------------------------------------
+
+► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
+
+#UDR #EricCiotti</description>
+      <channelTitle>UDR</channelTitle>
+      <videoId>vqA26bsdexE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vqA26bsdexE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Boris Tavernier : En affaiblissant les voies démocratiques, vous légitimez celle de la violence.</title>
+      <link>https://www.youtube.com/watch?v=ue1I152jRmM</link>
+      <guid>https://www.youtube.com/watch?v=ue1I152jRmM</guid>
+      <pubDate>2026-10-21T15:16:03+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>ue1I152jRmM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ue1I152jRmM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Il faut adapter nos moyens aux pratiques des adversaires de notre société | Isabelle Florennes</title>
       <link>https://www.youtube.com/watch?v=dtHZQ7Et4Mc</link>
@@ -439,7 +476,7 @@ Suivez Ugo Bernalicis sur :
       <enclosure url="https://i.ytimg.com/vi/0R8jNJuKox8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>« Donner plus de pouvoirs aux polices municipales » | Édouard Philippe dans Les 4 Vérités</title>
+      <title>« J’espère battre Marine Le Pen au second tour » | Édouard Philippe dans Les 4 Vérités</title>
       <link>https://www.youtube.com/watch?v=OKVD8PGc9Rc</link>
       <guid>https://www.youtube.com/watch?v=OKVD8PGc9Rc</guid>
       <pubDate>2026-10-21T06:44:51+00:00</pubDate>
@@ -476,36 +513,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>OKVD8PGc9Rc</videoId>
       <enclosure url="https://i.ytimg.com/vi/OKVD8PGc9Rc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Face à BFM : je réagis sur le 17 octobre</title>
-      <link>https://www.youtube.com/watch?v=bayVyfU0OUk</link>
-      <guid>https://www.youtube.com/watch?v=bayVyfU0OUk</guid>
-      <pubDate>2026-10-21T06:40:50+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description />
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>bayVyfU0OUk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/bayVyfU0OUk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>17 octobre, fiasco gouvernemental, bascule autoritaire : Paul Vannier sur LCI.</title>
-      <link>https://www.youtube.com/watch?v=2g4jXEFNKtE</link>
-      <guid>https://www.youtube.com/watch?v=2g4jXEFNKtE</guid>
-      <pubDate>2026-10-21T06:00:13+00:00</pubDate>
-      <author>Paul Vannier</author>
-      <description>Paul Vannier était sur LCI mercredi 21 octobre 2026.
-
-📲 RETROUVEZ PAUL VANNIER SUR :
-
-🔗 Telegram : https://t.me/paulvannier
-🔗 Facebook : https://bit.ly/3PD1FZ1
-🔗 Twitter : https://twitter.com/PaulVannierFI
-🔗 Instagram : https://www.instagram.com/paulvannier_/
-🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
-      <channelTitle>Paul Vannier</channelTitle>
-      <videoId>2g4jXEFNKtE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/2g4jXEFNKtE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
