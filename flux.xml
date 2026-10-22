@@ -4,7 +4,54 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 05:45:36 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:01:05 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Mon soutien aux agentes et à agents à Limoges</title>
+      <link>https://www.youtube.com/watch?v=x5Dzhgej000</link>
+      <guid>https://www.youtube.com/watch?v=x5Dzhgej000</guid>
+      <pubDate>2026-10-20T18:12:35+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description>Mon soutien aux agentes et à agents à Limoges. À celles et ceux qui ont dû faire face et qui ont été menacés, à celles et ceux qui ont été déplacés et doivent travailler dans des conditions extrêmement compliquées. La lumière doit être faite et les responsabilités doivent être établies pour que la justice puisse se prononcer.
+
+Limoges ne doit pas être laissée seule. L'Etat doit affirmer sa présence et s'engager financièrement dans la reconstruction.
+
+Ce 17 octobre des centaines de milliers de manifestants sont descendus dans les rues contre la vie chère et pour une vie digne.
+
+Or, le budget proposé par Macron et son gouvernement est tout l'inverse : moins d'accès aux soins, des soins plus chers, des prestations gelées. Un budget qui va continuer d'appauvrir les Français et de détruire la protection sociale. Nous ne pouvons l'accepter.</description>
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>x5Dzhgej000</videoId>
+      <enclosure url="https://i.ytimg.com/vi/x5Dzhgej000/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Limoges : les fermetures de commerces se multiplient depuis des semaines...</title>
+      <link>https://www.youtube.com/watch?v=jtMmQvo_q6w</link>
+      <guid>https://www.youtube.com/watch?v=jtMmQvo_q6w</guid>
+      <pubDate>2026-10-19T16:00:27+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description>« En une semaine sur la même place de centre-ville à Limoges, c'est le café de Philippe qui ferme et la boulangerie. »
+
+À Limoges, les fermetures de commerces se multiplient depuis des semaines. 
+
+Il existe plusieurs causes à ces fermetures, mais l'une d'elles, c'est le prix des loyers, beaucoup trop élevé comparé au chiffre d'affaire réalisé par les commerçants. 
+
+C'est pourquoi nous proposons de geler les loyers commerciaux.</description>
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>jtMmQvo_q6w</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jtMmQvo_q6w/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ils veulent que tout le monde paye au moins 50€ d'impôt sur le revenu ?!</title>
+      <link>https://www.youtube.com/watch?v=pIhgYdkhgtI</link>
+      <guid>https://www.youtube.com/watch?v=pIhgYdkhgtI</guid>
+      <pubDate>2026-10-18T16:00:35+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description>La droite : ne veut pas que 13 000 millionnaires français payent leur juste part d'impôt.
+
+Aussi la droite : voudrait que tous les Français, même les plus précaires, payent au moins 50 euros d'impôt sur le revenu.</description>
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>pIhgYdkhgtI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/pIhgYdkhgtI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
