@@ -4,8 +4,24 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 09:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:31:06 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>À Tours, 31 pilleurs interpellés, presque tous classés sans suite !</title>
+      <link>https://www.youtube.com/watch?v=6AC7gWNRW7c</link>
+      <guid>https://www.youtube.com/watch?v=6AC7gWNRW7c</guid>
+      <pubDate>2026-10-22T09:15:39+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+J'ai demandé que la commission d'enquête analyse la réponse pénale, tribunal par tribunal. Les Français, au nom de qui la justice est rendue, doivent pouvoir se faire une opinion.
+
+Extrait de la matinale de franceinfo du 21 octobre 2026.
+▶️ L'émission en intégralité : https://youtu.be/j0pP0ySHrZ0</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>6AC7gWNRW7c</videoId>
+      <enclosure url="https://i.ytimg.com/vi/6AC7gWNRW7c/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Olivier Faure sur France Info</title>
       <link>https://www.youtube.com/watch?v=SDjyK5U3cIw</link>
@@ -161,22 +177,6 @@ Suivez Ugo Bernalicis sur :
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>2RgSNqIahEU</videoId>
       <enclosure url="https://i.ytimg.com/vi/2RgSNqIahEU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les casseurs masqués auraient dû être arrêtés immédiatement !</title>
-      <link>https://www.youtube.com/watch?v=hpxJ_uyDBlE</link>
-      <guid>https://www.youtube.com/watch?v=hpxJ_uyDBlE</guid>
-      <pubDate>2026-10-21T21:45:13+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Lorsque je serai élue, la loi s'appliquera, parce que la loi a tous les moyens d'empêcher ce que nous avons vu samedi.
-
-Extrait de la matinale de franceinfo du 21 octobre 2026.
-▶️ L'émission en intégralité : https://youtu.be/j0pP0ySHrZ0</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>hpxJ_uyDBlE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hpxJ_uyDBlE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Macron à la matraque ! – En Campagne EP5</title>
