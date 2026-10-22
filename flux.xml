@@ -4,7 +4,58 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 00:30:50 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:45:37 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Macron à la matraque ! – En Campagne EP5</title>
+      <link>https://www.youtube.com/watch?v=oa3-ITRTDQA</link>
+      <guid>https://www.youtube.com/watch?v=oa3-ITRTDQA</guid>
+      <pubDate>2026-10-21T18:55:21+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>À suivre en direct et en public à 19H avec Mathilde Panot, Ugo Bernalicis, Hadrien Clouet, Anne-Sophie Simpere, Eve "Colomblbl, Enora Lanoë-Danel et Ceylia
+#EnCampagne
+
+_________________________________________________ 
+
+Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
+
+☞ X (Twitter) : https://x.com/FiAssemblee
+☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
+☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
+☞ YouTube :  / @FranceinsoumiseAN
+☞ Instagram : https://instagram.com/FranceinsoumiseAN/
+☞ Threads : https://www.threads.net/@FranceinsoumiseAN
+☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
+☞ Telegram : https://t.me/FranceinsoumiseAN
+
+Abonnez-vous !</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>oa3-ITRTDQA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/oa3-ITRTDQA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sébastien Lecornu est un incapable.</title>
+      <link>https://www.youtube.com/watch?v=4tVAvD5blDo</link>
+      <guid>https://www.youtube.com/watch?v=4tVAvD5blDo</guid>
+      <pubDate>2026-10-20T08:04:30+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Revivez l'interview de Mathilde Panot sur LCI, le mardi 20 octobre 2026 à 8h25.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>4tVAvD5blDo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4tVAvD5blDo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🎀 Il était une fois Octobre Rose.</title>
+      <link>https://www.youtube.com/watch?v=OkA1y4cpaBs</link>
+      <guid>https://www.youtube.com/watch?v=OkA1y4cpaBs</guid>
+      <pubDate>2026-10-14T19:41:37+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>La lutte contre le cancer ne doit pas être du vernis rose.
+
+Nous ne voulons pas un "Octobre rose", mais un Octobre colère.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>OkA1y4cpaBs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/OkA1y4cpaBs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
