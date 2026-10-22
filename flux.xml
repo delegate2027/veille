@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 17:15:50 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:31:06 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>Mon discours lors de la réunion publique de Montbéliard.</title>
@@ -156,22 +156,6 @@ Interpellez votre député·e pour qu’il ou elle vote ce texte en séance le j
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>gvr8o9Nigmc</videoId>
       <enclosure url="https://i.ytimg.com/vi/gvr8o9Nigmc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>À Tours, 31 pilleurs interpellés, presque tous classés sans suite !</title>
-      <link>https://www.youtube.com/watch?v=6AC7gWNRW7c</link>
-      <guid>https://www.youtube.com/watch?v=6AC7gWNRW7c</guid>
-      <pubDate>2026-10-22T09:15:39+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-J'ai demandé que la commission d'enquête analyse la réponse pénale, tribunal par tribunal. Les Français, au nom de qui la justice est rendue, doivent pouvoir se faire une opinion.
-
-Extrait de la matinale de franceinfo du 21 octobre 2026.
-▶️ L'émission en intégralité : https://youtu.be/j0pP0ySHrZ0</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>6AC7gWNRW7c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/6AC7gWNRW7c/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Olivier Faure sur France Info</title>
@@ -454,6 +438,26 @@ Les droits et la santé des femmes ne sont pas une variable d’ajustement budg�
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>40m35uZFAVc</videoId>
       <enclosure url="https://i.ytimg.com/vi/40m35uZFAVc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>NOUS SOMMES DANS UNE BASCULE AUTORITAIRE</title>
+      <link>https://www.youtube.com/watch?v=sXHd9zp8n-I</link>
+      <guid>https://www.youtube.com/watch?v=sXHd9zp8n-I</guid>
+      <pubDate>2026-10-21T13:28:55+00:00</pubDate>
+      <author>Ugo Bernalicis</author>
+      <description>retrouver mon passage sur la matinale d'ici nord le mardi 20 octobre 2026
+
+Suivez Ugo Bernalicis sur :
+👉 Facebook : https://www.facebook.com/ugobernalicis
+👉 Twitter : https://twitter.com/Ugobernalicis
+👉 Instagram : https://www.instagram.com/ugo_bernalicis/
+👉 YouTube : https://youtube.com/c/UgoBernalicisofficiel
+👉 Twitch : https://www.twitch.tv/deputwitch/
+👉 Telegram : https://t.me/ub_actu
+👉 Son blog : https://www.ugobernalicis.fr</description>
+      <channelTitle>Ugo Bernalicis</channelTitle>
+      <videoId>sXHd9zp8n-I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/sXHd9zp8n-I/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
