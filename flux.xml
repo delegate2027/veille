@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 21:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:30:55 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Quelques jours après l'incendie de notre mairie, je souhaite aborder quelques sujets avec vous</title>
+      <link>https://www.youtube.com/watch?v=lxAwifDPv1s</link>
+      <guid>https://www.youtube.com/watch?v=lxAwifDPv1s</guid>
+      <pubDate>2026-10-22T21:08:34+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description>Afin d'avoir des réponses, je serai membre de la commission d'enquête parlementaire sur le 17 octobre.
+
+Enfin, les revendications perdurent, et la seule réponse du Gouvernement ne peut pas être sécuritaire, qui plus est alors que c'est le Gouvernement qui a vraisemblablement échoué dans sa stratégie du maintien de l'ordre.</description>
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>lxAwifDPv1s</videoId>
+      <enclosure url="https://i.ytimg.com/vi/lxAwifDPv1s/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jeux vidéo : les joueurs ont des droits ! Mes interventions à l’Assemblée nationale</title>
       <link>https://www.youtube.com/watch?v=gSb_QiiaozI</link>
@@ -394,17 +407,6 @@ https://twitter.com/partiudr
       <channelTitle>UDR</channelTitle>
       <videoId>vqA26bsdexE</videoId>
       <enclosure url="https://i.ytimg.com/vi/vqA26bsdexE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Boris Tavernier : En affaiblissant les voies démocratiques, vous légitimez celle de la violence.</title>
-      <link>https://www.youtube.com/watch?v=ue1I152jRmM</link>
-      <guid>https://www.youtube.com/watch?v=ue1I152jRmM</guid>
-      <pubDate>2026-10-21T15:16:03+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>ue1I152jRmM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ue1I152jRmM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
