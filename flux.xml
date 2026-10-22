@@ -4,8 +4,42 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 08:31:07 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:45:39 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>LAURENT JACOBELLI est l'invité de la matinale de RMC !</title>
+      <link>https://www.youtube.com/watch?v=2MB-0S0fRZo</link>
+      <guid>https://www.youtube.com/watch?v=2MB-0S0fRZo</guid>
+      <pubDate>2026-10-22T08:35:06+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>2MB-0S0fRZo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2MB-0S0fRZo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴 Réunion à Matignon, suites de la mobilisation du 17 octobre : Manuel Bompard, invité de BFMTV !</title>
+      <link>https://www.youtube.com/watch?v=l0jeHzaM_GE</link>
+      <guid>https://www.youtube.com/watch?v=l0jeHzaM_GE</guid>
+      <pubDate>2026-10-22T08:26:50+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur BFMTV du jeudi 22 octobre 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>l0jeHzaM_GE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/l0jeHzaM_GE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY est face à BRUNO LE MAIRE sur CNEWS !</title>
       <link>https://www.youtube.com/watch?v=MxZbxSwP5ZU</link>
@@ -290,19 +324,6 @@ Chapitres :
       <enclosure url="https://i.ytimg.com/vi/tL2S-IkfNPI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>THOMAS MÉNAGÉ est SEUL CONTRE TOUS sur BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=jmhOopNtJ3I</link>
-      <guid>https://www.youtube.com/watch?v=jmhOopNtJ3I</guid>
-      <pubDate>2026-10-21T14:08:33+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>jmhOopNtJ3I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/jmhOopNtJ3I/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>La diplomatie féministe n'est pas une variable d’ajustement budgétaire</title>
       <link>https://www.youtube.com/watch?v=40m35uZFAVc</link>
       <guid>https://www.youtube.com/watch?v=40m35uZFAVc</guid>
@@ -472,19 +493,6 @@ TikTok : https://www.tiktok.com/@zemmour_eric
       <channelTitle>Éric Zemmour</channelTitle>
       <videoId>6rUrgbtrd6k</videoId>
       <enclosure url="https://i.ytimg.com/vi/6rUrgbtrd6k/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Pourquoi c’est toujours la faute de LFI ?</title>
-      <link>https://www.youtube.com/watch?v=Ka-APpewi2M</link>
-      <guid>https://www.youtube.com/watch?v=Ka-APpewi2M</guid>
-      <pubDate>2026-10-21T09:15:43+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description>Pourquoi c’est toujours la faute de LFI ? 
-
-Parce que ça évite à la Macronie d’assumer ses responsabilités et au RN d’apporter de vraies solutions politiques.</description>
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>Ka-APpewi2M</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ka-APpewi2M/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
