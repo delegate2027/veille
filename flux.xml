@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 08:01:13 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:15:44 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY est face à BRUNO LE MAIRE sur CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=MxZbxSwP5ZU</link>
+      <guid>https://www.youtube.com/watch?v=MxZbxSwP5ZU</guid>
+      <pubDate>2026-10-22T08:00:02+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>MxZbxSwP5ZU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/MxZbxSwP5ZU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La CGT contre le congrès d'un parti ? Ça en dit long sur le respect de la démocratie !</title>
       <link>https://www.youtube.com/watch?v=HBH8OJaitYQ</link>
@@ -288,19 +301,6 @@ Chapitres :
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>jmhOopNtJ3I</videoId>
       <enclosure url="https://i.ytimg.com/vi/jmhOopNtJ3I/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>FRANCK ALLISIO est face à un DÉPUTÉ D'EXTRÊME-GAUCHE sur LCI !</title>
-      <link>https://www.youtube.com/watch?v=JSa0536asNM</link>
-      <guid>https://www.youtube.com/watch?v=JSa0536asNM</guid>
-      <pubDate>2026-10-21T13:54:32+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>JSa0536asNM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/JSa0536asNM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>La diplomatie féministe n'est pas une variable d’ajustement budgétaire</title>
