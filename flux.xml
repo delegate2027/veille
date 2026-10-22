@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 16:01:18 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:15:41 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>La répression qui s’abat sur les lycéen·nes et étudiant·es est sans précédent.</title>
@@ -33,6 +33,19 @@ Soutien à eux. Rendez-vous ce samedi 24 octobre pour la grande manifestation pl
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>PsCbueo8Ry4</videoId>
       <enclosure url="https://i.ytimg.com/vi/PsCbueo8Ry4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>JULIEN ODOUL :  « Marine Le Pen est la seule à pouvoir redresser la France ! » (France Info)</title>
+      <link>https://www.youtube.com/watch?v=GZ3VyXpRArs</link>
+      <guid>https://www.youtube.com/watch?v=GZ3VyXpRArs</guid>
+      <pubDate>2026-10-22T15:03:26+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>GZ3VyXpRArs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/GZ3VyXpRArs/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Marine Tondelier: "on va à Matignon pour parler des réponses politiques aux revendications sociales"</title>
@@ -446,32 +459,6 @@ Suivez Ugo Bernalicis sur :
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>sXHd9zp8n-I</videoId>
       <enclosure url="https://i.ytimg.com/vi/sXHd9zp8n-I/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Éric Ciotti interpelle le gouvernement sur les émeutes du 17 octobre</title>
-      <link>https://www.youtube.com/watch?v=PP1kLKV3xcE</link>
-      <guid>https://www.youtube.com/watch?v=PP1kLKV3xcE</guid>
-      <pubDate>2026-10-21T13:24:00+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : UDR
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>PP1kLKV3xcE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PP1kLKV3xcE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
