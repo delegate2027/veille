@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 13:45:47 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:01:18 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Présentation de notre proposition de loi pour protéger nos entreprises et notre souveraineté !</title>
+      <link>https://www.youtube.com/watch?v=r5iv7U2z3fA</link>
+      <guid>https://www.youtube.com/watch?v=r5iv7U2z3fA</guid>
+      <pubDate>2026-10-22T13:34:10+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description />
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>r5iv7U2z3fA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/r5iv7U2z3fA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Des milliards pour l’armée sans aucune stratégie : LFI dit non !</title>
       <link>https://www.youtube.com/watch?v=LLKR3xYfpnk</link>
@@ -490,17 +501,6 @@ https://twitter.com/partiudr
       <channelTitle>UDR</channelTitle>
       <videoId>7CoRoGQWtJg</videoId>
       <enclosure url="https://i.ytimg.com/vi/7CoRoGQWtJg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'ultime braquage de la Sécu</title>
-      <link>https://www.youtube.com/watch?v=4rs3nApChNc</link>
-      <guid>https://www.youtube.com/watch?v=4rs3nApChNc</guid>
-      <pubDate>2026-10-21T10:35:35+00:00</pubDate>
-      <author>Hadrien Clouet</author>
-      <description>Motion de rejet du projet de loi de financement de la Sécurité sociale : un texte injuste qui fait payer les malades, les pauvres, les retraités, les jeunes et les étrangers pour financer l'opulence des riches.</description>
-      <channelTitle>Hadrien Clouet</channelTitle>
-      <videoId>4rs3nApChNc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4rs3nApChNc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
