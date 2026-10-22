@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 15:01:16 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:15:45 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>LAURE LAVALETTE :  « Les casseurs doivent payer ! » (RTL)</title>
+      <link>https://www.youtube.com/watch?v=PsCbueo8Ry4</link>
+      <guid>https://www.youtube.com/watch?v=PsCbueo8Ry4</guid>
+      <pubDate>2026-10-22T15:03:29+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>PsCbueo8Ry4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PsCbueo8Ry4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier: "on va à Matignon pour parler des réponses politiques aux revendications sociales"</title>
       <link>https://www.youtube.com/watch?v=xXdAl8VHVRg</link>
@@ -470,32 +483,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>Bb08jCIKQnQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/Bb08jCIKQnQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Emeutiers, casseurs : la prison et l'avion ! Eric Ciotti sur CNEWS</title>
-      <link>https://www.youtube.com/watch?v=7CoRoGQWtJg</link>
-      <guid>https://www.youtube.com/watch?v=7CoRoGQWtJg</guid>
-      <pubDate>2026-10-21T12:17:23+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : CNEWS
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>7CoRoGQWtJg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7CoRoGQWtJg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
