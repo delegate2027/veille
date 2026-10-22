@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 14:01:18 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:15:43 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Marine Tondelier: "on va à Matignon pour parler des réponses politiques aux revendications sociales"</title>
+      <link>https://www.youtube.com/watch?v=xXdAl8VHVRg</link>
+      <guid>https://www.youtube.com/watch?v=xXdAl8VHVRg</guid>
+      <pubDate>2026-10-22T14:02:14+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Micro tendu du 22 octobre 2026 avant le rendez-vous avec Sébastien Lecornu à Matignon. La délégation écologiste était composée de Marine Tondelier, Cyrielle Chatelain et Mélanie Vogel.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>xXdAl8VHVRg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/xXdAl8VHVRg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Présentation de notre proposition de loi pour protéger nos entreprises et notre souveraineté !</title>
       <link>https://www.youtube.com/watch?v=r5iv7U2z3fA</link>
@@ -157,22 +168,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>l0jeHzaM_GE</videoId>
       <enclosure url="https://i.ytimg.com/vi/l0jeHzaM_GE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La CGT contre le congrès d'un parti ? Ça en dit long sur le respect de la démocratie !</title>
-      <link>https://www.youtube.com/watch?v=HBH8OJaitYQ</link>
-      <guid>https://www.youtube.com/watch?v=HBH8OJaitYQ</guid>
-      <pubDate>2026-10-22T07:15:29+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Un syndicat appelle à contrer le congrès d'un parti politique, et ça ne dérange personne. Sur le plan du respect de la démocratie, ça en dit long.
-
-Extrait de la matinale de franceinfo du 21 octobre 2026.
-▶️ L'émission en intégralité : https://youtu.be/j0pP0ySHrZ0</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>HBH8OJaitYQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HBH8OJaitYQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Point d'étape sur le budget 2027 : l’alliance RN-bloc central protège les ultra-riches</title>
