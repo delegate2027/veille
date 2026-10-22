@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 16:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:31:00 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>BFM2 2026 10 22 17h48 17</title>
+      <link>https://www.youtube.com/watch?v=bAxSc5Kr1xc</link>
+      <guid>https://www.youtube.com/watch?v=bAxSc5Kr1xc</guid>
+      <pubDate>2026-10-22T16:30:46+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>bAxSc5Kr1xc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/bAxSc5Kr1xc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mon discours lors de la réunion publique de Montbéliard.</title>
+      <link>https://www.youtube.com/watch?v=cjiGcWtCevQ</link>
+      <guid>https://www.youtube.com/watch?v=cjiGcWtCevQ</guid>
+      <pubDate>2026-10-22T16:15:38+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description>Ce mardi 20 octobre, j'ai pris la parole lors de la réunion publique de Montbéliard, en présence de Manuel Bompard et de Séverine Véziès.
+
+L'occasion de revenir sur le mouvement initié par la jeunesse, de parler de ma proposition de loi sur le contrôle des investissements étrangers et de revenir sur le plan d'investissement productif sur l'automobile de La France insoumise dans le cadre de l'élection présidentielle et de la candidature de Jean-Luc Mélenchon.
+
+Bon visionnage !</description>
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>cjiGcWtCevQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/cjiGcWtCevQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La répression qui s’abat sur les lycéen·nes et étudiant·es est sans précédent.</title>
       <link>https://www.youtube.com/watch?v=RPsWxlc75DA</link>
@@ -418,47 +444,6 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>tL2S-IkfNPI</videoId>
       <enclosure url="https://i.ytimg.com/vi/tL2S-IkfNPI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La diplomatie féministe n'est pas une variable d’ajustement budgétaire</title>
-      <link>https://www.youtube.com/watch?v=40m35uZFAVc</link>
-      <guid>https://www.youtube.com/watch?v=40m35uZFAVc</guid>
-      <pubDate>2026-10-21T13:52:21+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>En commission des Affaires étrangères, lors de l’examen du projet de loi de finances pour 2027, j’ai défendu un amendement visant à renforcer les financements consacrés aux droits et à la santé sexuels et reproductifs (DSSR), ainsi qu’au Fonds mondial de lutte contre le sida, la tuberculose et le paludisme.
-
-Partout dans le monde, l’accès à l’avortement sécurisé, à la contraception et à la prévention du VIH reste insuffisant. Selon les chiffres cités dans mon intervention, plus de 25 millions d’avortements non sécurisés ont lieu chaque année et une femme meurt toutes les deux minutes pendant la grossesse ou l’accouchement.
-
-Dans le même temps, la contribution française au Fonds mondial prévue pour 2027 est en baisse par rapport à 2025. J’ai donc défendu le rétablissement de financements à la hauteur des besoins et appelé le Gouvernement à lever le gage de l’amendement.
-
-L’amendement a été adopté ! Cette victoire a contribué à l’avis favorable de la commission sur les crédits de la mission Aide publique au développement.
-
-Au cours des débats, j’ai également interpellé Guillaume Bigot, député du Rassemblement national et rapporteur, sur son opposition aux crédits destinés aux droits et à la santé des femmes.
-
-Les droits et la santé des femmes ne sont pas une variable d’ajustement budgétaire. Ils nécessitent des engagements concrets et des financements à la hauteur des enjeux.</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>40m35uZFAVc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/40m35uZFAVc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>NOUS SOMMES DANS UNE BASCULE AUTORITAIRE</title>
-      <link>https://www.youtube.com/watch?v=sXHd9zp8n-I</link>
-      <guid>https://www.youtube.com/watch?v=sXHd9zp8n-I</guid>
-      <pubDate>2026-10-21T13:28:55+00:00</pubDate>
-      <author>Ugo Bernalicis</author>
-      <description>retrouver mon passage sur la matinale d'ici nord le mardi 20 octobre 2026
-
-Suivez Ugo Bernalicis sur :
-👉 Facebook : https://www.facebook.com/ugobernalicis
-👉 Twitter : https://twitter.com/Ugobernalicis
-👉 Instagram : https://www.instagram.com/ugo_bernalicis/
-👉 YouTube : https://youtube.com/c/UgoBernalicisofficiel
-👉 Twitch : https://www.twitch.tv/deputwitch/
-👉 Telegram : https://t.me/ub_actu
-👉 Son blog : https://www.ugobernalicis.fr</description>
-      <channelTitle>Ugo Bernalicis</channelTitle>
-      <videoId>sXHd9zp8n-I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/sXHd9zp8n-I/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
