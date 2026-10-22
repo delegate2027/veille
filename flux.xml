@@ -4,7 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 03:01:14 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:15:44 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>🚨 Médias : en finir avec Bolloré et la mainmise des milliardaires !</title>
+      <link>https://www.youtube.com/watch?v=F2RdelnqEE4</link>
+      <guid>https://www.youtube.com/watch?v=F2RdelnqEE4</guid>
+      <pubDate>2026-09-16T10:14:37+00:00</pubDate>
+      <author>Aurélien Saintoul - Député des Hauts-de-Seine</author>
+      <description>Présentation du programme Médias de la France insoumise lors de la Fête de l'Humanité 2026. La bataille contre la concentration des médias est prioritaire. @JLMelenchon le dit depuis longtemps : le système médiatique est la deuxième peau du système. Dès notre victoire, nous démantèlerons l'empire Bolloré et nous mettrons fin à la mainmise des milliardaires sur l'info !</description>
+      <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
+      <videoId>F2RdelnqEE4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/F2RdelnqEE4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
