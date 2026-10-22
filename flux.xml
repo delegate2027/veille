@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 22 Oct 2026 11:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:31:01 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Des milliards pour l’armée sans aucune stratégie : LFI dit non !</title>
+      <link>https://www.youtube.com/watch?v=LLKR3xYfpnk</link>
+      <guid>https://www.youtube.com/watch?v=LLKR3xYfpnk</guid>
+      <pubDate>2026-10-22T11:27:15+00:00</pubDate>
+      <author>Aurélien Saintoul - Député des Hauts-de-Seine</author>
+      <description>Le budget des Armées augmente quand tous les autres baissent. Et pourquoi faire ? Tenir tête à Trump et garantir notre souveraineté ? Préserver notre industrie ? Anticiper le changement climatique ? Rien de tout cela ! De l'argent mais pas de stratégie : la @franceinsoumise vote contre.</description>
+      <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
+      <videoId>LLKR3xYfpnk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/LLKR3xYfpnk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>David Lisnard invité de ICI matin Côte d'Azur sur France 3</title>
       <link>https://www.youtube.com/watch?v=Zhcb9DIu35U</link>
@@ -466,32 +477,6 @@ https://twitter.com/partiudr
       <channelTitle>UDR</channelTitle>
       <videoId>PP1kLKV3xcE</videoId>
       <enclosure url="https://i.ytimg.com/vi/PP1kLKV3xcE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Une censure ne ferait que précipiter la France dans une crise majeure | Cyrille Isaac-Sibille</title>
-      <link>https://www.youtube.com/watch?v=Bb08jCIKQnQ</link>
-      <guid>https://www.youtube.com/watch?v=Bb08jCIKQnQ</guid>
-      <pubDate>2026-10-21T12:44:10+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Une censure du budget ne ferait que précipiter la France dans une crise financière majeure | Cyrille Isaac-Sibille
-
-Aux questions au gouvernement de ce mercredi 21 octobre, notre député du Rhône, Cyrille Isaac-Sibille, a interrogé le Premier ministre sur les taux d'emprunt de la France et le débat budgétaire, en particulier en matière de santé et de prévention.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/cyrille-isaac-sibille-restaurer-notre-credibilite-suppose-davantage-que-de
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>Bb08jCIKQnQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Bb08jCIKQnQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
