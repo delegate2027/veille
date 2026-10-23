@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 23 Oct 2026 08:31:08 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:45:42 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>SÉBASTIEN CHENU est l'invité de la matinale de CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=QA-xt9vX0IA</link>
+      <guid>https://www.youtube.com/watch?v=QA-xt9vX0IA</guid>
+      <pubDate>2026-10-23T08:30:02+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>QA-xt9vX0IA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/QA-xt9vX0IA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Sarah Knafo : Je réponds aux accusations de Complément d’enquête</title>
       <link>https://www.youtube.com/watch?v=BXrbDbN7_K0</link>
@@ -380,27 +393,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>SDjyK5U3cIw</videoId>
       <enclosure url="https://i.ytimg.com/vi/SDjyK5U3cIw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Réunion à Matignon, suites de la mobilisation du 17 octobre : Manuel Bompard, invité de BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=l0jeHzaM_GE</link>
-      <guid>https://www.youtube.com/watch?v=l0jeHzaM_GE</guid>
-      <pubDate>2026-10-22T08:26:50+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur BFMTV du jeudi 22 octobre 2026.
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>l0jeHzaM_GE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/l0jeHzaM_GE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
