@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 23 Oct 2026 15:45:47 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:01:15 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>17 octobre : "Macron et son gouvernement ont sous-estimé la colère dans le pays !" - Alexis Corbière</title>
@@ -330,27 +330,6 @@ Soutien à eux. Rendez-vous ce samedi 24 octobre pour la grande manifestation pl
       <enclosure url="https://i.ytimg.com/vi/LLKR3xYfpnk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>David Lisnard invité de ICI matin Côte d'Azur sur France 3</title>
-      <link>https://www.youtube.com/watch?v=Zhcb9DIu35U</link>
-      <guid>https://www.youtube.com/watch?v=Zhcb9DIu35U</guid>
-      <pubDate>2026-10-22T10:30:05+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>J'étais l'invité de ICI matin Côte d'Azur sur France 3 ce 22 octobre. Re visualiser en intégralité ! 
-
-Suivez moi sur mes réseaux : 
-
-Instagram : https://www.instagram.com/davidlisnard/
-X : https://x.com/davidlisnard
-Facebook : https://www.facebook.com/lisnard.david
-Tik Tok : https://www.tiktok.com/@david.lisnard
-LinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/
-
-Adhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>Zhcb9DIu35U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Zhcb9DIu35U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Les groupes de droite et d'extrême-droite n'assument pas leurs votes sur mon texte !</title>
       <link>https://www.youtube.com/watch?v=ZHiWKBkYOf4</link>
       <guid>https://www.youtube.com/watch?v=ZHiWKBkYOf4</guid>
@@ -390,6 +369,27 @@ Interpellez votre député·e pour qu’il ou elle vote ce texte en séance le j
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>gvr8o9Nigmc</videoId>
       <enclosure url="https://i.ytimg.com/vi/gvr8o9Nigmc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🔴 Réunion à Matignon, suites de la mobilisation du 17 octobre : Manuel Bompard, invité de BFMTV !</title>
+      <link>https://www.youtube.com/watch?v=l0jeHzaM_GE</link>
+      <guid>https://www.youtube.com/watch?v=l0jeHzaM_GE</guid>
+      <pubDate>2026-10-22T08:26:50+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur BFMTV du jeudi 22 octobre 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>l0jeHzaM_GE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/l0jeHzaM_GE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
