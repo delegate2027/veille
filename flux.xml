@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 23 Oct 2026 15:31:09 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:45:47 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>17 octobre : "Macron et son gouvernement ont sous-estimé la colère dans le pays !" - Alexis Corbière</title>
+      <link>https://www.youtube.com/watch?v=U-CzGokj9Og</link>
+      <guid>https://www.youtube.com/watch?v=U-CzGokj9Og</guid>
+      <pubDate>2026-10-23T15:35:51+00:00</pubDate>
+      <author>Alexis Corbière</author>
+      <description>Le député était l'invité de Sonia Mabrouk pour revenir sur les événements du 17 octobre et pour débattre du prochain appel à mobilisation, samedi 24 octobre.</description>
+      <channelTitle>Alexis Corbière</channelTitle>
+      <videoId>U-CzGokj9Og</videoId>
+      <enclosure url="https://i.ytimg.com/vi/U-CzGokj9Og/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>En 2027, nous construirons un autre monde ! – Réunion publique à Rochefort</title>
       <link>https://www.youtube.com/watch?v=4l2dx1n-UFo</link>
@@ -379,27 +390,6 @@ Interpellez votre député·e pour qu’il ou elle vote ce texte en séance le j
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>gvr8o9Nigmc</videoId>
       <enclosure url="https://i.ytimg.com/vi/gvr8o9Nigmc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Réunion à Matignon, suites de la mobilisation du 17 octobre : Manuel Bompard, invité de BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=l0jeHzaM_GE</link>
-      <guid>https://www.youtube.com/watch?v=l0jeHzaM_GE</guid>
-      <pubDate>2026-10-22T08:26:50+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur BFMTV du jeudi 22 octobre 2026.
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>l0jeHzaM_GE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/l0jeHzaM_GE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
