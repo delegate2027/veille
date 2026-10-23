@@ -4,8 +4,37 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 23 Oct 2026 10:01:13 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:15:45 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>David Guiraud atomise Bruno Retailleau</title>
+      <link>https://www.youtube.com/watch?v=UGl1xt_p61Y</link>
+      <guid>https://www.youtube.com/watch?v=UGl1xt_p61Y</guid>
+      <pubDate>2026-10-23T10:05:47+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>UGl1xt_p61Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UGl1xt_p61Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>MATTHIEU VALET est l'invité des GRANDES GUEULES sur RMC !</title>
+      <link>https://www.youtube.com/watch?v=pSvtsBgxWxk</link>
+      <guid>https://www.youtube.com/watch?v=pSvtsBgxWxk</guid>
+      <pubDate>2026-10-23T10:03:52+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>pSvtsBgxWxk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/pSvtsBgxWxk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>17 OCTOBRE : C'EST LES TÉNÈBRES</title>
       <link>https://www.youtube.com/watch?v=C3CC5wz3ph8</link>
@@ -49,19 +78,6 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>dwhOQb4Nvz0</videoId>
       <enclosure url="https://i.ytimg.com/vi/dwhOQb4Nvz0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU est l'invité de la matinale de CNEWS !</title>
-      <link>https://www.youtube.com/watch?v=QA-xt9vX0IA</link>
-      <guid>https://www.youtube.com/watch?v=QA-xt9vX0IA</guid>
-      <pubDate>2026-10-23T08:30:02+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>QA-xt9vX0IA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QA-xt9vX0IA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Sarah Knafo : Je réponds aux accusations de Complément d’enquête</title>
@@ -406,17 +422,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>l0jeHzaM_GE</videoId>
       <enclosure url="https://i.ytimg.com/vi/l0jeHzaM_GE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Point d'étape sur le budget 2027 : l’alliance RN-bloc central protège les ultra-riches</title>
-      <link>https://www.youtube.com/watch?v=sONSVaTCS68</link>
-      <guid>https://www.youtube.com/watch?v=sONSVaTCS68</guid>
-      <pubDate>2026-10-22T07:00:05+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez le passage d'Eric Coquerel au point presse hebdomadaire du groupe LFI le mardi 20 octobre 2026, jour du début de l'examen de la partie 2 "dépenses" du PLF 2027 en commission des Finances, sur fond de mobilisation de la jeunesse et sociale.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>sONSVaTCS68</videoId>
-      <enclosure url="https://i.ytimg.com/vi/sONSVaTCS68/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
