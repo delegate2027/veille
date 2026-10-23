@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 23 Oct 2026 07:15:51 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:31:07 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Gabriel Attal sur France 2 I Je réponds à toutes les questions de Francis Letellier</title>
+      <link>https://www.youtube.com/watch?v=fKn6l3kPYt0</link>
+      <guid>https://www.youtube.com/watch?v=fKn6l3kPYt0</guid>
+      <pubDate>2026-10-23T07:27:52+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>fKn6l3kPYt0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/fKn6l3kPYt0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Le dernier budget de la Sécu de l’ère macroniste : 12 milliards de coupes</title>
       <link>https://www.youtube.com/watch?v=wPK82T5nyqI</link>
@@ -392,27 +412,6 @@ Abonnez-vous !</description>
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>oa3-ITRTDQA</videoId>
       <enclosure url="https://i.ytimg.com/vi/oa3-ITRTDQA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📺 PROTESTS in France : the YOUTH is leading the way</title>
-      <link>https://www.youtube.com/watch?v=c4wFhJRcmyI</link>
-      <guid>https://www.youtube.com/watch?v=c4wFhJRcmyI</guid>
-      <pubDate>2026-10-21T18:44:19+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Watch my full appearance on Novara Media from Monday, October 19, 2026
-
----
-My social medias
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram :   / deputee_obono  
-➡️ Facebook :   / danieleobono  
-➡️ Bluesky : https://bsky.app/profile/danieleobono...
-➡️ Threads : https://www.threads.com/@deputee_obono
-➡️ TikTok :   / danieleobono  
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>c4wFhJRcmyI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/c4wFhJRcmyI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
