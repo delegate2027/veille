@@ -4,8 +4,39 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 23 Oct 2026 09:45:41 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:01:13 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>17 OCTOBRE : C'EST LES TÉNÈBRES</title>
+      <link>https://www.youtube.com/watch?v=C3CC5wz3ph8</link>
+      <guid>https://www.youtube.com/watch?v=C3CC5wz3ph8</guid>
+      <pubDate>2026-10-23T10:00:38+00:00</pubDate>
+      <author>NPA - L’Anticapitaliste</author>
+      <description>Après 10 ans de macronisme, la colère sociale a explosé ce week-end.
+Le 17 octobre a été une démonstration de notre force collective, de toutes celles et ceux qui n’en peuvent plus de ce système.
+Le pouvoir panique car ce mouvement qui s’amplifie porte la revendication d’une juste répartition des richesses. Ce qui est inacceptable pour lui.
+
+Suivez L’Anticapitaliste, le média :
+http://lanticapitaliste.org
+Instagram : http://www.instagram.com/l_anticapitaliste
+Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
+Twitter : http://www.twitter.com/Lanticapitalis1
+Tik Tok : http://www.tiktok.com/@lanticapitaliste
+Facebook : http://www.facebook.com/anticapitaliste.presse
+Threads : http://www.threads.net/@l_anticapitaliste
+
+L’actu du NPA l'Anticapitaliste :
+http://npa-lanticapitaliste.org
+Instagram : http://www.instagram.com/npa.anticapitaliste
+Bluesky : http://bsky.app/profile/npa-antica.bsky.social
+Twitter : http://www.twitter.com/NPA_antica
+Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
+Facebook : http://www.facebook.com/npa.anticapitaliste
+Threads : http://www.threads.net/@npa.officiel</description>
+      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
+      <videoId>C3CC5wz3ph8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/C3CC5wz3ph8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Ce week-end, tous à Orléans avec Marine Le Pen et Jordan Bardella ! 🇫🇷</title>
       <link>https://www.youtube.com/watch?v=dwhOQb4Nvz0</link>
@@ -386,17 +417,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>sONSVaTCS68</videoId>
       <enclosure url="https://i.ytimg.com/vi/sONSVaTCS68/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Leçons du 17 octobre, suite de la mobilisation et revendications : Clémence Guetté sur France 2</title>
-      <link>https://www.youtube.com/watch?v=Oq67trg-fcg</link>
-      <guid>https://www.youtube.com/watch?v=Oq67trg-fcg</guid>
-      <pubDate>2026-10-22T06:48:30+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>J'étais ce matin l'invitée de la matinale de France 2 pour l'émission "Les 4 vérités". À retrouver en intégralité.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>Oq67trg-fcg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Oq67trg-fcg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
