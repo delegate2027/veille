@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 23 Oct 2026 07:31:07 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:45:46 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Macron prend une dangereuse pente autoritaire</title>
+      <link>https://www.youtube.com/watch?v=EHhxH_eIUss</link>
+      <guid>https://www.youtube.com/watch?v=EHhxH_eIUss</guid>
+      <pubDate>2026-10-23T07:43:39+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>France info TV le 23 octobre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>EHhxH_eIUss</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EHhxH_eIUss/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Tondelier : "je ne reconnais plus mon pays, la liberté de manifester est maintenant entravée"</title>
+      <link>https://www.youtube.com/watch?v=Jvod-rUKM34</link>
+      <guid>https://www.youtube.com/watch?v=Jvod-rUKM34</guid>
+      <pubDate>2026-10-23T07:37:17+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Matinale du 23 octobre 2026 dans RTL Matin.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>Jvod-rUKM34</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Jvod-rUKM34/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Gabriel Attal sur France 2 I Je réponds à toutes les questions de Francis Letellier</title>
       <link>https://www.youtube.com/watch?v=fKn6l3kPYt0</link>
@@ -361,57 +383,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Clémence Guetté</channelTitle>
       <videoId>Oq67trg-fcg</videoId>
       <enclosure url="https://i.ytimg.com/vi/Oq67trg-fcg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Pour un Centre national du Jeu Vidéo  #Amfis2026</title>
-      <link>https://www.youtube.com/watch?v=2RgSNqIahEU</link>
-      <guid>https://www.youtube.com/watch?v=2RgSNqIahEU</guid>
-      <pubDate>2026-10-21T22:00:37+00:00</pubDate>
-      <author>Ugo Bernalicis</author>
-      <description>Retrouvez la conférence sur « Contre le « Pour un Centre national du Jeu Vidéo » lors des AMFIS 2026, en présence : 
-
-Florent Maurin, président du studio Pixel Hunt, membre du SNJV
-Morgane, technical artist, adhérent•e du STJV
-Christine Kev, organisatrice de tournoi esport amateur, ex-administratrice de France Esports et de Women in games France
-
-Suivez Ugo Bernalicis sur :
-👉 Facebook : https://www.facebook.com/ugobernalicis
-👉 Twitter : https://twitter.com/Ugobernalicis
-👉 Instagram : https://www.instagram.com/ugo_bernalicis/
-👉 YouTube : https://youtube.com/c/UgoBernalicisofficiel
-👉 Twitch : https://www.twitch.tv/deputwitch/
-👉 Telegram : https://t.me/ub_actu
-👉 Son blog : https://www.ugobernalicis.fr</description>
-      <channelTitle>Ugo Bernalicis</channelTitle>
-      <videoId>2RgSNqIahEU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/2RgSNqIahEU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Macron à la matraque ! – En Campagne EP5</title>
-      <link>https://www.youtube.com/watch?v=oa3-ITRTDQA</link>
-      <guid>https://www.youtube.com/watch?v=oa3-ITRTDQA</guid>
-      <pubDate>2026-10-21T18:55:21+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>À suivre en direct et en public à 19H avec Mathilde Panot, Ugo Bernalicis, Hadrien Clouet, Anne-Sophie Simpere, Eve "Colomblbl, Enora Lanoë-Danel et Ceylia
-#EnCampagne
-
-_________________________________________________ 
-
-Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
-
-☞ X (Twitter) : https://x.com/FiAssemblee
-☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
-☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
-☞ YouTube :  / @FranceinsoumiseAN
-☞ Instagram : https://instagram.com/FranceinsoumiseAN/
-☞ Threads : https://www.threads.net/@FranceinsoumiseAN
-☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
-☞ Telegram : https://t.me/FranceinsoumiseAN
-
-Abonnez-vous !</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>oa3-ITRTDQA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/oa3-ITRTDQA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
