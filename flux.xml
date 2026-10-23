@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 23 Oct 2026 15:01:15 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:15:43 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>En 2027, nous construirons un autre monde ! – Réunion publique à Rochefort</title>
@@ -381,35 +381,25 @@ Interpellez votre député·e pour qu’il ou elle vote ce texte en séance le j
       <enclosure url="https://i.ytimg.com/vi/gvr8o9Nigmc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Olivier Faure sur France Info</title>
-      <link>https://www.youtube.com/watch?v=SDjyK5U3cIw</link>
-      <guid>https://www.youtube.com/watch?v=SDjyK5U3cIw</guid>
-      <pubDate>2026-10-22T08:51:01+00:00</pubDate>
-      <author>PS - Parti socialiste</author>
-      <description>Ce matin sur le 8.30 de Franceinfo, Olivier Faure a rappelé les revendications des lycéens : « On veut plus de professeurs. »
+      <title>🔴 Réunion à Matignon, suites de la mobilisation du 17 octobre : Manuel Bompard, invité de BFMTV !</title>
+      <link>https://www.youtube.com/watch?v=l0jeHzaM_GE</link>
+      <guid>https://www.youtube.com/watch?v=l0jeHzaM_GE</guid>
+      <pubDate>2026-10-22T08:26:50+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur BFMTV du jeudi 22 octobre 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
 
-Alors que le projet de budget prévoit la suppression de 1 500 postes d’enseignants et une baisse de 7 milliards d’euros des crédits aux collectivités locales, les élèves demandent simplement à être entendus.
-
-Face à la mobilisation sociale, le gouvernement ne peut pas se contenter d’une réponse sécuritaire. Il doit apporter des réponses politiques, écouter les revendications et prendre ses responsabilités.
-
-Nous alertons également sur la banalisation de l’extrême droite, les risques pour notre démocratie et les conséquences d’une politique qui fait peser les difficultés sur les familles les plus fragiles.
-
-L’École a besoin de moyens. La colère sociale appelle des réponses. Et notre démocratie doit être protégée.
-
---
-Suivez-nous sur les réseaux sociaux :
-➡️  https://x.com/partisocialiste
-➡️  https://bsky.app/profile/partisocialiste
-➡️  https://www.instagram.com/partisocialiste 
-➡️  https://www.facebook.com/partisocialiste 
-➡️  https://www.tiktok.com/@partisocialiste
-➡️  https://t.me/partisocialiste
-➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
-
-🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
-      <channelTitle>PS - Parti socialiste</channelTitle>
-      <videoId>SDjyK5U3cIw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SDjyK5U3cIw/maxresdefault.jpg" type="image/jpeg" />
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>l0jeHzaM_GE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/l0jeHzaM_GE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
