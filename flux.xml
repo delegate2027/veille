@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 23 Oct 2026 09:01:16 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:15:43 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Ce week-end, tous à Orléans avec Marine Le Pen et Jordan Bardella ! 🇫🇷</title>
+      <link>https://www.youtube.com/watch?v=dwhOQb4Nvz0</link>
+      <guid>https://www.youtube.com/watch?v=dwhOQb4Nvz0</guid>
+      <pubDate>2026-10-23T09:00:13+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>dwhOQb4Nvz0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dwhOQb4Nvz0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SÉBASTIEN CHENU est l'invité de la matinale de CNEWS !</title>
       <link>https://www.youtube.com/watch?v=QA-xt9vX0IA</link>
@@ -230,32 +243,6 @@ Soutien à eux. Rendez-vous ce samedi 24 octobre pour la grande manifestation pl
       <enclosure url="https://i.ytimg.com/vi/RPsWxlc75DA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>LAURE LAVALETTE :  « Les casseurs doivent payer ! » (RTL)</title>
-      <link>https://www.youtube.com/watch?v=PsCbueo8Ry4</link>
-      <guid>https://www.youtube.com/watch?v=PsCbueo8Ry4</guid>
-      <pubDate>2026-10-22T15:03:29+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>PsCbueo8Ry4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PsCbueo8Ry4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JULIEN ODOUL :  « Marine Le Pen est la seule à pouvoir redresser la France ! » (France Info)</title>
-      <link>https://www.youtube.com/watch?v=GZ3VyXpRArs</link>
-      <guid>https://www.youtube.com/watch?v=GZ3VyXpRArs</guid>
-      <pubDate>2026-10-22T15:03:26+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>GZ3VyXpRArs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/GZ3VyXpRArs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Marine Tondelier: "on va à Matignon pour parler des réponses politiques aux revendications sociales"</title>
       <link>https://www.youtube.com/watch?v=xXdAl8VHVRg</link>
       <guid>https://www.youtube.com/watch?v=xXdAl8VHVRg</guid>
@@ -401,6 +388,17 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>l0jeHzaM_GE</videoId>
       <enclosure url="https://i.ytimg.com/vi/l0jeHzaM_GE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Point d'étape sur le budget 2027 : l’alliance RN-bloc central protège les ultra-riches</title>
+      <link>https://www.youtube.com/watch?v=sONSVaTCS68</link>
+      <guid>https://www.youtube.com/watch?v=sONSVaTCS68</guid>
+      <pubDate>2026-10-22T07:00:05+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez le passage d'Eric Coquerel au point presse hebdomadaire du groupe LFI le mardi 20 octobre 2026, jour du début de l'examen de la partie 2 "dépenses" du PLF 2027 en commission des Finances, sur fond de mobilisation de la jeunesse et sociale.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>sONSVaTCS68</videoId>
+      <enclosure url="https://i.ytimg.com/vi/sONSVaTCS68/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
