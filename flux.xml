@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 24 Oct 2026 15:45:43 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 16:01:15 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>🔴 Congrès du RN à Orléans : il faut une grève générale pour vaincre le RN et ses idées !</title>
+      <link>https://www.youtube.com/watch?v=oAQcNM7_wDI</link>
+      <guid>https://www.youtube.com/watch?v=oAQcNM7_wDI</guid>
+      <pubDate>2026-10-24T16:00:53+00:00</pubDate>
+      <author>Révolution Permanente</author>
+      <description>🔴 Congrès du RN à Orléans : il faut une grève générale pour vaincre le RN et ses idées ! 
+
+« On était des dizaines de milliers à se mobiliser à Orléans aujourd'hui contre le Congrès du RN. Quand ça fait des jours que l'extrême-droite et le gouvernement sont en boucle avec leur rhétorique sécuritaire et raciste, ça génère des actes dramatiques comme ce qu'il s'est passé à Trappes. Il faut continuer la mobilisation pour les faire reculer, c'est en construisant  ! » - 📢 @AlexisDurey_, militant au Poing levé</description>
+      <channelTitle>Révolution Permanente</channelTitle>
+      <videoId>oAQcNM7_wDI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/oAQcNM7_wDI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Finances locales : "Vous sous-traitez l’austérité à nos collectivités"</title>
+      <link>https://www.youtube.com/watch?v=gA23FQiWdHU</link>
+      <guid>https://www.youtube.com/watch?v=gA23FQiWdHU</guid>
+      <pubDate>2026-10-24T16:00:25+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>discours finances locales lundi 19 octobre 2026</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>gA23FQiWdHU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gA23FQiWdHU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>M. Macron, il est temps de céder, après il ne restera plus que la porte de sortie</title>
       <link>https://www.youtube.com/watch?v=EmZXws6X3fk</link>
@@ -431,28 +455,6 @@ Soutien à eux. Rendez-vous ce samedi 24 octobre pour la grande manifestation pl
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>RPsWxlc75DA</videoId>
       <enclosure url="https://i.ytimg.com/vi/RPsWxlc75DA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier: "on va à Matignon pour parler des réponses politiques aux revendications sociales"</title>
-      <link>https://www.youtube.com/watch?v=xXdAl8VHVRg</link>
-      <guid>https://www.youtube.com/watch?v=xXdAl8VHVRg</guid>
-      <pubDate>2026-10-22T14:02:14+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Micro tendu du 22 octobre 2026 avant le rendez-vous avec Sébastien Lecornu à Matignon. La délégation écologiste était composée de Marine Tondelier, Cyrielle Chatelain et Mélanie Vogel.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>xXdAl8VHVRg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/xXdAl8VHVRg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présentation de notre proposition de loi pour protéger nos entreprises et notre souveraineté !</title>
-      <link>https://www.youtube.com/watch?v=r5iv7U2z3fA</link>
-      <guid>https://www.youtube.com/watch?v=r5iv7U2z3fA</guid>
-      <pubDate>2026-10-22T13:34:10+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>r5iv7U2z3fA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/r5iv7U2z3fA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
