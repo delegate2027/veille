@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 24 Oct 2026 20:15:48 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:30:57 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Marine Tondelier : "le gouvernement a tout fait pour que cette manifestation soit un échec. Raté !"</title>
+      <link>https://www.youtube.com/watch?v=MD7dAxzCQh4</link>
+      <guid>https://www.youtube.com/watch?v=MD7dAxzCQh4</guid>
+      <pubDate>2026-10-24T20:21:03+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Duplex du 24 octobre 2026 dans lequel Marine Tondelier revient sur les manifestations du jour.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>MD7dAxzCQh4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/MD7dAxzCQh4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jordan Bardella : « Vous pourrez toujours compter sur moi pour ne jamais faiblir ! »</title>
       <link>https://www.youtube.com/watch?v=qYQOQCWayRA</link>
@@ -443,21 +454,6 @@ Suivez Ugo Bernalicis sur :
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>JVFEFfAFp3g</videoId>
       <enclosure url="https://i.ytimg.com/vi/JVFEFfAFp3g/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mon discours lors de la réunion publique de Montbéliard.</title>
-      <link>https://www.youtube.com/watch?v=cjiGcWtCevQ</link>
-      <guid>https://www.youtube.com/watch?v=cjiGcWtCevQ</guid>
-      <pubDate>2026-10-22T16:15:38+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Ce mardi 20 octobre, j'ai pris la parole lors de la réunion publique de Montbéliard, en présence de Manuel Bompard et de Séverine Véziès.
-
-L'occasion de revenir sur le mouvement initié par la jeunesse, de parler de ma proposition de loi sur le contrôle des investissements étrangers et de revenir sur le plan d'investissement productif sur l'automobile de La France insoumise dans le cadre de l'élection présidentielle et de la candidature de Jean-Luc Mélenchon.
-
-Bon visionnage !</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>cjiGcWtCevQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/cjiGcWtCevQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
