@@ -4,33 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 24 Oct 2026 02:30:49 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 02:45:46 -0000</lastBuildDate>
     <feedCount>51</feedCount>
-    <item>
-      <title>DÉFENDONS L'ANDOUILLE DE GUÉMENÉ !</title>
-      <link>https://www.youtube.com/watch?v=vqA26bsdexE</link>
-      <guid>https://www.youtube.com/watch?v=vqA26bsdexE</guid>
-      <pubDate>2026-10-23T05:15:08+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : UDR
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>vqA26bsdexE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vqA26bsdexE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
