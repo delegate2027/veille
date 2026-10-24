@@ -4,28 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 24 Oct 2026 04:45:36 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:01:12 -0000</lastBuildDate>
     <feedCount>51</feedCount>
-    <item>
-      <title>La victoire de Lula sera la victoire du peuple</title>
-      <link>https://www.youtube.com/watch?v=7hBEv95Q8Ew</link>
-      <guid>https://www.youtube.com/watch?v=7hBEv95Q8Ew</guid>
-      <pubDate>2026-10-23T16:21:17+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu pour appeler à voter pour Lula à l'occasion du second tour de l'élection présidentielle au Brésil, ce dimanche 25 octobre.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>7hBEv95Q8Ew</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7hBEv95Q8Ew/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
