@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 25 Oct 2026 09:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:01:08 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>📺 Réussite TOTALE de la nouvelle journée de mobilisation #24octobre</title>
+      <link>https://www.youtube.com/watch?v=YsrZxGF7qhU</link>
+      <guid>https://www.youtube.com/watch?v=YsrZxGF7qhU</guid>
+      <pubDate>2026-10-25T10:00:01+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Retrouvez l'intégralité de mon passage de ce samedi 24 octobre 2026 sur LCI.
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram : https://www.instagram.com/danieleobono
+➡️ Facebook : https://www.facebook.com/DanieleObono
+➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok : https://www.tiktok.com/@danieleobono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>YsrZxGF7qhU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YsrZxGF7qhU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier : "le gouvernement a tout fait pour que cette manifestation soit un échec. Raté !"</title>
       <link>https://www.youtube.com/watch?v=MD7dAxzCQh4</link>
@@ -443,17 +464,6 @@ Suivez Ugo Bernalicis sur :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>1V0pd0hjJ50</videoId>
       <enclosure url="https://i.ytimg.com/vi/1V0pd0hjJ50/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Le gouvernement doit s'attaquer aux CAUSES, pas aux symptômes. » Fabien Roussel.</title>
-      <link>https://www.youtube.com/watch?v=JVFEFfAFp3g</link>
-      <guid>https://www.youtube.com/watch?v=JVFEFfAFp3g</guid>
-      <pubDate>2026-10-22T17:31:40+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Devant Matignon après une longue réunion initiée par le Premier ministre, déclaration de la délégation des communistes composée de Cécile Cukierman, Présidente du groupe CRCE-K au Sénat, Stéphane Peu, Président du groupe GDR à l'Assemblée et Fabien Roussel, Secrétaire national du PCF et candidat à l'élection présidentielle.</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>JVFEFfAFp3g</videoId>
-      <enclosure url="https://i.ytimg.com/vi/JVFEFfAFp3g/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
