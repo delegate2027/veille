@@ -72,15 +72,6 @@ a {
   letter-spacing: -0.01em;
 }
 
-/* Sous-titre : une ligne de contexte sous le titre, dans la meme teinte
-   discrete que la ligne d'etat, pour ne pas concurrencer le titre. */
-.brand-subtitle {
-  margin: 0 0 10px 0;
-  color: var(--muted);
-  font-size: 11px;
-  letter-spacing: 0.02em;
-}
-
 .status {
   display: flex;
   align-items: center;
