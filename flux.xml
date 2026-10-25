@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 25 Oct 2026 11:45:48 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:01:07 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Ce pouvoir nuit à la jeunesse.</title>
+      <link>https://www.youtube.com/watch?v=u_peuGJMEow</link>
+      <guid>https://www.youtube.com/watch?v=u_peuGJMEow</guid>
+      <pubDate>2026-10-25T11:53:06+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>Ce pouvoir nuit à la jeunesse.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>u_peuGJMEow</videoId>
+      <enclosure url="https://i.ytimg.com/vi/u_peuGJMEow/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>📺 Réussite TOTALE de la nouvelle journée de mobilisation #24octobre</title>
       <link>https://www.youtube.com/watch?v=YsrZxGF7qhU</link>
@@ -453,17 +464,6 @@ Suivez Ugo Bernalicis sur :
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>gSb_QiiaozI</videoId>
       <enclosure url="https://i.ytimg.com/vi/gSb_QiiaozI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Réaction de Marine Tondelier, Cyrielle Chatelain et Mélanie Vogel après la réunion à Matignon</title>
-      <link>https://www.youtube.com/watch?v=1V0pd0hjJ50</link>
-      <guid>https://www.youtube.com/watch?v=1V0pd0hjJ50</guid>
-      <pubDate>2026-10-22T17:58:09+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Micro tendu du 22 octobre 2026 à la sortie du rendez-vous avec Sébastien Lecornu à Matignon. La délégation écologiste était composée de Marine Tondelier, Cyrielle Chatelain et Mélanie Vogel, qui ont partagé leur inquiétude et leur colère.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>1V0pd0hjJ50</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1V0pd0hjJ50/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
