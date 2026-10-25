@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 25 Oct 2026 16:45:37 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:01:05 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Lekip, l'invité musical ! – En campagne #5</title>
+      <link>https://www.youtube.com/watch?v=-k7rHlRT-lc</link>
+      <guid>https://www.youtube.com/watch?v=-k7rHlRT-lc</guid>
+      <pubDate>2026-10-25T17:00:14+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=oa3-ITRTDQA</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>-k7rHlRT-lc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-k7rHlRT-lc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JE POINTE LA RESPONSABILITÉ DES MÉDIAS DANS L’ATTENTAT DE TRAPPES</title>
       <link>https://www.youtube.com/watch?v=JU5PTqjpdx4</link>
@@ -427,32 +438,6 @@ La question n’est pas celle des dépenses, mais bien celle des recettes et, en
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>wPK82T5nyqI</videoId>
       <enclosure url="https://i.ytimg.com/vi/wPK82T5nyqI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>DÉFENDONS L'ANDOUILLE DE GUÉMENÉ !</title>
-      <link>https://www.youtube.com/watch?v=vqA26bsdexE</link>
-      <guid>https://www.youtube.com/watch?v=vqA26bsdexE</guid>
-      <pubDate>2026-10-23T05:15:08+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : UDR
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>vqA26bsdexE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vqA26bsdexE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
