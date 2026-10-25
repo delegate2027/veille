@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 25 Oct 2026 17:15:38 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:31:03 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Meeting d'Orléans : le discours en intégralité de Marine Le Pen</title>
+      <link>https://www.youtube.com/watch?v=3jM21BgsATw</link>
+      <guid>https://www.youtube.com/watch?v=3jM21BgsATw</guid>
+      <pubDate>2026-10-25T17:21:03+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>« Le futur n’est pas une menace mais une promesse, et si nous le décidons, ce sera le chemin qui conduit à la lumière. »
+
+Retrouvez le discours complet de Marine Le Pen à Orléans, le 25 octobre 2026, pour le lancement de sa campagne présidentielle 2027.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>3jM21BgsATw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/3jM21BgsATw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LA JEUNESSE EN EUROPE SE RÉVOLTE : ELLE VEUT TOUT CHANGER - Interrègne</title>
       <link>https://www.youtube.com/watch?v=BF_CbrEFxVs</link>
@@ -442,26 +455,6 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>Jvod-rUKM34</videoId>
       <enclosure url="https://i.ytimg.com/vi/Jvod-rUKM34/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Gabriel Attal sur France 2 I Je réponds à toutes les questions de Francis Letellier</title>
-      <link>https://www.youtube.com/watch?v=fKn6l3kPYt0</link>
-      <guid>https://www.youtube.com/watch?v=fKn6l3kPYt0</guid>
-      <pubDate>2026-10-23T07:27:52+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>fKn6l3kPYt0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/fKn6l3kPYt0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
