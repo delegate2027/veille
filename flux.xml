@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 25 Oct 2026 15:45:51 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:01:17 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>JE POINTE LA RESPONSABILITÉ DES MÉDIAS DANS L’ATTENTAT DE TRAPPES</title>
@@ -370,33 +370,6 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <enclosure url="https://i.ytimg.com/vi/C3CC5wz3ph8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Sarah Knafo : Je réponds aux accusations de Complément d’enquête</title>
-      <link>https://www.youtube.com/watch?v=BXrbDbN7_K0</link>
-      <guid>https://www.youtube.com/watch?v=BXrbDbN7_K0</guid>
-      <pubDate>2026-10-23T08:26:36+00:00</pubDate>
-      <author>Sarah Knafo</author>
-      <description>Sarah Knafo, députée française Reconquête au Parlement européen, réponds à Complément d'enquête.
-
-👍 Likez, 💬 commentez, 📤 partagez la vidéo et 🔔 abonnez-vous en activant la cloche pour ne manquer aucune vidéo !
-
-Pour suivre l’actualité de Sarah Knafo :
-
-Instagram : https://www.instagram.com/sarahknafo1
-X/Twitter : https://x.com/knafo_sarah?s=11
-Facebook : https://www.facebook.com/share/1BDboyows5/?mibextid=wwXIfr
-Linkedln : https://www.linkedin.com/in/sarah-knafo-7a0129b5?utm_source=share_via&amp;amp;utm_content=profile&amp;amp;utm_medium=member_ios
-WhatsApp : ‎https://whatsapp.com/channel/0029VakkwXs60eBd95uc7e2n
-TikTok : https://www.tiktok.com/@sarah_knafo?_r=1&amp;_t=ZN-98M2y5vFPLG
-Telegram : https://t.me/Sarah_Knafo
-
-📖 Commandez mon livre : sarahknafo.fr
-
-🗳️ Adhérez à Reconquête : https://www.parti-reconquete.fr/adhesions</description>
-      <channelTitle>Sarah Knafo</channelTitle>
-      <videoId>BXrbDbN7_K0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BXrbDbN7_K0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Macron prend une dangereuse pente autoritaire</title>
       <link>https://www.youtube.com/watch?v=EHhxH_eIUss</link>
       <guid>https://www.youtube.com/watch?v=EHhxH_eIUss</guid>
@@ -454,6 +427,32 @@ La question n’est pas celle des dépenses, mais bien celle des recettes et, en
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>wPK82T5nyqI</videoId>
       <enclosure url="https://i.ytimg.com/vi/wPK82T5nyqI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>DÉFENDONS L'ANDOUILLE DE GUÉMENÉ !</title>
+      <link>https://www.youtube.com/watch?v=vqA26bsdexE</link>
+      <guid>https://www.youtube.com/watch?v=vqA26bsdexE</guid>
+      <pubDate>2026-10-23T05:15:08+00:00</pubDate>
+      <author>UDR</author>
+      <description>Crédits Vidéo : UDR
+
+----------------------------------------------
+
+► Rejoignez l'UDR ici :
+https://www.udr.fr/
+https://www.instagram.com/partiudr
+https://www.tiktok.com/@partiudr
+https://www.facebook.com/udrofficiel
+https://twitter.com/partiudr
+
+----------------------------------------------
+
+► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
+
+#UDR #EricCiotti</description>
+      <channelTitle>UDR</channelTitle>
+      <videoId>vqA26bsdexE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vqA26bsdexE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
