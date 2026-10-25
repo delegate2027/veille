@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 25 Oct 2026 19:45:44 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:01:04 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>François Bayrou invité de Darius Rochebin sur LCI</title>
+      <link>https://www.youtube.com/watch?v=W9k-_81lnd4</link>
+      <guid>https://www.youtube.com/watch?v=W9k-_81lnd4</guid>
+      <pubDate>2026-10-25T19:50:47+00:00</pubDate>
+      <author>MoDem</author>
+      <description>François Bayrou, président du MoDem et ancien Premier ministre, était l'invité de Darius Rochebin sur le plateau de LCI.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 [Lien vers l'article]
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>W9k-_81lnd4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/W9k-_81lnd4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jordan Bardella à Orléans : « Dans 6 mois, on fait gagner la France ! »</title>
       <link>https://www.youtube.com/watch?v=vgkh4N9OFiM</link>
@@ -451,17 +475,6 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <channelTitle>NPA - L’Anticapitaliste</channelTitle>
       <videoId>C3CC5wz3ph8</videoId>
       <enclosure url="https://i.ytimg.com/vi/C3CC5wz3ph8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Macron prend une dangereuse pente autoritaire</title>
-      <link>https://www.youtube.com/watch?v=EHhxH_eIUss</link>
-      <guid>https://www.youtube.com/watch?v=EHhxH_eIUss</guid>
-      <pubDate>2026-10-23T07:43:39+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>France info TV le 23 octobre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>EHhxH_eIUss</videoId>
-      <enclosure url="https://i.ytimg.com/vi/EHhxH_eIUss/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
