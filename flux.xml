@@ -4,8 +4,46 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 25 Oct 2026 14:15:44 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:30:57 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>JE POINTE LA RESPONSABILITÉ DES MÉDIAS DANS L’ATTENTAT DE TRAPPES</title>
+      <link>https://www.youtube.com/watch?v=JU5PTqjpdx4</link>
+      <guid>https://www.youtube.com/watch?v=JU5PTqjpdx4</guid>
+      <pubDate>2026-10-25T14:30:43+00:00</pubDate>
+      <author>Louis Boyard</author>
+      <description />
+      <channelTitle>Louis Boyard</channelTitle>
+      <videoId>JU5PTqjpdx4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/JU5PTqjpdx4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Olivier Faure, invité du Grand Jury de RTL et Public Sénat</title>
+      <link>https://www.youtube.com/watch?v=t9yAVYx5ojg</link>
+      <guid>https://www.youtube.com/watch?v=t9yAVYx5ojg</guid>
+      <pubDate>2026-10-25T14:22:22+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>Aujourd'hui, Olivier Faure, premier secrétaire du Parti socialiste, était l'invité de RTL face au Grand Jury. Il a pu évoquer les sujets majeurs de l'actualité politique et sociale, et parler de la crise démocratique globale qui traverse le pays.   
+
+Face aux manifestations de la jeunesse et des salariés contre la vie chère et le stress du contrôle continu, il interpelle le gouvernement et attend les annonces de Sébastien Lecornu pour voir si une vraie réponse sera apportée. Il dénonce un pouvoir dirigé par Emmanuel Macron qui refuse d'écouter les citoyens et restreint les libertés fondamentales. Il soutient les mobilisations, tout en rappelant le plan de sortie de crise proposé au Premier ministre.
+
+Il alerte également sur le climat tendu par l'extrême droite, pointant la responsabilité des discours de Marine Le Pen et Jordan Bardella qui arment les esprits, avant d'affirmer que le racisme est un délit et non une opinion. Face à un budget imposé sans majorité, il prévient que la censure est inévitable et que la perspective d'une présidentielle anticipée devient le seul moyen de sortir du blocage politique.
+
+--
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste 
+➡️  https://www.facebook.com/partisocialiste 
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>t9yAVYx5ojg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/t9yAVYx5ojg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Macron a deux options : céder ou partir.</title>
       <link>https://www.youtube.com/watch?v=6m7IIhz8KNc</link>
@@ -416,45 +454,6 @@ La question n’est pas celle des dépenses, mais bien celle des recettes et, en
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>wPK82T5nyqI</videoId>
       <enclosure url="https://i.ytimg.com/vi/wPK82T5nyqI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>DÉFENDONS L'ANDOUILLE DE GUÉMENÉ !</title>
-      <link>https://www.youtube.com/watch?v=vqA26bsdexE</link>
-      <guid>https://www.youtube.com/watch?v=vqA26bsdexE</guid>
-      <pubDate>2026-10-23T05:15:08+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : UDR
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>vqA26bsdexE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vqA26bsdexE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Quelques jours après l'incendie de notre mairie, je souhaite aborder quelques sujets avec vous</title>
-      <link>https://www.youtube.com/watch?v=lxAwifDPv1s</link>
-      <guid>https://www.youtube.com/watch?v=lxAwifDPv1s</guid>
-      <pubDate>2026-10-22T21:08:34+00:00</pubDate>
-      <author>DAMIEN MAUDET</author>
-      <description>Afin d'avoir des réponses, je serai membre de la commission d'enquête parlementaire sur le 17 octobre.
-
-Enfin, les revendications perdurent, et la seule réponse du Gouvernement ne peut pas être sécuritaire, qui plus est alors que c'est le Gouvernement qui a vraisemblablement échoué dans sa stratégie du maintien de l'ordre.</description>
-      <channelTitle>DAMIEN MAUDET</channelTitle>
-      <videoId>lxAwifDPv1s</videoId>
-      <enclosure url="https://i.ytimg.com/vi/lxAwifDPv1s/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
