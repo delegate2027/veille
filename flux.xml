@@ -4,8 +4,22 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 26 Oct 2026 16:45:51 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:01:11 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Marine Le Pen n’est ni de droite ni de gauche.</title>
+      <link>https://www.youtube.com/watch?v=84HDDOEYmMw</link>
+      <guid>https://www.youtube.com/watch?v=84HDDOEYmMw</guid>
+      <pubDate>2026-10-26T16:57:06+00:00</pubDate>
+      <author>Bruno Retailleau</author>
+      <description>Quand Marine Le Pen dit qu’elle n’est ni de droite ni de gauche, elle fait du « en même temps » comme Emmanuel Macron. 
+Moi, je crois à une démocratie où la droite assume d’être de droite, où la gauche assume d’être de gauche et où chacun défend clairement ses convictions devant les Français.
+
+J'étais l'invité ce lundi des Grandes Gueules sur RMC.</description>
+      <channelTitle>Bruno Retailleau</channelTitle>
+      <videoId>84HDDOEYmMw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/84HDDOEYmMw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>QUARTIER GÉNÉRAL #1 : avec Laure Lavalette et Louise Montangon au meeting de Marine Le Pen à Orléans</title>
       <link>https://www.youtube.com/watch?v=741jCoxHB0U</link>
@@ -477,17 +491,6 @@ Sommaire :
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>Xl_lWLB2Nsc</videoId>
       <enclosure url="https://i.ytimg.com/vi/Xl_lWLB2Nsc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>17 octobre : "Macron et son gouvernement ont sous-estimé la colère dans le pays !" - Alexis Corbière</title>
-      <link>https://www.youtube.com/watch?v=U-CzGokj9Og</link>
-      <guid>https://www.youtube.com/watch?v=U-CzGokj9Og</guid>
-      <pubDate>2026-10-23T15:35:51+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député était l'invité de Sonia Mabrouk pour revenir sur les événements du 17 octobre et pour débattre du prochain appel à mobilisation, samedi 24 octobre.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>U-CzGokj9Og</videoId>
-      <enclosure url="https://i.ytimg.com/vi/U-CzGokj9Og/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
