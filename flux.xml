@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 26 Oct 2026 16:15:43 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:31:01 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>QUARTIER GÉNÉRAL #1 : avec Laure Lavalette et Louise Montangon au meeting de Marine Le Pen à Orléans</title>
+      <link>https://www.youtube.com/watch?v=741jCoxHB0U</link>
+      <guid>https://www.youtube.com/watch?v=741jCoxHB0U</guid>
+      <pubDate>2026-10-26T16:28:31+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>741jCoxHB0U</videoId>
+      <enclosure url="https://i.ytimg.com/vi/741jCoxHB0U/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nous allons rétablir l'État de droit !</title>
       <link>https://www.youtube.com/watch?v=6hy3ORYtKk4</link>
@@ -475,17 +488,6 @@ Sommaire :
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>U-CzGokj9Og</videoId>
       <enclosure url="https://i.ytimg.com/vi/U-CzGokj9Og/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>En 2027, nous construirons un autre monde ! – Réunion publique à Rochefort</title>
-      <link>https://www.youtube.com/watch?v=4l2dx1n-UFo</link>
-      <guid>https://www.youtube.com/watch?v=4l2dx1n-UFo</guid>
-      <pubDate>2026-10-23T10:50:00+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez le discours de Mathilde Panot à la réunion publique de Rochefort pour l'élection présidentielle de 2027, le 22 octobre 2026.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>4l2dx1n-UFo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4l2dx1n-UFo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
