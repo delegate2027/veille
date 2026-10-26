@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 26 Oct 2026 07:30:56 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:45:41 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Marine Tondelier : "après Trappes, il faut arrêter d'avoir peur du mot islamophobie" (Les 4V)</title>
+      <link>https://www.youtube.com/watch?v=F6XumBLtjyA</link>
+      <guid>https://www.youtube.com/watch?v=F6XumBLtjyA</guid>
+      <pubDate>2026-10-26T07:33:34+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Matinale du 26 octobre 2026 sur France 2 pour répondre à Francis Letellier.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>F6XumBLtjyA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/F6XumBLtjyA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>François Bayrou invité de Darius Rochebin sur LCI</title>
       <link>https://www.youtube.com/watch?v=W9k-_81lnd4</link>
@@ -444,37 +455,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>pSvtsBgxWxk</videoId>
       <enclosure url="https://i.ytimg.com/vi/pSvtsBgxWxk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>17 OCTOBRE : C'EST LES TÉNÈBRES</title>
-      <link>https://www.youtube.com/watch?v=C3CC5wz3ph8</link>
-      <guid>https://www.youtube.com/watch?v=C3CC5wz3ph8</guid>
-      <pubDate>2026-10-23T10:00:38+00:00</pubDate>
-      <author>NPA - L’Anticapitaliste</author>
-      <description>Après 10 ans de macronisme, la colère sociale a explosé ce week-end.
-Le 17 octobre a été une démonstration de notre force collective, de toutes celles et ceux qui n’en peuvent plus de ce système.
-Le pouvoir panique car ce mouvement qui s’amplifie porte la revendication d’une juste répartition des richesses. Ce qui est inacceptable pour lui.
-
-Suivez L’Anticapitaliste, le média :
-http://lanticapitaliste.org
-Instagram : http://www.instagram.com/l_anticapitaliste
-Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
-Twitter : http://www.twitter.com/Lanticapitalis1
-Tik Tok : http://www.tiktok.com/@lanticapitaliste
-Facebook : http://www.facebook.com/anticapitaliste.presse
-Threads : http://www.threads.net/@l_anticapitaliste
-
-L’actu du NPA l'Anticapitaliste :
-http://npa-lanticapitaliste.org
-Instagram : http://www.instagram.com/npa.anticapitaliste
-Bluesky : http://bsky.app/profile/npa-antica.bsky.social
-Twitter : http://www.twitter.com/NPA_antica
-Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
-Facebook : http://www.facebook.com/npa.anticapitaliste
-Threads : http://www.threads.net/@npa.officiel</description>
-      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
-      <videoId>C3CC5wz3ph8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/C3CC5wz3ph8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
