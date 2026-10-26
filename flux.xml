@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 26 Oct 2026 18:15:45 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:30:56 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>Nous ferons de la France une nation de paix !</title>
@@ -64,22 +64,6 @@ Extrait du discours de Marine Le Pen au meeting d'Orléans, le 25 octobre 2026.
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>6hy3ORYtKk4</videoId>
       <enclosure url="https://i.ytimg.com/vi/6hy3ORYtKk4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La France s'est toujours relevée !</title>
-      <link>https://www.youtube.com/watch?v=MlWWbqn0M_Y</link>
-      <guid>https://www.youtube.com/watch?v=MlWWbqn0M_Y</guid>
-      <pubDate>2026-10-26T13:30:20+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-« La France s'est toujours relevée parce qu'il s'est toujours trouvé des Français pour ramasser le drapeau qui était à terre et pour oser le brandir. »
-
-Extrait du discours de Marine Le Pen au meeting d'Orléans, le 25 octobre 2026.
-▶️ Le discours en intégralité : https://youtu.be/3jM21BgsATw</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>MlWWbqn0M_Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MlWWbqn0M_Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Combattre la haine et reconstruire l’avenir. L’urgence est là. | Sandro Gozi</title>
@@ -496,6 +480,17 @@ Sommaire :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>gSFHKJV50iQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/gSFHKJV50iQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>En campagne #5 : Macron à la matraque ! – L'édito de Mathilde Panot.</title>
+      <link>https://www.youtube.com/watch?v=Xl_lWLB2Nsc</link>
+      <guid>https://www.youtube.com/watch?v=Xl_lWLB2Nsc</guid>
+      <pubDate>2026-10-23T18:29:12+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=oa3-ITRTDQA</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>Xl_lWLB2Nsc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Xl_lWLB2Nsc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
