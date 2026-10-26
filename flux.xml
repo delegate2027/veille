@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 26 Oct 2026 14:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:01:17 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>La France s'est toujours relevée !</title>
@@ -168,19 +168,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>vgkh4N9OFiM</videoId>
       <enclosure url="https://i.ytimg.com/vi/vgkh4N9OFiM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Meeting d'Orléans : le discours en intégralité de Marine Le Pen</title>
-      <link>https://www.youtube.com/watch?v=3jM21BgsATw</link>
-      <guid>https://www.youtube.com/watch?v=3jM21BgsATw</guid>
-      <pubDate>2026-10-25T17:21:03+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>« Le futur n’est pas une menace mais une promesse, et si nous le décidons, ce sera le chemin qui conduit à la lumière. »
-
-Retrouvez le discours complet de Marine Le Pen à Orléans, le 25 octobre 2026, pour le lancement de sa campagne présidentielle 2027.</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>3jM21BgsATw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/3jM21BgsATw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>LA JEUNESSE EN EUROPE SE RÉVOLTE : ELLE VEUT TOUT CHANGER - Interrègne</title>
@@ -483,6 +470,17 @@ Sommaire :
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>4l2dx1n-UFo</videoId>
       <enclosure url="https://i.ytimg.com/vi/4l2dx1n-UFo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Projet Bromo, utilisation de l’A400M contre les incendies : j’interroge le président d’Airbus</title>
+      <link>https://www.youtube.com/watch?v=gglyeBnMSYM</link>
+      <guid>https://www.youtube.com/watch?v=gglyeBnMSYM</guid>
+      <pubDate>2026-10-23T10:15:52+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>gglyeBnMSYM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gglyeBnMSYM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
