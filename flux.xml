@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 26 Oct 2026 18:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:01:14 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Le racisme tue</title>
+      <link>https://www.youtube.com/watch?v=SlX43tAq3jA</link>
+      <guid>https://www.youtube.com/watch?v=SlX43tAq3jA</guid>
+      <pubDate>2026-10-26T18:45:10+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu le 26 octobre 2026 à l'occasion d'un hommage aux victimes de l'attentat terroriste à caractère raciste qui a eu lieu à Trappes et La Verrière.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>SlX43tAq3jA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/SlX43tAq3jA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nous ferons de la France une nation de paix !</title>
       <link>https://www.youtube.com/watch?v=OInpI1ZFKPE</link>
@@ -480,17 +501,6 @@ Sommaire :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>gSFHKJV50iQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/gSFHKJV50iQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>En campagne #5 : Macron à la matraque ! – L'édito de Mathilde Panot.</title>
-      <link>https://www.youtube.com/watch?v=Xl_lWLB2Nsc</link>
-      <guid>https://www.youtube.com/watch?v=Xl_lWLB2Nsc</guid>
-      <pubDate>2026-10-23T18:29:12+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=oa3-ITRTDQA</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>Xl_lWLB2Nsc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Xl_lWLB2Nsc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
