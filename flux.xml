@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 26 Oct 2026 08:45:41 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:01:22 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>🔴 Attentat raciste à Trappes, mouvement social, salut nazi au RN : Manuel Bompard, invité de LCI !</title>
+      <link>https://www.youtube.com/watch?v=Lb4z65-zSoU</link>
+      <guid>https://www.youtube.com/watch?v=Lb4z65-zSoU</guid>
+      <pubDate>2026-10-26T08:40:48+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur LCI du lundi 26 octobre 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>Lb4z65-zSoU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Lb4z65-zSoU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier : "après Trappes, il faut arrêter d'avoir peur du mot islamophobie" (Les 4V)</title>
       <link>https://www.youtube.com/watch?v=F6XumBLtjyA</link>
@@ -442,19 +463,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>David Guiraud</channelTitle>
       <videoId>UGl1xt_p61Y</videoId>
       <enclosure url="https://i.ytimg.com/vi/UGl1xt_p61Y/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MATTHIEU VALET est l'invité des GRANDES GUEULES sur RMC !</title>
-      <link>https://www.youtube.com/watch?v=pSvtsBgxWxk</link>
-      <guid>https://www.youtube.com/watch?v=pSvtsBgxWxk</guid>
-      <pubDate>2026-10-23T10:03:52+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>pSvtsBgxWxk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pSvtsBgxWxk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
