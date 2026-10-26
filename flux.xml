@@ -4,66 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 26 Oct 2026 03:30:55 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:45:38 -0000</lastBuildDate>
     <feedCount>51</feedCount>
-    <item>
-      <title>Mon discours lors de la réunion publique de Montbéliard.</title>
-      <link>https://www.youtube.com/watch?v=cjiGcWtCevQ</link>
-      <guid>https://www.youtube.com/watch?v=cjiGcWtCevQ</guid>
-      <pubDate>2026-10-22T16:15:38+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Ce mardi 20 octobre, j'ai pris la parole lors de la réunion publique de Montbéliard, en présence de Manuel Bompard et de Séverine Véziès.
-
-L'occasion de revenir sur le mouvement initié par la jeunesse, de parler de ma proposition de loi sur le contrôle des investissements étrangers et de revenir sur le plan d'investissement productif sur l'automobile de La France insoumise dans le cadre de l'élection présidentielle et de la candidature de Jean-Luc Mélenchon.
-
-Bon visionnage !</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>cjiGcWtCevQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/cjiGcWtCevQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présentation de notre proposition de loi pour protéger nos entreprises et notre souveraineté !</title>
-      <link>https://www.youtube.com/watch?v=r5iv7U2z3fA</link>
-      <guid>https://www.youtube.com/watch?v=r5iv7U2z3fA</guid>
-      <pubDate>2026-10-22T13:34:10+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>r5iv7U2z3fA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/r5iv7U2z3fA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Débat sur Public sénat suite au mouvement lycéens !</title>
-      <link>https://www.youtube.com/watch?v=RChCjj3kCrA</link>
-      <guid>https://www.youtube.com/watch?v=RChCjj3kCrA</guid>
-      <pubDate>2026-10-08T07:44:56+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>RChCjj3kCrA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/RChCjj3kCrA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Nous censurerons ce gouvernement et son budget ! Je fais le point sur BFM business</title>
-      <link>https://www.youtube.com/watch?v=9FSLLF7Q5NM</link>
-      <guid>https://www.youtube.com/watch?v=9FSLLF7Q5NM</guid>
-      <pubDate>2026-10-02T09:45:24+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>9FSLLF7Q5NM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/9FSLLF7Q5NM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🗣️ Écoutons les lycéens ! Sur LCI je rappelle la légitimité de leurs mobilisations</title>
-      <link>https://www.youtube.com/watch?v=BVgWAEHRHrY</link>
-      <guid>https://www.youtube.com/watch?v=BVgWAEHRHrY</guid>
-      <pubDate>2026-10-02T07:56:07+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>BVgWAEHRHrY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BVgWAEHRHrY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
