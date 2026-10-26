@@ -4,8 +4,24 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 26 Oct 2026 17:31:03 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:45:47 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Nous ferons de la France une nation de paix !</title>
+      <link>https://www.youtube.com/watch?v=OInpI1ZFKPE</link>
+      <guid>https://www.youtube.com/watch?v=OInpI1ZFKPE</guid>
+      <pubDate>2026-10-26T17:30:00+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+« Disposer d'une armée puissante ne signifie pas vouloir faire la guerre, c'est tout le contraire. Nous ferons de la France une nation de paix. »
+
+Extrait du discours de Marine Le Pen au meeting d'Orléans, le 25 octobre 2026.
+▶️ Le discours en intégralité : https://youtu.be/3jM21BgsATw</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>OInpI1ZFKPE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/OInpI1ZFKPE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Le Pen n’est ni de droite ni de gauche.</title>
       <link>https://www.youtube.com/watch?v=84HDDOEYmMw</link>
@@ -480,17 +496,6 @@ Sommaire :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>gSFHKJV50iQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/gSFHKJV50iQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>En campagne #5 : Macron à la matraque ! – L'édito de Mathilde Panot.</title>
-      <link>https://www.youtube.com/watch?v=Xl_lWLB2Nsc</link>
-      <guid>https://www.youtube.com/watch?v=Xl_lWLB2Nsc</guid>
-      <pubDate>2026-10-23T18:29:12+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=oa3-ITRTDQA</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>Xl_lWLB2Nsc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Xl_lWLB2Nsc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
