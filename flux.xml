@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 27 Oct 2026 12:31:05 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:45:42 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>La Justice, avec Matthieu Valet, Pascale Piera et Jean-Paul Garraud.</title>
+      <link>https://www.youtube.com/watch?v=NIcJCT2yPV0</link>
+      <guid>https://www.youtube.com/watch?v=NIcJCT2yPV0</guid>
+      <pubDate>2026-10-27T12:30:07+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>NIcJCT2yPV0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/NIcJCT2yPV0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>L'Économie, avec Jean-Philippe Tanguy, Charles-Henri Gallois et Matthias Renault.</title>
       <link>https://www.youtube.com/watch?v=na9hz-hxcZk</link>
@@ -428,17 +441,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>6m7IIhz8KNc</videoId>
       <enclosure url="https://i.ytimg.com/vi/6m7IIhz8KNc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ce pouvoir nuit à la jeunesse.</title>
-      <link>https://www.youtube.com/watch?v=u_peuGJMEow</link>
-      <guid>https://www.youtube.com/watch?v=u_peuGJMEow</guid>
-      <pubDate>2026-10-25T11:53:06+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>Ce pouvoir nuit à la jeunesse.</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>u_peuGJMEow</videoId>
-      <enclosure url="https://i.ytimg.com/vi/u_peuGJMEow/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
