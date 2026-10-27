@@ -4,8 +4,36 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 27 Oct 2026 15:46:19 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:01:11 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Les citoyens n'ont pas renoncé à la liberté, à la justice et à l'état de droit | Bruno Fuchs</title>
+      <link>https://www.youtube.com/watch?v=xkwAj33NYjk</link>
+      <guid>https://www.youtube.com/watch?v=xkwAj33NYjk</guid>
+      <pubDate>2026-10-27T15:55:05+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Les citoyens, et particulièrement les jeunes générations, n'ont pas renoncé à la liberté, à la justice et à l'état de droit | Bruno Fuchs
+
+Lors des questions au gouvernement de ce mardi 27 octobre, notre député du Haut-Rhin et président de la commission des affaires étrangères, Bruno Fuchs, a interrogé notre ministre de l’Europe et des Affaires étrangères sur le résultat des élections en Serbie et au Brésil.
+
+
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/bruno-fuchs-les-citoyens-et-particulierement-les-jeunes-generations-nont-pas
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>xkwAj33NYjk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/xkwAj33NYjk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Blocchiamo tutto 2.0 ?! En Italie, les jeunes et les travailleurs veulent lancer une GRÈVE GÉNÉRALE</title>
       <link>https://www.youtube.com/watch?v=4aGpTecuwIk</link>
@@ -444,17 +472,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>-k7rHlRT-lc</videoId>
       <enclosure url="https://i.ytimg.com/vi/-k7rHlRT-lc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JE POINTE LA RESPONSABILITÉ DES MÉDIAS DANS L’ATTENTAT DE TRAPPES</title>
-      <link>https://www.youtube.com/watch?v=JU5PTqjpdx4</link>
-      <guid>https://www.youtube.com/watch?v=JU5PTqjpdx4</guid>
-      <pubDate>2026-10-25T14:30:43+00:00</pubDate>
-      <author>Louis Boyard</author>
-      <description />
-      <channelTitle>Louis Boyard</channelTitle>
-      <videoId>JU5PTqjpdx4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/JU5PTqjpdx4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
