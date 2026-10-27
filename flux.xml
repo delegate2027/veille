@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 27 Oct 2026 10:45:51 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:01:09 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>L'Éducation, avec Louise Montangon, Tony Bonalair, Roger Chudeau et Maxime Michelet.</title>
@@ -40,19 +40,6 @@
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>F8JLW7oRJE8</videoId>
       <enclosure url="https://i.ytimg.com/vi/F8JLW7oRJE8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ALEKSANDAR NIKOLIC est face à RICHARD RAMOS sur FRANCE INFO !</title>
-      <link>https://www.youtube.com/watch?v=3WH3ZxXXSKQ</link>
-      <guid>https://www.youtube.com/watch?v=3WH3ZxXXSKQ</guid>
-      <pubDate>2026-10-27T09:33:11+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>3WH3ZxXXSKQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/3WH3ZxXXSKQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Macron doit céder ou partir !</title>
@@ -425,6 +412,27 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>u_peuGJMEow</videoId>
       <enclosure url="https://i.ytimg.com/vi/u_peuGJMEow/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>📺 Réussite TOTALE de la nouvelle journée de mobilisation #24octobre</title>
+      <link>https://www.youtube.com/watch?v=YsrZxGF7qhU</link>
+      <guid>https://www.youtube.com/watch?v=YsrZxGF7qhU</guid>
+      <pubDate>2026-10-25T10:00:01+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Retrouvez l'intégralité de mon passage de ce samedi 24 octobre 2026 sur LCI.
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram : https://www.instagram.com/danieleobono
+➡️ Facebook : https://www.facebook.com/DanieleObono
+➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok : https://www.tiktok.com/@danieleobono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>YsrZxGF7qhU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YsrZxGF7qhU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
