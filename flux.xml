@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 27 Oct 2026 10:15:44 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:31:23 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>L'Éducation, avec Louise Montangon, Tony Bonalair, Roger Chudeau et Maxime Michelet.</title>
+      <link>https://www.youtube.com/watch?v=Xg0xuXX90XM</link>
+      <guid>https://www.youtube.com/watch?v=Xg0xuXX90XM</guid>
+      <pubDate>2026-10-27T10:29:32+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>Xg0xuXX90XM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Xg0xuXX90XM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>PARCOURSUP EST-IL VRAIMENT SUPPRIMÉ ?</title>
+      <link>https://www.youtube.com/watch?v=4Vm16tp5yIE</link>
+      <guid>https://www.youtube.com/watch?v=4Vm16tp5yIE</guid>
+      <pubDate>2026-10-27T10:25:14+00:00</pubDate>
+      <author>Louis Boyard</author>
+      <description />
+      <channelTitle>Louis Boyard</channelTitle>
+      <videoId>4Vm16tp5yIE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4Vm16tp5yIE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La grande distribution SE GAVE sur les produits sains, et on le PROUVE avec notre simulateur !</title>
       <link>https://www.youtube.com/watch?v=F8JLW7oRJE8</link>
@@ -183,19 +207,6 @@ J'étais l'invité ce lundi des Grandes Gueules sur RMC.</description>
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>84HDDOEYmMw</videoId>
       <enclosure url="https://i.ytimg.com/vi/84HDDOEYmMw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>QUARTIER GÉNÉRAL #1 : avec Laure Lavalette et Louise Montangon au meeting de Marine Le Pen à Orléans</title>
-      <link>https://www.youtube.com/watch?v=741jCoxHB0U</link>
-      <guid>https://www.youtube.com/watch?v=741jCoxHB0U</guid>
-      <pubDate>2026-10-26T16:28:31+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>741jCoxHB0U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/741jCoxHB0U/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Combattre la haine et reconstruire l’avenir. L’urgence est là. | Sandro Gozi</title>
@@ -414,27 +425,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>u_peuGJMEow</videoId>
       <enclosure url="https://i.ytimg.com/vi/u_peuGJMEow/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📺 Réussite TOTALE de la nouvelle journée de mobilisation #24octobre</title>
-      <link>https://www.youtube.com/watch?v=YsrZxGF7qhU</link>
-      <guid>https://www.youtube.com/watch?v=YsrZxGF7qhU</guid>
-      <pubDate>2026-10-25T10:00:01+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce samedi 24 octobre 2026 sur LCI.
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/danieleobono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>YsrZxGF7qhU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YsrZxGF7qhU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
