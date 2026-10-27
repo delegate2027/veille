@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 27 Oct 2026 14:01:17 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:15:45 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>De l’école à la prise de la Bastille : les lycéens expriment une critique RADICALE du capitalisme</title>
@@ -210,22 +210,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>David Guiraud</channelTitle>
       <videoId>oJN0qwjT1aY</videoId>
       <enclosure url="https://i.ytimg.com/vi/oJN0qwjT1aY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le futur n'est pas une menace, le futur est une promesse !</title>
-      <link>https://www.youtube.com/watch?v=OUNT7ukDH90</link>
-      <guid>https://www.youtube.com/watch?v=OUNT7ukDH90</guid>
-      <pubDate>2026-10-26T19:30:01+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-« Mes amis, ne craignez pas d'espérer. N'ayez pas peur de vouloir. Le futur n'est pas une menace. Le futur est une promesse. »
-
-Extrait du discours de Marine Le Pen au meeting d'Orléans, le 25 octobre 2026.
-▶️ Le discours en intégralité : https://youtu.be/3jM21BgsATw</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>OUNT7ukDH90</videoId>
-      <enclosure url="https://i.ytimg.com/vi/OUNT7ukDH90/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Le racisme tue</title>
@@ -457,6 +441,17 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>t9yAVYx5ojg</videoId>
       <enclosure url="https://i.ytimg.com/vi/t9yAVYx5ojg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Macron a deux options : céder ou partir.</title>
+      <link>https://www.youtube.com/watch?v=6m7IIhz8KNc</link>
+      <guid>https://www.youtube.com/watch?v=6m7IIhz8KNc</guid>
+      <pubDate>2026-10-25T14:12:56+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Revivez l'interview de Mathilde Panot par Benjamin Duhamel sur france 2, suivie d'un débat avec Jean-François Copé, le dimanche 25 octobre 2026 à 13h20.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>6m7IIhz8KNc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/6m7IIhz8KNc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
