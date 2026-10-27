@@ -4,10 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 27 Oct 2026 09:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:31:20 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
-      <title>Trappes, annonces aux lycéens, grève générale : Clémence Guetté dans la matinale de France Info</title>
+      <title>Macron doit céder ou partir !</title>
+      <link>https://www.youtube.com/watch?v=plpyTkckSvE</link>
+      <guid>https://www.youtube.com/watch?v=plpyTkckSvE</guid>
+      <pubDate>2026-10-27T09:17:40+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>BFMTV Dimanche 25 octobre</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>plpyTkckSvE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/plpyTkckSvE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Annonces aux lycéens, attentat de Trappes, grève générale : Clémence Guetté sur France Info</title>
       <link>https://www.youtube.com/watch?v=ffkb82d6Hrc</link>
       <guid>https://www.youtube.com/watch?v=ffkb82d6Hrc</guid>
       <pubDate>2026-10-27T08:42:29+00:00</pubDate>
@@ -427,24 +438,6 @@ Mes réseaux sociaux
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>MD7dAxzCQh4</videoId>
       <enclosure url="https://i.ytimg.com/vi/MD7dAxzCQh4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella : « Vous pourrez toujours compter sur moi pour ne jamais faiblir ! »</title>
-      <link>https://www.youtube.com/watch?v=qYQOQCWayRA</link>
-      <guid>https://www.youtube.com/watch?v=qYQOQCWayRA</guid>
-      <pubDate>2026-10-24T17:48:10+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>qYQOQCWayRA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qYQOQCWayRA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
