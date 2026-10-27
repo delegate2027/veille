@@ -4,19 +4,8 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 27 Oct 2026 16:15:50 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:33:29 -0000</lastBuildDate>
     <feedCount>51</feedCount>
-    <item>
-      <title>27 octobre 2026</title>
-      <link>https://www.youtube.com/watch?v=Lc0RGeECngc</link>
-      <guid>https://www.youtube.com/watch?v=Lc0RGeECngc</guid>
-      <pubDate>2026-10-27T16:15:45+00:00</pubDate>
-      <author>Laurent Wauquiez</author>
-      <description />
-      <channelTitle>Laurent Wauquiez</channelTitle>
-      <videoId>Lc0RGeECngc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Lc0RGeECngc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
     <item>
       <title>Les citoyens n'ont pas renoncé à la liberté, à la justice et à l'état de droit | Bruno Fuchs</title>
       <link>https://www.youtube.com/watch?v=xkwAj33NYjk</link>
@@ -472,6 +461,17 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>vgkh4N9OFiM</videoId>
       <enclosure url="https://i.ytimg.com/vi/vgkh4N9OFiM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Lekip, l'invité musical ! – En campagne #5</title>
+      <link>https://www.youtube.com/watch?v=-k7rHlRT-lc</link>
+      <guid>https://www.youtube.com/watch?v=-k7rHlRT-lc</guid>
+      <pubDate>2026-10-25T17:00:14+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=oa3-ITRTDQA</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>-k7rHlRT-lc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-k7rHlRT-lc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
