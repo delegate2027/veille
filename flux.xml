@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 07:31:02 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:45:45 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Parcoursup doit être abrogé !</title>
+      <link>https://www.youtube.com/watch?v=l4wvAsE1_B0</link>
+      <guid>https://www.youtube.com/watch?v=l4wvAsE1_B0</guid>
+      <pubDate>2026-10-28T07:43:18+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Revivez l'interview de Mathilde Panot sur TF1, le mercredi 28 octobre 2026 à 7h30.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>l4wvAsE1_B0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/l4wvAsE1_B0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Attentat raciste à Trappes, mouvement social : Eric Coquerel invité RTL Matin</title>
       <link>https://www.youtube.com/watch?v=5r98T6ZTy5E</link>
@@ -445,32 +456,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>5b4Xe59p8Mc</videoId>
       <enclosure url="https://i.ytimg.com/vi/5b4Xe59p8Mc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Discours d'Eric Ciotti au meeting de Marine Le Pen à Orléans</title>
-      <link>https://www.youtube.com/watch?v=x5kR5L_Lm08</link>
-      <guid>https://www.youtube.com/watch?v=x5kR5L_Lm08</guid>
-      <pubDate>2026-10-26T09:41:55+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : RN
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>x5kR5L_Lm08</videoId>
-      <enclosure url="https://i.ytimg.com/vi/x5kR5L_Lm08/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
