@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 16:01:30 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:15:40 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Taxons les profiteurs du génocide à Gaza !</title>
+      <link>https://www.youtube.com/watch?v=WjUKhOUVDL4</link>
+      <guid>https://www.youtube.com/watch?v=WjUKhOUVDL4</guid>
+      <pubDate>2026-10-28T16:05:16+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>🎙️Nous proposions de majorer de 50 % le taux de l’impôt sur les sociétés en 2027 pour les grandes entreprises profitant du génocide commis par l’armée israélienne à Gaza.
+
+Seuls les insoumis, écologistes, et communistes ont voté pour.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>WjUKhOUVDL4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WjUKhOUVDL4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Les Français ont besoin de réconciliation | Marc Fesneau</title>
       <link>https://www.youtube.com/watch?v=7EYquVNYRP0</link>
@@ -497,17 +510,6 @@ Abonnez-vous à notre chaîne YouTube !
       <channelTitle>Révolution Permanente</channelTitle>
       <videoId>4aGpTecuwIk</videoId>
       <enclosure url="https://i.ytimg.com/vi/4aGpTecuwIk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Annonces aux lycéens, attentat raciste de Trappes : j’étais hier soir l’invitée de LCP</title>
-      <link>https://www.youtube.com/watch?v=oKKbWg6ksGs</link>
-      <guid>https://www.youtube.com/watch?v=oKKbWg6ksGs</guid>
-      <pubDate>2026-10-27T14:29:04+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>oKKbWg6ksGs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/oKKbWg6ksGs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
