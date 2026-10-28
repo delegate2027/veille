@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 07:01:16 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:15:40 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Attentat raciste à Trappes, mouvement social : Eric Coquerel invité RTL Matin</title>
+      <link>https://www.youtube.com/watch?v=5r98T6ZTy5E</link>
+      <guid>https://www.youtube.com/watch?v=5r98T6ZTy5E</guid>
+      <pubDate>2026-10-28T07:09:34+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Eric Coquerel était l'invité de RTL matin le mercredi 28 octobre 2026, pour revenir sur la minute de silence à l'Assemblée en l'hommage de Pengo Bossio Wangi, tué par un terroriste raciste à Trappes vendredi dernier. Mais aussi, en soutien aux revendications de la jeunesse pour de meilleure condition d'étude.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>5r98T6ZTy5E</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5r98T6ZTy5E/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de Jean-Luc Mélenchon à l'ESSEC</title>
       <link>https://www.youtube.com/watch?v=msIb2rNDSTA</link>
@@ -460,27 +471,6 @@ https://twitter.com/partiudr
       <channelTitle>UDR</channelTitle>
       <videoId>x5kR5L_Lm08</videoId>
       <enclosure url="https://i.ytimg.com/vi/x5kR5L_Lm08/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Attentat raciste à Trappes, mouvement social, salut nazi au RN : Manuel Bompard, invité de LCI !</title>
-      <link>https://www.youtube.com/watch?v=Lb4z65-zSoU</link>
-      <guid>https://www.youtube.com/watch?v=Lb4z65-zSoU</guid>
-      <pubDate>2026-10-26T08:40:48+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur LCI du lundi 26 octobre 2026.
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>Lb4z65-zSoU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Lb4z65-zSoU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
