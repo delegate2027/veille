@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 19:46:01 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 20:01:13 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Gabriel Attal sur TF1 | Pour la France, une primaire</title>
+      <link>https://www.youtube.com/watch?v=fcaJb6vQDdE</link>
+      <guid>https://www.youtube.com/watch?v=fcaJb6vQDdE</guid>
+      <pubDate>2026-10-28T19:55:41+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Jamais une élection présidentielle n’aura été aussi décisive pour notre pays.
+
+Ne laissons pas les Français face au pire des choix. Ne laissons pas les Français avoir à choisir entre La France Insoumise et le Rassemblement national.
+
+Pour la France, il faut une primaire.
+
+Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>fcaJb6vQDdE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/fcaJb6vQDdE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Macron est le 1er des casseurs : meeting géant à Peyrehorade</title>
       <link>https://www.youtube.com/watch?v=H8nMZanJkmc</link>
@@ -440,17 +466,6 @@ Interpellez votre député·e pour qu’il/elle vote ce texte 🗳️</descripti
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>l4wvAsE1_B0</videoId>
       <enclosure url="https://i.ytimg.com/vi/l4wvAsE1_B0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Attentat raciste à Trappes, mouvement social : Eric Coquerel invité RTL Matin</title>
-      <link>https://www.youtube.com/watch?v=5r98T6ZTy5E</link>
-      <guid>https://www.youtube.com/watch?v=5r98T6ZTy5E</guid>
-      <pubDate>2026-10-28T07:09:34+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Eric Coquerel était l'invité de RTL matin le mercredi 28 octobre 2026, pour revenir sur la minute de silence à l'Assemblée en l'hommage de Pengo Bossio Wangi, tué par un terroriste raciste à Trappes vendredi dernier. Mais aussi, en soutien aux revendications de la jeunesse pour de meilleure condition d'étude.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>5r98T6ZTy5E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5r98T6ZTy5E/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
