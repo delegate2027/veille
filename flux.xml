@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 15:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:01:30 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Les Français ont besoin de réconciliation | Marc Fesneau</title>
+      <link>https://www.youtube.com/watch?v=7EYquVNYRP0</link>
+      <guid>https://www.youtube.com/watch?v=7EYquVNYRP0</guid>
+      <pubDate>2026-10-28T16:00:19+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Les Français ont besoin de réconciliation | Marc Fesneau
+
+Face à la tentation du rapport de force, Marc Fesneau défend sur le plateau de Public Sénat une autre voie : celle de la responsabilité, du dialogue et des convergences démocratiques, des débats parlementaires à la préparation de 2027.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/marc-fesneau-les-francais-ont-besoin-de-reconciliation-video-8552-video
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>7EYquVNYRP0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7EYquVNYRP0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Akli Mellouli : "L'empathie du gouvernement ne protégera pas nos enfants des balles"</title>
       <link>https://www.youtube.com/watch?v=T5_EOh6cit0</link>
@@ -482,33 +508,6 @@ Abonnez-vous à notre chaîne YouTube !
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>oKKbWg6ksGs</videoId>
       <enclosure url="https://i.ytimg.com/vi/oKKbWg6ksGs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>De l’école à la prise de la Bastille : les lycéens expriment une critique RADICALE du capitalisme</title>
-      <link>https://www.youtube.com/watch?v=JEeS1Mx5aOo</link>
-      <guid>https://www.youtube.com/watch?v=JEeS1Mx5aOo</guid>
-      <pubDate>2026-10-27T13:00:21+00:00</pubDate>
-      <author>Révolution Permanente</author>
-      <description>Après des années de casse continue de l’école publique, de renforcement du tri social et de surenchère autoritaire, le mythe de l’école républicaine méritocratique commençait déjà à se fissurer, laissant apparaître, derrière l’idéologie, le visage hideux d’un système scolaire au service de la reproduction de l'ordre sociale. La révolte des lycéens et la répression féroce à laquelle elle se heurte ont fini d’arracher le rideau : cette société n’a à leur offrir qu’un avenir de chômage, de précarité et de catastrophe écologique, en leur intimant de s’y résigner et de rester à leur place. Alors, quand la Gen Z dit qu’elle veut prendre la Bastille, il faut la prendre au sérieux.
-
-Venez au grand meeting de Révolution Permanente le 21 novembre : 
-https://my.weezevent.com/meeting-anasse-2027-grand-meeting-revolutionnaire-a-paris
-
-Abonnez-vous à notre chaîne YouTube !
-➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
-
-★ Retrouvez-nous sur les réseaux sociaux :
-▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
-▸Twitter ▸ https://twitter.com/@RevPermanente
-▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
-▸Telegram ▸ https://t.me/revolution_permanente
-▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
-      <channelTitle>Révolution Permanente</channelTitle>
-      <videoId>JEeS1Mx5aOo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/JEeS1Mx5aOo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
