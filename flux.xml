@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 09:31:06 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:45:42 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>CYRIELLE CHATELAIN : “Nous demandons un hommage national pour Pengo Bossio Wangi”</title>
+      <link>https://www.youtube.com/watch?v=TBt4xqarNbQ</link>
+      <guid>https://www.youtube.com/watch?v=TBt4xqarNbQ</guid>
+      <pubDate>2026-10-28T09:38:54+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>TBt4xqarNbQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/TBt4xqarNbQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Innovation et planification, je présente ma vision économique pour la France.</title>
       <link>https://www.youtube.com/watch?v=Wy3pdB-tMjU</link>
@@ -436,22 +447,6 @@ L’appartement parisien de Jean-Luc Mélenchon est déclaré à 1,2 million d�
       <channelTitle>Sarah Knafo</channelTitle>
       <videoId>Pqqnw-v674k</videoId>
       <enclosure url="https://i.ytimg.com/vi/Pqqnw-v674k/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Roubaix en solidarité avec Trappes et La Verrière</title>
-      <link>https://www.youtube.com/watch?v=oJN0qwjT1aY</link>
-      <guid>https://www.youtube.com/watch?v=oJN0qwjT1aY</guid>
-      <pubDate>2026-10-26T19:39:42+00:00</pubDate>
-      <author>David Guiraud</author>
-      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
-
-Sur Tiktok : @davidguiraudlfi
-Twitter : https://twitter.com/guiraudind
-Instagram : https://www.instagram.com/guirauddavid/
-Facebook : https://www.facebook.com/david.guiraud.50</description>
-      <channelTitle>David Guiraud</channelTitle>
-      <videoId>oJN0qwjT1aY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/oJN0qwjT1aY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
