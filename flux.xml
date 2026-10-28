@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 16:15:40 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:31:20 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Macron est le 1er des casseurs : Meeting géant à Peyrehorade !</title>
+      <link>https://www.youtube.com/watch?v=i9QEPMxz-sQ</link>
+      <guid>https://www.youtube.com/watch?v=i9QEPMxz-sQ</guid>
+      <pubDate>2026-10-28T16:16:16+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Quelle ambiance hier soir à Peyrehorade ! 🤩
+
+Nous étions plus de 1 500 lors de cette réunion publique avec Manuel Bompard pour soutenir la candidature de Jean-Luc Mélenchon. 
+
+Retrouvez l’intégralité sur YouTube : https://youtu.be/lymSao5FyYo</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>i9QEPMxz-sQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/i9QEPMxz-sQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Taxons les profiteurs du génocide à Gaza !</title>
       <link>https://www.youtube.com/watch?v=WjUKhOUVDL4</link>
@@ -199,7 +214,7 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <enclosure url="https://i.ytimg.com/vi/Bv9EP-g-ZLw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>David Lisnard face à Laurence Ferrari dans l'émission Objectif 2027</title>
+      <title>David Lisnard face à Laurence Ferrari dans l'émission Objectif Élysée 2027</title>
       <link>https://www.youtube.com/watch?v=ISEmls4A5Bo</link>
       <guid>https://www.youtube.com/watch?v=ISEmls4A5Bo</guid>
       <pubDate>2026-10-28T10:43:50+00:00</pubDate>
@@ -480,36 +495,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>xkwAj33NYjk</videoId>
       <enclosure url="https://i.ytimg.com/vi/xkwAj33NYjk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Blocchiamo tutto 2.0 ?! En Italie, les jeunes et les travailleurs veulent lancer une GRÈVE GÉNÉRALE</title>
-      <link>https://www.youtube.com/watch?v=4aGpTecuwIk</link>
-      <guid>https://www.youtube.com/watch?v=4aGpTecuwIk</guid>
-      <pubDate>2026-10-27T15:36:28+00:00</pubDate>
-      <author>Révolution Permanente</author>
-      <description>🇮🇹 Giorgia Meloni a un énorme problème. En Italie, les lycéens et les travailleurs veulent construire une grève générale comme pendant le mouvement « Blocchiamo tutto ».
-
-Partout en Europe, en France, en Espagne, en Italie, en Allemagne et en Belgique, le Poing Levé et ses organisations soeurs frappent d'un même poing pour construire la grève générale aux cotés du mouvement ouvrier. Rejoignez-nous !
-
-🗓️ Et pour défendre cette perspective et reconstruire une organisation de jeunesse communiste et révolutionnaire, rendez-vous le 21 novembre à 18h à l’Espace Charenton pour un grand meeting de Révolution Permanente avec Anasse Kazib et les jeunes mobilisés !
-
-https://my.weezevent.com/meeting-anasse-2027-grand-meeting-revolutionnaire-a-paris
-
-Abonnez-vous à notre chaîne YouTube !
-➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
-
-★ Retrouvez-nous sur les réseaux sociaux :
-▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
-▸Twitter ▸ https://twitter.com/@RevPermanente
-▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
-▸Telegram ▸ https://t.me/revolution_permanente
-▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
-      <channelTitle>Révolution Permanente</channelTitle>
-      <videoId>4aGpTecuwIk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4aGpTecuwIk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
