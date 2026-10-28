@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 09:45:42 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:01:11 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Steevy Gustave : "Il s'appelait Pengo Bossio Wangi, mort parce que noir"</title>
+      <link>https://www.youtube.com/watch?v=N5ExPkU_s6Q</link>
+      <guid>https://www.youtube.com/watch?v=N5ExPkU_s6Q</guid>
+      <pubDate>2026-10-28T09:50:34+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>N5ExPkU_s6Q</videoId>
+      <enclosure url="https://i.ytimg.com/vi/N5ExPkU_s6Q/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>CYRIELLE CHATELAIN : “Nous demandons un hommage national pour Pengo Bossio Wangi”</title>
       <link>https://www.youtube.com/watch?v=TBt4xqarNbQ</link>
@@ -432,21 +443,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>a8I6H6VwWww</videoId>
       <enclosure url="https://i.ytimg.com/vi/a8I6H6VwWww/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Révolutionnaire pour votre maison, propriétaire pour la sienne : Je réponds à Jean-Luc Mélenchon !</title>
-      <link>https://www.youtube.com/watch?v=Pqqnw-v674k</link>
-      <guid>https://www.youtube.com/watch?v=Pqqnw-v674k</guid>
-      <pubDate>2026-10-26T19:54:46+00:00</pubDate>
-      <author>Sarah Knafo</author>
-      <description>Jean-Luc Mélenchon trouve que « la conception que vous avez de la propriété n’est plus supportable ». 
-
-Il ne parle pas des milliardaires, mais de votre maison et de l’héritage de vos enfants.
-
-L’appartement parisien de Jean-Luc Mélenchon est déclaré à 1,2 million d’euros. Révolutionnaire pour votre maison, propriétaire pour la sienne. Je lui réponds. ⬆️</description>
-      <channelTitle>Sarah Knafo</channelTitle>
-      <videoId>Pqqnw-v674k</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Pqqnw-v674k/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
