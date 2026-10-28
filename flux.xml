@@ -4,22 +4,18 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 16:31:20 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:45:43 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
-      <title>Macron est le 1er des casseurs : Meeting géant à Peyrehorade !</title>
-      <link>https://www.youtube.com/watch?v=i9QEPMxz-sQ</link>
-      <guid>https://www.youtube.com/watch?v=i9QEPMxz-sQ</guid>
-      <pubDate>2026-10-28T16:16:16+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Quelle ambiance hier soir à Peyrehorade ! 🤩
-
-Nous étions plus de 1 500 lors de cette réunion publique avec Manuel Bompard pour soutenir la candidature de Jean-Luc Mélenchon. 
-
-Retrouvez l’intégralité sur YouTube : https://youtu.be/lymSao5FyYo</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>i9QEPMxz-sQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/i9QEPMxz-sQ/maxresdefault.jpg" type="image/jpeg" />
+      <title>Sabrina Sebaihi : "Vous avez abattu leur fils une deuxième fois"</title>
+      <link>https://www.youtube.com/watch?v=8lZ5f_AK0pI</link>
+      <guid>https://www.youtube.com/watch?v=8lZ5f_AK0pI</guid>
+      <pubDate>2026-10-28T16:31:28+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>8lZ5f_AK0pI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8lZ5f_AK0pI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Taxons les profiteurs du génocide à Gaza !</title>
