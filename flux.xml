@@ -4,8 +4,22 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 18:45:56 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:01:10 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>S. Knafo découvre l’accaparement de la propriété immobilière dans les mains de quelques uns !</title>
+      <link>https://www.youtube.com/watch?v=5sF8BproIr4</link>
+      <guid>https://www.youtube.com/watch?v=5sF8BproIr4</guid>
+      <pubDate>2026-10-28T18:49:31+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Mme Knafo découvre l’accaparement de la propriété immobilière dans les mains de quelques uns !
+
+Soit Sarah Knafo ment soit elle n’a rien compris. 
+Je décrypte sa vidéo sur Jean-Luc Mélenchon</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>5sF8BproIr4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5sF8BproIr4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Les droits des joueurs de jeux vidéos – En campagne #5</title>
       <link>https://www.youtube.com/watch?v=Pq4txiP0ZEs</link>
@@ -445,21 +459,6 @@ Interpellez votre député·e pour qu’il/elle vote ce texte 🗳️</descripti
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>LFMmbi4up7Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/LFMmbi4up7Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les cancers sont ce qu'il y a de plus rentable pour l'industrie pharmaceutique...</title>
-      <link>https://www.youtube.com/watch?v=olbeuazbnYM</link>
-      <guid>https://www.youtube.com/watch?v=olbeuazbnYM</guid>
-      <pubDate>2026-10-27T17:05:14+00:00</pubDate>
-      <author>DAMIEN MAUDET</author>
-      <description>Les entreprises qui touchent le plus d'argent de l'Assurance maladie sont des entreprises qui produisent des anti-cancéreux.
-
-On pourrait penser que cela vient du coût de production des médicaments, mais non. Par exemple, le Keytruda, c'est un médicament utilisé pour soigner les cancers du sein, de la peau, de l'œsophage. Le coût par patient : 72 000€ par an. Au total, l'Assurance maladie verse 2 milliards d'euros à MSD, le laboratoire qui produit ce médicament. Selon une ONG suisse : 80% du prix correspond aux profits du labo !
-
-Aujourd'hui, Bigpharma ne fixe pas les prix selon le coût de production, mais selon la capacité de l'Etat à payer.</description>
-      <channelTitle>DAMIEN MAUDET</channelTitle>
-      <videoId>olbeuazbnYM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/olbeuazbnYM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
