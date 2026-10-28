@@ -4,22 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 15:01:18 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:15:43 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
-      <title>Ce journaliste n’a pas lu mon livre ! 📕</title>
-      <link>https://www.youtube.com/watch?v=7-fra939HyA</link>
-      <guid>https://www.youtube.com/watch?v=7-fra939HyA</guid>
-      <pubDate>2026-10-28T15:01:10+00:00</pubDate>
-      <author>Sarah Knafo</author>
-      <description>« Il faut avoir le début de l’honnêteté intellectuelle de dire : je n’ai pas lu votre livre. » 
+      <title>Bruno Retailleau face aux étudiants d’HEC</title>
+      <link>https://www.youtube.com/watch?v=NaOr1be9_tI</link>
+      <guid>https://www.youtube.com/watch?v=NaOr1be9_tI</guid>
+      <pubDate>2026-10-28T15:10:20+00:00</pubDate>
+      <author>Bruno Retailleau</author>
+      <description>🎙️ Retrouvez en intégralité ma rencontre avec les étudiants d'HEC, mardi 27 octobre, dans le cadre du cycle consacré à l'élection présidentielle organisé par HEC Débats, en partenariat avec Public Sénat.
 
-Ce matin sur franceinfo, on m’a opposé « de nombreux économistes ». Quand j’ai demandé leurs noms, on m’a accusée de donner des ordres. On a fini par m’accorder que les chiffres du Casse du siècle étaient exacts, alors que l’autre journaliste du plateau soutenait le contraire. 
+Pendant près de deux heures, j'ai répondu sans détour aux questions des étudiants sur les grands sujets de notre pays.
 
-Avant de critiquer un livre, on le lit, et on se met d’accord entre collègues. ⤴️</description>
-      <channelTitle>Sarah Knafo</channelTitle>
-      <videoId>7-fra939HyA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7-fra939HyA/maxresdefault.jpg" type="image/jpeg" />
+État de droit et immigration : élargir le champ du référendum pour redonner la parole aux Français, retrouver la maîtrise de nos frontières et défendre la cohésion nationale.
+Jeunesse : éducation, orientation, apprentissage, égalité des chances. Quel projet pour la génération qui vient ?
+Dépense publique : un plan d'économies de près de 200 milliards d'euros pour redresser nos comptes tout en renforçant les missions régaliennes de l'État.
+Environnement : une question portée par l'association ESP'R.
+2027 : mon projet pour la France et la recomposition de la droite.
+Questions du public
+
+Merci à HEC Débats et à Public Sénat pour l'organisation de cet échange exigeant.
+
+📌 Rejoignez la campagne : https://avecretailleau.fr
+
+#BrunoRetailleau #Présidentielle2027 #HEC #PublicSénat #LesRépublicains</description>
+      <channelTitle>Bruno Retailleau</channelTitle>
+      <videoId>NaOr1be9_tI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/NaOr1be9_tI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Élections en Israël : la position de la France sera inchangée | Jean-Noël Barrot</title>
