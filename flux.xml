@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 15:15:43 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:31:16 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Akli Mellouli : "L'empathie du gouvernement ne protégera pas nos enfants des balles"</title>
+      <link>https://www.youtube.com/watch?v=T5_EOh6cit0</link>
+      <guid>https://www.youtube.com/watch?v=T5_EOh6cit0</guid>
+      <pubDate>2026-10-28T15:30:37+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>T5_EOh6cit0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/T5_EOh6cit0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Bruno Retailleau face aux étudiants d’HEC</title>
       <link>https://www.youtube.com/watch?v=NaOr1be9_tI</link>
@@ -498,33 +509,6 @@ Abonnez-vous à notre chaîne YouTube !
       <channelTitle>Révolution Permanente</channelTitle>
       <videoId>JEeS1Mx5aOo</videoId>
       <enclosure url="https://i.ytimg.com/vi/JEeS1Mx5aOo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Pierre Jouvet invité de BFM TV face à une sénatrice RN</title>
-      <link>https://www.youtube.com/watch?v=NbKHpA9M7zY</link>
-      <guid>https://www.youtube.com/watch?v=NbKHpA9M7zY</guid>
-      <pubDate>2026-10-27T11:01:30+00:00</pubDate>
-      <author>PS - Parti socialiste</author>
-      <description>Hier, Pierre Jouvet, secrétaire général du Parti socialiste, était sur le plateau de BFMTV pour une heure de débat autour de l’actualité politique et sociale.
-
-Face à une sénatrice du Rassemblement national qui a tenu des propos abjects quatre jours après les attentats de Trappes, Pierre Jouvet a rappelé la responsabilité du RN dans ce drame. 
-
-Il est également revenu sur la mobilisation des lycéen·nes, la réponse sécuritaire du gouvernement disproportionnée, le droit de manifester qui est de plus en plus restreint,  et la loi « casseurs-payeurs » qui est inadmissible. Il a dénoncé les tentatives de couper les réseaux sociaux et rappelé l’urgence de répondre à la colère des lycéen·nes, à la crise du pouvoir d’achat et aux conséquences de neuf années de macronisme.
-
---
-Suivez-nous sur les réseaux sociaux :
-➡️  https://x.com/partisocialiste
-➡️  https://bsky.app/profile/partisocialiste
-➡️  https://www.instagram.com/partisocialiste 
-➡️  https://www.facebook.com/partisocialiste 
-➡️  https://www.tiktok.com/@partisocialiste
-➡️  https://t.me/partisocialiste
-➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
-
-🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
-      <channelTitle>PS - Parti socialiste</channelTitle>
-      <videoId>NbKHpA9M7zY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/NbKHpA9M7zY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
