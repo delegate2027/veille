@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 14:01:18 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:15:47 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>Élections en Israël : la position de la France sera inchangée | Jean-Noël Barrot</title>
@@ -474,19 +474,6 @@ Abonnez-vous à notre chaîne YouTube !
       <enclosure url="https://i.ytimg.com/vi/JEeS1Mx5aOo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>La Justice, avec Matthieu Valet, Pascale Piera et Jean-Paul Garraud.</title>
-      <link>https://www.youtube.com/watch?v=NIcJCT2yPV0</link>
-      <guid>https://www.youtube.com/watch?v=NIcJCT2yPV0</guid>
-      <pubDate>2026-10-27T12:30:07+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>NIcJCT2yPV0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/NIcJCT2yPV0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Pierre Jouvet invité de BFM TV face à une sénatrice RN</title>
       <link>https://www.youtube.com/watch?v=NbKHpA9M7zY</link>
       <guid>https://www.youtube.com/watch?v=NbKHpA9M7zY</guid>
@@ -512,6 +499,17 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>NbKHpA9M7zY</videoId>
       <enclosure url="https://i.ytimg.com/vi/NbKHpA9M7zY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>PARCOURSUP EST-IL VRAIMENT SUPPRIMÉ ?</title>
+      <link>https://www.youtube.com/watch?v=4Vm16tp5yIE</link>
+      <guid>https://www.youtube.com/watch?v=4Vm16tp5yIE</guid>
+      <pubDate>2026-10-27T10:25:14+00:00</pubDate>
+      <author>Louis Boyard</author>
+      <description />
+      <channelTitle>Louis Boyard</channelTitle>
+      <videoId>4Vm16tp5yIE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4Vm16tp5yIE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
