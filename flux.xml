@@ -4,8 +4,40 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 12:01:14 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:15:51 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>LOI « CASSEUR-PAYEUR » : UGO BERNALICIS RECADRE DEUX SÉNATEURS !</title>
+      <link>https://www.youtube.com/watch?v=5Xv-zTM_MvA</link>
+      <guid>https://www.youtube.com/watch?v=5Xv-zTM_MvA</guid>
+      <pubDate>2026-10-28T12:06:56+00:00</pubDate>
+      <author>Ugo Bernalicis</author>
+      <description>Retrouvez mon intervention sur Public Sénat, où j’ai débattu avec une sénatrice du Rassemblement national et un sénateur macroniste autour de la loi dite « casseur-payeur ».</description>
+      <channelTitle>Ugo Bernalicis</channelTitle>
+      <videoId>5Xv-zTM_MvA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5Xv-zTM_MvA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Macron confond la rentabilité du capital avec l'intérêt national</title>
+      <link>https://www.youtube.com/watch?v=Ka3052SK2yM</link>
+      <guid>https://www.youtube.com/watch?v=Ka3052SK2yM</guid>
+      <pubDate>2026-10-28T12:02:54+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>En commission des Affaires étrangères, lors de l’examen du projet de loi de finances pour 2027, j’ai donné l'avis de la France insoumise sur les crédits du commerce extérieur.
+
+En juillet, j’ai dit au ministre Forissier qu’il n’y arriverait pas. Trois mois plus tard, son budget le confirme, et votre rapport aussi, Monsieur le rapporteur, malgré l’avis favorable que vous lui donnez.
+
+Le déficit s’est réduit en 2025 en grande partie grâce à la facture énergétique, et il est reparti à 34 milliards au premier semestre 2026. L’excédent agroalimentaire historique de notre pays est tombé à 181 millions d’euros, du jamais-vu. La France assurait 5,5 % de la production automobile mondiale en 2005 ; 1,5 % aujourd’hui. 
+
+En 2018, à Roubaix, le gouvernement promettait 200 000 entreprises exportatrices : nous en comptons 124 000, en baisse, vous le reconnaissez ; la hausse affichée vient des vendeurs en ligne chinois. Et le Trésor écrit que nos grands groupes préfèrent produire à l’étranger plutôt qu’exporter depuis la France. Nous comptons 55 000 filiales, 20 % de plus qu’en 2018.
+
+Et que fait ce budget ? Il achève de démanteler le service public de l’export. 
+
+Notre réponse a un nom : le protectionnisme solidaire. Produire ici, protéger nos filières, exporter ce qui a de la valeur. Le groupe La France insoumise votera contre ces crédits.</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>Ka3052SK2yM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Ka3052SK2yM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de presse de Jean-Luc Mélenchon et Aurélie Trouvé</title>
       <link>https://www.youtube.com/watch?v=Adj85ge5B20</link>
@@ -168,7 +200,7 @@ Chapitres :
       <enclosure url="https://i.ytimg.com/vi/TBt4xqarNbQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>EN DIRECT | Innovation et planification, je présente ma vision économique pour la France.</title>
+      <title>Innovation et planification, je présente ma vision économique pour la France.</title>
       <link>https://www.youtube.com/watch?v=Wy3pdB-tMjU</link>
       <guid>https://www.youtube.com/watch?v=Wy3pdB-tMjU</guid>
       <pubDate>2026-10-28T08:51:14+00:00</pubDate>
@@ -465,28 +497,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Louis Boyard</channelTitle>
       <videoId>4Vm16tp5yIE</videoId>
       <enclosure url="https://i.ytimg.com/vi/4Vm16tp5yIE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La grande distribution SE GAVE sur les produits sains, et on le PROUVE avec notre simulateur !</title>
-      <link>https://www.youtube.com/watch?v=F8JLW7oRJE8</link>
-      <guid>https://www.youtube.com/watch?v=F8JLW7oRJE8</guid>
-      <pubDate>2026-10-27T09:34:50+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Maintenant, à vous de calculer les économies que vous pourriez faire sur https://mon-panier.fr ! 🧺</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>F8JLW7oRJE8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/F8JLW7oRJE8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Macron doit céder ou partir !</title>
-      <link>https://www.youtube.com/watch?v=plpyTkckSvE</link>
-      <guid>https://www.youtube.com/watch?v=plpyTkckSvE</guid>
-      <pubDate>2026-10-27T09:17:40+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>BFMTV Dimanche 25 octobre</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>plpyTkckSvE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/plpyTkckSvE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
