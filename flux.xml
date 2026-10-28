@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 14:46:03 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:01:18 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Ce journaliste n’a pas lu mon livre ! 📕</title>
+      <link>https://www.youtube.com/watch?v=7-fra939HyA</link>
+      <guid>https://www.youtube.com/watch?v=7-fra939HyA</guid>
+      <pubDate>2026-10-28T15:01:10+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>« Il faut avoir le début de l’honnêteté intellectuelle de dire : je n’ai pas lu votre livre. » 
+
+Ce matin sur franceinfo, on m’a opposé « de nombreux économistes ». Quand j’ai demandé leurs noms, on m’a accusée de donner des ordres. On a fini par m’accorder que les chiffres du Casse du siècle étaient exacts, alors que l’autre journaliste du plateau soutenait le contraire. 
+
+Avant de critiquer un livre, on le lit, et on se met d’accord entre collègues. ⤴️</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>7-fra939HyA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7-fra939HyA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Élections en Israël : la position de la France sera inchangée | Jean-Noël Barrot</title>
       <link>https://www.youtube.com/watch?v=vVZVIynPsxs</link>
@@ -499,17 +514,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>NbKHpA9M7zY</videoId>
       <enclosure url="https://i.ytimg.com/vi/NbKHpA9M7zY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>PARCOURSUP EST-IL VRAIMENT SUPPRIMÉ ?</title>
-      <link>https://www.youtube.com/watch?v=4Vm16tp5yIE</link>
-      <guid>https://www.youtube.com/watch?v=4Vm16tp5yIE</guid>
-      <pubDate>2026-10-27T10:25:14+00:00</pubDate>
-      <author>Louis Boyard</author>
-      <description />
-      <channelTitle>Louis Boyard</channelTitle>
-      <videoId>4Vm16tp5yIE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4Vm16tp5yIE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
