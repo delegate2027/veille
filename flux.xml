@@ -4,8 +4,37 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 10:30:59 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:45:40 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>David Lisnard face à Laurence Ferrari dans l'émission Objectif 2027</title>
+      <link>https://www.youtube.com/watch?v=ISEmls4A5Bo</link>
+      <guid>https://www.youtube.com/watch?v=ISEmls4A5Bo</guid>
+      <pubDate>2026-10-28T10:43:50+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Hier soir sur Cnews et Europe 1 j’ai répondu aux interrogations de Laurence Ferrari afin de défendre mon projet et mes ambitions pour l’élection présidentielle. 
+
+00:00 Introduction 
+09:00 L'épreuve des faits
+26:37 Face aux rédactions 
+59:11 Vrai ou Faux 
+01:14:39 La confrontation
+01:22:00 Face à Fog 
+01:29:00 Le dernier mot 
+
+Suivez moi sur mes réseaux : 
+
+Instagram : https://www.instagram.com/davidlisnard/
+X : https://x.com/davidlisnard
+Facebook : https://www.facebook.com/lisnard.david
+Tik Tok : https://www.tiktok.com/@david.lisnard
+LinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/
+
+Adhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>ISEmls4A5Bo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ISEmls4A5Bo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Trappes : l’indécence politique et médiatique me choque</title>
       <link>https://www.youtube.com/watch?v=GERXbc2TDEg</link>
@@ -434,17 +463,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>plpyTkckSvE</videoId>
       <enclosure url="https://i.ytimg.com/vi/plpyTkckSvE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Annonces aux lycéens, attentat de Trappes, grève générale : Clémence Guetté sur France Info</title>
-      <link>https://www.youtube.com/watch?v=ffkb82d6Hrc</link>
-      <guid>https://www.youtube.com/watch?v=ffkb82d6Hrc</guid>
-      <pubDate>2026-10-27T08:42:29+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>J'étais ce matin l'invitée de la matinale de France Info. À retrouver en intégralité.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>ffkb82d6Hrc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ffkb82d6Hrc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
