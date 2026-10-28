@@ -4,8 +4,35 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 08:01:10 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:15:47 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Sarah Knafo face aux journalistes militants de Franceinfo !</title>
+      <link>https://www.youtube.com/watch?v=UIXHi_bIAYY</link>
+      <guid>https://www.youtube.com/watch?v=UIXHi_bIAYY</guid>
+      <pubDate>2026-10-28T08:05:00+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo, députée française Reconquête au Parlement européen, était l’invitée de Franceinfo. 
+
+👍 Likez, 💬 commentez, 📤 partagez la vidéo et 🔔 abonnez-vous en activant la cloche pour ne manquer aucune vidéo !
+
+Pour suivre l’actualité de Sarah Knafo :
+
+Instagram : https://www.instagram.com/sarahknafo1
+X/Twitter : https://x.com/knafo_sarah?s=11
+Facebook : https://www.facebook.com/share/1BDboyows5/?mibextid=wwXIfr
+Linkedln : https://www.linkedin.com/in/sarah-knafo-7a0129b5?utm_source=share_via&amp;amp;utm_content=profile&amp;amp;utm_medium=member_ios
+WhatsApp : ‎https://whatsapp.com/channel/0029VakkwXs60eBd95uc7e2n
+TikTok : https://www.tiktok.com/@sarah_knafo?_r=1&amp;_t=ZN-98M2y5vFPLG
+Telegram : https://t.me/Sarah_Knafo
+
+📖 Commandez mon livre : sarahknafo.fr
+
+🗳️ Adhérez à Reconquête : https://www.parti-reconquete.fr/adhesions</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>UIXHi_bIAYY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UIXHi_bIAYY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Interpellez votre député·e pour qu’il/elle vote ce texte le 29 octobre !</title>
       <link>https://www.youtube.com/watch?v=dW6g1xX4LCo</link>
@@ -24,7 +51,7 @@ Interpellez votre député·e pour qu’il/elle vote ce texte 🗳️</descripti
       <enclosure url="https://i.ytimg.com/vi/dW6g1xX4LCo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Parcoursup doit être abrogé !</title>
+      <title>Nous supprimerons Parcoursup !</title>
       <link>https://www.youtube.com/watch?v=l4wvAsE1_B0</link>
       <guid>https://www.youtube.com/watch?v=l4wvAsE1_B0</guid>
       <pubDate>2026-10-28T07:43:18+00:00</pubDate>
@@ -433,20 +460,6 @@ Facebook : https://www.facebook.com/david.guiraud.50</description>
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>SlX43tAq3jA</videoId>
       <enclosure url="https://i.ytimg.com/vi/SlX43tAq3jA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Le Pen n’est ni de droite ni de gauche.</title>
-      <link>https://www.youtube.com/watch?v=84HDDOEYmMw</link>
-      <guid>https://www.youtube.com/watch?v=84HDDOEYmMw</guid>
-      <pubDate>2026-10-26T16:57:06+00:00</pubDate>
-      <author>Bruno Retailleau</author>
-      <description>Quand Marine Le Pen dit qu’elle n’est ni de droite ni de gauche, elle fait du « en même temps » comme Emmanuel Macron. 
-Moi, je crois à une démocratie où la droite assume d’être de droite, où la gauche assume d’être de gauche et où chacun défend clairement ses convictions devant les Français.
-
-J'étais l'invité ce lundi des Grandes Gueules sur RMC.</description>
-      <channelTitle>Bruno Retailleau</channelTitle>
-      <videoId>84HDDOEYmMw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/84HDDOEYmMw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
