@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 28 Oct 2026 13:45:48 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:01:18 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Élections en Israël : la position de la France sera inchangée | Jean-Noël Barrot</title>
+      <link>https://www.youtube.com/watch?v=vVZVIynPsxs</link>
+      <guid>https://www.youtube.com/watch?v=vVZVIynPsxs</guid>
+      <pubDate>2026-10-28T13:50:19+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Élections en Israël : la position de la France sera inchangée | Jean-Noël Barrot
+
+Ce mercredi 28 octobre sur France 2, notre ministre de l'Europe et des Affaires étrangères et vice-président du MoDem, Jean-Noël Barrot, a défendu une diplomatie guidée par la constance de ses principes et la fermeté face aux tentatives de déstabilisation tandis que nous attendons encore les résultats du scrutin israélien et que les campagnes de désinformation qui ciblent la France se multiplient.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/jean-noel-barrot-elections-en-israel-la-position-de-la-france-sera-inchangee-video
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>vVZVIynPsxs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vVZVIynPsxs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LOI « CASSEUR-PAYEUR » : UGO BERNALICIS RECADRE DEUX SÉNATEURS !</title>
       <link>https://www.youtube.com/watch?v=5Xv-zTM_MvA</link>
@@ -486,17 +512,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>NbKHpA9M7zY</videoId>
       <enclosure url="https://i.ytimg.com/vi/NbKHpA9M7zY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>PARCOURSUP EST-IL VRAIMENT SUPPRIMÉ ?</title>
-      <link>https://www.youtube.com/watch?v=4Vm16tp5yIE</link>
-      <guid>https://www.youtube.com/watch?v=4Vm16tp5yIE</guid>
-      <pubDate>2026-10-27T10:25:14+00:00</pubDate>
-      <author>Louis Boyard</author>
-      <description />
-      <channelTitle>Louis Boyard</channelTitle>
-      <videoId>4Vm16tp5yIE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4Vm16tp5yIE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
