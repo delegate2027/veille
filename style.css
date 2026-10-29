@@ -93,6 +93,14 @@ a {
   letter-spacing: 0.02em;
 }
 
+/* Libelle de la date de mise a jour : meme teinte discrete et meme taille
+   que les autres textes de l'ui. */
+.status-label {
+  color: var(--muted);
+  font-size: 11px;
+  letter-spacing: 0.02em;
+}
+
 /* L'icone d'horloge remplace le libelle "Dernière mise à jour :". Meme teinte
    discrete que le texte qu'elle precede, collee a la date. */
 .status-update {
