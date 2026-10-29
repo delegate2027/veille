@@ -290,13 +290,7 @@ function updateArchiveCount(visible) {
 
   if (!counter) return;
 
-  if (typeof visible === "undefined") {
-    text = total + (total > 1 ? " entrées archivées" : " entrée archivée");
-  } else {
-    text = visible + " / " + total + " entrées";
-  }
-
-  counter.innerHTML = text;
+    counter.innerHTML = text;
 }
 
 function loadArchive() {
