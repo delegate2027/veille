@@ -9,6 +9,7 @@ Application web statique de veille médiatique politique. Le navigateur affiche 
 - `index.html` : structure de la page.
 - `style.css` : styles responsifs et thème sombre.
 - `script.js` : chargement, filtrage, rendu et actualisation du flux.
+- `timeline.js` et `timeline.css` : frise de la vue Archives (colonnes par jour, semaine, mois ou année, empilées par famille) et liste des résultats ; `archives.js` leur confie le rendu. La date de départ des archives est `ARCHIVE_START` dans `archives.js`.
 - `rss.py` : agrégation des flux et génération de `flux.xml`.
 - `flux.xml` : fichier généré à ne pas modifier manuellement.
 - `requirements.txt` : dépendances Python.

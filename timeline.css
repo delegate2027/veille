@@ -1,0 +1,232 @@
+/* Onglet Frise : styles propres, charges par timeline.js. Reprend les
+   variables et le theme sombre de style.css ; aucune regle existante n'est
+   modifiee. */
+
+/* Couleur de famille portee par la variable --gc, lue par tous les elements
+   (segments, pastilles, points, titres). */
+.g-meeting { --gc: var(--meeting-color); }
+.g-lfi { --gc: var(--lfi-color); }
+.g-eelv { --gc: var(--eelv-color); }
+.g-ps { --gc: var(--ps-color); }
+.g-centre { --gc: var(--centre-color); }
+.g-lr { --gc: var(--lr-color); }
+.g-ed { --gc: var(--ed-color); }
+.g-pcf { --gc: var(--pcf-color); }
+
+/* Barre d'outils : echelle de la frise */
+
+.tl-toolbar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  margin: 0 0 8px 0;
+}
+
+.tl-switch {
+  display: flex;
+  gap: 4px;
+}
+
+.tl-switch a {
+  padding: 3px 8px;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  color: var(--muted);
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.tl-switch a:hover {
+  color: var(--ink);
+}
+
+.tl-switch a.is-active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* Pastilles de familles (legende + filtre) */
+
+.tl-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 0 0 10px 0;
+}
+
+.tl-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 2px 8px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  color: var(--ink);
+  font-size: 11px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.tl-chip em {
+  color: var(--muted);
+  font-style: normal;
+}
+
+.tl-chip:hover {
+  border-color: var(--gc, var(--accent));
+}
+
+.tl-chip-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--gc);
+}
+
+.tl-chip.is-off {
+  opacity: 0.45;
+}
+
+.tl-chip.is-off .tl-chip-dot {
+  background: transparent;
+  box-shadow: inset 0 0 0 1px var(--gc);
+}
+
+.tl-chip-all.is-on {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.tl-seg {
+  display: block;
+  background: var(--gc);
+}
+
+/* Frise horizontale */
+
+.tl-strip {
+  margin: 0 0 8px 0;
+  padding: 6px 0 2px 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.tl-cols {
+  display: flex;
+  align-items: flex-start;
+  gap: 1px;
+  min-width: min-content;
+}
+
+.tl-col {
+  flex: 1 1 0;
+  min-width: 7px;
+  max-width: 26px;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.tl-gran-week .tl-col {
+  min-width: 14px;
+}
+
+.tl-gran-month .tl-col {
+  min-width: 26px;
+  max-width: 40px;
+}
+
+.tl-gran-year .tl-col {
+  min-width: 48px;
+  max-width: 72px;
+}
+
+.tl-col:hover {
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.tl-col.is-sel {
+  background: rgba(255, 138, 122, 0.2);
+}
+
+/* Les segments s'empilent depuis le bas de la colonne. */
+.tl-bar {
+  display: flex;
+  flex-direction: column-reverse;
+  height: 56px;
+  overflow: hidden;
+}
+
+.tl-col.is-empty .tl-bar {
+  border-bottom: 1px solid var(--line);
+}
+
+.tl-tick {
+  height: 22px;
+  padding-top: 2px;
+  color: var(--muted);
+  font-size: 9px;
+  line-height: 1.15;
+  white-space: nowrap;
+}
+
+.tl-tick span {
+  display: block;
+}
+
+/* Coupure : une longue periode sans video, replie en un trait pointille. */
+.tl-brk {
+  position: relative;
+  flex: 0 0 10px;
+  align-self: stretch;
+}
+
+.tl-brk::before {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 6px;
+  height: 44px;
+  border-left: 1px dashed var(--line);
+}
+
+/* Liste sous la frise : meme bord gauche que les lignes des archives. */
+
+.tl-detail-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 0 0 4px 0;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.tl-detail-head b {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.tl-detail-head a {
+  color: var(--muted);
+}
+
+.tl-dayhead {
+  padding: 8px 0 2px 0;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.tl-more {
+  display: inline-block;
+  margin: 6px 0;
+  color: var(--accent);
+  font-size: 12px;
+}

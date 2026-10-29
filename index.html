@@ -6,6 +6,7 @@
   <meta name="description" content="Veille médiatique politique — flux d'actualité agrégés et archives.">
   <link rel="icon" type="image/png" href="favicon/favicon_16x16.png">
   <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="timeline.css">
   <title>Veille médiatique politique</title>
   <script defer src="https://cloud.umami.is/script.js" data-website-id="d6c5243d-47b0-4298-970d-29c37ac63b22"></script>
 </head>
@@ -47,14 +48,28 @@
           <p class="archive-count status-text" id="archiveCount"></p>
         </div>
       </div>
+      <div class="tl-toolbar">
+        <div class="tl-switch" id="tlGrans">
+          <a href="#" class="tl-sw is-active" data-gran="auto">Auto</a>
+          <a href="#" class="tl-sw" data-gran="day">Jours</a>
+          <a href="#" class="tl-sw" data-gran="week">Semaines</a>
+          <a href="#" class="tl-sw" data-gran="month">Mois</a>
+          <a href="#" class="tl-sw" data-gran="year">Années</a>
+        </div>
+      </div>
+      <div class="tl-legend" id="tlLegend"></div>
+      <div class="tl-strip" id="tlStrip"></div>
+      <div class="tl-detail-head" id="tlDetailHead"></div>
       <main id="archive" class="feed">
         <div class="archive-hint">Chargement des archives…</div>
       </main>
+      <div id="tlMore"></div>
     </section>
 
     <div class="footer"></div>
   </div>
   <script type="text/javascript" src="archives.js"></script>
   <script type="text/javascript" src="script.js"></script>
+  <script type="text/javascript" src="timeline.js"></script>
 </body>
 </html>

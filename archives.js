@@ -1,9 +1,15 @@
 /* Vue archives de la page unique : lit archives.xml, dedoublonne par lien,
-   affiche une liste simple et la filtre a la demande.
+   le filtre a la demande et l'affiche sous forme de frise et de liste
+   (timeline.js).
    Le rendu d'un item est celui du flux (buildItemElement) pour que les deux
    vues soient identiques ; les helpers viennent de script.js. */
 var archiveItems = [];
 var archiveLoaded = false;
+
+/* Premier jour (de veille) conserve : les entrees plus anciennes sont
+   ignorees au chargement, ni recherchees ni affichees. La frise demarre a
+   cette date. */
+var ARCHIVE_START = { y: 2026, m: 9, d: 1 };
 
 /* Revision du flux au moment du dernier chargement. rss.py ecrit flux.xml et
    archives.xml dans la meme execution : comparer les deux revisions suffit a
@@ -41,6 +47,10 @@ function parseArchive(xml) {
     item.date = pub ? dateParts(pub) : null;
     item.day = pub ? broadcastDayParts(pub) : null;
 
+    /* Sans date, une entree ne peut pas se placer sur la frise ; avant
+       ARCHIVE_START, elle est hors periode. */
+    if (!item.day || isBeforeArchiveStart(item.day)) continue;
+
     result.push(item);
   }
 
@@ -48,6 +58,14 @@ function parseArchive(xml) {
   result.sort(compareByDateDesc);
 
   return result;
+}
+
+/* Vrai si le jour de veille {y, m, d} precede ARCHIVE_START. */
+function isBeforeArchiveStart(day) {
+  var a = day.y * 10000 + day.m * 100 + day.d;
+  var b = ARCHIVE_START.y * 10000 + ARCHIVE_START.m * 100 + ARCHIVE_START.d;
+
+  return a < b;
 }
 
 /* Mois francais accepts dans une recherche, indexes 1-12.
@@ -253,105 +271,9 @@ function getVisibleArchiveItems(needle) {
   return visible;
 }
 
-/* Aucune liste n'est affichee au repos : seules les entrees correspondant
-   a une recherche saisie sont montrees. Sans terme saisi, la zone reste vide,
-   l'invite a chercher tenant lieu de message dans le champ lui-meme. */
-
-/* Empreinte des resultats affiches, pour detecter un rafraichissement sans
-   effet visible. */
-function archiveVisibleKey(visible) {
-  var parts = [];
-  var i;
-
-  for (i = 0; i < visible.length; i++) parts.push(visible[i].link || "");
-  return parts.join("\n");
-}
-
-/* Indexe les items deja presents dans la liste par leur lien. */
-function indexArchiveItems(container) {
-  var nodes = container.childNodes;
-  var map = {};
-  var i, node;
-
-  for (i = 0; i < nodes.length; i++) {
-    node = nodes[i];
-    if (node.nodeType === 1 && hasClass(node, "archives-item")) {
-      map[node.getAttribute("data-link") || ""] = node;
-    }
-  }
-
-  return map;
-}
-
-/* Retire les noeuds qui ne font pas partie des resultats courants (items
-   disparus, message d'erreur, invite de chargement). */
-function pruneArchiveItems(container, keep) {
-  var nodes = container.childNodes;
-  var i, node;
-
-  for (i = nodes.length - 1; i >= 0; i--) {
-    node = nodes[i];
-    if (node.nodeType !== 1) continue;
-    if (hasClass(node, "archives-item") && keep[node.getAttribute("data-link") || ""]) continue;
-    container.removeChild(node);
-  }
-}
-
-var archiveRenderedKey = null;
-
-/* Rendu par reconciliation : les items deja affiches sont conserves et
-   repositionnes via la propriete CSS order, les nouveaux sont ajoutes et les
-   disparus retires. Le noeud qui porte un lecteur video n'est donc jamais
-   deplace ni recree : la lecture en cours n'est jamais interrompue. */
+/* Le rendu (frise, familles et liste des resultats) est dans timeline.js. */
 function renderArchive() {
-  var container = document.getElementById("archive");
-  var input = document.getElementById("archiveFilter");
-  var needle = lower(trimString(input ? input.value : ""));
-  var existing, visible, keep, key, item, element;
-  var i;
-
-  if (!needle) {
-    container.innerHTML = "";
-    archiveRenderedKey = null;
-    updateArchiveCount();
-    return;
-  }
-
-  visible = getVisibleArchiveItems(needle);
-  key = archiveVisibleKey(visible);
-
-  /* Rafraichissement sans changement visible : rien a reconstruire. */
-  if (key === archiveRenderedKey) {
-    updateArchiveCount(visible.length);
-    return;
-  }
-  archiveRenderedKey = key;
-
-  if (!visible.length) {
-    container.innerHTML = '<div class="error">Aucune entrée ne correspond à cette recherche.</div>';
-    updateArchiveCount(0);
-    return;
-  }
-
-  existing = indexArchiveItems(container);
-  keep = {};
-
-  /* buildItemElement(..., true) : rendu compact des archives, une ligne par
-     entree, titre teinte comme sa source, lecture video au clic.
-     Un item deja affiche est reutilise tel quel (order le repositionne). */
-  for (i = 0; i < visible.length; i++) {
-    item = visible[i];
-    keep[item.link] = true;
-    element = existing[item.link];
-    if (!element) {
-      element = buildItemElement(item, true);
-      container.appendChild(element);
-    }
-    element.style.order = i;
-  }
-
-  pruneArchiveItems(container, keep);
-  updateArchiveCount(visible.length);
+  renderTimeline();
 }
 
 function updateArchiveCount(visible) {
@@ -420,16 +342,9 @@ function initArchiveFilter() {
 
   if (!input) return;
 
-  /* "aujourd'hui" est pre-rempli : l'onglet s'ouvre sur les entrees du jour,
-     sans saisie. Respecte une valeur deja presente.
-     Pas de trimString ici : archives.js s'execute avant script.js, dont
-     les helpers ne sont pas encore definis a ce moment. */
-  if (!input.value) {
-    input.value = "aujourd'hui";
-  }
-
   refresh = function() {
     if (!archiveLoaded) return;
+    tlResetNavigation();
     renderArchive();
   };
 
@@ -441,8 +356,7 @@ function initArchiveFilter() {
 }
 
 /* Place le curseur dans le champ : a l'arrivee sur la page (vue archives par
-   defaut) comme au clic sur l'onglet. Rien n'est liste tant qu'un terme n'est
-   pas saisi, autant proposer directement le clavier. */
+   defaut) comme au clic sur l'onglet, pour pouvoir chercher tout de suite. */
 function focusArchiveFilter() {
   var input = document.getElementById("archiveFilter");
 
