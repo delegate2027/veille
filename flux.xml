@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 29 Oct 2026 10:01:18 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:15:40 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>LAURENT JACOBELLI est l'invité de CNEWS !</title>
+      <link>https://www.youtube.com/watch?v=3fWP-27TEc4</link>
+      <guid>https://www.youtube.com/watch?v=3fWP-27TEc4</guid>
+      <pubDate>2026-10-29T10:03:39+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>3fWP-27TEc4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/3fWP-27TEc4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY est l'invité de TF1 !</title>
       <link>https://www.youtube.com/watch?v=OtA8Gx0EgSo</link>
@@ -474,17 +487,6 @@ Chapitres :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>PCXuHE680Wo</videoId>
       <enclosure url="https://i.ytimg.com/vi/PCXuHE680Wo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Steevy Gustave : "Il s'appelait Pengo Bossio Wangi, mort parce que noir"</title>
-      <link>https://www.youtube.com/watch?v=N5ExPkU_s6Q</link>
-      <guid>https://www.youtube.com/watch?v=N5ExPkU_s6Q</guid>
-      <pubDate>2026-10-28T09:50:34+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>N5ExPkU_s6Q</videoId>
-      <enclosure url="https://i.ytimg.com/vi/N5ExPkU_s6Q/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
