@@ -31,7 +31,6 @@ var tlGran = "week";        /* auto | day | week | month | year */
 var tlGroupsOff = {};       /* famille -> true si masquee */
 var tlSel = null;           /* { from, to } : cles de colonnes selectionnees */
 var tlAnchor = null;        /* point de depart d'une selection par plage */
-var tlShowAll = false;      /* "tout afficher" : aucune colonne retenue */
 var tlLimit = TL_PAGE;
 var tlToEnd = true;         /* ramene la frise sur sa fin (le plus recent) */
 var tlModel = null;
@@ -171,7 +170,7 @@ function tlBuckets(vis, gran) {
 function tlEffectiveSel() {
   var keys;
   if (tlSel) return tlSel;
-  if (tlShowAll || !tlModel || tlModel.needle || !tlModel.bk || !tlModel.bk.keys.length) return null;
+  if (!tlModel || tlModel.needle || !tlModel.bk || !tlModel.bk.keys.length) return null;
   keys = tlModel.bk.keys;
   return { from: keys[keys.length - 1], to: keys[keys.length - 1] };
 }
@@ -471,8 +470,7 @@ function tlDrawList(model) {
   multi = items.length > 0 && items[0].di !== items[items.length - 1].di;
 
   label = sel ? tlRangeLabel(sel, model.gran) : (model.needle ? "Tous les résultats" : "Toute la période");
-  headBox.innerHTML = "<span><b>" + label + "</b> · " + tlCount(items.length, "vidéo", "vidéos") + "</span>" +
-                      (sel ? '<a href="#" class="tl-all">tout afficher</a>' : "");
+  headBox.innerHTML = "<span><b>" + label + "</b> · " + tlCount(items.length, "vidéo", "vidéos") + "</span>";
 
   shown = items.length < tlLimit ? items.length : tlLimit;
 
@@ -512,13 +510,12 @@ function tlClosest(el, cls, stop) {
 function tlResetNavigation() {
   tlSel = null;
   tlAnchor = null;
-  tlShowAll = false;
   tlLimit = TL_PAGE;
   tlToEnd = true;
 }
 
 /* Clic sur une colonne : la selectionne ; maj + clic etend la plage ; un
-   nouveau clic sur l'unique colonne retenue la libere (tout afficher). */
+   nouveau clic sur l'unique colonne retenue la libere. */
 function tlOnStripClick(e) {
   var ev = e || window.event;
   var strip = document.getElementById("tlStrip");
@@ -532,15 +529,12 @@ function tlOnStripClick(e) {
 
   if (ev.shiftKey && base !== null) {
     tlSel = { from: Math.min(base, key), to: Math.max(base, key) };
-    tlShowAll = false;
   } else if (tlSel && tlSel.from === key && tlSel.to === key) {
     tlSel = null;
     tlAnchor = null;
-    tlShowAll = true;
   } else {
     tlSel = { from: key, to: key };
     tlAnchor = key;
-    tlShowAll = false;
   }
 
   tlLimit = TL_PAGE;
@@ -553,13 +547,9 @@ function tlOnHeadClick(e) {
   var ev = e || window.event;
   var box = document.getElementById("tlDetailHead");
 
-  if (!tlClosest(tlTarget(ev), "tl-all", box) || !tlModel) return;
-
   tlSel = null;
   tlAnchor = null;
-  tlShowAll = true;
   tlLimit = TL_PAGE;
-  tlMarkSelection();
   tlDrawList(tlModel);
   return false;
 }
