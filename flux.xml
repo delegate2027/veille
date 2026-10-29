@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 29 Oct 2026 17:31:01 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:45:42 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>Gabriel Attal sur France 5 | Il faut une grande primaire !</title>
@@ -90,30 +90,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>OtA8Gx0EgSo</videoId>
       <enclosure url="https://i.ytimg.com/vi/OtA8Gx0EgSo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Ce système n'a RIEN à nous offrir : on veut un MAI 68 qui va jusqu’au bout » Alexis Durey sur BFM</title>
-      <link>https://www.youtube.com/watch?v=lbTw3jJQnaA</link>
-      <guid>https://www.youtube.com/watch?v=lbTw3jJQnaA</guid>
-      <pubDate>2026-10-29T09:12:09+00:00</pubDate>
-      <author>Révolution Permanente</author>
-      <description>« Aucune revendication n'a été obtenue, c’est de l’arnaque : on sera à nouveau dans la rue samedi. Il faut étendre la révolte au monde du travail, préparer la grève générale le 5 novembre. Ce système capitaliste n’avait rien à offrir : nous, la Gen Z, on veut un mai 68 qui aille jusqu’au bout. Je suis communiste et révolutionnaire car je veux construire un autre avenir  » Alexis Durey, militant au Poing Levé et à Révolution Permanente, sur le plateau de BFM ce mercredi 28 octobre.
-
-Abonnez-vous à notre chaîne YouTube !
-➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
-
-★ Retrouvez-nous sur les réseaux sociaux :
-▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
-▸Twitter ▸ https://twitter.com/@RevPermanente
-▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
-▸Telegram ▸ https://t.me/revolution_permanente
-▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
-      <channelTitle>Révolution Permanente</channelTitle>
-      <videoId>lbTw3jJQnaA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/lbTw3jJQnaA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>🔴 Hommage national, augmentation du SMIC, mouvement lycéen : Manuel Bompard, invité de France 2 !</title>
@@ -480,6 +456,17 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>GERXbc2TDEg</videoId>
       <enclosure url="https://i.ytimg.com/vi/GERXbc2TDEg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Guy Benarroche : "Nous souhaitons qu'un processus pour une réelle autonomie de la Corse avance"</title>
+      <link>https://www.youtube.com/watch?v=PCXuHE680Wo</link>
+      <guid>https://www.youtube.com/watch?v=PCXuHE680Wo</guid>
+      <pubDate>2026-10-28T10:05:08+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>PCXuHE680Wo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PCXuHE680Wo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
