@@ -6,6 +6,11 @@
 var archiveItems = [];
 var archiveLoaded = false;
 
+/* Case "Chaînes" de la zone de recherche : quand elle est cochee, la saisie
+   ne porte plus que sur le nom de la chaine (l'auteur du flux), pas sur le
+   titre ni sur le lien. */
+var archiveChannelsOnly = false;
+
 /* Premier jour (de veille) conserve : les entrees plus anciennes sont
    ignorees au chargement, ni recherchees ni affichees. La frise demarre a
    cette date. */
@@ -44,6 +49,7 @@ function parseArchive(xml) {
        ne fait alors plus que comparer, sur les 10000 entrees possibles. */
     pub = parseDate(item.pubDate);
     item.searchBase = sansAccent(item.title + " " + item.author + " " + item.link);
+    item.authorBase = sansAccent(item.author);
     item.date = pub ? dateParts(pub) : null;
     item.day = pub ? broadcastDayParts(pub) : null;
 
@@ -226,9 +232,10 @@ function matchesDate(item, token) {
 }
 
 /* La recherche porte sur le titre, l'auteur, le lien et la date, et ignore
-   les accents des deux cotes : taper "melenchon" trouve "Mélenchon". */
+   les accents des deux cotes : taper "melenchon" trouve "Mélenchon". Avec la
+   case "Chaînes", seul le nom de la chaine est compare. */
 function matchesFilter(item, tokens) {
-  var haystack = item.searchBase;
+  var haystack = archiveChannelsOnly ? item.authorBase : item.searchBase;
   var i, t;
 
   if (!tokens.length) return true;
@@ -338,6 +345,7 @@ function isArchiveStale() {
 
 function initArchiveFilter() {
   var input = document.getElementById("archiveFilter");
+  var box = document.getElementById("archiveChannels");
   var refresh;
 
   if (!input) return;
@@ -353,6 +361,17 @@ function initArchiveFilter() {
      rien a jour. */
   if ("oninput" in input) input.oninput = refresh;
   else input.onkeyup = refresh;
+
+  /* La case "Chaînes" restreint la saisie aux noms de chaines ; l'invite du
+     champ suit le mode choisi. */
+  if (box) {
+    archiveChannelsOnly = !!box.checked;
+    box.onchange = function() {
+      archiveChannelsOnly = !!box.checked;
+      input.placeholder = archiveChannelsOnly ? "Rechercher une chaîne." : "Rechercher dans les archives.";
+      refresh();
+    };
+  }
 }
 
 /* Place le curseur dans le champ : a l'arrivee sur la page (vue archives par

@@ -440,6 +440,41 @@ a {
   color: var(--muted);
 }
 
+/* Case "Chaînes" dans le cadre de recherche, a droite du champ : un trait
+   vertical la separe de la saisie. Cochee, son libelle prend la couleur
+   d'accent ; accent-color colore la case elle-meme sur les navigateurs
+   recents, les autres gardent la case native. */
+.archive-channels {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 5px;
+  margin-left: 10px;
+  padding-left: 10px;
+  border-left: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.archive-channels:hover {
+  color: var(--ink);
+}
+
+.archive-channels input {
+  margin: 0;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+.archive-channels input:checked + span {
+  color: var(--accent);
+}
+
 /* Ligne meta sous la zone de recherche : exemples a gauche, nombre
    d'entrees a droite. La typographie vient de .status-text, partagee
    avec la ligne d'etat du header. */
