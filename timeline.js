@@ -207,10 +207,11 @@ function tlSyncGrans() {
 /* Pastilles de familles : legende, compteur de resultats et filtre. Le
    nombre affiche ignore les filtres de famille, pour voir ce qu'on masque.
    Seules les familles presentes dans les resultats sont proposees ; "Tous" et
-   "Aucun" portent sur celles-la. Deux lignes : les deux raccourcis d'abord,
-   toutes les familles en dessous. */
+   "Aucun" portent sur celles-la. "Tous" et "Aucun" partagent la ligne de
+   l'echelle (barre d'outils) ; les familles occupent la ligne suivante. */
 function tlDrawLegend(model) {
   var box = document.getElementById("tlLegend");
+  var allBox = document.getElementById("tlAll");
   var shown = 0, off = 0, html, i, g, n;
 
   for (i = 0; i < TL_GROUPS.length; i++) {
@@ -219,10 +220,12 @@ function tlDrawLegend(model) {
     if (tlGroupsOff[TL_GROUPS[i].cls]) off++;
   }
 
-  html = '<div class="tl-line">' +
-         '<a href="#" class="tl-chip tl-chip-all' + (shown && !off ? " is-on" : "") + '" data-g="*">Tous</a>' +
-         '<a href="#" class="tl-chip tl-chip-all' + (shown && off === shown ? " is-on" : "") + '" data-g="-">Aucun</a>' +
-         '</div><div class="tl-line tl-line-groups">';
+  if (allBox) {
+    allBox.innerHTML = '<a href="#" class="tl-chip tl-chip-all' + (shown && !off ? " is-on" : "") + '" data-g="*">Tous</a>' +
+                       '<a href="#" class="tl-chip tl-chip-all' + (shown && off === shown ? " is-on" : "") + '" data-g="-">Aucun</a>';
+  }
+
+  html = '<div class="tl-line tl-line-groups">';
 
   for (i = 0; i < TL_GROUPS.length; i++) {
     g = TL_GROUPS[i];
@@ -573,11 +576,12 @@ function tlOnMoreClick(e) {
 }
 
 /* "Tous" reactive toutes les familles, "Aucun" les masque toutes ; une
-   pastille de famille bascule celle-la. */
+   pastille de famille bascule celle-la. Les raccourcis sont dans la barre
+   d'outils (#tlAll), les familles sous la frise (#tlLegend) : le clic est
+   capte sur les deux zones. */
 function tlOnLegendClick(e) {
   var ev = e || window.event;
-  var box = document.getElementById("tlLegend");
-  var chip = tlClosest(tlTarget(ev), "tl-chip", box);
+  var chip = tlClosest(tlTarget(ev), "tl-chip");
   var g, i;
 
   if (!chip) return;
@@ -618,6 +622,7 @@ function initTimeline() {
   document.getElementById("tlDetailHead").onclick = tlOnHeadClick;
   document.getElementById("tlMore").onclick = tlOnMoreClick;
   document.getElementById("tlLegend").onclick = tlOnLegendClick;
+  document.getElementById("tlAll").onclick = tlOnLegendClick;
   document.getElementById("tlGrans").onclick = tlOnGranClick;
 }
 

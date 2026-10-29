@@ -47,8 +47,8 @@
   color: var(--accent);
 }
 
-/* Pastilles de familles (legende + filtre) : "Tous" et "Aucun" sur une ligne,
-   les familles sur la suivante. */
+/* Pastilles de familles (legende + filtre) : "Tous" et "Aucun" sont dans la
+   barre d'outils avec l'echelle, les familles sur la ligne suivante. */
 
 .tl-legend {
   display: block;
@@ -61,8 +61,8 @@
   gap: 4px;
 }
 
-.tl-line + .tl-line {
-  margin-top: 6px;
+.tl-toolbar .tl-line {
+  flex: 0 0 auto;
 }
 
 .tl-chip {
