@@ -11,7 +11,7 @@ var TL_GROUPS = [
   { cls: "eelv", label: "EELV" },
   { cls: "ps", label: "PS" },
   { cls: "pcf", label: "PCF NPA RP" },
-  { cls: "centre", label: "REN MODEM HOR" },
+  { cls: "centre", label: "REN MODEM HOR UDI" },
   { cls: "lr", label: "LR" },
   { cls: "ed", label: "ED" },
   { cls: "meeting", label: "Autres" }
