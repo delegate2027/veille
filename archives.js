@@ -286,11 +286,8 @@ function renderArchive() {
 function updateArchiveCount(visible) {
   var counter = document.getElementById("archiveCount");
   var total = archiveItems.length;
-  var text;
 
   if (!counter) return;
-
-    counter.innerHTML = text;
 }
 
 function loadArchive() {
