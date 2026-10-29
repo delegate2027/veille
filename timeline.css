@@ -65,6 +65,31 @@
   flex: 0 0 auto;
 }
 
+/* Les familles tiennent sur une seule ligne, sous la barre d'outils : leurs
+   pastilles sont un peu plus compactes que "Tous" et "Aucun" pour que tout
+   rentre dans la largeur de la page. Si les compteurs s'allongent, la ligne
+   defile horizontalement au lieu de passer a la ligne. */
+.tl-line-groups {
+  flex-wrap: nowrap;
+  gap: 3px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 1px;
+  scrollbar-width: thin;
+}
+
+.tl-line-groups .tl-chip {
+  flex: 0 0 auto;
+  gap: 4px;
+  padding: 2px 6px;
+  font-size: 10px;
+}
+
+.tl-line-groups .tl-chip-dot {
+  width: 6px;
+  height: 6px;
+}
+
 .tl-chip {
   display: inline-flex;
   align-items: center;
