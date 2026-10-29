@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 29 Oct 2026 12:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:31:00 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>Prix de l'essence, mobilisation lycéenne : Manon Aubry face à BFM TV</title>
@@ -177,32 +177,6 @@ Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.c
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>Pq4txiP0ZEs</videoId>
       <enclosure url="https://i.ytimg.com/vi/Pq4txiP0ZEs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 LOI CASSEUR-PAYEUR : ATTAQUE HISTORIQUE CONTRE LE DROIT DE MANIFESTER</title>
-      <link>https://www.youtube.com/watch?v=2z8BA2i0Wng</link>
-      <guid>https://www.youtube.com/watch?v=2z8BA2i0Wng</guid>
-      <pubDate>2026-10-28T17:11:34+00:00</pubDate>
-      <author>Révolution Permanente</author>
-      <description>Prisca Ancion, avocate et militante au Collectif Action Judiciaire, intervient sur BFM TV contre la loi « casseur-payeur ». Alors que le texte doit être examiné à l'Assemblée, il s'inscrit dans la volonté du gouvernement d'attaquer durement le droit de manifester pour intimider toutes celles et ceux qui s'opposent à ses plans.
-
-Face à un gouvernement, qui détruit les services publics, l’éducation et la santé, plonge des millions de personnes dans la précarité, tout en consacrant des milliards à l’armée et en remplissant les poches du patronat, la clé pour faire reculer l’offensive autoritaire reste de construire une mobilisation capable de faire reculer le gouvernement. Pour cela, il faut construire la grève générale, appuyée sur l’auto-organisation et la mobilisation de tous les secteurs déterminés à faire plier Macron. Les interpros sont un outil fondamental en ce sens, pour rassembler lycéens, étudiants, travailleurs, et préparer une grève active le 5 novembre et après.
-
-Abonnez-vous à notre chaîne YouTube !
-➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
-
-★ Retrouvez-nous sur les réseaux sociaux :
-▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
-▸Twitter ▸ https://twitter.com/@RevPermanente
-▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
-▸Telegram ▸ https://t.me/revolution_permanente
-▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
-      <channelTitle>Révolution Permanente</channelTitle>
-      <videoId>2z8BA2i0Wng</videoId>
-      <enclosure url="https://i.ytimg.com/vi/2z8BA2i0Wng/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Faites-nous donc la liste des fonctionnaires inutiles ! 🤯</title>
@@ -487,6 +461,17 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>GERXbc2TDEg</videoId>
       <enclosure url="https://i.ytimg.com/vi/GERXbc2TDEg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Guy Benarroche : "Nous souhaitons qu'un processus pour une réelle autonomie de la Corse avance"</title>
+      <link>https://www.youtube.com/watch?v=PCXuHE680Wo</link>
+      <guid>https://www.youtube.com/watch?v=PCXuHE680Wo</guid>
+      <pubDate>2026-10-28T10:05:08+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>PCXuHE680Wo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PCXuHE680Wo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
