@@ -10,7 +10,7 @@ var TL_GROUPS = [
   { cls: "lfi", label: "LFI" },
   { cls: "eelv", label: "EELV" },
   { cls: "ps", label: "PS" },
-  { cls: "pcf", label: "PCF · NPA · RP" },
+  { cls: "pcf", label: "PCF NPA RP" },
   { cls: "centre", label: "REN MODEM HOR" },
   { cls: "lr", label: "LR" },
   { cls: "ed", label: "ED" },
