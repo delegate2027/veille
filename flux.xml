@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 29 Oct 2026 09:45:56 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:01:18 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY est l'invité de TF1 !</title>
+      <link>https://www.youtube.com/watch?v=OtA8Gx0EgSo</link>
+      <guid>https://www.youtube.com/watch?v=OtA8Gx0EgSo</guid>
+      <pubDate>2026-10-29T09:55:06+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>OtA8Gx0EgSo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/OtA8Gx0EgSo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>« Ce système n'a RIEN à nous offrir : on veut un MAI 68 qui va jusqu’au bout » Alexis Durey sur BFM</title>
       <link>https://www.youtube.com/watch?v=lbTw3jJQnaA</link>
@@ -472,17 +485,6 @@ Chapitres :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>N5ExPkU_s6Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/N5ExPkU_s6Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Cyrielle Chatelain demande au Premier ministre un hommage national pour Pengo Bossio Wangi</title>
-      <link>https://www.youtube.com/watch?v=TBt4xqarNbQ</link>
-      <guid>https://www.youtube.com/watch?v=TBt4xqarNbQ</guid>
-      <pubDate>2026-10-28T09:38:54+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>TBt4xqarNbQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/TBt4xqarNbQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
