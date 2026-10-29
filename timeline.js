@@ -8,12 +8,12 @@
 
 var TL_GROUPS = [
   { cls: "lfi", label: "LFI" },
-  { cls: "eelv", label: "Écologistes" },
+  { cls: "eelv", label: "EELV" },
   { cls: "ps", label: "PS" },
   { cls: "pcf", label: "PCF · NPA · RP" },
-  { cls: "centre", label: "Centre" },
-  { cls: "lr", label: "LR · Renaissance" },
-  { cls: "ed", label: "Extrême droite" },
+  { cls: "centre", label: "REN MODEM HOR" },
+  { cls: "lr", label: "LR" },
+  { cls: "ed", label: "ED" },
   { cls: "meeting", label: "Autres" }
 ];
 var TL_MOIS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."];
