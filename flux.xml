@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 29 Oct 2026 16:01:10 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:15:43 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Il y a la nécessité de rassembler des forces pour l'élection présidentielle | Marc Fesneau</title>
+      <link>https://www.youtube.com/watch?v=c8DdEJpXLHo</link>
+      <guid>https://www.youtube.com/watch?v=c8DdEJpXLHo</guid>
+      <pubDate>2026-10-29T16:02:33+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Il y a la nécessité de rassembler des forces pour l'élection présidentielle | Marc Fesneau
+
+Alors que les tensions politiques et sociales mettent notre démocratie à l’épreuve, notre président du groupe Les Démocrates à l'Assemblée nationale et premier vice-président du MoDem, Marc Fesneau, appelle à sortir des logiques de confrontation, qu’il s’agisse de préparer la présidentielle, d’encadrer les manifestations ou de répondre aux revendications des lycéens.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/marc-fesneau-il-y-la-necessite-de-rassembler-des-forces-pour-lelection
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>c8DdEJpXLHo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/c8DdEJpXLHo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Prix de l'essence, mobilisation lycéenne : Manon Aubry face à BFM TV</title>
       <link>https://www.youtube.com/watch?v=UXFANfJSreQ</link>
@@ -461,17 +487,6 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>GERXbc2TDEg</videoId>
       <enclosure url="https://i.ytimg.com/vi/GERXbc2TDEg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Guy Benarroche : "Nous souhaitons qu'un processus pour une réelle autonomie de la Corse avance"</title>
-      <link>https://www.youtube.com/watch?v=PCXuHE680Wo</link>
-      <guid>https://www.youtube.com/watch?v=PCXuHE680Wo</guid>
-      <pubDate>2026-10-28T10:05:08+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>PCXuHE680Wo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PCXuHE680Wo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
