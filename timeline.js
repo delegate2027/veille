@@ -27,11 +27,11 @@ var TL_PAGE = 100;          /* lignes affichees par page dans la liste */
 var TL_DAY_MS = 86400000;
 var TL_GAP_MAX = { day: 10, week: 6, month: 4, year: 2 }; /* au-dela : coupure */
 
-var tlGran = "auto";        /* auto | day | week | month | year */
+var tlGran = "week";        /* auto | day | week | month | year */
 var tlGroupsOff = {};       /* famille -> true si masquee */
 var tlSel = null;           /* { from, to } : cles de colonnes selectionnees */
 var tlAnchor = null;        /* point de depart d'une selection par plage */
-var tlShowAll = false;      /* "tout afficher" : aucune colonne retenue */
+var tlShowAll = true;       /* "tout afficher" : aucune colonne retenue */
 var tlLimit = TL_PAGE;
 var tlToEnd = true;         /* ramene la frise sur sa fin (le plus recent) */
 var tlModel = null;
