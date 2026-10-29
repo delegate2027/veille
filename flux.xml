@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 29 Oct 2026 07:45:49 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:01:13 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>🔴 Hommage national, augmentation du SMIC, mouvement lycéen : Manuel Bompard, invité de France 2 !</title>
+      <link>https://www.youtube.com/watch?v=h9yyST8sZFc</link>
+      <guid>https://www.youtube.com/watch?v=h9yyST8sZFc</guid>
+      <pubDate>2026-10-29T07:49:39+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur France 2 du jeudi 29 octobre 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>h9yyST8sZFc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/h9yyST8sZFc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Innovation et planification, je présente ma vision économique pour la France.</title>
       <link>https://www.youtube.com/watch?v=Wy3pdB-tMjU</link>
@@ -455,17 +476,6 @@ Interpellez votre député·e pour qu’il/elle vote ce texte 🗳️</descripti
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>dW6g1xX4LCo</videoId>
       <enclosure url="https://i.ytimg.com/vi/dW6g1xX4LCo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nous supprimerons Parcoursup !</title>
-      <link>https://www.youtube.com/watch?v=l4wvAsE1_B0</link>
-      <guid>https://www.youtube.com/watch?v=l4wvAsE1_B0</guid>
-      <pubDate>2026-10-28T07:43:18+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot sur TF1, le mercredi 28 octobre 2026 à 7h30.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>l4wvAsE1_B0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/l4wvAsE1_B0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
