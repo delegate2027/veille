@@ -515,6 +515,9 @@ function tlResetNavigation() {
 }
 
 /* Clic sur une colonne : la selectionne ; maj + clic etend la plage ; un
+   nouveau clic sur l'unique colonne retenue la libere. Les clics sur
+   d'autres colonnes s'ajoutent a la selection existante sans la casser. */
+/* Clic sur une colonne : la selectionne ; maj + clic etend la plage ; un
    nouveau clic sur l'unique colonne retenue la libere. */
 function tlOnStripClick(e) {
   var ev = e || window.event;
@@ -542,7 +545,6 @@ function tlOnStripClick(e) {
   tlDrawList(tlModel);
   return false;
 }
-
 function tlOnHeadClick(e) {
   var ev = e || window.event;
   var box = document.getElementById("tlDetailHead");
@@ -566,9 +568,10 @@ function tlOnMoreClick(e) {
 }
 
 /* "Tous" reactive toutes les familles, "Aucun" les masque toutes ; une
-   pastille de famille bascule celle-la. Les raccourcis sont dans la barre
-   d'outils (#tlAll), les familles sous la frise (#tlLegend) : le clic est
-   capte sur les deux zones. */
+   pastille de famille : le premier clic selectionne cette famille et en
+   masque toutes les autres ; les clics suivants sur d'autres familles les
+   ajoutent a la selection sans la casser. Re-cliquer sur une famille deja
+   selectionnee la retire. */
 function tlOnLegendClick(e) {
   var ev = e || window.event;
   var chip = tlClosest(tlTarget(ev), "tl-chip");
@@ -582,7 +585,24 @@ function tlOnLegendClick(e) {
   } else if (g === "-") {
     for (i = 0; i < TL_GROUPS.length; i++) tlGroupsOff[TL_GROUPS[i].cls] = true;
   } else {
-    tlGroupsOff[g] = !tlGroupsOff[g];
+    if (tlGroupsOff[g]) {
+      delete tlGroupsOff[g];
+    } else {
+      var allVisible = true;
+      for (i = 0; i < TL_GROUPS.length; i++) {
+        if (!tlModel || !tlModel.counts[TL_GROUPS[i].cls]) continue;
+        if (tlGroupsOff[TL_GROUPS[i].cls]) { allVisible = false; break; }
+      }
+      if (allVisible) {
+        tlGroupsOff = {};
+        for (i = 0; i < TL_GROUPS.length; i++) {
+          if (!tlModel || !tlModel.counts[TL_GROUPS[i].cls]) continue;
+          if (TL_GROUPS[i].cls !== g) tlGroupsOff[TL_GROUPS[i].cls] = true;
+        }
+      } else {
+        tlGroupsOff[g] = true;
+      }
+    }
   }
 
   renderTimeline();
