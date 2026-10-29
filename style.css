@@ -480,9 +480,10 @@ a {
    avec la ligne d'etat du header. */
 .archive-meta {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: baseline;
   margin: 3px 6px 0 0;
+  width: 100%;
 }
 
 .archive-examples {
