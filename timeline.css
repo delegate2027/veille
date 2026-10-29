@@ -47,13 +47,22 @@
   color: var(--accent);
 }
 
-/* Pastilles de familles (legende + filtre) */
+/* Pastilles de familles (legende + filtre) : "Tous" et "Aucun" sur une ligne,
+   les familles sur la suivante. */
 
 .tl-legend {
+  display: block;
+  margin: 0 0 10px 0;
+}
+
+.tl-line {
   display: flex;
   flex-wrap: wrap;
   gap: 4px;
-  margin: 0 0 10px 0;
+}
+
+.tl-line + .tl-line {
+  margin-top: 6px;
 }
 
 .tl-chip {

@@ -207,7 +207,8 @@ function tlSyncGrans() {
 /* Pastilles de familles : legende, compteur de resultats et filtre. Le
    nombre affiche ignore les filtres de famille, pour voir ce qu'on masque.
    Seules les familles presentes dans les resultats sont proposees ; "Tous" et
-   "Aucun" portent sur celles-la. */
+   "Aucun" portent sur celles-la. Deux lignes : les deux raccourcis d'abord,
+   toutes les familles en dessous. */
 function tlDrawLegend(model) {
   var box = document.getElementById("tlLegend");
   var shown = 0, off = 0, html, i, g, n;
@@ -218,8 +219,10 @@ function tlDrawLegend(model) {
     if (tlGroupsOff[TL_GROUPS[i].cls]) off++;
   }
 
-  html = '<a href="#" class="tl-chip tl-chip-all' + (shown && !off ? " is-on" : "") + '" data-g="*">Tous</a>' +
-         '<a href="#" class="tl-chip tl-chip-all' + (shown && off === shown ? " is-on" : "") + '" data-g="-">Aucun</a>';
+  html = '<div class="tl-line">' +
+         '<a href="#" class="tl-chip tl-chip-all' + (shown && !off ? " is-on" : "") + '" data-g="*">Tous</a>' +
+         '<a href="#" class="tl-chip tl-chip-all' + (shown && off === shown ? " is-on" : "") + '" data-g="-">Aucun</a>' +
+         '</div><div class="tl-line tl-line-groups">';
 
   for (i = 0; i < TL_GROUPS.length; i++) {
     g = TL_GROUPS[i];
@@ -229,6 +232,7 @@ function tlDrawLegend(model) {
             '<i class="tl-chip-dot"></i>' + g.label + " <em>" + n + "</em></a>";
   }
 
+  html += "</div>";
   box.innerHTML = html;
 }
 
