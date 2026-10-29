@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 29 Oct 2026 10:45:48 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:01:26 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Prix de l'essence, mobilisation lycéenne : Manon Aubry face à BFM TV</title>
+      <link>https://www.youtube.com/watch?v=UXFANfJSreQ</link>
+      <guid>https://www.youtube.com/watch?v=UXFANfJSreQ</guid>
+      <pubDate>2026-10-29T10:54:56+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>BFMTV du Mercredi 28 octobre 2026.</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>UXFANfJSreQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UXFANfJSreQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURENT JACOBELLI est l'invité de CNEWS !</title>
       <link>https://www.youtube.com/watch?v=3fWP-27TEc4</link>
@@ -476,17 +487,6 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>GERXbc2TDEg</videoId>
       <enclosure url="https://i.ytimg.com/vi/GERXbc2TDEg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Guy Benarroche : "Nous souhaitons qu'un processus pour une réelle autonomie de la Corse avance"</title>
-      <link>https://www.youtube.com/watch?v=PCXuHE680Wo</link>
-      <guid>https://www.youtube.com/watch?v=PCXuHE680Wo</guid>
-      <pubDate>2026-10-28T10:05:08+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>PCXuHE680Wo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PCXuHE680Wo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
