@@ -227,8 +227,7 @@ function buildItemElement(item, compact) {
   div.setAttribute("data-link", link);
 
   if (compact) {
-    html = '<span class="date">' + escapeHtml(formatDateShort(item.pubDate)) + '</span>' +
-           '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +
+    html = '<span class="author ' + cls + '">' + escapeHtml(displayAuthor) + '</span>' +
            '<a href="' + escapeHtml(link) + '" class="archive-title">' + escapeHtml(title) + '</a>';
   } else {
     description = removeTitleEcho(title, description);
