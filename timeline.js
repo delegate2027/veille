@@ -7,10 +7,10 @@
    le rendu (renderArchive -> renderTimeline). JavaScript volontairement ES5. */
 
 var TL_GROUPS = [
+  { cls: "pcf", label: "PCF NPA RP" },
   { cls: "lfi", label: "LFI" },
   { cls: "eelv", label: "EELV" },
   { cls: "ps", label: "PS" },
-  { cls: "pcf", label: "PCF NPA RP" },
   { cls: "centre", label: "REN MODEM HOR UDI" },
   { cls: "lr", label: "LR" },
   { cls: "ed", label: "ED" },
