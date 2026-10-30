@@ -62,19 +62,7 @@ a {
 /* Header : un seul systeme typographique pour le titre, la ligne d'etat et les onglets. */
 
 .header {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
   margin-bottom: 5px;
-}
-
-.brand-block {
-  flex: 1 1 auto;
-}
-
-.view-bar {
-  flex-basis: 100%;
 }
 
 .brand-title {
