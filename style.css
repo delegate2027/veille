@@ -62,7 +62,14 @@ a {
 /* Header : un seul systeme typographique pour le titre, la ligne d'etat et les onglets. */
 
 .header {
+  position: relative;
   margin-bottom: 5px;
+}
+
+.status {
+  position: absolute;
+  top: 12px;
+  right: 0;
 }
 
 .brand-title {
