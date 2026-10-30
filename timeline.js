@@ -279,8 +279,8 @@ function tlColTitle(cell, gran) {
 function tlColHtml(cell, gran, max, tick) {
   var h = cell.total ? Math.max(3, Math.round(TL_BAR_H * Math.sqrt(cell.total / max))) : 0;
 
-  return '<div class="tl-col' + (cell.total ? "" : " is-empty") + '" data-key="' + cell.key +
-         '" title="' + tlColTitle(cell, gran) + '">' +
+   return '<div class="tl-col' + (cell.total ? "" : " is-empty") + '" data-key="' + cell.key +
+          '" title="' + tlKeyLabel(cell.key, gran) + '">' +
          '<div class="tl-bar">' + (h ? tlSegments(cell, h) : "") + "</div>" +
          '<div class="tl-tick">' + tick + "</div></div>";
 }
@@ -321,7 +321,7 @@ function tlDrawStrip(model) {
     cell = cells[i];
 
     if (cell.brk) {
-      html += '<div class="tl-brk" title="' + tlCount(cell.units, TL_UNITS[gran][0], TL_UNITS[gran][1]) + ' sans vidéo"></div>';
+       html += '<div class="tl-brk"></div>';
       afterBreak = true;
       continue;
     }
