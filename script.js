@@ -6,12 +6,14 @@ var POLL_INTERVAL = 60000;
 var FEED_LIMIT = 20;
 
 /* rss.py est relance toutes les 15 minutes et reecrit flux.xml et
-   archives.xml dans la meme execution. Le minuteur affiche le temps restant
-   avant la prochaine mise a jour ; il repart de 15 minutes des qu'une
-   nouvelle version de flux.xml est vue, meme si aucun item n'a ete ajoute. */
+   archives.xml dans la meme execution. Le minuteur est cale sur l'heure de
+   la derniere mise a jour (Last-Modified de flux.xml) et non sur l'arrivee
+   sur la page : un rafraichissement ne le remet donc pas a 15 minutes. Il
+   repart de 15 minutes quand une nouvelle version du flux est vue, meme si
+   aucun item n'a ete ajoute. */
 var UPDATE_PERIOD = 15 * 60;
-var updateSeconds = UPDATE_PERIOD;
-var updateDeadline = 0;
+var updateSeconds = 0;
+var updateDeadline = 0;   /* 0 tant que la derniere mise a jour est inconnue */
 
 /* Incremente uniquement lorsque le flux apporte reellement du nouveau.
    rss.py ecrivant flux.xml et archives.xml dans la meme execution, ce compteur
@@ -386,13 +388,13 @@ function initUpdateBlinkEnd() {
   svg.onwebkitanimationend = handler;
 }
 
-/* Minuteur de la prochaine mise a jour : parti de 15 minutes a l'arrivee, il
-   repart de 15 minutes chaque fois qu'une nouvelle version de flux.xml est
-   vue. rss.py ecrit flux.xml et archives.xml dans la meme execution : la fin
-   du processus est donc signalee par le changement de Last-Modified, meme
-   quand aucun nouvel item n'est ajoute. Le decompte s'appuie sur l'horloge, et
-   non sur un simple decrement, pour ne pas deriver quand l'onglet passe en
-   arriere-plan. */
+/* Minuteur de la prochaine mise a jour : il est cale sur l'heure de fin de la
+   derniere mise a jour connue, et non sur le chargement de la page. Un
+   rafraichissement reprend donc le decompte la ou il en etait. rss.py ecrit
+   flux.xml et archives.xml dans la meme execution : la fin du processus est
+   signalee par une nouvelle version de flux.xml, meme quand aucun item n'est
+   ajoute. Le decompte s'appuie sur l'horloge, et non sur un simple decrement,
+   pour ne pas deriver quand l'onglet passe en arriere-plan. */
 function formatUpdateTimer(seconds) {
   var minutes = Math.floor(seconds / 60);
   var rest = seconds % 60;
@@ -403,18 +405,29 @@ function formatUpdateTimer(seconds) {
 function drawUpdateTimer() {
   var box = document.getElementById("updateTimer");
 
-  if (box) box.innerHTML = formatUpdateTimer(updateSeconds);
+  if (box) box.innerHTML = updateDeadline ? formatUpdateTimer(updateSeconds) : "";
 }
 
-function resetUpdateTimer() {
-  updateSeconds = UPDATE_PERIOD;
-  updateDeadline = (new Date()).getTime() + UPDATE_PERIOD * 1000;
+function syncUpdateTimer(lastUpdate) {
+  var finished = parseTime(lastUpdate);
+  var left;
+
+  if (!finished) return;
+
+  updateDeadline = finished + UPDATE_PERIOD * 1000;
+  left = Math.ceil((updateDeadline - (new Date()).getTime()) / 1000);
+  if (left > UPDATE_PERIOD) left = UPDATE_PERIOD;
+  if (left < 0) left = 0;
+  updateSeconds = left;
   drawUpdateTimer();
 }
 
 function tickUpdateTimer() {
-  var left = Math.ceil((updateDeadline - (new Date()).getTime()) / 1000);
+  var left;
 
+  if (!updateDeadline) return;
+
+  left = Math.ceil((updateDeadline - (new Date()).getTime()) / 1000);
   if (left < 0) left = 0;
   if (left === updateSeconds) return;
 
@@ -423,7 +436,7 @@ function tickUpdateTimer() {
 }
 
 function initUpdateTimer() {
-  resetUpdateTimer();
+  drawUpdateTimer();
   window.setInterval(tickUpdateTimer, 1000);
 }
 
@@ -441,7 +454,11 @@ function fetchAndParseRSS(callback, headers) {
     }
 
     items = getItemsFromXml(xml);
-    callback(null, { items: items, lastModified: lastModified });
+    callback(null, {
+      items: items,
+      lastModified: lastModified,
+      lastBuildDate: getTagText(xml, "lastBuildDate")
+    });
   });
 }
 
@@ -563,6 +580,7 @@ function loadRSS() {
     /* Le chargement initial affiche l'heure pour la premiere fois : on l'anime
        aussi, sinon le rappel visuel ne se voit qu'au rafraichissement en fond. */
     updateStatus(data.lastModified, true);
+    syncUpdateTimer(data.lastModified || data.lastBuildDate);
     feedRevision++;
     feed = document.getElementById("feed");
     feed.innerHTML = "";
@@ -575,7 +593,7 @@ function pollRSS() {
     if (err || data.notModified) return;
     if (data.lastModified && data.lastModified === lastModifiedSeen) return;
     updateStatus(data.lastModified, true);
-    resetUpdateTimer();
+    syncUpdateTimer(data.lastModified || data.lastBuildDate);
     feedRevision++;
 
     /* rss.py ecrit flux.xml et archives.xml dans le meme run : l'archive est donc
