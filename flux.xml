@@ -4,8 +4,37 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 30 Oct 2026 16:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:01:08 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>CONTRE MACRON : ORGANISER LA RIPOSTE</title>
+      <link>https://www.youtube.com/watch?v=-VNImruE6VM</link>
+      <guid>https://www.youtube.com/watch?v=-VNImruE6VM</guid>
+      <pubDate>2026-10-30T17:00:11+00:00</pubDate>
+      <author>NPA - L’Anticapitaliste</author>
+      <description>Le 24 octobre, des centaines de milliers de manifestantEs ont défié les injonctions de Macron. Malgré les violences policières et les couvre-feux, la jeunesse et les travailleurEs refusent de se taire. Face à la vie chère, aux inégalités et à la casse des services publics, c’est le moment de construire une grève massive, d’énormes manifestations le 5 novembre et de préparer la suite !
+
+Suivez L’Anticapitaliste, le média :
+http://lanticapitaliste.org
+Instagram : http://www.instagram.com/l_anticapitaliste
+Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
+Twitter : http://www.twitter.com/Lanticapitalis1
+Tik Tok : http://www.tiktok.com/@lanticapitaliste
+Facebook : http://www.facebook.com/anticapitaliste.presse
+Threads : http://www.threads.net/@l_anticapitaliste
+
+L’actu du NPA l'Anticapitaliste :
+http://npa-lanticapitaliste.org
+Instagram : http://www.instagram.com/npa.anticapitaliste
+Bluesky : http://bsky.app/profile/npa-antica.bsky.social
+Twitter : http://www.twitter.com/NPA_antica
+Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
+Facebook : http://www.facebook.com/npa.anticapitaliste
+Threads : http://www.threads.net/@npa.officiel</description>
+      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
+      <videoId>-VNImruE6VM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-VNImruE6VM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Interdictions de manifester : les organisations doivent FAIRE FRONT ! - Elsa Marcel sur Mediapart</title>
       <link>https://www.youtube.com/watch?v=wlMr87ZM-fM</link>
@@ -412,32 +441,6 @@ Merci à HEC Débats et à Public Sénat pour l'organisation de cet échange exi
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>NaOr1be9_tI</videoId>
       <enclosure url="https://i.ytimg.com/vi/NaOr1be9_tI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Élections en Israël : la position de la France sera inchangée | Jean-Noël Barrot</title>
-      <link>https://www.youtube.com/watch?v=vVZVIynPsxs</link>
-      <guid>https://www.youtube.com/watch?v=vVZVIynPsxs</guid>
-      <pubDate>2026-10-28T13:50:19+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Élections en Israël : la position de la France sera inchangée | Jean-Noël Barrot
-
-Ce mercredi 28 octobre sur France 2, notre ministre de l'Europe et des Affaires étrangères et vice-président du MoDem, Jean-Noël Barrot, a défendu une diplomatie guidée par la constance de ses principes et la fermeté face aux tentatives de déstabilisation tandis que nous attendons encore les résultats du scrutin israélien et que les campagnes de désinformation qui ciblent la France se multiplient.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/jean-noel-barrot-elections-en-israel-la-position-de-la-france-sera-inchangee-video
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>vVZVIynPsxs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vVZVIynPsxs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
