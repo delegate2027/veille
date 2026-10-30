@@ -27,7 +27,7 @@ var TL_PAGE = 100;          /* lignes affichees par page dans la liste */
 var TL_DAY_MS = 86400000;
 var TL_GAP_MAX = { day: 10, week: 6, month: 4, year: 2 }; /* au-dela : coupure */
 
-var tlGran = "week";        /* auto | day | week | month | year */
+var tlGran = "day";         /* auto | day | week | month | year */
 var tlGroupsOff = {};       /* famille -> true si masquee */
 var tlSel = null;           /* { from, to } : cles de colonnes selectionnees */
 var tlAnchor = null;        /* point de depart d'une selection par plage */
