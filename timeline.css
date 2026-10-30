@@ -142,8 +142,8 @@
   padding: 6px 0 2px 0;
   overflow-x: auto;
   overflow-y: hidden;
-  border-top: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
+  /* border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line); */
   -webkit-user-select: none;
   user-select: none;
 }
