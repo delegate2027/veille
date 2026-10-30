@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 30 Oct 2026 08:31:08 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:45:42 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Le gouvernement casse tout, Nuñez doit payer ? Ugo Bernalicis sur LCP</title>
+      <link>https://www.youtube.com/watch?v=IUMHtIaCCpc</link>
+      <guid>https://www.youtube.com/watch?v=IUMHtIaCCpc</guid>
+      <pubDate>2026-10-30T08:31:30+00:00</pubDate>
+      <author>Ugo Bernalicis</author>
+      <description>Retrouvez mon passage du 29 octobre 2026 en direct sur LCP.
+
+Suivez Ugo Bernalicis sur :
+👉 Facebook : https://www.facebook.com/ugobernalicis
+👉 Twitter : https://twitter.com/Ugobernalicis
+👉 Instagram : https://www.instagram.com/ugo_bernalicis/
+👉 YouTube : https://youtube.com/c/UgoBernalicisofficiel
+👉 Twitch : https://www.twitch.tv/deputwitch/
+👉 Telegram : https://t.me/ub_actu
+👉 Son blog : https://www.ugobernalicis.fr</description>
+      <channelTitle>Ugo Bernalicis</channelTitle>
+      <videoId>IUMHtIaCCpc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/IUMHtIaCCpc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Propriété privée : mon mesage à Jean-Luc Mélenchon ! 🤯</title>
       <link>https://www.youtube.com/watch?v=cPG6m7uRC4s</link>
@@ -402,43 +422,6 @@ Notre réponse a un nom : le protectionnisme solidaire. Produire ici, protége
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>Adj85ge5B20</videoId>
       <enclosure url="https://i.ytimg.com/vi/Adj85ge5B20/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>OLIVIER BESANCENOT : "FRONT UNI POUR LA GRÈVE GÉNÉRALE"</title>
-      <link>https://www.youtube.com/watch?v=Bv9EP-g-ZLw</link>
-      <guid>https://www.youtube.com/watch?v=Bv9EP-g-ZLw</guid>
-      <pubDate>2026-10-28T11:04:36+00:00</pubDate>
-      <author>NPA - L’Anticapitaliste</author>
-      <description>Olivier Besancenot était l'invité de BFM TV le 27 octobre 2026.
-Il s'est exprimé sur le danger que représente l'extrême droite et de ses idéologies meurtrières à la suite de l'attentat raciste de Trappes et La Verrière.
-Il évoque aussi la possibilité d'une grève générale dans le cadre du mouvement social en cours pour une meilleure répartition des richesses.
-
-00:00:00 : Attentat de Trappes et danger de l'extrême droite
-00:10:10 : la crise des institutions
-00:13:49 : la mobilisation en cours vers la grève générale
-00:23:12 : la vie chère
-00:31:52 : des mesures d'urgence
-
-Suivez L’Anticapitaliste, le média :
-http://lanticapitaliste.org
-Instagram : http://www.instagram.com/l_anticapitaliste
-Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
-Twitter : http://www.twitter.com/Lanticapitalis1
-Tik Tok : http://www.tiktok.com/@lanticapitaliste
-Facebook : http://www.facebook.com/anticapitaliste.presse
-Threads : http://www.threads.net/@l_anticapitaliste
-
-L’actu du NPA l'Anticapitaliste :
-http://npa-lanticapitaliste.org
-Instagram : http://www.instagram.com/npa.anticapitaliste
-Bluesky : http://bsky.app/profile/npa-antica.bsky.social
-Twitter : http://www.twitter.com/NPA_antica
-Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
-Facebook : http://www.facebook.com/npa.anticapitaliste
-Threads : http://www.threads.net/@npa.officiel</description>
-      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
-      <videoId>Bv9EP-g-ZLw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Bv9EP-g-ZLw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
