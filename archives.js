@@ -337,7 +337,9 @@ function isArchiveStale() {
 function initArchiveFilter() {
   var input = document.getElementById("archiveFilter");
   var box = document.getElementById("archiveChannels");
+  var clear = document.getElementById("archiveClear");
   var refresh;
+  var updateClear;
 
   if (!input) return;
 
@@ -347,11 +349,38 @@ function initArchiveFilter() {
     renderArchive();
   };
 
+  /* La croix n'apparait qu'une fois le champ rempli. */
+  updateClear = function() {
+    if (!clear) return;
+    clear.style.display = input.value ? "flex" : "none";
+  };
+
   /* oninput reagit aussi au collage et aux claviers mobiles, que onkeyup
      laisse passer : coller un terme sans presser de touche ne mettait
      rien a jour. */
-  if ("oninput" in input) input.oninput = refresh;
-  else input.onkeyup = refresh;
+  if ("oninput" in input) {
+    input.oninput = function() {
+      updateClear();
+      refresh();
+    };
+  } else {
+    input.onkeyup = function() {
+      updateClear();
+      refresh();
+    };
+  }
+
+  /* Efface la saisie, relance le rendu et redonne le focus au champ. */
+  if (clear) {
+    clear.onclick = function() {
+      input.value = "";
+      updateClear();
+      refresh();
+      if (input.focus) input.focus();
+    };
+  }
+
+  updateClear();
 
   /* La case "Chaînes" restreint la saisie aux noms de chaines ; l'invite du
      champ suit le mode choisi. */

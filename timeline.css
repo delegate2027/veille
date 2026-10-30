@@ -236,7 +236,9 @@
   align-items: baseline;
   justify-content: space-between;
   gap: 10px;
-  margin: 0 0 4px 0;
+  /* Meme respiration que sous le titre et autour de la recherche, en un peu
+     plus discret (14px) pour ne pas detacher la liste de sa frise. */
+  margin: 0 0 14px 0;
   color: var(--muted);
   font-size: 11px;
 }

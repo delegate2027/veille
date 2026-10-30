@@ -66,16 +66,10 @@ a {
 }
 
 .brand-title {
-  margin: 0 0 6px 0;
+  margin: 20px 0 20px 0;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: -0.01em;
-}
-
-/* Mise en valeur du titre : le V, "média" et "politique" reprennent la teinte
-   d'accent, la meme que l'onglet actif. */
-.brand-accent {
-  color: var(--accent);
 }
 
 .status {
@@ -439,8 +433,9 @@ a {
 /* Archives */
 
 .archive-controls {
-  /* Un peu d'air au-dessus : la zone de recherche ne colle plus au titre. */
-  margin: 10px 0 12px 0;
+  /* Un peu d'air au-dessus et en dessous : la zone de recherche ne colle plus
+     au titre ni aux controles de la frise. */
+  margin: 20px 0 20px 0;
 }
 
 /* Zone de recherche : le champ occupe toute la largeur du cadre. */
@@ -477,21 +472,55 @@ a {
   color: var(--muted);
 }
 
-/* Case "Chaînes" dans le cadre de recherche, a droite du champ : un trait
-   vertical la separe de la saisie. Cochee, son libelle prend la couleur
-   d'accent ; accent-color colore la case elle-meme sur les navigateurs
-   recents, les autres gardent la case native. */
+/* Bouton d'effacement du champ : une croix discrete a droite, toujours
+   visible pour vider la recherche d'un clic. */
+.archive-clear {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  margin-left: 8px;
+  padding: 0;
+  border: none;
+  border-radius: 3px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.archive-clear:hover,
+.archive-clear:focus {
+  color: var(--ink);
+}
+
+.archive-clear:focus {
+  outline: 1px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.archive-clear svg {
+  display: block;
+  width: 15px;
+  height: 15px;
+}
+
+/* Case "Chaînes" dans le cadre de recherche, a gauche du champ : un trait
+   vertical la separe de la saisie. Son libelle reprend la taille et la
+   couleur du texte saisi dans le champ. Cochee, il prend la couleur d'accent ;
+   accent-color colore la case elle-meme sur les navigateurs recents, les
+   autres gardent la case native. */
 .archive-channels {
   display: flex;
   flex: 0 0 auto;
   align-items: center;
   gap: 5px;
-  margin-left: 10px;
-  padding-left: 10px;
-  border-left: 1px solid var(--line);
-  color: var(--muted);
-  font-size: 11px;
-  letter-spacing: 0.02em;
+  margin-right: 10px;
+  padding-right: 10px;
+  border-right: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 13px;
   white-space: nowrap;
   cursor: pointer;
   -webkit-user-select: none;

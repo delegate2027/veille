@@ -13,7 +13,7 @@
 <body>
   <div id="page">
     <header class="header">
-      <h1 class="brand-title"><span class="brand-accent">V</span>eille <span class="brand-accent">média</span>tique <span class="brand-accent">politique</span></h1>
+      <h1 class="brand-title">Veille médiatique politique</h1>
       <div class="view-bar">
         <nav class="view-nav">
           <a href="#archives" id="navArchive" class="view-tab">Archives</a>
@@ -42,11 +42,16 @@
     <section id="viewArchive" class="view is-hidden">
       <div class="archive-controls">
         <div class="archive-search">
-          <input id="archiveFilter" class="archive-filter" type="text" placeholder="Rechercher dans les archives." autocomplete="off">
           <label class="archive-channels">
             <input id="archiveChannels" type="checkbox">
             <span>Chaînes</span>
           </label>
+          <input id="archiveFilter" class="archive-filter" type="text" placeholder="Rechercher dans les archives." autocomplete="off">
+          <button id="archiveClear" class="archive-clear" type="button" aria-label="Effacer la recherche" title="Effacer la recherche">
+            <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+              <path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"></path>
+            </svg>
+          </button>
         </div>
         <div class="archive-meta">
           <p class="archive-count status-text" id="archiveCount"></p>
