@@ -109,10 +109,39 @@ a {
   gap: 5px;
 }
 
+/* Minuteur de la prochaine mise a jour, a gauche du point vert : chiffres a
+   chasse fixe pour que la largeur ne bouge pas, teinte discrete et taille
+   inferieure aux autres textes de l'ui. */
+.status-timer {
+  min-width: 32px;
+  color: var(--muted);
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  text-align: right;
+  opacity: 0.8;
+  font-variant-numeric: tabular-nums;
+  -webkit-font-feature-settings: "tnum";
+  font-feature-settings: "tnum";
+}
+
+/* La date et l'heure de mise a jour reprennent le style du minuteur voisin
+   (taille, interlettrage, opacite, chiffres a chasse fixe) pour que les deux
+   textes restent alignes. */
+.status-update .status-text {
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  opacity: 0.8;
+  font-variant-numeric: tabular-nums;
+  -webkit-font-feature-settings: "tnum";
+  font-feature-settings: "tnum";
+}
+
 /* Point vert "en direct" : un rond discret qui pulse tres lentement pour
    signaler que le flux est suivi, sans distraire du contenu. */
 .status-icon {
   display: inline-flex;
+  position: relative;
+  top: 1px;
   padding: 0 2px;
   border-radius: 3px;
   color: var(--live-color);

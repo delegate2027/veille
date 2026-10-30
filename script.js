@@ -5,6 +5,14 @@ var currentView = "feed";
 var POLL_INTERVAL = 60000;
 var FEED_LIMIT = 20;
 
+/* rss.py est relance toutes les 15 minutes et reecrit flux.xml et
+   archives.xml dans la meme execution. Le minuteur affiche le temps restant
+   avant la prochaine mise a jour ; il repart de 15 minutes des qu'une
+   nouvelle version de flux.xml est vue, meme si aucun item n'a ete ajoute. */
+var UPDATE_PERIOD = 15 * 60;
+var updateSeconds = UPDATE_PERIOD;
+var updateDeadline = 0;
+
 /* Incremente uniquement lorsque le flux apporte reellement du nouveau.
    rss.py ecrivant flux.xml et archives.xml dans la meme execution, ce compteur
    signale que l'archive est perimee, sans jamais telecharger le fichier. */
@@ -378,6 +386,47 @@ function initUpdateBlinkEnd() {
   svg.onwebkitanimationend = handler;
 }
 
+/* Minuteur de la prochaine mise a jour : parti de 15 minutes a l'arrivee, il
+   repart de 15 minutes chaque fois qu'une nouvelle version de flux.xml est
+   vue. rss.py ecrit flux.xml et archives.xml dans la meme execution : la fin
+   du processus est donc signalee par le changement de Last-Modified, meme
+   quand aucun nouvel item n'est ajoute. Le decompte s'appuie sur l'horloge, et
+   non sur un simple decrement, pour ne pas deriver quand l'onglet passe en
+   arriere-plan. */
+function formatUpdateTimer(seconds) {
+  var minutes = Math.floor(seconds / 60);
+  var rest = seconds % 60;
+
+  return minutes + ":" + (rest < 10 ? "0" : "") + rest;
+}
+
+function drawUpdateTimer() {
+  var box = document.getElementById("updateTimer");
+
+  if (box) box.innerHTML = formatUpdateTimer(updateSeconds);
+}
+
+function resetUpdateTimer() {
+  updateSeconds = UPDATE_PERIOD;
+  updateDeadline = (new Date()).getTime() + UPDATE_PERIOD * 1000;
+  drawUpdateTimer();
+}
+
+function tickUpdateTimer() {
+  var left = Math.ceil((updateDeadline - (new Date()).getTime()) / 1000);
+
+  if (left < 0) left = 0;
+  if (left === updateSeconds) return;
+
+  updateSeconds = left;
+  drawUpdateTimer();
+}
+
+function initUpdateTimer() {
+  resetUpdateTimer();
+  window.setInterval(tickUpdateTimer, 1000);
+}
+
 function fetchAndParseRSS(callback, headers) {
   fetchXML("flux.xml", headers, function(err, xml, notModified, lastModified) {
     var items;
@@ -526,6 +575,7 @@ function pollRSS() {
     if (err || data.notModified) return;
     if (data.lastModified && data.lastModified === lastModifiedSeen) return;
     updateStatus(data.lastModified, true);
+    resetUpdateTimer();
     feedRevision++;
 
     /* rss.py ecrit flux.xml et archives.xml dans le meme run : l'archive est donc
@@ -610,5 +660,6 @@ function initViewNav() {
 
 initViewNav();
 initUpdateBlinkEnd();
+initUpdateTimer();
 loadRSS();
 window.setInterval(pollRSS, POLL_INTERVAL);
