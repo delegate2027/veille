@@ -295,7 +295,9 @@ function tlDrawStrip(model) {
   var atEnd = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 2;
 
   if (!keys.length) {
-    strip.innerHTML = "";
+    strip.innerHTML = '<div class="tl-cols tl-gran-' + gran + '"></div>';
+    strip.scrollLeft = 0;
+    tlMarkSelection();
     return;
   }
 
@@ -453,7 +455,7 @@ function tlDrawList(model) {
   if (!model.vis.length) {
     headBox.innerHTML = "";
     tlRenderList([]);
-    container.innerHTML = '<div class="error">' + tlEmptyMessage(model) + "</div>";
+    container.innerHTML = '<div class="archive-hint">' + tlEmptyMessage(model) + "</div>";
     return;
   }
 
