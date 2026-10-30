@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 30 Oct 2026 13:01:16 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:15:42 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>🎙️ La PPL soumise à votre vote met fin à l’abandon sanitaire des victimes de violences se*elles</title>
+      <link>https://www.youtube.com/watch?v=Ol-mHYt0n_0</link>
+      <guid>https://www.youtube.com/watch?v=Ol-mHYt0n_0</guid>
+      <pubDate>2026-10-30T13:14:26+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>🎙️ « La proposition de loi soumise à votre vote aujourd’hui met fin à l’abandon sanitaire des victimes de violences se*elles »
+
+Retrouvez mon intervention sur la proposition de loi prévoyant la prise en charge à 100% par la Sécurité sociale de l’ensemble des soins spécialisés en psychotraumatisme pour TOUTES les victimes de violences se*uelles, victimes pendant l’enfance ou à l’âge adulte, adoptée hier à l’Assemblée nationale !</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>Ol-mHYt0n_0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Ol-mHYt0n_0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EDWIGE DIAZ : « Marine Le Pen rétablira l'ordre ! » (RMC)</title>
       <link>https://www.youtube.com/watch?v=GCTYqzh0SPo</link>
@@ -408,17 +421,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>vVZVIynPsxs</videoId>
       <enclosure url="https://i.ytimg.com/vi/vVZVIynPsxs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LOI « CASSEUR-PAYEUR » : UGO BERNALICIS RECADRE DEUX SÉNATEURS !</title>
-      <link>https://www.youtube.com/watch?v=5Xv-zTM_MvA</link>
-      <guid>https://www.youtube.com/watch?v=5Xv-zTM_MvA</guid>
-      <pubDate>2026-10-28T12:06:56+00:00</pubDate>
-      <author>Ugo Bernalicis</author>
-      <description>Retrouvez mon intervention sur Public Sénat, où j’ai débattu avec une sénatrice du Rassemblement national et un sénateur macroniste autour de la loi dite « casseur-payeur ».</description>
-      <channelTitle>Ugo Bernalicis</channelTitle>
-      <videoId>5Xv-zTM_MvA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5Xv-zTM_MvA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
