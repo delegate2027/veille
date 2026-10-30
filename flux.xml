@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 30 Oct 2026 08:45:42 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:01:10 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>La question de l'endettement et des déficits, c'est une urgence | Nicolas Turquois</title>
+      <link>https://www.youtube.com/watch?v=Z5WLgVcG4Qg</link>
+      <guid>https://www.youtube.com/watch?v=Z5WLgVcG4Qg</guid>
+      <pubDate>2026-10-30T08:47:53+00:00</pubDate>
+      <author>MoDem</author>
+      <description>La question de l'endettement et des déficits, c'est une urgence | Nicolas Turquois
+
+Lors des questions au gouvernement du mercredi 28 octobre, notre député de la Vienne, Nicolas Turquois, a interrogé le ministre des Comptes publics sur la lutte contre les stratégies d’évitement de l’impôt et la justice fiscale dans le budget 2027. 
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/nicolas-turquois-la-question-de-lendettement-et-des-deficits-cest-une-urgence
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>Z5WLgVcG4Qg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Z5WLgVcG4Qg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Le gouvernement casse tout, Nuñez doit payer ? Ugo Bernalicis sur LCP</title>
       <link>https://www.youtube.com/watch?v=IUMHtIaCCpc</link>
@@ -401,27 +427,6 @@ Notre réponse a un nom : le protectionnisme solidaire. Produire ici, protége
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>Ka3052SK2yM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ka3052SK2yM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de presse de Jean-Luc Mélenchon et Aurélie Trouvé</title>
-      <link>https://www.youtube.com/watch?v=Adj85ge5B20</link>
-      <guid>https://www.youtube.com/watch?v=Adj85ge5B20</guid>
-      <pubDate>2026-10-28T11:50:01+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'une conférence de presse avec Aurélie Trouvé intitulée « Pour un pôle public bancaire au service des besoins », le 28 octobre 2026. 
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>Adj85ge5B20</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Adj85ge5B20/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
