@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 30 Oct 2026 20:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:01:07 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Marine Tondelier : "pourquoi il n'y avait que la gauche à l'hommage aux victimes à Trappes ?" (LCI)</title>
+      <link>https://www.youtube.com/watch?v=8r7-rK7hNKM</link>
+      <guid>https://www.youtube.com/watch?v=8r7-rK7hNKM</guid>
+      <pubDate>2026-10-30T20:56:05+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Plateau du 30 octobre 2026 après l'hommage aux victimes de l'attentat raciste du 23 octobre 2026.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>8r7-rK7hNKM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8r7-rK7hNKM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Grève IMPRESSIONNANTE en Italie : 1 million de jeunes et travailleurs dans la rue ! REPORTAGE</title>
       <link>https://www.youtube.com/watch?v=5Ej40i2imsE</link>
@@ -405,17 +416,6 @@ Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.c
       <channelTitle>DAMIEN MAUDET</channelTitle>
       <videoId>7dPFBa6TMY8</videoId>
       <enclosure url="https://i.ytimg.com/vi/7dPFBa6TMY8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sabrina Sebaihi : "Vous avez abattu leur fils une deuxième fois"</title>
-      <link>https://www.youtube.com/watch?v=8lZ5f_AK0pI</link>
-      <guid>https://www.youtube.com/watch?v=8lZ5f_AK0pI</guid>
-      <pubDate>2026-10-28T16:31:28+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>8lZ5f_AK0pI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8lZ5f_AK0pI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
