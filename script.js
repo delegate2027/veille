@@ -672,7 +672,6 @@ function initViewNav() {
     setView("feed");
   } else {
     setView("archives");
-    focusArchiveFilter();
   }
 }
 

@@ -70,12 +70,9 @@
    rentre dans la largeur de la page. Si les compteurs s'allongent, la ligne
    defile horizontalement au lieu de passer a la ligne. */
 .tl-line-groups {
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 3px;
-  overflow-x: auto;
-  overflow-y: hidden;
   padding-bottom: 1px;
-  scrollbar-width: thin;
 }
 
 .tl-line-groups .tl-chip {

@@ -449,9 +449,7 @@ a {
   background: transparent;
 }
 
-.archive-search:focus-within {
-  border-color: var(--accent);
-}
+
 
 .archive-filter {
   flex: 1;
