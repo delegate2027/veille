@@ -10,10 +10,10 @@ var TL_GROUPS = [
   { cls: "pcf", label: "PCF NPA RP" },
   { cls: "lfi", label: "LFI" },
   { cls: "eelv", label: "EELV" },
-  { cls: "ps", label: "PS" },
+  { cls: "ps", label: "SOCDEM" },
   { cls: "centre", label: "REN MODEM HOR UDI" },
   { cls: "lr", label: "LR" },
-  { cls: "ed", label: "ED" },
+  { cls: "ed", label: "RN R!" },
   { cls: "meeting", label: "Autres" }
 ];
 var TL_MOIS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."];

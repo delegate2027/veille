@@ -53,7 +53,7 @@ FEEDS = {
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCwLLr_Fo9dpdJ9UHq4A7PjA",
     ],
 
-    "BLOC SOCIAL DEMOCRATE": [
+    "SOCDEM": [
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCo7xGEOV-RfxOAxRfhlR3Ww",
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCIQGSp79vVch0vO3Efqif_w",
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCScGc5Cd6h3Y_djPloqI7UA",
