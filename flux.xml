@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 31 Oct 2026 08:15:48 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:31:00 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Réunion publique Grenoble - élection présidentielle 18 avril 2027</title>
+      <link>https://www.youtube.com/watch?v=iMDu2DnX4Mo</link>
+      <guid>https://www.youtube.com/watch?v=iMDu2DnX4Mo</guid>
+      <pubDate>2026-10-31T08:17:47+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description />
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>iMDu2DnX4Mo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/iMDu2DnX4Mo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Les leçons de la victoire de Lula</title>
       <link>https://www.youtube.com/watch?v=Kc2F1xVAPn8</link>
@@ -127,17 +138,6 @@ Abonnez-vous à notre chaîne YouTube !
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>wUZlsFdW3Iw</videoId>
       <enclosure url="https://i.ytimg.com/vi/wUZlsFdW3Iw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Réunion publique Grenoble - élection présidentielle 18 avril 2027</title>
-      <link>https://www.youtube.com/watch?v=iMDu2DnX4Mo</link>
-      <guid>https://www.youtube.com/watch?v=iMDu2DnX4Mo</guid>
-      <pubDate>2026-10-30T17:50:33+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description />
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>iMDu2DnX4Mo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iMDu2DnX4Mo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>CONTRE MACRON : ORGANISER LA RIPOSTE</title>
