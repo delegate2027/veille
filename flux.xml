@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 31 Oct 2026 09:45:37 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:01:13 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Abrogation de Parcoursup et loi "casseurs-payeurs" - Mon débat sur LCP du 30 octobre 2026</title>
+      <link>https://www.youtube.com/watch?v=psIU5GtWwUM</link>
+      <guid>https://www.youtube.com/watch?v=psIU5GtWwUM</guid>
+      <pubDate>2026-10-31T10:00:53+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>Retrouvez mon passage lors de l'émission Parlement Hebdo, diffusée le 30 octobre 2026 sur LCP, face à la sénatrice Les Républicains Marie-Do AESCHLIMANN.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>psIU5GtWwUM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/psIU5GtWwUM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Réunion publique Grenoble - élection présidentielle 18 avril 2027</title>
       <link>https://www.youtube.com/watch?v=iMDu2DnX4Mo</link>
@@ -433,19 +444,6 @@ Je décrypte sa vidéo sur Jean-Luc Mélenchon</description>
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>5sF8BproIr4</videoId>
       <enclosure url="https://i.ytimg.com/vi/5sF8BproIr4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les droits des joueurs de jeux vidéos – En campagne #5</title>
-      <link>https://www.youtube.com/watch?v=Pq4txiP0ZEs</link>
-      <guid>https://www.youtube.com/watch?v=Pq4txiP0ZEs</guid>
-      <pubDate>2026-10-28T17:51:59+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Avec Enora Lanoë-Danel et Colomblbl.
-
-Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=oa3-ITRTDQA</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>Pq4txiP0ZEs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Pq4txiP0ZEs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
