@@ -394,6 +394,25 @@ function initArchiveFilter() {
   }
 }
 
+/* Remet la vue Archives dans son etat d'accueil : recherche vide, case
+   "Chaînes" decochee et frise/ligne de resultats par defaut. Appelee au clic
+   sur l'onglet Archives. */
+function resetArchiveDefaults() {
+  var input = document.getElementById("archiveFilter");
+  var box = document.getElementById("archiveChannels");
+  var clear = document.getElementById("archiveClear");
+
+  if (input) input.value = "";
+  if (box) box.checked = false;
+  archiveChannelsOnly = false;
+  if (input) input.placeholder = "Rechercher dans les archives.";
+  if (clear) clear.style.display = "none";
+
+  tlResetDefaults();
+
+  if (archiveLoaded) renderArchive();
+}
+
 /* Place le curseur dans le champ : a l'arrivee sur la page (vue archives par
    defaut) comme au clic sur l'onglet, pour pouvoir chercher tout de suite. */
 function focusArchiveFilter() {

@@ -22,7 +22,10 @@ var TL_JOURS = ["dim.", "lun.", "mar.", "mer.", "jeu.", "ven.", "sam."];
 var TL_UNITS = { day: ["jour", "jours"], week: ["semaine", "semaines"], month: ["mois", "mois"], year: ["année", "années"] };
 
 var TL_BAR_H = 56;          /* hauteur max d'une colonne, en px */
-var TL_AUTO_MAX = 64;       /* nombre de colonnes que l'echelle auto accepte */
+var TL_AUTO_MAX = 64;       /* nombre de seaux que l'echelle auto accepte */
+var TL_MAX_COLS = 64;       /* nombre de colonnes visibles au maximum */
+var TL_COL_MIN = { day: 7, week: 14, month: 26, year: 48 };  /* largeurs minimales, en px */
+var TL_COL_MAX = { day: 26, week: 999, month: 40, year: 72 }; /* largeurs maximales, en px */
 var TL_PAGE = 100;          /* lignes affichees par page dans la liste */
 var TL_DAY_MS = 86400000;
 var TL_GAP_MAX = { day: 10, week: 6, month: 4, year: 2 }; /* au-dela : coupure */
@@ -33,6 +36,7 @@ var tlSel = null;           /* { from, to } : cles de colonnes selectionnees */
 var tlAnchor = null;        /* point de depart d'une selection par plage */
 var tlLimit = TL_PAGE;
 var tlToEnd = true;         /* ramene la frise sur sa fin (le plus recent) */
+var tlPinEnd = true;        /* la fin reste visible tant qu'on n'a pas defile */
 var tlModel = null;
 
 /* ---------- Dates et seaux (jour / semaine / mois / annee) ---------- */
@@ -274,13 +278,66 @@ function tlColTitle(cell, gran) {
   return label + " : " + tlCount(cell.total, "vidéo", "vidéos") + " (" + parts.join(" · ") + ")";
 }
 
+/* Largeur d'une colonne : le bandeau montre au plus TL_MAX_COLS colonnes.
+   En dessous de ce plafond, elles se partagent la largeur disponible (bornee
+   par les largeurs minimales et maximales de l'echelle) ; au-dela, la frise
+   deborde et se parcourt horizontalement. */
+function tlColWidth(gran, count) {
+  var strip = document.getElementById("tlStrip");
+  var min = TL_COL_MIN[gran] || 7;
+  var max = TL_COL_MAX[gran] || 26;
+  var cols = count || TL_MAX_COLS;
+  var available, width;
+
+  if (!strip) return min;
+
+  if (cols > TL_MAX_COLS) cols = TL_MAX_COLS;
+  if (cols < 1) cols = 1;
+
+  /* Les gap de 1 px entre colonnes comptent dans la largeur occupee. */
+  available = strip.clientWidth - (cols - 1);
+  width = Math.floor(available / cols);
+
+  if (width < min) width = min;
+  if (width > max) width = max;
+  return width > 0 ? width : 1;
+}
+
+/* Recalcule la largeur des colonnes deja affichees, sans reconstruire la
+   frise : utilise au redimensionnement de la fenetre. */
+function tlApplyColWidths() {
+  var strip = document.getElementById("tlStrip");
+  var wrap = strip ? strip.firstChild : null;
+  var width, nodes, i, count = 0;
+
+  if (!tlModel || !wrap || !wrap.childNodes) return;
+
+  nodes = wrap.childNodes;
+
+  for (i = 0; i < nodes.length; i++) {
+    if (nodes[i].nodeType === 1 && hasClass(nodes[i], "tl-col")) count++;
+  }
+
+  width = tlColWidth(tlModel.gran, count);
+
+  for (i = 0; i < nodes.length; i++) {
+    if (nodes[i].nodeType === 1 && hasClass(nodes[i], "tl-col")) {
+      nodes[i].style.width = width + "px";
+    }
+  }
+
+  /* La colonne la plus recente reste visible tant que l'utilisateur n'a pas
+     defile lui-meme vers le passe. */
+  if (tlPinEnd) strip.scrollLeft = strip.scrollWidth;
+}
+
 /* Hauteur en racine carree : un pic (le 17 octobre) n'ecrase pas les jours
    calmes, qui restent visibles. Les segments restent proportionnels. */
-function tlColHtml(cell, gran, max, tick) {
+function tlColHtml(cell, gran, max, tick, width) {
   var h = cell.total ? Math.max(3, Math.round(TL_BAR_H * Math.sqrt(cell.total / max))) : 0;
 
    return '<div class="tl-col' + (cell.total ? "" : " is-empty") + '" data-key="' + cell.key +
-          '" title="' + tlKeyLabel(cell.key, gran) + '">' +
+          '" style="width:' + width + 'px" title="' + tlKeyLabel(cell.key, gran) + '">' +
          '<div class="tl-bar">' + (h ? tlSegments(cell, h) : "") + "</div>" +
          '<div class="tl-tick">' + tick + "</div></div>";
 }
@@ -288,7 +345,7 @@ function tlColHtml(cell, gran, max, tick) {
 function tlDrawStrip(model) {
   var strip = document.getElementById("tlStrip");
   var gran = model.gran, bk = model.bk, keys = bk.keys;
-  var cells = [], html, i, j, key, gap, max = 0, cell;
+  var cells = [], html, i, j, key, gap, max = 0, cell, colW, colCount = 0;
   var prev = tlKey(tlStartDay(), gran) - 1;
   var afterBreak = true, prevYm = null, prevY = null, d, y, ym, tick;
   var oldLeft = strip.scrollLeft;
@@ -312,10 +369,13 @@ function tlDrawStrip(model) {
     }
 
     cells.push(bk.map[key]);
+    colCount++;
     prev = key;
   }
 
   html = '<div class="tl-cols tl-gran-' + gran + '">';
+
+  colW = tlColWidth(gran, colCount);
 
   for (i = 0; i < cells.length; i++) {
     cell = cells[i];
@@ -345,12 +405,13 @@ function tlDrawStrip(model) {
     }
     afterBreak = false;
 
-    html += tlColHtml(cell, gran, max, tick);
+    html += tlColHtml(cell, gran, max, tick, colW);
   }
 
   html += "</div>";
   strip.innerHTML = html;
-  strip.scrollLeft = (tlToEnd || atEnd) ? strip.scrollWidth : oldLeft;
+  tlCancelScroll();
+  strip.scrollLeft = (tlToEnd || tlPinEnd || atEnd) ? strip.scrollWidth : oldLeft;
   tlToEnd = false;
   tlMarkSelection();
 }
@@ -511,6 +572,15 @@ function tlResetNavigation() {
   tlAnchor = null;
   tlLimit = TL_PAGE;
   tlToEnd = true;
+  tlPinEnd = true;
+}
+
+/* Etat de depart de la vue Archives : echelle par jour, toutes les familles
+   affichees, aucune colonne retenue et frise ramenee sur sa fin. */
+function tlResetDefaults() {
+  tlGran = "day";
+  tlGroupsOff = {};
+  tlResetNavigation();
 }
 
 /* Clic sur une colonne : la selectionne ; maj + clic etend la plage ; un
@@ -622,12 +692,153 @@ function tlOnGranClick(e) {
   return false;
 }
 
+var tlScrollTarget = null;
+var tlScrollRaf = null;
+
+/* requestAnimationFrame avec repli sur setTimeout pour les anciens
+   navigateurs. */
+function tlRequestFrame(callback) {
+  var raf = window.requestAnimationFrame || window.webkitRequestAnimationFrame ||
+            window.mozRequestAnimationFrame || window.msRequestAnimationFrame;
+
+  if (raf) return raf.call(window, callback);
+  return window.setTimeout(function() { callback(+new Date()); }, 16);
+}
+
+function tlCancelFrame(id) {
+  var cancel = window.cancelAnimationFrame || window.webkitCancelAnimationFrame ||
+               window.mozCancelAnimationFrame || window.msCancelAnimationFrame;
+
+  if (cancel) cancel.call(window, id);
+  else window.clearTimeout(id);
+}
+
+/* Rapproche progressivement la frise de sa position cible : la molette donne
+   une impulsion, l'animation fait le reste. */
+function tlScrollStep() {
+  var strip = document.getElementById("tlStrip");
+  var current, diff, step;
+
+  tlScrollRaf = null;
+
+  if (!strip || tlScrollTarget === null) return;
+
+  current = strip.scrollLeft;
+  diff = tlScrollTarget - current;
+
+  if (Math.abs(diff) < 0.5) {
+    strip.scrollLeft = tlScrollTarget;
+    tlScrollTarget = null;
+    return;
+  }
+
+  step = diff * 0.12;
+  /* Avec le zoom CSS, scrollLeft avance par paliers : une etape trop petite
+     ne ferait jamais progresser la frise. */
+  if (Math.abs(step) < 1) step = diff > 0 ? 1 : -1;
+
+  strip.scrollLeft = current + step;
+  tlScrollRaf = tlRequestFrame(tlScrollStep);
+}
+
+function tlCancelScroll() {
+  if (tlScrollRaf) {
+    tlCancelFrame(tlScrollRaf);
+    tlScrollRaf = null;
+  }
+  tlScrollTarget = null;
+}
+
+/* Molette au-dessus de la frise : le defilement vertical est converti en
+   defilement horizontal quand la frise deborde. Sans debordement, la page
+   defile normalement. Le zoom (Ctrl molette) reste au navigateur. */
+function tlOnStripWheel(e) {
+  var ev = e || window.event;
+  var strip = document.getElementById("tlStrip");
+  var delta, mode, max, from, to, horizontal;
+
+  if (!strip || ev.ctrlKey) return;
+
+  delta = ev.deltaY || 0;
+
+  /* Anciens navigateurs : wheelDelta (IE, anciens WebKit) ou detail
+     (ancien Firefox) remplacent deltaY. */
+  if (!delta) {
+    if (ev.wheelDelta) delta = -ev.wheelDelta;
+    else if (ev.detail) delta = ev.detail * 16;
+  }
+
+  /* Pave tactile : un geste franchement horizontal prime sur le vertical et
+     garde son sens naturel. La molette verticale, elle, est inversee : vers
+     le bas on remonte le temps. */
+  horizontal = !!ev.deltaX && Math.abs(ev.deltaX) > Math.abs(delta);
+  if (horizontal) delta = ev.deltaX;
+  else delta = -delta;
+
+  if (!delta) return;
+  if (strip.scrollWidth <= strip.clientWidth + 1) return;
+
+  mode = ev.deltaMode;
+  if (mode === 1) delta *= 16;
+  else if (mode === 2) delta *= strip.clientHeight;
+
+  max = strip.scrollWidth - strip.clientWidth;
+  from = tlScrollTarget === null ? strip.scrollLeft : tlScrollTarget;
+  to = from + delta;
+
+  if (to < 0) to = 0;
+  if (to > max) to = max;
+
+  /* Butee atteinte : on laisse la page defiler au lieu de bloquer la
+     molette. La tolerance absorbe les fractions de scrollLeft dues au zoom
+     CSS et les arrondis de scrollWidth/clientWidth. */
+  if (Math.abs(to - from) < 1) return;
+
+  tlPinEnd = to >= max - 1;
+  tlScrollTarget = to;
+  if (!tlScrollRaf) tlScrollRaf = tlRequestFrame(tlScrollStep);
+
+  if (ev.preventDefault) ev.preventDefault();
+  else ev.returnValue = false;
+}
+
+var tlResizeTimer = null;
+
+/* Le nombre de colonnes visibles depend de la largeur : on recalcule leur
+   largeur apres un redimensionnement, sans reconstruire la frise. */
+function tlOnResize() {
+  if (tlResizeTimer) window.clearTimeout(tlResizeTimer);
+  tlResizeTimer = window.setTimeout(function() {
+    tlResizeTimer = null;
+    tlApplyColWidths();
+  }, 150);
+}
+
+/* Une page ouverte en arriere-plan n'a pas de largeur exploitable : au retour
+   au premier plan, on recalcule les largeurs et on remet la fin de la frise
+   dans le champ si l'utilisateur n'a pas encore defile. */
+function tlOnVisibility() {
+  if (document.hidden) return;
+  tlApplyColWidths();
+}
+
 function initTimeline() {
   var strip = document.getElementById("tlStrip");
 
   if (!strip) return;
 
   strip.onclick = tlOnStripClick;
+  if (strip.addEventListener) {
+    strip.addEventListener("wheel", tlOnStripWheel, false);
+  } else {
+    strip.onwheel = tlOnStripWheel;
+  }
+  window.onresize = tlOnResize;
+  if (document.addEventListener) {
+    document.addEventListener("visibilitychange", tlOnVisibility, false);
+  } else {
+    window.onfocus = tlOnVisibility;
+  }
   document.getElementById("tlDetailHead").onclick = tlOnHeadClick;
   document.getElementById("tlMore").onclick = tlOnMoreClick;
   document.getElementById("tlLegend").onclick = tlOnLegendClick;

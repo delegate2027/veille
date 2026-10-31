@@ -142,10 +142,17 @@
   padding: 6px 0 2px 0;
   overflow-x: auto;
   overflow-y: hidden;
+  /* La frise se parcourt a la molette : la barre reste masquee. */
+  scrollbar-width: none;
+  -ms-overflow-style: none;
   /* border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line); */
   -webkit-user-select: none;
   user-select: none;
+}
+
+.tl-strip::-webkit-scrollbar {
+  display: none;
 }
 
 .tl-cols {
@@ -156,9 +163,8 @@
 }
 
 .tl-col {
-  flex: 1 1 0;
+  flex: 0 0 auto;
   min-width: 7px;
-  max-width: 26px;
   cursor: pointer;
   border-radius: 2px;
 }
@@ -169,12 +175,10 @@
 
 .tl-gran-month .tl-col {
   min-width: 26px;
-  max-width: 40px;
 }
 
 .tl-gran-year .tl-col {
   min-width: 48px;
-  max-width: 72px;
 }
 
 .tl-col:hover {
