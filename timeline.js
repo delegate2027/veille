@@ -445,7 +445,7 @@ function tlDrawList(model) {
   var headBox = document.getElementById("tlDetailHead");
   var moreBox = document.getElementById("tlMore");
   var sel = tlEffectiveSel();
-  var items = [], perDay = {}, entries = [], multi, label, lastDi = null;
+  var items = [], entries = [], multi, label, lastDi = null;
   var i, k, shown;
 
   moreBox.innerHTML = "";
@@ -466,7 +466,6 @@ function tlDrawList(model) {
     items = model.vis;
   }
 
-  for (i = 0; i < items.length; i++) perDay[items[i].di] = (perDay[items[i].di] || 0) + 1;
   multi = items.length > 0 && items[0].di !== items[items.length - 1].di;
 
   label = sel ? tlRangeLabel(sel, model.gran) : (model.needle ? "Tous les résultats" : "Toute la période");
@@ -476,7 +475,7 @@ function tlDrawList(model) {
 
   for (i = 0; i < shown; i++) {
     if (multi && items[i].di !== lastDi) {
-      entries.push({ key: "h:" + items[i].di, text: tlFmtDay(items[i].di, true) + " · " + perDay[items[i].di] });
+      entries.push({ key: "h:" + items[i].di, text: tlFmtDay(items[i].di, true) });
       lastDi = items[i].di;
     }
     entries.push({ key: items[i].link, item: items[i] });
