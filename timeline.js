@@ -235,7 +235,7 @@ function tlDrawLegend(model) {
     n = model.counts[g.cls] || 0;
     if (!n) continue;
     html += '<a href="#" class="tl-chip g-' + g.cls + (tlGroupsOff[g.cls] ? " is-off" : "") + '" data-g="' + g.cls + '">' +
-            '<i class="tl-chip-dot"></i>' + g.label + " <em>" + n + "</em></a>";
+            '<i class="tl-chip-dot"></i>' + g.label + "</a>";
   }
 
   html += "</div>";
