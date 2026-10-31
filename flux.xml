@@ -4,62 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 31 Oct 2026 03:30:47 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 03:45:36 -0000</lastBuildDate>
     <feedCount>51</feedCount>
-    <item>
-      <title>Marine Tondelier : "pourquoi il n'y avait que la gauche à l'hommage aux victimes à Trappes ?" (LCI)</title>
-      <link>https://www.youtube.com/watch?v=8r7-rK7hNKM</link>
-      <guid>https://www.youtube.com/watch?v=8r7-rK7hNKM</guid>
-      <pubDate>2026-10-30T20:56:05+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Plateau du 30 octobre 2026 après l'hommage aux victimes de l'attentat raciste du 23 octobre 2026.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>8r7-rK7hNKM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8r7-rK7hNKM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aminata Niakaté "trouve extrêmement grave de demander aux gens de renoncer au droit de manifester"</title>
-      <link>https://www.youtube.com/watch?v=8nPIEprTC70</link>
-      <guid>https://www.youtube.com/watch?v=8nPIEprTC70</guid>
-      <pubDate>2026-10-30T19:15:47+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Le 30 octobre 2026, la porte-parole des Écologistes Aminata Niakaté était sur BFM pour évoquer les manifestations du lendemain.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>8nPIEprTC70</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8nPIEprTC70/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sabrina Sebaihi : "Vous avez abattu leur fils une deuxième fois"</title>
-      <link>https://www.youtube.com/watch?v=8lZ5f_AK0pI</link>
-      <guid>https://www.youtube.com/watch?v=8lZ5f_AK0pI</guid>
-      <pubDate>2026-10-28T16:31:28+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>8lZ5f_AK0pI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8lZ5f_AK0pI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Akli Mellouli : "L'empathie du gouvernement ne protégera pas nos enfants des balles"</title>
-      <link>https://www.youtube.com/watch?v=T5_EOh6cit0</link>
-      <guid>https://www.youtube.com/watch?v=T5_EOh6cit0</guid>
-      <pubDate>2026-10-28T15:30:37+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>T5_EOh6cit0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/T5_EOh6cit0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Guy Benarroche : "Nous souhaitons qu'un processus pour une réelle autonomie de la Corse avance"</title>
-      <link>https://www.youtube.com/watch?v=PCXuHE680Wo</link>
-      <guid>https://www.youtube.com/watch?v=PCXuHE680Wo</guid>
-      <pubDate>2026-10-28T10:05:08+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>PCXuHE680Wo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PCXuHE680Wo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
