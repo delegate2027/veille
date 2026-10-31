@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 31 Oct 2026 14:15:36 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:30:59 -0000</lastBuildDate>
     <feedCount>51</feedCount>
     <item>
       <title>Les GEODIS relèvent la tête ! Ceux qui font tourner le pays... ep. 1 avec Anasse Kazib</title>
@@ -125,33 +125,6 @@ Chapitres :
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>8r7-rK7hNKM</videoId>
       <enclosure url="https://i.ytimg.com/vi/8r7-rK7hNKM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Grève IMPRESSIONNANTE en Italie : 1 million de jeunes et travailleurs dans la rue ! REPORTAGE</title>
-      <link>https://www.youtube.com/watch?v=5Ej40i2imsE</link>
-      <guid>https://www.youtube.com/watch?v=5Ej40i2imsE</guid>
-      <pubDate>2026-10-30T20:35:46+00:00</pubDate>
-      <author>Révolution Permanente</author>
-      <description>Ce vendredi 30 octobre, un million de personnes sont descendus dans la rue à l’appel de l’USB et des dockers de Gênes pour dénoncer la militarisation et l’austérité qui la finance. Une démonstration de force qui doit nous inspirer pour construire la grève générale le 5 novembre et aller au-delà.
-
-Venez pour un grand meeting révolutionnaire autour de la candidature d'Anasse Kazib ! Avec Alexis Durey, Elsa Marcel et lycéens et travailleurs en lutte.
-https://my.weezevent.com/meeting-anasse-2027-grand-meeting-revolutionnaire-a-paris
-
-Abonnez-vous à notre chaîne YouTube !
-➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
-
-★ Retrouvez-nous sur les réseaux sociaux :
-▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
-▸Twitter ▸ https://twitter.com/@RevPermanente
-▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
-▸Telegram ▸ https://t.me/revolution_permanente
-▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
-      <channelTitle>Révolution Permanente</channelTitle>
-      <videoId>5Ej40i2imsE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5Ej40i2imsE/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Aminata Niakaté "trouve extrêmement grave de demander aux gens de renoncer au droit de manifester"</title>
@@ -479,6 +452,19 @@ Je décrypte sa vidéo sur Jean-Luc Mélenchon</description>
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>5sF8BproIr4</videoId>
       <enclosure url="https://i.ytimg.com/vi/5sF8BproIr4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Les droits des joueurs de jeux vidéos – En campagne #5</title>
+      <link>https://www.youtube.com/watch?v=Pq4txiP0ZEs</link>
+      <guid>https://www.youtube.com/watch?v=Pq4txiP0ZEs</guid>
+      <pubDate>2026-10-28T17:51:59+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Avec Enora Lanoë-Danel et Colomblbl.
+
+Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/watch?v=oa3-ITRTDQA</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>Pq4txiP0ZEs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Pq4txiP0ZEs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
