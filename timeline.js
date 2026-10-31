@@ -120,17 +120,20 @@ function tlCompute() {
   var input = document.getElementById("archiveFilter");
   var needle = lower(trimString(input ? input.value : ""));
   var found = getVisibleArchiveItems(needle);
-  var counts = {}, vis = [], i, item, cls;
+  var counts = {}, vis = [], all = [], i, item, cls;
 
   for (i = 0; i < found.length; i++) {
     item = found[i];
     if (tlDayIndex(item) === null) continue;
     cls = tlClass(item);
     counts[cls] = (counts[cls] || 0) + 1;
+    all.push(item);
     if (!tlGroupsOff[cls]) vis.push(item);
   }
 
-  return { needle: needle, vis: vis, counts: counts, total: found.length, gran: "day", bk: null };
+  /* all : resultats sans le filtre de famille, pour garder une frise (vide)
+     quand toutes les familles sont masquees. */
+  return { needle: needle, vis: vis, all: all, counts: counts, total: found.length, gran: "day", bk: null };
 }
 
 /* Echelle automatique : la plus fine qui tient dans la largeur. */
@@ -149,7 +152,7 @@ function tlPickGran(vis) {
   return "month";
 }
 
-function tlBuckets(vis, gran) {
+function tlBuckets(vis, gran, all) {
   var map = {}, keys = [], i, key, b, cls;
 
   for (i = 0; i < vis.length; i++) {
@@ -162,6 +165,18 @@ function tlBuckets(vis, gran) {
     cls = tlClass(vis[i]);
     b.total++;
     b.by[cls] = (b.by[cls] || 0) + 1;
+  }
+
+  /* Aucune entree visible (toutes les familles masquees) : la frise garde les
+     colonnes des resultats, mais vides. */
+  if (!keys.length && all) {
+    for (i = 0; i < all.length; i++) {
+      key = tlKey(all[i].di, gran);
+      if (!map[key]) {
+        map[key] = { key: key, total: 0, by: {} };
+        keys.push(key);
+      }
+    }
   }
 
   keys.sort(function (a, b2) { return a - b2; });
@@ -188,8 +203,8 @@ function renderTimeline() {
 
   model = tlCompute();
   tlModel = model;
-  model.gran = tlGran === "auto" ? tlPickGran(model.vis) : tlGran;
-  model.bk = tlBuckets(model.vis, model.gran);
+  model.gran = tlGran === "auto" ? tlPickGran(model.vis.length ? model.vis : model.all) : tlGran;
+  model.bk = tlBuckets(model.vis, model.gran, model.all);
 
   tlSyncGrans();
   tlDrawLegend(model);
@@ -399,7 +414,7 @@ function tlDrawStrip(model) {
       y = d.getUTCFullYear();
       ym = y * 12 + d.getUTCMonth();
       tick = "";
-      if (afterBreak || ym !== prevYm) {
+      if (ym !== prevYm) {
         tick = "<span>" + TL_MOIS[d.getUTCMonth()] + "</span>";
         if (afterBreak || y !== prevY) tick += "<span>" + y + "</span>";
       }
@@ -587,11 +602,8 @@ function tlResetDefaults() {
   tlResetNavigation();
 }
 
-/* Clic sur une colonne : la selectionne ; maj + clic etend la plage ; un
-   nouveau clic sur l'unique colonne retenue la libere. Les clics sur
-   d'autres colonnes s'ajoutent a la selection existante sans la casser. */
-/* Clic sur une colonne : la selectionne ; maj + clic etend la plage ; un
-   nouveau clic sur l'unique colonne retenue la libere. */
+/* Clic sur une colonne : la selectionne ; maj + clic etend la plage. Un
+   nouveau clic sur la colonne retenue ne change rien. */
 function tlOnStripClick(e) {
   var ev = e || window.event;
   var strip = document.getElementById("tlStrip");
@@ -605,9 +617,6 @@ function tlOnStripClick(e) {
 
   if (ev.shiftKey && base !== null) {
     tlSel = { from: Math.min(base, key), to: Math.max(base, key) };
-  } else if (tlSel && tlSel.from === key && tlSel.to === key) {
-    tlSel = null;
-    tlAnchor = null;
   } else {
     tlSel = { from: key, to: key };
     tlAnchor = key;
