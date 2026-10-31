@@ -4,8 +4,39 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 31 Oct 2026 10:30:58 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:45:38 -0000</lastBuildDate>
     <feedCount>51</feedCount>
+    <item>
+      <title>Les GEODIS relèvent la tête ! Ceux qui font tourner le pays... ep. 1 avec Anasse Kazib</title>
+      <link>https://www.youtube.com/watch?v=am3qB1KdSmk</link>
+      <guid>https://www.youtube.com/watch?v=am3qB1KdSmk</guid>
+      <pubDate>2026-10-31T10:36:36+00:00</pubDate>
+      <author>Révolution Permanente</author>
+      <description>Sur le site logistique de Geodis Calberson, à Gennevilliers, les travailleurs font face à un harcèlement syndical et raciste permanent. La direction ne supporte pas qu’une section syndicale combative relève la tête, organise des grèves et arrache des victoires.
+
+Anasse Kazib, cheminot et candidat à l’élection présidentielle, est allé à la rencontre des travailleurs de Geodis pour échanger avec eux sur l’avenir du site, menacé de délocalisation, et sur la seule réponse capable d’y faire face : la lutte des classes.
+
+Premier épisode de notre nouvelle série « Ceux qui font tourner le pays », dans le cadre de la campagne présidentielle.
+
+Venez pour un grand meeting révolutionnaire autour de la candidature d'Anasse Kazib ! Avec Alexis Durey, Elsa Marcel et lycéens et travailleurs en lutte.
+https://my.weezevent.com/meeting-anasse-2027-grand-meeting-revolutionnaire-a-paris
+
+Abonnez-vous à notre chaîne YouTube !
+➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
+
+★ Retrouvez-nous sur les réseaux sociaux :
+▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
+▸Twitter ▸ https://twitter.com/@RevPermanente
+▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
+▸Telegram ▸ https://t.me/revolution_permanente
+▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
+      <channelTitle>Révolution Permanente</channelTitle>
+      <videoId>am3qB1KdSmk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/am3qB1KdSmk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Abrogation de Parcoursup et loi "casseurs-payeurs" - Mon débat sur LCP du 30 octobre 2026</title>
       <link>https://www.youtube.com/watch?v=psIU5GtWwUM</link>
@@ -430,20 +461,6 @@ Retrouvez mon intervention, le mardi 27 octobre 2026 au meeting géant de la Fra
       <channelTitle>Louis Boyard</channelTitle>
       <videoId>3_0pSt2c5Y0</videoId>
       <enclosure url="https://i.ytimg.com/vi/3_0pSt2c5Y0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>S. Knafo découvre l’accaparement de la propriété immobilière dans les mains de quelques uns !</title>
-      <link>https://www.youtube.com/watch?v=5sF8BproIr4</link>
-      <guid>https://www.youtube.com/watch?v=5sF8BproIr4</guid>
-      <pubDate>2026-10-28T18:49:31+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description>Mme Knafo découvre l’accaparement de la propriété immobilière dans les mains de quelques uns !
-
-Soit Sarah Knafo ment soit elle n’a rien compris. 
-Je décrypte sa vidéo sur Jean-Luc Mélenchon</description>
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>5sF8BproIr4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5sF8BproIr4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
