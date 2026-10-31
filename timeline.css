@@ -138,8 +138,15 @@
 /* Frise horizontale */
 
 .tl-strip {
+  /* Espacement entre colonnes : exactement 1 px ecran, ni plus ni moins.
+     Le zoom 1,1 du <body> rend sinon chaque gap de 1 px fractionnaire
+     (1,1 px) : il s'arrondit tantot a 0, tantot a 1 ou 2 px selon la
+     colonne. On annule donc ce zoom ici (1,1 x 1/1,1 = 1) ; les tailles de
+     la frise sont ecrites deja majorees de 10 % pour garder les memes
+     proportions que le reste de la page. */
+  zoom: 0.9090909091;
   margin: 0 0 8px 0;
-  padding: 6px 0 2px 0;
+  padding: 7px 0 2px 0;
   overflow-x: auto;
   overflow-y: hidden;
   /* La frise se parcourt a la molette : la barre reste masquee. */
@@ -158,27 +165,33 @@
 .tl-cols {
   display: flex;
   align-items: flex-start;
+  /* Espacement force : 1 px, jamais modifie (toutes granularites). */
   gap: 1px;
+  column-gap: 1px;
   min-width: min-content;
 }
 
 .tl-col {
   flex: 0 0 auto;
-  min-width: 7px;
+  position: relative;
+  min-width: 8px;
+  margin: 0;
+  padding: 0;
+  border: 0;
   cursor: pointer;
   border-radius: 2px;
 }
 
 .tl-gran-week .tl-col {
-  min-width: 14px;
+  min-width: 15px;
 }
 
 .tl-gran-month .tl-col {
-  min-width: 26px;
+  min-width: 29px;
 }
 
 .tl-gran-year .tl-col {
-  min-width: 48px;
+  min-width: 53px;
 }
 
 .tl-col:hover {
@@ -193,7 +206,7 @@
 .tl-bar {
   display: flex;
   flex-direction: column-reverse;
-  height: 56px;
+  height: 62px;
   overflow: hidden;
 }
 
@@ -202,10 +215,10 @@
 }
 
 .tl-tick {
-  height: 22px;
+  height: 24px;
   padding-top: 2px;
   color: var(--muted);
-  font-size: 9px;
+  font-size: 10px;
   line-height: 1.15;
   white-space: nowrap;
 }
@@ -214,20 +227,17 @@
   display: block;
 }
 
-/* Coupure : une longue periode sans video, replie en un trait pointille. */
-.tl-brk {
-  position: relative;
-  flex: 0 0 10px;
-  align-self: stretch;
-}
-
-.tl-brk::before {
+/* Coupure : une longue periode sans video est signalee par un trait pointille
+   dans le 1 px qui separe deux colonnes (aucun element ne s'intercale : le
+   pas entre colonnes reste de 1 px). */
+.tl-col.is-after-brk::before {
   content: "";
   position: absolute;
-  left: 4px;
-  top: 6px;
-  height: 44px;
+  left: -1px;
+  top: 7px;
+  height: 48px;
   border-left: 1px dashed var(--line);
+  pointer-events: none;
 }
 
 /* Liste sous la frise : meme bord gauche que les lignes des archives. */

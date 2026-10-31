@@ -21,11 +21,11 @@ var TL_MOIS_LONG = ["janvier", "février", "mars", "avril", "mai", "juin", "juil
 var TL_JOURS = ["dim.", "lun.", "mar.", "mer.", "jeu.", "ven.", "sam."];
 var TL_UNITS = { day: ["jour", "jours"], week: ["semaine", "semaines"], month: ["mois", "mois"], year: ["année", "années"] };
 
-var TL_BAR_H = 56;          /* hauteur max d'une colonne, en px */
+var TL_BAR_H = 62;          /* hauteur max d'une colonne, en px (frise a l'echelle 1 : voir .tl-strip) */
 var TL_AUTO_MAX = 64;       /* nombre de seaux que l'echelle auto accepte */
 var TL_MAX_COLS = 64;       /* nombre de colonnes visibles au maximum */
-var TL_COL_MIN = { day: 7, week: 14, month: 26, year: 48 };  /* largeurs minimales, en px */
-var TL_COL_MAX = { day: 26, week: 26, month: 40, year: 72 }; /* largeurs maximales, en px */
+var TL_COL_MIN = { day: 8, week: 15, month: 29, year: 53 };  /* largeurs minimales, en px */
+var TL_COL_MAX = { day: 29, week: 29, month: 44, year: 79 }; /* largeurs maximales, en px */
 var TL_PAGE = 100;          /* lignes affichees par page dans la liste */
 var TL_DAY_MS = 86400000;
 var TL_GAP_MAX = { day: 10, week: 6, month: 4, year: 2 }; /* au-dela : coupure */
@@ -284,8 +284,8 @@ function tlColTitle(cell, gran) {
    deborde et se parcourt horizontalement. */
 function tlColWidth(gran, count) {
   var strip = document.getElementById("tlStrip");
-  var min = TL_COL_MIN[gran] || 7;
-  var max = TL_COL_MAX[gran] || 26;
+  var min = TL_COL_MIN[gran] || 8;
+  var max = TL_COL_MAX[gran] || 29;
   var cols = count || TL_MAX_COLS;
   var available, width;
 
@@ -333,10 +333,10 @@ function tlApplyColWidths() {
 
 /* Hauteur en racine carree : un pic (le 17 octobre) n'ecrase pas les jours
    calmes, qui restent visibles. Les segments restent proportionnels. */
-function tlColHtml(cell, gran, max, tick, width) {
+function tlColHtml(cell, gran, max, tick, width, afterBrk) {
   var h = cell.total ? Math.max(3, Math.round(TL_BAR_H * Math.sqrt(cell.total / max))) : 0;
 
-   return '<div class="tl-col' + (cell.total ? "" : " is-empty") + '" data-key="' + cell.key +
+   return '<div class="tl-col' + (cell.total ? "" : " is-empty") + (afterBrk ? " is-after-brk" : "") + '" data-key="' + cell.key +
           '" style="width:' + width + 'px" title="' + tlKeyLabel(cell.key, gran) + '">' +
          '<div class="tl-bar">' + (h ? tlSegments(cell, h) : "") + "</div>" +
          '<div class="tl-tick">' + tick + "</div></div>";
@@ -347,7 +347,7 @@ function tlDrawStrip(model) {
   var gran = model.gran, bk = model.bk, keys = bk.keys;
   var cells = [], html, i, j, key, gap, max = 0, cell, colW, colCount = 0;
   var prev = tlKey(tlStartDay(), gran) - 1;
-  var afterBreak = true, prevYm = null, prevY = null, d, y, ym, tick;
+  var afterBreak = true, brkPending = false, prevYm = null, prevY = null, d, y, ym, tick;
   var oldLeft = strip.scrollLeft;
   var atEnd = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 2;
 
@@ -381,7 +381,10 @@ function tlDrawStrip(model) {
     cell = cells[i];
 
     if (cell.brk) {
-       html += '<div class="tl-brk"></div>';
+      /* Pas d'element dans la frise : l'espacement entre colonnes reste de
+         1 px partout. La coupure est un trait pointille dans ce 1 px, porte
+         par la colonne suivante (is-after-brk). */
+      brkPending = true;
       afterBreak = true;
       continue;
     }
@@ -405,7 +408,8 @@ function tlDrawStrip(model) {
     }
     afterBreak = false;
 
-    html += tlColHtml(cell, gran, max, tick, colW);
+    html += tlColHtml(cell, gran, max, tick, colW, brkPending);
+    brkPending = false;
   }
 
   html += "</div>";
