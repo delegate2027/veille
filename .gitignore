@@ -1,9 +1,8 @@
 __pycache__/
 *.pyc
 
-# Fichiers generes par rss.py : jamais committes ni pushes.
-flux.xml
-archives.xml
+# flux.xml et archives.xml sont suivis : ils sont requis par GitHub Pages et
+# regeneres par rss.py / le workflow update-rss. Ne pas les modifier a la main.
 
 # Dossiers d'outillage et de configuration d'agents : jamais committes.
 .kilo/
