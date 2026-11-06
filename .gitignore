@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# Fichiers generes par rss.py : jamais committes ni pushes.
+flux.xml
+archives.xml
+
+# Dossiers d'outillage et de configuration d'agents : jamais committes.
+.kilo/
+.opencode/
+.vscode/
+.idea/

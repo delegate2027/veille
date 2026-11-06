@@ -1,0 +1,701 @@
+/*
+ * Design épuré et minimaliste : typographie soignée, espace blanc généreux,
+ * séparateurs fins plutôt que cadres, palette réduite au strict nécessaire.
+ */
+
+:root {
+  color-scheme: dark;
+  --ink: #f2f1ed;
+  --muted: #aaa9a5;
+  --line: #343431;
+  --accent: #ff8a7a;
+  --on-accent: #171716;
+  --live-color: #5ec98a;
+  --bg: #171716;
+  --meeting-color: #aab5c5;
+  --lfi-color: #a99cff;
+  --eelv-color: #64d49f;
+  --aprd-color: #d197f0;
+  --ps-color: #ee83b7;
+  --centre-color: #f0bd61;
+  --lr-color: #a9b7c9;
+  --ed-color: #8faad2;
+  --r-color: #5ea6df;
+  --pcf-color: #ff8496;
+  --nrp-color: #ff5252;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* La barre de defilement est toujours reservee : le flux (20 items) est bien
+   plus haut que la vue Archives, et sans cela le conteneur centre se recentrait
+   de quelques pixels a chaque changement d'onglet. */
+html {
+  overflow-y: scroll;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  /* Proportions generales du site agrandies de 10 %. */
+  zoom: 1.1;
+}
+
+a {
+  color: var(--ink);
+}
+
+#page {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 6px 20px 48px 20px;
+}
+
+/* Header : un seul systeme typographique pour le titre, la ligne d'etat et les onglets. */
+
+.header {
+  position: relative;
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Ligne regroupant le sous-titre et le bloc d'etat (date, minuteur, icone),
+   alignes sur la meme ligne avec le sous-titre a gauche et l'etat a droite. */
+.brand-line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 0 0 10px 0;
+}
+
+.brand-title {
+  margin: 20px 0 0 0;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.brand-subtitle {
+  margin: 0;
+  font-size: 11px;
+  color: var(--muted);
+}
+
+/* Bloc d'etat : plus en position absolue, il vit dans .brand-line a cote du
+   sous-titre. La marge droite est geree par le gap du flex parent. */
+.status {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+  margin: 0;
+}
+
+/* Memes attributs pour la date de mise a jour et le compteur d'archives. */
+.status-text {
+  color: var(--muted);
+  font-size: 11px;
+  letter-spacing: 0.02em;
+}
+
+/* Libelle de la date de mise a jour : meme teinte discrete et meme taille
+   que les autres textes de l'ui. */
+.status-label {
+  color: var(--muted);
+  font-size: 11px;
+  letter-spacing: 0.02em;
+}
+
+/* L'icone d'horloge remplace le libelle "Dernière mise à jour :". Meme teinte
+   discrete que le texte qu'elle precede, collee a la date. */
+.status-update {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+}
+
+/* Minuteur de la prochaine mise a jour, a gauche du point vert : teinte
+   discrete et taille inferieure aux autres textes de l'ui. Pas de largeur
+   imposee pour qu'il ne cree pas d'espace blanc inegal avec les valeurs
+   voisines ; il est separe d'elles par un simple espace. */
+.status-timer {
+  color: var(--muted);
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  text-align: right;
+  opacity: 0.8;
+  font-variant-numeric: tabular-nums;
+  -webkit-font-feature-settings: "tnum";
+  font-feature-settings: "tnum";
+  /* Un peu plus d'espace entre le minuteur et le compteur d'entrees. */
+  margin-right: 4px;
+}
+
+/* La date et l'heure de mise a jour reprennent le style du minuteur voisin
+   (taille, interlettrage, opacite, chiffres a chasse fixe) pour que les deux
+   textes restent alignes. */
+.status-update .status-text {
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  opacity: 0.8;
+  font-variant-numeric: tabular-nums;
+  -webkit-font-feature-settings: "tnum";
+  font-feature-settings: "tnum";
+}
+
+/* Point vert : pas de padding lateraux pour qu'il reste colle au compteur
+   par un simple espace, comme les autres valeurs de la ligne. */
+.status-icon {
+  padding: 0;
+}
+
+/* Point vert "en direct" : un rond discret qui pulse tres lentement pour
+   signaler que le flux est suivi, sans distraire du contenu. */
+.status-icon {
+  display: inline-flex;
+  position: relative;
+  top: 1px;
+  padding: 0 2px;
+  border-radius: 3px;
+  color: var(--live-color);
+}
+
+.status-icon svg {
+  display: block;
+  width: 12px;
+  height: 12px;
+  animation: veille-live-pulse 6s ease-in-out infinite;
+}
+
+@keyframes veille-live-pulse {
+  0% {
+    opacity: 0.35;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.35;
+  }
+}
+
+/* Pendant une requete sur flux.xml, le point clignote lentement, trois cycles
+   imposes pour que le signal soit toujours visible meme si la requete est
+   instantanee. */
+.status-icon.is-updating svg {
+  animation: veille-live-blink 1.6s ease-in-out 3;
+}
+
+@keyframes veille-live-blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.12;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Meme flash que l'heure quand le flux change, mais le point revient a sa
+   teinte verte (et non grise). */
+.status-icon.is-updated {
+  animation: veille-icon-flash 2.6s ease-out;
+}
+
+@keyframes veille-icon-flash {
+  0% {
+    color: var(--accent);
+    background-color: rgba(255, 138, 122, 0.18);
+    text-shadow: 0 0 6px rgba(255, 138, 122, 0.5);
+  }
+  100% {
+    color: var(--live-color);
+    background-color: rgba(255, 138, 122, 0);
+    text-shadow: 0 0 0 rgba(255, 138, 122, 0);
+  }
+}
+
+/* Le pulse continu est coupe si le systeme demande moins d'animation. Le
+   clignotement de mise a jour (trois cycles) et le flash ponctuel restent
+   joues : ce sont des signaux brefs, volontairement conserves. */
+@media (prefers-reduced-motion: reduce) {
+  .status-icon svg {
+    animation: none;
+  }
+}
+
+/* Heure de mise a jour : discret rappel visuel au moment ou flux.xml change.
+   Une teinte, un fond et un halo qui s'estompent, sans deplacement ni
+   changement de taille, pour ne pas attirer l'oeil sur le reste de la page. */
+@keyframes veille-time-flash {
+  0% {
+    color: var(--accent);
+    background-color: rgba(255, 138, 122, 0.18);
+    text-shadow: 0 0 6px rgba(255, 138, 122, 0.5);
+  }
+  100% {
+    color: var(--muted);
+    background-color: rgba(255, 138, 122, 0);
+    text-shadow: 0 0 0 rgba(255, 138, 122, 0);
+  }
+}
+
+/* Le retrait de is-updated entre deux flashs est indispensable : une classe
+   deja posee ne relance pas une animation (voir pulseElement). */
+.status-time {
+  display: inline-block;
+  padding: 0 2px;
+  border-radius: 3px;
+}
+
+/* Le flash est volontairement joue meme quand le systeme est en mouvement
+   reduit : c'est un signal ponctuel et discret de mise a jour du flux. */
+.status-time.is-updated {
+  animation: veille-time-flash 2.6s ease-out;
+}
+
+/* Feed */
+
+.feed {
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  padding: 18px 16px;
+  border-top: 1px solid var(--line);
+}
+
+.item:first-child {
+  border-top: none;
+}
+
+/* Ligne d'en-tete d'un item du flux : date puis nom de chaine, groupes a
+   gauche. */
+.top {
+  display: flex;
+  align-items: baseline;
+  justify-content: flex-start;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+
+.author {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.date {
+  flex-shrink: 0;
+  color: var(--muted);
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+.title {
+  margin: 0 0 4px 0;
+  font-size: 15px;
+  line-height: 1.35;
+  font-weight: 600;
+}
+
+.title a {
+  text-decoration: none;
+}
+
+.title a:hover {
+  text-decoration: underline;
+}
+
+.desc {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+  white-space: pre-line;
+}
+
+/* Les url des descriptions sont remplacees par un lien "lien" : discret,
+   meme teinte que le texte, souligne pour rester identifiable. */
+.desc a {
+  color: var(--muted);
+  text-decoration: underline;
+}
+
+/* Onglet Flux : nom de chaine, date et titre prennent le style et la taille
+   du texte de description, pour un rendu uniforme. Le bloc est limite a
+   #viewFeed : la vue Archives (sous #viewArchive) conserve sa mise en page. */
+#viewFeed .author,
+#viewFeed .date,
+#viewFeed .title {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.4;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+#viewFeed .title a {
+  color: var(--muted);
+}
+
+/* La date de publication du flux est un peu plus discrete que le reste. */
+#viewFeed .date {
+  font-size: 11px;
+}
+
+/* Auteur et titre ressortent en gras dans le flux ; la date reste normale. */
+#viewFeed .author,
+#viewFeed .title {
+  font-weight: 700;
+}
+
+/* Onglet Flux : entrees plus compactes et texte plus petit, pour condenser la
+   liste ; le separateur horizontal entre items est retire. Le bloc est limite
+   a #viewFeed : la vue Archives garde son rendu. */
+#viewFeed .item {
+  padding: 10px 16px;
+  border-top: none;
+}
+
+#viewFeed .top,
+#viewFeed .title {
+  margin-bottom: 2px;
+}
+
+#viewFeed .desc {
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.youtube-player {
+  width: calc(100% + 32px);
+  margin: 12px -16px 0 -16px;
+  padding: 0;
+}
+
+.youtube-player iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: none;
+}
+
+.yt-facade {
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #000;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.yt-facade img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+}
+
+.yt-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 64px;
+  height: 44px;
+  margin: -22px 0 0 -32px;
+  border-radius: 12px;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.yt-play::after {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: 25px;
+  border-style: solid;
+  border-width: 10px 0 10px 16px;
+  border-color: transparent transparent transparent #fff;
+}
+
+.yt-facade:hover .yt-play {
+  background: #f00;
+}
+
+.error, .loading, .archive-hint {
+  padding: 3px 16px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.error {
+  color: var(--accent);
+}
+
+.footer {
+  height: 1px;
+}
+
+/* Bascule Flux / Archives : les onglets a gauche, la date de mise a jour
+   a droite, sur la meme ligne. */
+.view-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 0 0 8px 0;
+}
+
+.view-nav {
+  display: flex;
+  gap: 4px;
+  margin: 0;
+}
+
+.view-tab {
+  padding: 4px 10px;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  color: var(--muted);
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.view-tab:hover {
+  color: var(--ink);
+}
+
+.view-tab.is-active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.view.is-hidden,
+.status-text.is-hidden {
+  display: none;
+}
+
+/* Archives */
+
+.archive-controls {
+  /* Un peu d'air au-dessus et en dessous : la zone de recherche ne colle plus
+     au titre ni aux controles de la frise. */
+  margin: 20px 0 20px 0;
+}
+
+/* Zone de recherche : le champ occupe toute la largeur du cadre. */
+.archive-search {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0 10px;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  background: transparent;
+}
+
+
+
+.archive-filter {
+  flex: 1;
+  min-width: 0;
+  padding: 7px 0;
+  border: none;
+  background: transparent;
+  color: var(--ink);
+  font-family: inherit;
+  font-size: 13px;
+}
+
+.archive-filter:focus {
+  outline: none;
+}
+
+.archive-filter::placeholder {
+  color: var(--muted);
+}
+
+/* Bouton d'effacement du champ : une croix discrete a droite, toujours
+   visible pour vider la recherche d'un clic. */
+.archive-clear {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  margin-left: 8px;
+  padding: 0;
+  border: none;
+  border-radius: 3px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.archive-clear:hover,
+.archive-clear:focus {
+  color: var(--ink);
+}
+
+.archive-clear:focus {
+  outline: 1px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.archive-clear svg {
+  display: block;
+  width: 15px;
+  height: 15px;
+}
+
+/* Case "Chaînes" dans le cadre de recherche, a gauche du champ : un trait
+   vertical la separe de la saisie. Son libelle reprend la taille et la
+   couleur du texte saisi dans le champ. Cochee, il prend la couleur d'accent ;
+   accent-color colore la case elle-meme sur les navigateurs recents, les
+   autres gardent la case native. */
+.archive-channels {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 5px;
+  margin-right: 10px;
+  padding-right: 10px;
+  border-right: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 13px;
+  white-space: nowrap;
+  cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.archive-channels:hover {
+  color: var(--ink);
+}
+
+.archive-channels input {
+  margin: 0;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+.archive-channels input:checked + span {
+  color: var(--accent);
+}
+
+/* Ligne meta sous la zone de recherche : exemples a gauche, nombre
+   d'entrees a droite. La typographie vient de .status-text, partagee
+   avec la ligne d'etat du header. */
+.archive-meta {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+  margin: 3px 6px 0 0;
+  width: 100%;
+}
+
+.archive-examples {
+  margin: 0 0 0 6px;
+}
+
+.archive-count {
+  margin: 0;
+}
+
+/* Couleur de la source : la pastille a ete retiree, seul le nom
+   porte la teinte du groupe. Dans le flux, le nom de la chaine reste
+   neutre ; seules les archives sont teintees. */
+
+.archives-item .author.meeting { color: var(--meeting-color); }
+.archives-item .author.lfi { color: var(--lfi-color); }
+.archives-item .author.eelv { color: var(--eelv-color); }
+.archives-item .author.aprd { color: var(--aprd-color); }
+.archives-item .author.ps { color: var(--ps-color); }
+.archives-item .author.centre { color: var(--centre-color); }
+.archives-item .author.lr { color: var(--lr-color); }
+.archives-item .author.ed { color: var(--ed-color); }
+.archives-item .author.r { color: var(--r-color); }
+.archives-item .author.pcf { color: var(--pcf-color); }
+.archives-item .author.nr { color: var(--nrp-color); }
+
+/* Vue Archives : un resultat tient sur une seule ligne. Le nom de la source
+   et la date ne se coupent pas ; le titre se tronque par des points de
+   suspension pour rester lisible sans jamais passer a la ligne. */
+.archives-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 8px;
+  border-top: none;
+  padding: 4px 0;
+  white-space: nowrap;
+}
+
+.archives-item .author {
+  cursor: pointer;
+}
+
+.archives-item .author,
+.archives-item .date {
+  flex-shrink: 0;
+}
+
+.archives-item .archive-title {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.archives-item .archive-title:hover {
+  text-decoration: underline;
+}
+
+/* Le titre cliquable reprend la teinte de sa source, comme le nom. */
+.archives-item.meeting .archive-title { color: var(--meeting-color); }
+.archives-item.lfi .archive-title { color: var(--lfi-color); }
+.archives-item.eelv .archive-title { color: var(--eelv-color); }
+.archives-item.aprd .archive-title { color: var(--aprd-color); }
+.archives-item.ps .archive-title { color: var(--ps-color); }
+.archives-item.centre .archive-title { color: var(--centre-color); }
+.archives-item.lr .archive-title { color: var(--lr-color); }
+.archives-item.ed .archive-title { color: var(--ed-color); }
+.archives-item.r .archive-title { color: var(--r-color); }
+.archives-item.pcf .archive-title { color: var(--pcf-color); }
+.archives-item.nr .archive-title { color: var(--nrp-color); }
+
+/* Le lecteur video reste pleine largeur, sous la ligne. */
+.archives-item .youtube-player {
+  flex-basis: 100%;
+  width: 100%;
+  margin: 10px 0 0 0;
+}

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Veille médiatique politique — flux d'actualité agrégés et archives.">
+  <link rel="icon" type="image/png" href="favicon/favicon_16x16.png">
+  <!-- L'iframe YouTube n'est chargee qu'au clic sur la miniature : une simple
+       resolution DNS anticipee suffit, sans ouvrir de connexion. i.ytimg.com
+       sert les miniatures, dont certaines sont prechargees a l'arrivee. -->
+  <link rel="dns-prefetch" href="https://www.youtube.com">
+  <link rel="preconnect" href="https://i.ytimg.com">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="timeline.css">
+  <title>Veille médiatique politique</title>
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="d6c5243d-47b0-4298-970d-29c37ac63b22"></script>
+</head>
+<body>
+  <div id="page">
+    <header class="header">
+      <h1 class="brand-title">Veille médiatique politique</h1>
+      <div class="brand-line">
+        <p class="brand-subtitle">Communication politique, formats longs.</p>
+        <p class="status">
+          <span class="status-update">
+            <span id="lastUpdate" class="status-text"></span>
+            <span id="updateTimer" class="status-timer" title="Temps restant avant la prochaine mise à jour"></span>
+            <span id="archiveCountHeader" class="status-text"></span>
+            <span class="status-icon" id="lastUpdateIcon" role="img" aria-label="Dernière mise à jour">
+              <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+                <circle cx="8" cy="8" r="3.4" fill="currentColor"></circle>
+              </svg>
+            </span>
+          </span>
+        </p>
+      </div>
+      <div class="view-bar">
+        <nav class="view-nav">
+          <a href="#archives" id="navArchive" class="view-tab">Archives</a>
+          <a href="#flux" id="navFeed" class="view-tab">Flux</a>
+        </nav>
+      </div>
+    </header>
+
+    <section id="viewFeed" class="view">
+      <main id="feed" class="feed">
+        <div class="loading">Chargement du flux…</div>
+      </main>
+    </section>
+
+    <section id="viewArchive" class="view is-hidden">
+      <div class="archive-controls">
+        <div class="archive-search">
+          <label class="archive-channels">
+            <input id="archiveChannels" type="checkbox">
+            <span>Chaînes</span>
+          </label>
+          <input id="archiveFilter" class="archive-filter" type="text" placeholder="Rechercher dans les archives." autocomplete="off">
+          <button id="archiveClear" class="archive-clear" type="button" aria-label="Effacer la recherche" title="Effacer la recherche">
+            <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+              <path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"></path>
+            </svg>
+          </button>
+        </div>
+        <div class="archive-meta">
+          <p class="archive-count status-text" id="archiveCount"></p>
+        </div>
+      </div>
+      <div class="tl-toolbar">
+        <div class="tl-line tl-line-all" id="tlAll"></div>
+        <div class="tl-switch" id="tlGrans">
+          <a href="#" class="tl-sw" data-gran="auto">Auto</a>
+          <a href="#" class="tl-sw is-active" data-gran="day">Jours</a>
+          <a href="#" class="tl-sw" data-gran="week">Semaines</a>
+          <a href="#" class="tl-sw" data-gran="month">Mois</a>
+          <a href="#" class="tl-sw" data-gran="year">Années</a>
+        </div>
+      </div>
+      <div class="tl-legend" id="tlLegend"></div>
+      <div class="tl-strip" id="tlStrip"></div>
+      <div class="tl-detail-head" id="tlDetailHead"></div>
+      <main id="archive" class="feed">
+        <div class="archive-hint">Chargement des archives…</div>
+      </main>
+      <div id="tlMore"></div>
+    </section>
+
+    <div class="footer"></div>
+  </div>
+  <script type="text/javascript" src="archives.js"></script>
+  <script type="text/javascript" src="script.js"></script>
+  <script type="text/javascript" src="timeline.js"></script>
+</body>
+</html>
