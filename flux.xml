@@ -4,7 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 07 Nov 2026 07:15:46 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 07:30:51 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>LAURE LAVALETTE : « Manifester, c'est bien, voter, c'est mieux ! » LCI</title>
+      <link>https://www.youtube.com/watch?v=QV1_PKI75Bg</link>
+      <guid>https://www.youtube.com/watch?v=QV1_PKI75Bg</guid>
+      <pubDate>2026-11-06T13:55:40+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>QV1_PKI75Bg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/QV1_PKI75Bg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
