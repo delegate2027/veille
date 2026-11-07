@@ -4,8 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 07 Nov 2026 17:01:09 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 17:15:46 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Grand meeting du Bourget - Notre programme de gouvernement</title>
+      <link>https://www.youtube.com/watch?v=vPZdCClg92c</link>
+      <guid>https://www.youtube.com/watch?v=vPZdCClg92c</guid>
+      <pubDate>2026-11-07T17:07:54+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Ce samedi 7 novembre, rendez-vous à 15h30 pour suivre en direct le grand meeting de présentation de notre programme de gouvernement !
+
+Retrouvez la version accessible aux personnes sourdes et malentendantes (vélotypie et LSF) ici : https://youtube.com/live/XsCjW__Yp1U
+
+Retrouvez toutes les informations sur : https://actionpopulaire.fr/evenements/caa65c99-f503-48f7-8967-04dca24e5828/
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>vPZdCClg92c</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vPZdCClg92c/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nous allons balayer le vieux monde.</title>
       <link>https://www.youtube.com/watch?v=3FuZzyuBQOo</link>
@@ -449,17 +474,6 @@ Abonnez-vous !</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>zAVNAb0hPyY</videoId>
       <enclosure url="https://i.ytimg.com/vi/zAVNAb0hPyY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'extrême-gauche cherche les pillages, elle veut blesser et tuer nos policiers ! Eric Ciotti sur BFM</title>
-      <link>https://www.youtube.com/watch?v=viVyC4GK24Q</link>
-      <guid>https://www.youtube.com/watch?v=viVyC4GK24Q</guid>
-      <pubDate>2026-11-05T10:06:41+00:00</pubDate>
-      <author>UDR</author>
-      <description />
-      <channelTitle>UDR</channelTitle>
-      <videoId>viVyC4GK24Q</videoId>
-      <enclosure url="https://i.ytimg.com/vi/viVyC4GK24Q/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
