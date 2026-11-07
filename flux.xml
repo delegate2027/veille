@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 07 Nov 2026 15:15:48 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:30:54 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Nous allons balayer le vieux monde.</title>
+      <link>https://www.youtube.com/watch?v=3FuZzyuBQOo</link>
+      <guid>https://www.youtube.com/watch?v=3FuZzyuBQOo</guid>
+      <pubDate>2026-11-07T15:27:58+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>Ce programme détaille l’action de notre futur gouvernement. 
+
+Chaque partie est un nouvel horizon pour le monde.
+
+Chaque chapitre est une nouvelle page de notre histoire.</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>3FuZzyuBQOo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/3FuZzyuBQOo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>📺 Le gouvernement refuse de répondre aux revendications populaires</title>
       <link>https://www.youtube.com/watch?v=zam5_D814JU</link>
@@ -445,27 +460,6 @@ Abonnez-vous !</description>
       <channelTitle>UDR</channelTitle>
       <videoId>viVyC4GK24Q</videoId>
       <enclosure url="https://i.ytimg.com/vi/viVyC4GK24Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📺 RÉVOLTE populaire contre un pouvoir autoritaire</title>
-      <link>https://www.youtube.com/watch?v=dM44VT-Leyc</link>
-      <guid>https://www.youtube.com/watch?v=dM44VT-Leyc</guid>
-      <pubDate>2026-11-05T09:30:04+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce mardi 4 novembre 2026 sur Blast
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram :   / danieleobono  
-➡️ Facebook :   / danieleobono  
-➡️ Bluesky : https://bsky.app/profile/danieleobono...
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok :   / danieleobono  
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>dM44VT-Leyc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dM44VT-Leyc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
