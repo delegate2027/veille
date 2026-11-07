@@ -4,7 +4,62 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 07 Nov 2026 02:15:37 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 02:30:56 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>"Votre réponse n'est pas à la hauteur !" Marine Tondelier et Sonia Mabrouk sur l'attentat de Trappes</title>
+      <link>https://www.youtube.com/watch?v=zAVNAb0hPyY</link>
+      <guid>https://www.youtube.com/watch?v=zAVNAb0hPyY</guid>
+      <pubDate>2026-11-05T19:45:13+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Plateau du 5 novembre 2026 dans 100% Mabrouk après les manifestations de l'intersyndicale.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>zAVNAb0hPyY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zAVNAb0hPyY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Tondelier : "l'extrême droite au pouvoir finit toujours par se décrédibiliser" (Public Sénat)</title>
+      <link>https://www.youtube.com/watch?v=lVhXN2Wu_4w</link>
+      <guid>https://www.youtube.com/watch?v=lVhXN2Wu_4w</guid>
+      <pubDate>2026-11-05T07:54:55+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Matinale du 5 novembre 2026 dans "Bonjour chez vous" sur Public Sénat, avant la grande journée de mobilisation.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>lVhXN2Wu_4w</videoId>
+      <enclosure url="https://i.ytimg.com/vi/lVhXN2Wu_4w/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marine Tondelier : "ce gouvernement ne sait même plus organiser une simple manifestation" (LCI)</title>
+      <link>https://www.youtube.com/watch?v=WmGEG69a_04</link>
+      <guid>https://www.youtube.com/watch?v=WmGEG69a_04</guid>
+      <pubDate>2026-11-04T21:22:10+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Le 4 novembre 2026, Marine Tondelier a répondu aux questions d'un panel de 5 Français·es à la veille de la journée de mobilisation du 5 novembre.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>WmGEG69a_04</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WmGEG69a_04/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Antoinette Guhl : Plus de 800 000 signature pour la pétition demandant la suppression de CNews</title>
+      <link>https://www.youtube.com/watch?v=-AmDt0HkikQ</link>
+      <guid>https://www.youtube.com/watch?v=-AmDt0HkikQ</guid>
+      <pubDate>2026-11-04T15:58:21+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Antoinette Guhl : Plus de 800 000 signature pour la pétition demandant la suppression de CNews</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>-AmDt0HkikQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-AmDt0HkikQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Éva Sas : “Qu’allez-vous faire pour que Total rende aux Français·es les profits faits sur leur dos”</title>
+      <link>https://www.youtube.com/watch?v=yKShbo3Qpjg</link>
+      <guid>https://www.youtube.com/watch?v=yKShbo3Qpjg</guid>
+      <pubDate>2026-11-04T15:33:23+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>yKShbo3Qpjg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/yKShbo3Qpjg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
