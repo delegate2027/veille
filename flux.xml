@@ -4,7 +4,59 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 08 Nov 2026 05:45:39 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:01:09 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>La rénovation urbaine en France : la prolongation d’une gestion coloniale des populations</title>
+      <link>https://www.youtube.com/watch?v=7V9wBOWLdcU</link>
+      <guid>https://www.youtube.com/watch?v=7V9wBOWLdcU</guid>
+      <pubDate>2026-11-06T09:33:38+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>La rénovation urbaine en France au XXIe siècle : la prolongation d’une gestion coloniale des populations
+
+
+Audition en commission affaires économiques de madame Camille Tubiana, nominée aux fonctions de directrice générale de l’Agence nationale pour la rénovation urbaine ( ANRU) 
+
+#logement #Franceinsoumise</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>7V9wBOWLdcU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7V9wBOWLdcU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>S. Knafo découvre l’accaparement de la propriété immobilière dans les mains de quelques uns !</title>
+      <link>https://www.youtube.com/watch?v=5sF8BproIr4</link>
+      <guid>https://www.youtube.com/watch?v=5sF8BproIr4</guid>
+      <pubDate>2026-10-28T18:49:31+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Mme Knafo découvre l’accaparement de la propriété immobilière dans les mains de quelques uns !
+
+Soit Sarah Knafo ment soit elle n’a rien compris. 
+Je décrypte sa vidéo sur Jean-Luc Mélenchon</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>5sF8BproIr4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5sF8BproIr4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Projet Bromo, utilisation de l’A400M contre les incendies : j’interroge le président d’Airbus</title>
+      <link>https://www.youtube.com/watch?v=gglyeBnMSYM</link>
+      <guid>https://www.youtube.com/watch?v=gglyeBnMSYM</guid>
+      <pubDate>2026-10-23T10:15:52+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>gglyeBnMSYM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gglyeBnMSYM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Les gens sont en colère contre Macron et personne au gouvernement ne propose de sortie de crise</title>
+      <link>https://www.youtube.com/watch?v=gvr8o9Nigmc</link>
+      <guid>https://www.youtube.com/watch?v=gvr8o9Nigmc</guid>
+      <pubDate>2026-10-22T09:37:39+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description>Retrouvez mon passage sur LCI du mercredi 21 octobre</description>
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>gvr8o9Nigmc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gvr8o9Nigmc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
