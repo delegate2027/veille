@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 08 Nov 2026 18:15:39 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:30:57 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>CAP VERS LA VICTOIRE POUR 2027 AVEC JEAN-LUC MÉLENCHON</title>
@@ -203,21 +203,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Clémence Guetté</channelTitle>
       <videoId>SKa6T75hV_c</videoId>
       <enclosure url="https://i.ytimg.com/vi/SKa6T75hV_c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nous allons balayer le vieux monde.</title>
-      <link>https://www.youtube.com/watch?v=3FuZzyuBQOo</link>
-      <guid>https://www.youtube.com/watch?v=3FuZzyuBQOo</guid>
-      <pubDate>2026-11-07T15:27:58+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>Ce programme détaille l’action de notre futur gouvernement. 
-
-Chaque partie est un nouvel horizon pour le monde.
-
-Chaque chapitre est une nouvelle page de notre histoire.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>3FuZzyuBQOo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/3FuZzyuBQOo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>📺 Le gouvernement refuse de répondre aux revendications populaires</title>
@@ -485,6 +470,19 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>pa-cdxrlgxg</videoId>
       <enclosure url="https://i.ytimg.com/vi/pa-cdxrlgxg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>40 chantiers pour redresser la France : François Ruffin dans C à vous</title>
+      <link>https://www.youtube.com/watch?v=aCTIE2XS55Y</link>
+      <guid>https://www.youtube.com/watch?v=aCTIE2XS55Y</guid>
+      <pubDate>2026-11-06T08:54:20+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>aCTIE2XS55Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/aCTIE2XS55Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
