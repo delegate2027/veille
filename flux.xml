@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 08 Nov 2026 15:45:39 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 16:01:32 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Franc-jeu France 2 et France Inter, dimanche 8 novembre 2026 | Laurent Wauquiez</title>
@@ -192,29 +192,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Clémence Guetté</channelTitle>
       <videoId>SKa6T75hV_c</videoId>
       <enclosure url="https://i.ytimg.com/vi/SKa6T75hV_c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Grand meeting du Bourget - Notre programme de gouvernement</title>
-      <link>https://www.youtube.com/watch?v=vPZdCClg92c</link>
-      <guid>https://www.youtube.com/watch?v=vPZdCClg92c</guid>
-      <pubDate>2026-11-07T17:07:54+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un grand meeting de présentation du programme de gouvernement l'Avenir en commun, le 7 novembre 2026.
-
-Retrouvez la version accessible aux personnes sourdes et malentendantes (vélotypie et LSF) ici : https://youtube.com/live/XsCjW__Yp1U
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>vPZdCClg92c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vPZdCClg92c/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Nous allons balayer le vieux monde.</title>
@@ -503,6 +480,27 @@ Audition en commission affaires économiques de madame Camille Tubiana, nominée
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>7V9wBOWLdcU</videoId>
       <enclosure url="https://i.ytimg.com/vi/7V9wBOWLdcU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>📺 MOBILISATION générale, dans la RUE et les URNES, pour en finir avec le macronisme !</title>
+      <link>https://www.youtube.com/watch?v=pa-cdxrlgxg</link>
+      <guid>https://www.youtube.com/watch?v=pa-cdxrlgxg</guid>
+      <pubDate>2026-11-06T09:15:28+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Retrouvez l'intégralité de mon passage de ce jeudi 5 novembre 2026 sur France Info TV
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram :   / danieleobono  
+➡️ Facebook :   / danieleobono  
+➡️ Bluesky : https://bsky.app/profile/danieleobono
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok :   / danieleobono  
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>pa-cdxrlgxg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/pa-cdxrlgxg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
