@@ -4,19 +4,8 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 08 Nov 2026 01:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 02:01:01 -0000</lastBuildDate>
     <feedCount>50</feedCount>
-    <item>
-      <title>Clémence Guetté en direct sur France Info !</title>
-      <link>https://www.youtube.com/watch?v=SKa6T75hV_c</link>
-      <guid>https://www.youtube.com/watch?v=SKa6T75hV_c</guid>
-      <pubDate>2026-11-07T17:49:08+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>J'étais invitée en direct du duplex de France Info. À retrouver en intégralité.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>SKa6T75hV_c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SKa6T75hV_c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
     <item>
       <title>Grand meeting du Bourget - Notre programme de gouvernement</title>
       <link>https://www.youtube.com/watch?v=vPZdCClg92c</link>
@@ -39,43 +28,6 @@ Retrouvez la version accessible aux personnes sourdes et malentendantes (véloty
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>vPZdCClg92c</videoId>
       <enclosure url="https://i.ytimg.com/vi/vPZdCClg92c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nous allons balayer le vieux monde.</title>
-      <link>https://www.youtube.com/watch?v=3FuZzyuBQOo</link>
-      <guid>https://www.youtube.com/watch?v=3FuZzyuBQOo</guid>
-      <pubDate>2026-11-07T15:27:58+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>Ce programme détaille l’action de notre futur gouvernement. 
-
-Chaque partie est un nouvel horizon pour le monde.
-
-Chaque chapitre est une nouvelle page de notre histoire.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>3FuZzyuBQOo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/3FuZzyuBQOo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📺 Le gouvernement refuse de répondre aux revendications populaires</title>
-      <link>https://www.youtube.com/watch?v=zam5_D814JU</link>
-      <guid>https://www.youtube.com/watch?v=zam5_D814JU</guid>
-      <pubDate>2026-11-07T09:15:19+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce vendredi 6 novembre 2026 sur BFM TV 
-
----
-
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram :   / danieleobono  
-➡️ Facebook :   / danieleobono  
-➡️ Bluesky : https://bsky.app/profile/danieleobono
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok :   / danieleobono  
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>zam5_D814JU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zam5_D814JU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Jordan Bardella sur CNEWS : « Nous avons la passion de la France en nous ! »</title>
@@ -119,19 +71,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <enclosure url="https://i.ytimg.com/vi/5i_VqYqY7KY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>LAURE LAVALETTE : « Manifester, c'est bien, voter, c'est mieux ! » LCI</title>
-      <link>https://www.youtube.com/watch?v=QV1_PKI75Bg</link>
-      <guid>https://www.youtube.com/watch?v=QV1_PKI75Bg</guid>
-      <pubDate>2026-11-06T13:55:40+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>QV1_PKI75Bg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QV1_PKI75Bg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Instaurons une règle d'or budgétaire !</title>
       <link>https://www.youtube.com/watch?v=zFBQwz8Kazg</link>
       <guid>https://www.youtube.com/watch?v=zFBQwz8Kazg</guid>
@@ -150,154 +89,43 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <enclosure url="https://i.ytimg.com/vi/zFBQwz8Kazg/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>FACILITER L'ACCÈS À LA PROPRIÉTÉ PRIVÉE : UNE GRANDE VICTOIRE DE L'UDR</title>
-      <link>https://www.youtube.com/watch?v=zLwa3rJHjzA</link>
-      <guid>https://www.youtube.com/watch?v=zLwa3rJHjzA</guid>
-      <pubDate>2026-11-06T10:18:01+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : UDR
+      <title>Le logement : une priorité pour Marine Le Pen | Au cœur de la campagne #2 · F. Falcon et J. Sanchez</title>
+      <link>https://www.youtube.com/watch?v=KLug5vqw2kk</link>
+      <guid>https://www.youtube.com/watch?v=KLug5vqw2kk</guid>
+      <pubDate>2026-11-06T10:19:49+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
 
-----------------------------------------------
+Chaque mercredi, « Au cœur de la campagne » vous fait vivre de l'intérieur la campagne présidentielle de Marine Le Pen.
 
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
+Pour ce deuxième épisode, « Le logement : une priorité pour Marine Le Pen », Frédéric Falcon, coordinateur du Pôle logement de la campagne, et Julien Sanchez, directeur de campagne, échangent autour de l'accès au logement et à la propriété pour les Français.
 
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>zLwa3rJHjzA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zLwa3rJHjzA/maxresdefault.jpg" type="image/jpeg" />
+Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>KLug5vqw2kk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/KLug5vqw2kk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>La rénovation urbaine en France : la prolongation d’une gestion coloniale des populations</title>
-      <link>https://www.youtube.com/watch?v=7V9wBOWLdcU</link>
-      <guid>https://www.youtube.com/watch?v=7V9wBOWLdcU</guid>
-      <pubDate>2026-11-06T09:33:38+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description>La rénovation urbaine en France au XXIe siècle : la prolongation d’une gestion coloniale des populations
+      <title>MEETING ANTIFASCISTE</title>
+      <link>https://www.youtube.com/watch?v=VXAblTUWkrs</link>
+      <guid>https://www.youtube.com/watch?v=VXAblTUWkrs</guid>
+      <pubDate>2026-11-04T20:52:43+00:00</pubDate>
+      <author>NPA - L’Anticapitaliste</author>
+      <description>2027 : Révolte sociale et antifasciste
+Meeting du NPA l'Anticapitaliste à Paris le 4 novembre 2026
+Avec Olivier Besancenot (NPA), Bally Bagayoko (LFI), Christine Poupin (NPA), Omar Alsoumi (Urgence Palestine), Samia El Khalfaoui (Stop aux violences d'État) et des lycéen•nes, étudiant•es en lutte
 
-
-Audition en commission affaires économiques de madame Camille Tubiana, nominée aux fonctions de directrice générale de l’Agence nationale pour la rénovation urbaine ( ANRU) 
-
-#logement #Franceinsoumise</description>
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>7V9wBOWLdcU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7V9wBOWLdcU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📺 MOBILISATION générale, dans la RUE et les URNES, pour en finir avec le macronisme !</title>
-      <link>https://www.youtube.com/watch?v=pa-cdxrlgxg</link>
-      <guid>https://www.youtube.com/watch?v=pa-cdxrlgxg</guid>
-      <pubDate>2026-11-06T09:15:28+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce jeudi 5 novembre 2026 sur France Info TV
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram :   / danieleobono  
-➡️ Facebook :   / danieleobono  
-➡️ Bluesky : https://bsky.app/profile/danieleobono
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok :   / danieleobono  
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>pa-cdxrlgxg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pa-cdxrlgxg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Votre réponse n'est pas à la hauteur !" Marine Tondelier et Sonia Mabrouk sur l'attentat de Trappes</title>
-      <link>https://www.youtube.com/watch?v=zAVNAb0hPyY</link>
-      <guid>https://www.youtube.com/watch?v=zAVNAb0hPyY</guid>
-      <pubDate>2026-11-05T19:45:13+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Plateau du 5 novembre 2026 dans 100% Mabrouk après les manifestations de l'intersyndicale.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>zAVNAb0hPyY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zAVNAb0hPyY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'extrême-gauche cherche les pillages, elle veut blesser et tuer nos policiers ! Eric Ciotti sur BFM</title>
-      <link>https://www.youtube.com/watch?v=viVyC4GK24Q</link>
-      <guid>https://www.youtube.com/watch?v=viVyC4GK24Q</guid>
-      <pubDate>2026-11-05T10:06:41+00:00</pubDate>
-      <author>UDR</author>
-      <description />
-      <channelTitle>UDR</channelTitle>
-      <videoId>viVyC4GK24Q</videoId>
-      <enclosure url="https://i.ytimg.com/vi/viVyC4GK24Q/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📺 RÉVOLTE populaire contre un pouvoir autoritaire</title>
-      <link>https://www.youtube.com/watch?v=dM44VT-Leyc</link>
-      <guid>https://www.youtube.com/watch?v=dM44VT-Leyc</guid>
-      <pubDate>2026-11-05T09:30:04+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce mardi 4 novembre 2026 sur Blast
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram :   / danieleobono  
-➡️ Facebook :   / danieleobono  
-➡️ Bluesky : https://bsky.app/profile/danieleobono...
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok :   / danieleobono  
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>dM44VT-Leyc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dM44VT-Leyc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier : "l'extrême droite au pouvoir finit toujours par se décrédibiliser" (Public Sénat)</title>
-      <link>https://www.youtube.com/watch?v=lVhXN2Wu_4w</link>
-      <guid>https://www.youtube.com/watch?v=lVhXN2Wu_4w</guid>
-      <pubDate>2026-11-05T07:54:55+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Matinale du 5 novembre 2026 dans "Bonjour chez vous" sur Public Sénat, avant la grande journée de mobilisation.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>lVhXN2Wu_4w</videoId>
-      <enclosure url="https://i.ytimg.com/vi/lVhXN2Wu_4w/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier : "ce gouvernement ne sait même plus organiser une simple manifestation" (LCI)</title>
-      <link>https://www.youtube.com/watch?v=WmGEG69a_04</link>
-      <guid>https://www.youtube.com/watch?v=WmGEG69a_04</guid>
-      <pubDate>2026-11-04T21:22:10+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Le 4 novembre 2026, Marine Tondelier a répondu aux questions d'un panel de 5 Français·es à la veille de la journée de mobilisation du 5 novembre.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>WmGEG69a_04</videoId>
-      <enclosure url="https://i.ytimg.com/vi/WmGEG69a_04/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Antoinette Guhl : Plus de 800 000 signatures pour la pétition demandant la suppression de CNews</title>
-      <link>https://www.youtube.com/watch?v=-AmDt0HkikQ</link>
-      <guid>https://www.youtube.com/watch?v=-AmDt0HkikQ</guid>
-      <pubDate>2026-11-04T15:58:21+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Antoinette Guhl : Plus de 800 000 signatures pour la pétition demandant la suppression de CNews</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>-AmDt0HkikQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-AmDt0HkikQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Éva Sas : “Qu’allez-vous faire pour que Total rende aux Français·es les profits faits sur leur dos”</title>
-      <link>https://www.youtube.com/watch?v=yKShbo3Qpjg</link>
-      <guid>https://www.youtube.com/watch?v=yKShbo3Qpjg</guid>
-      <pubDate>2026-11-04T15:33:23+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description />
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>yKShbo3Qpjg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/yKShbo3Qpjg/maxresdefault.jpg" type="image/jpeg" />
+00:00:00 Introduction par Manon Boltansky
+00:02:39 Christine Poupin, porte-parole du NPA
+00:20:30 Noam et Jo des Jeunesses Anticapitalistes
+00:39:47 Samia El Khalfaoui de Stop aux violences d'État
+00:59:30 Bally Bagayoko, maire LFI de St-Denis Pierrefitte
+01:17:30 Omar Alsoumi, Urgence Palestine
+01:28:52 Tamara, enseignante et militante du NPA
+01:41:22 Olivier Besancenot, NPA</description>
+      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
+      <videoId>VXAblTUWkrs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/VXAblTUWkrs/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>La méthode Trump vient de subir un revers électoral majeur | Maud Petit</title>
@@ -342,17 +170,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>H-m5p38g_2s</videoId>
       <enclosure url="https://i.ytimg.com/vi/H-m5p38g_2s/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bientôt 1 million de signatures pour fermer #CNEWS : la pétition qui fait rager Pascal Praud</title>
-      <link>https://www.youtube.com/watch?v=ly9AI2PC9i8</link>
-      <guid>https://www.youtube.com/watch?v=ly9AI2PC9i8</guid>
-      <pubDate>2026-11-04T10:49:31+00:00</pubDate>
-      <author>Aurélien Saintoul - Député des Hauts-de-Seine</author>
-      <description>Retrouvez mon passage sur Le Média du 3 novembre 2026 pour aborder la pétition déjà signée plus de 800 000 fois pour exiger la fermeture de CNEWS. Le #racisme tue. Et s'il progresse dans la société c'est grâce à des chaînes de TV propagandistes que l’#Arcom a laissé faire. Pour en finir avec le racisme, il faudra remonter toute la chaîne de la responsabilité.</description>
-      <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
-      <videoId>ly9AI2PC9i8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ly9AI2PC9i8/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Il y a quelque chose de criminel dans certaines pratiques des géants du numérique | Sarah El Haïry</title>
@@ -425,15 +242,307 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <enclosure url="https://i.ytimg.com/vi/AFNPOGEBKGM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Les multinationales du pétrole et Total sont les vraies responsables.</title>
-      <link>https://www.youtube.com/watch?v=MHMa7Y-4Sjc</link>
-      <guid>https://www.youtube.com/watch?v=MHMa7Y-4Sjc</guid>
-      <pubDate>2026-11-03T13:17:55+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>MHMa7Y-4Sjc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MHMa7Y-4Sjc/maxresdefault.jpg" type="image/jpeg" />
+      <title>Le maintien de l’ordre exige une commission d’enquête pour établir les responsabilités - A. Corbière</title>
+      <link>https://www.youtube.com/watch?v=UaaUZ0MOV40</link>
+      <guid>https://www.youtube.com/watch?v=UaaUZ0MOV40</guid>
+      <pubDate>2026-11-01T14:04:50+00:00</pubDate>
+      <author>Alexis Corbière</author>
+      <description>Le député Alexis Corbière était l'invité de LCI</description>
+      <channelTitle>Alexis Corbière</channelTitle>
+      <videoId>UaaUZ0MOV40</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UaaUZ0MOV40/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Sans réponse politique à la hauteur, la France risque une crise profonde" - Alexis Corbière sur BFM</title>
+      <link>https://www.youtube.com/watch?v=7vgKMTMdtRo</link>
+      <guid>https://www.youtube.com/watch?v=7vgKMTMdtRo</guid>
+      <pubDate>2026-11-01T13:39:31+00:00</pubDate>
+      <author>Alexis Corbière</author>
+      <description>Le député Alexis Corbière était l'invité de Marc Fauvel hier sur BFMTV, pour revenir sur la mobilisation du 31 octobre.</description>
+      <channelTitle>Alexis Corbière</channelTitle>
+      <videoId>7vgKMTMdtRo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7vgKMTMdtRo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>CONTRE MACRON : ORGANISER LA RIPOSTE</title>
+      <link>https://www.youtube.com/watch?v=-VNImruE6VM</link>
+      <guid>https://www.youtube.com/watch?v=-VNImruE6VM</guid>
+      <pubDate>2026-10-30T17:00:11+00:00</pubDate>
+      <author>NPA - L’Anticapitaliste</author>
+      <description>Le 24 octobre, des centaines de milliers de manifestantEs ont défié les injonctions de Macron. Malgré les violences policières et les couvre-feux, la jeunesse et les travailleurEs refusent de se taire. Face à la vie chère, aux inégalités et à la casse des services publics, c’est le moment de construire une grève massive, d’énormes manifestations le 5 novembre et de préparer la suite !
+
+Suivez L’Anticapitaliste, le média :
+http://lanticapitaliste.org
+Instagram : http://www.instagram.com/l_anticapitaliste
+Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
+Twitter : http://www.twitter.com/Lanticapitalis1
+Tik Tok : http://www.tiktok.com/@lanticapitaliste
+Facebook : http://www.facebook.com/anticapitaliste.presse
+Threads : http://www.threads.net/@l_anticapitaliste
+
+L’actu du NPA l'Anticapitaliste :
+http://npa-lanticapitaliste.org
+Instagram : http://www.instagram.com/npa.anticapitaliste
+Bluesky : http://bsky.app/profile/npa-antica.bsky.social
+Twitter : http://www.twitter.com/NPA_antica
+Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
+Facebook : http://www.facebook.com/npa.anticapitaliste
+Threads : http://www.threads.net/@npa.officiel</description>
+      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
+      <videoId>-VNImruE6VM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-VNImruE6VM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La question de l'endettement et des déficits, c'est une urgence | Nicolas Turquois</title>
+      <link>https://www.youtube.com/watch?v=Z5WLgVcG4Qg</link>
+      <guid>https://www.youtube.com/watch?v=Z5WLgVcG4Qg</guid>
+      <pubDate>2026-10-30T08:47:53+00:00</pubDate>
+      <author>MoDem</author>
+      <description>La question de l'endettement et des déficits, c'est une urgence | Nicolas Turquois
+
+Lors des questions au gouvernement du mercredi 28 octobre, notre député de la Vienne, Nicolas Turquois, a interrogé le ministre des Comptes publics sur la lutte contre les stratégies d’évitement de l’impôt et la justice fiscale dans le budget 2027. 
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/nicolas-turquois-la-question-de-lendettement-et-des-deficits-cest-une-urgence
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>Z5WLgVcG4Qg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Z5WLgVcG4Qg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Il y a la nécessité de rassembler des forces pour l'élection présidentielle | Marc Fesneau</title>
+      <link>https://www.youtube.com/watch?v=c8DdEJpXLHo</link>
+      <guid>https://www.youtube.com/watch?v=c8DdEJpXLHo</guid>
+      <pubDate>2026-10-29T16:02:33+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Il y a la nécessité de rassembler des forces pour l'élection présidentielle | Marc Fesneau
+
+Alors que les tensions politiques et sociales mettent notre démocratie à l’épreuve, notre président du groupe Les Démocrates à l'Assemblée nationale et premier vice-président du MoDem, Marc Fesneau, appelle à sortir des logiques de confrontation, qu’il s’agisse de préparer la présidentielle, d’encadrer les manifestations ou de répondre aux revendications des lycéens.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/marc-fesneau-il-y-la-necessite-de-rassembler-des-forces-pour-lelection
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>c8DdEJpXLHo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/c8DdEJpXLHo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>OLIVIER BESANCENOT : "FRONT UNI POUR LA GRÈVE GÉNÉRALE"</title>
+      <link>https://www.youtube.com/watch?v=Bv9EP-g-ZLw</link>
+      <guid>https://www.youtube.com/watch?v=Bv9EP-g-ZLw</guid>
+      <pubDate>2026-10-28T11:04:36+00:00</pubDate>
+      <author>NPA - L’Anticapitaliste</author>
+      <description>Olivier Besancenot était l'invité de BFM TV le 27 octobre 2026.
+Il s'est exprimé sur le danger que représente l'extrême droite et de ses idéologies meurtrières à la suite de l'attentat raciste de Trappes et La Verrière.
+Il évoque aussi la possibilité d'une grève générale dans le cadre du mouvement social en cours pour une meilleure répartition des richesses.
+
+00:00:00 : Attentat de Trappes et danger de l'extrême droite
+00:10:10 : la crise des institutions
+00:13:49 : la mobilisation en cours vers la grève générale
+00:23:12 : la vie chère
+00:31:52 : des mesures d'urgence
+
+Suivez L’Anticapitaliste, le média :
+http://lanticapitaliste.org
+Instagram : http://www.instagram.com/l_anticapitaliste
+Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
+Twitter : http://www.twitter.com/Lanticapitalis1
+Tik Tok : http://www.tiktok.com/@lanticapitaliste
+Facebook : http://www.facebook.com/anticapitaliste.presse
+Threads : http://www.threads.net/@l_anticapitaliste
+
+L’actu du NPA l'Anticapitaliste :
+http://npa-lanticapitaliste.org
+Instagram : http://www.instagram.com/npa.anticapitaliste
+Bluesky : http://bsky.app/profile/npa-antica.bsky.social
+Twitter : http://www.twitter.com/NPA_antica
+Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
+Facebook : http://www.facebook.com/npa.anticapitaliste
+Threads : http://www.threads.net/@npa.officiel</description>
+      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
+      <videoId>Bv9EP-g-ZLw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Bv9EP-g-ZLw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Roubaix en solidarité avec Trappes et La Verrière</title>
+      <link>https://www.youtube.com/watch?v=oJN0qwjT1aY</link>
+      <guid>https://www.youtube.com/watch?v=oJN0qwjT1aY</guid>
+      <pubDate>2026-10-26T19:39:42+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>oJN0qwjT1aY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/oJN0qwjT1aY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>David Guiraud atomise Bruno Retailleau</title>
+      <link>https://www.youtube.com/watch?v=UGl1xt_p61Y</link>
+      <guid>https://www.youtube.com/watch?v=UGl1xt_p61Y</guid>
+      <pubDate>2026-10-23T10:05:47+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>UGl1xt_p61Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/UGl1xt_p61Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>17 OCTOBRE : C'EST LES TÉNÈBRES</title>
+      <link>https://www.youtube.com/watch?v=C3CC5wz3ph8</link>
+      <guid>https://www.youtube.com/watch?v=C3CC5wz3ph8</guid>
+      <pubDate>2026-10-23T10:00:38+00:00</pubDate>
+      <author>NPA - L’Anticapitaliste</author>
+      <description>Après 10 ans de macronisme, la colère sociale a explosé ce week-end.
+Le 17 octobre a été une démonstration de notre force collective, de toutes celles et ceux qui n’en peuvent plus de ce système.
+Le pouvoir panique car ce mouvement qui s’amplifie porte la revendication d’une juste répartition des richesses. Ce qui est inacceptable pour lui.
+
+Suivez L’Anticapitaliste, le média :
+http://lanticapitaliste.org
+Instagram : http://www.instagram.com/l_anticapitaliste
+Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
+Twitter : http://www.twitter.com/Lanticapitalis1
+Tik Tok : http://www.tiktok.com/@lanticapitaliste
+Facebook : http://www.facebook.com/anticapitaliste.presse
+Threads : http://www.threads.net/@l_anticapitaliste
+
+L’actu du NPA l'Anticapitaliste :
+http://npa-lanticapitaliste.org
+Instagram : http://www.instagram.com/npa.anticapitaliste
+Bluesky : http://bsky.app/profile/npa-antica.bsky.social
+Twitter : http://www.twitter.com/NPA_antica
+Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
+Facebook : http://www.facebook.com/npa.anticapitaliste
+Threads : http://www.threads.net/@npa.officiel</description>
+      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
+      <videoId>C3CC5wz3ph8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/C3CC5wz3ph8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🟠 RÉPRESSION DES LYCÉENS, LOI INTÉGRALE, UKRAINE - Clémentine Autain sur France Info</title>
+      <link>https://www.youtube.com/watch?v=HQC2RRaCWqQ</link>
+      <guid>https://www.youtube.com/watch?v=HQC2RRaCWqQ</guid>
+      <pubDate>2026-10-12T10:20:47+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>Clémentine Autain sur Franceinfo, dimanche 11 octobre 2026. 
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>HQC2RRaCWqQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/HQC2RRaCWqQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🟠 VSS : LOI DITE « INTÉGRALE » - MON DISCOURS À L'ASSEMBLÉE EN INTÉGRALITÉ</title>
+      <link>https://www.youtube.com/watch?v=MCGv2iXqX1I</link>
+      <guid>https://www.youtube.com/watch?v=MCGv2iXqX1I</guid>
+      <pubDate>2026-10-01T18:05:08+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>Mon discours à l'Assemblée nationale pour la loi dite intégrale contre les violences faites aux femmes et aux enfants, en intégralité.
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>MCGv2iXqX1I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/MCGv2iXqX1I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>VSS : LOI DITE « INTÉGRALE » - JE VOUS EXPLIQUE TOUT EN MOINS DE 15 MINUTES !</title>
+      <link>https://www.youtube.com/watch?v=vmBBDkDKsi8</link>
+      <guid>https://www.youtube.com/watch?v=vmBBDkDKsi8</guid>
+      <pubDate>2026-09-16T19:01:08+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>La loi dite intégrale pour lutter contre les violences faites aux femmes et aux enfants arrive à l'Assemblée nationale. Que contient-elle ? Quelles sont les avancées et les limites de cette proposition de loi ? Je vous explique en 15 minutes.
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>vmBBDkDKsi8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vmBBDkDKsi8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>David Guiraud recadre un journaliste de Valeurs Actuelles</title>
+      <link>https://www.youtube.com/watch?v=gRPOHaPkk04</link>
+      <guid>https://www.youtube.com/watch?v=gRPOHaPkk04</guid>
+      <pubDate>2026-09-10T20:37:46+00:00</pubDate>
+      <author>David Guiraud</author>
+      <description>Retrouvez David Guiraud sur ses réseaux sociaux : 
+
+Sur Tiktok : @davidguiraudlfi
+Twitter : https://twitter.com/guiraudind
+Instagram : https://www.instagram.com/guirauddavid/
+Facebook : https://www.facebook.com/david.guiraud.50</description>
+      <channelTitle>David Guiraud</channelTitle>
+      <videoId>gRPOHaPkk04</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gRPOHaPkk04/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🟠 FIN DE LA PRIMAIRE ET CANICULE - Clémentine Autain aux 4V sur France 2</title>
+      <link>https://www.youtube.com/watch?v=Nw4rSUpD4wE</link>
+      <guid>https://www.youtube.com/watch?v=Nw4rSUpD4wE</guid>
+      <pubDate>2026-07-11T08:09:57+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>Clémentine Autain était l'invité des 4V sur France 2 samedi 11 juillet 2026.
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>Nw4rSUpD4wE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Nw4rSUpD4wE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
