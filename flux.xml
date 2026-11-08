@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 08 Nov 2026 08:15:45 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 08:30:56 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Mélenchon président : le moyen de changer la vie</title>
+      <link>https://www.youtube.com/watch?v=793lEPBVgaE</link>
+      <guid>https://www.youtube.com/watch?v=793lEPBVgaE</guid>
+      <pubDate>2026-11-08T08:22:00+00:00</pubDate>
+      <author>Antoine Léaument</author>
+      <description>***SUIVEZ-MOI SUR***
+- Twitch : https://twitch.tv/ALeaument
+- Tiktok : https://www.tiktok.com/@aleaument
+- Facebook : https://www.facebook.com/ALeaument/
+- Twitter : https://twitter.com/ALeaument
+- Discord : https://discord.gg/w83JavD
+- Instagram : https://www.instagram.com/aleaument/
+- Snapchat : @ALeaument
+- Youtube (pour vous abonner) : http://bit.ly/2gbk7cm
+- Whatsapp : https://whatsapp.com/channel/0029VaCUZ4U2Jl8JGtMZfK1J
+- Linkedin : https://www.linkedin.com/in/aleaument/</description>
+      <channelTitle>Antoine Léaument</channelTitle>
+      <videoId>793lEPBVgaE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/793lEPBVgaE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>« Je ne serai jamais pessimiste » | Édouard Philippe aux Rencontres de l’Avenir</title>
       <link>https://www.youtube.com/watch?v=JZoJXZhEatg</link>
@@ -474,33 +495,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>NfHkBcAO65Y</videoId>
       <enclosure url="https://i.ytimg.com/vi/NfHkBcAO65Y/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Grève générale ! – En Campagne EP6</title>
-      <link>https://www.youtube.com/watch?v=IopyyAlu01Q</link>
-      <guid>https://www.youtube.com/watch?v=IopyyAlu01Q</guid>
-      <pubDate>2026-11-05T19:59:19+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>À suivre en direct et en public à 19H avec Mathilde Panot, Alma Dufour, Thomas Portes, Youssef Swatt's, Amal Bentounsi, Ryad Rani, Juliette Prados, Kamel Brahmi, Ludivine Bantigny
-#EnCampagne
-
-_________________________________________________ 
-
-Retrouvez toute l'actualité du groupe La France insoumise sur les réseaux sociaux :
-
-☞ X (Twitter) : https://x.com/FiAssemblee
-☞ Bluesky : https://bsky.app/profile/franceinsoumisean.bsky.social
-☞ Facebook : https://www.facebook.com/FranceinsoumiseAN 
-☞ YouTube :  / @FranceinsoumiseAN
-☞ Instagram : https://instagram.com/FranceinsoumiseAN/
-☞ Threads : https://www.threads.net/@FranceinsoumiseAN
-☞ TikTok : https://www.tiktok.com/@FranceinsoumiseAN
-☞ Telegram : https://t.me/FranceinsoumiseAN
-
-Abonnez-vous !</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>IopyyAlu01Q</videoId>
-      <enclosure url="https://i.ytimg.com/vi/IopyyAlu01Q/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
