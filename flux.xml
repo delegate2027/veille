@@ -4,8 +4,20 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 14:01:11 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:15:43 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Présentation de nos mesures pour la culture.</title>
+      <link>https://www.youtube.com/watch?v=pxcX-DyK2uQ</link>
+      <guid>https://www.youtube.com/watch?v=pxcX-DyK2uQ</guid>
+      <pubDate>2026-11-09T14:07:37+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Avec : Marine Tondelier, Antoinette Guhl, David Cormand, Anne Souyris et Édouard DENOUEL
+À la médiathèque de Bagnolet le 9 novembre 2026</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>pxcX-DyK2uQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/pxcX-DyK2uQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Jordan Bardella est l'invité du JT de 20h sur TF1 !</title>
       <link>https://www.youtube.com/watch?v=DPFg40ZO9C8</link>
@@ -463,17 +475,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>5i_VqYqY7KY</videoId>
       <enclosure url="https://i.ytimg.com/vi/5i_VqYqY7KY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>En campagne #6 : Grève générale ! – L'édito de Mathilde Panot.</title>
-      <link>https://www.youtube.com/watch?v=eMGP7oGtU5g</link>
-      <guid>https://www.youtube.com/watch?v=eMGP7oGtU5g</guid>
-      <pubDate>2026-11-06T17:13:12+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/live/IopyyAlu01Q</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>eMGP7oGtU5g</videoId>
-      <enclosure url="https://i.ytimg.com/vi/eMGP7oGtU5g/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
