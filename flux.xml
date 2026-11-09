@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 21:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:31:01 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>De Gaulle : l’exigence de l’ordre</title>
@@ -32,12 +32,12 @@ https://www.avecretailleau.fr/
       <enclosure url="https://i.ytimg.com/vi/p929gMZUDxg/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>"SMIC : ce n'est pas une augmentation, c'est une provocation" Marine Tondelier au 20H de TF1</title>
+      <title>Marine Tondelier au JT de 20H de Gilles Bouleau sur TF1</title>
       <link>https://www.youtube.com/watch?v=7lHfA5IPeeI</link>
       <guid>https://www.youtube.com/watch?v=7lHfA5IPeeI</guid>
       <pubDate>2026-11-09T20:12:25+00:00</pubDate>
       <author>Les Écologistes</author>
-      <description />
+      <description>Le 9 novembre 2026, pour l'ouverture de la COP31, Marine Tondelier était sur le plateau du JT de TF1.</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>7lHfA5IPeeI</videoId>
       <enclosure url="https://i.ytimg.com/vi/7lHfA5IPeeI/maxresdefault.jpg" type="image/jpeg" />
