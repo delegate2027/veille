@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 18:31:25 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:45:43 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>On débrief du meeting du Bourget avec Antoine Léaument...</title>
@@ -239,33 +239,6 @@ Il est revenu sur la nécessité de mettre en place l'état d'urgence pour lutte
       <enclosure url="https://i.ytimg.com/vi/Ekm0-sMbkZ0/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Sarah Knafo sur BFMTV : Mélenchon est multipropriétaire et il veut réquisitionner votre logement !</title>
-      <link>https://www.youtube.com/watch?v=F3avcFVMUTU</link>
-      <guid>https://www.youtube.com/watch?v=F3avcFVMUTU</guid>
-      <pubDate>2026-11-09T07:58:26+00:00</pubDate>
-      <author>Sarah Knafo</author>
-      <description>Sarah Knafo, députée française Reconquête au Parlement européen, était l’invitée d'Apolline de Malherbe sur BFMTV.
-
-👍 Likez, 💬 commentez, 📤 partagez la vidéo et 🔔 abonnez-vous en activant la cloche pour ne manquer aucune vidéo !
-
-Pour suivre l’actualité de Sarah Knafo :
-
-Instagram : https://www.instagram.com/sarahknafo1
-X/Twitter : https://x.com/knafo_sarah?s=11
-Facebook : https://www.facebook.com/share/1BDboyows5/?mibextid=wwXIfr
-Linkedln : https://www.linkedin.com/in/sarah-knafo-7a0129b5?utm_source=share_via&amp;amp;utm_content=profile&amp;amp;utm_medium=member_ios
-WhatsApp : ‎https://whatsapp.com/channel/0029VakkwXs60eBd95uc7e2n
-TikTok : https://www.tiktok.com/@sarah_knafo?_r=1&amp;_t=ZN-98M2y5vFPLG
-Telegram : https://t.me/Sarah_Knafo
-
-📖 Commandez mon livre : sarahknafo.fr
-
-🗳️ Adhérez à Reconquête : https://www.parti-reconquete.fr/adhesions</description>
-      <channelTitle>Sarah Knafo</channelTitle>
-      <videoId>F3avcFVMUTU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/F3avcFVMUTU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Vive la Nouvelle France ! – Discours de Mathilde Panot à la Convention de la France insoumise</title>
       <link>https://www.youtube.com/watch?v=v1XNJwFdgt4</link>
       <guid>https://www.youtube.com/watch?v=v1XNJwFdgt4</guid>
@@ -435,6 +408,28 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>JZoJXZhEatg</videoId>
       <enclosure url="https://i.ytimg.com/vi/JZoJXZhEatg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>📺 Le gouvernement refuse de répondre aux revendications populaires</title>
+      <link>https://www.youtube.com/watch?v=zam5_D814JU</link>
+      <guid>https://www.youtube.com/watch?v=zam5_D814JU</guid>
+      <pubDate>2026-11-07T09:15:19+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Retrouvez l'intégralité de mon passage de ce vendredi 6 novembre 2026 sur BFM TV 
+
+---
+
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram :   / danieleobono  
+➡️ Facebook :   / danieleobono  
+➡️ Bluesky : https://bsky.app/profile/danieleobono
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok :   / danieleobono  
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>zam5_D814JU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zam5_D814JU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
