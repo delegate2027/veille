@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 08:31:07 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 08:45:46 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Éric Ciotti aux Rencontres de l'Avenir 2026 : l'avenir de nos institution et de notre économie</title>
+      <link>https://www.youtube.com/watch?v=S3ZF_EB8HnY</link>
+      <guid>https://www.youtube.com/watch?v=S3ZF_EB8HnY</guid>
+      <pubDate>2026-11-09T08:33:45+00:00</pubDate>
+      <author>UDR</author>
+      <description>Crédits Vidéo :
+
+----------------------------------------------
+
+► Rejoignez l'UDR ici :
+https://www.udr.fr/
+https://www.instagram.com/partiudr
+https://www.tiktok.com/@partiudr
+https://www.facebook.com/udrofficiel
+https://twitter.com/partiudr
+
+----------------------------------------------
+
+► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
+
+#UDR #EricCiotti</description>
+      <channelTitle>UDR</channelTitle>
+      <videoId>S3ZF_EB8HnY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/S3ZF_EB8HnY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"La première urgence, c’est de mettre fin à l’impunité, une peine prononcée doit être exécutée."</title>
       <link>https://www.youtube.com/watch?v=Ekm0-sMbkZ0</link>
@@ -20,7 +46,7 @@ Il est revenu sur la nécessité de mettre en place l'état d'urgence pour lutte
       <enclosure url="https://i.ytimg.com/vi/Ekm0-sMbkZ0/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Sarah Knafo sur BFMTV : La France n’a pas besoin de 40 ministères, je veux en supprimer !</title>
+      <title>Sarah Knafo sur BFMTV : Mélenchon est multipropriétaire et il veut réquisitionner votre logement !</title>
       <link>https://www.youtube.com/watch?v=F3avcFVMUTU</link>
       <guid>https://www.youtube.com/watch?v=F3avcFVMUTU</guid>
       <pubDate>2026-11-09T07:58:26+00:00</pubDate>
@@ -457,22 +483,6 @@ https://twitter.com/partiudr
       <channelTitle>UDR</channelTitle>
       <videoId>zLwa3rJHjzA</videoId>
       <enclosure url="https://i.ytimg.com/vi/zLwa3rJHjzA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La rénovation urbaine en France : la prolongation d’une gestion coloniale des populations</title>
-      <link>https://www.youtube.com/watch?v=7V9wBOWLdcU</link>
-      <guid>https://www.youtube.com/watch?v=7V9wBOWLdcU</guid>
-      <pubDate>2026-11-06T09:33:38+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description>La rénovation urbaine en France au XXIe siècle : la prolongation d’une gestion coloniale des populations
-
-
-Audition en commission affaires économiques de madame Camille Tubiana, nominée aux fonctions de directrice générale de l’Agence nationale pour la rénovation urbaine ( ANRU) 
-
-#logement #Franceinsoumise</description>
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>7V9wBOWLdcU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7V9wBOWLdcU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
