@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 14:15:43 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:31:03 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Damien Maudet dans la matinale d'ICI Limousin</title>
+      <link>https://www.youtube.com/watch?v=IkUfmUzssvA</link>
+      <guid>https://www.youtube.com/watch?v=IkUfmUzssvA</guid>
+      <pubDate>2026-11-09T14:29:24+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description />
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>IkUfmUzssvA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/IkUfmUzssvA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Présentation de nos mesures pour la culture.</title>
       <link>https://www.youtube.com/watch?v=pxcX-DyK2uQ</link>
@@ -454,27 +465,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>IgOjIq8Z5dw</videoId>
       <enclosure url="https://i.ytimg.com/vi/IgOjIq8Z5dw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Jordan Bardella est l'invité de PHILIPPE DE VILLIERS sur CNEWS !</title>
-      <link>https://www.youtube.com/watch?v=5i_VqYqY7KY</link>
-      <guid>https://www.youtube.com/watch?v=5i_VqYqY7KY</guid>
-      <pubDate>2026-11-06T20:19:33+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
-
-Suivez-moi sur mes réseaux sociaux ! ⤵️
-
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>5i_VqYqY7KY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5i_VqYqY7KY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
