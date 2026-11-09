@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 11:15:44 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:31:01 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Vite, le SMIC à 1.700 euros !</title>
+      <link>https://www.youtube.com/watch?v=56Z2jQEd6iM</link>
+      <guid>https://www.youtube.com/watch?v=56Z2jQEd6iM</guid>
+      <pubDate>2026-11-09T11:19:09+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Revivez l'interview de Mathilde Panot sur RTL, le lundi 9 novembre 2026 à 7h40.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>56Z2jQEd6iM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/56Z2jQEd6iM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SÉBASTIEN CHENU : « Le programme de Jean-Luc Mélenchon est délirant ! » (France Info)</title>
       <link>https://www.youtube.com/watch?v=FVLENnoAvHk</link>
@@ -455,19 +466,6 @@ Merci à toutes celles et tous ceux qui se sont déplacés et pour les discussio
       <channelTitle>DAMIEN MAUDET</channelTitle>
       <videoId>06ZjsfDUFvs</videoId>
       <enclosure url="https://i.ytimg.com/vi/06ZjsfDUFvs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sarah Saldmann, histoire d'une conversion</title>
-      <link>https://www.youtube.com/watch?v=QtA3IIhSC78</link>
-      <guid>https://www.youtube.com/watch?v=QtA3IIhSC78</guid>
-      <pubDate>2026-11-06T15:16:05+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>2 ans jour pour jour après la sortie du film "Au Boulot !", Sarah Saldmann et François Ruffin refont l'histoire d'une conversion.
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>QtA3IIhSC78</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QtA3IIhSC78/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
