@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 11:31:01 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:45:43 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>EN DIRECT | Jordan Bardella est l'invité du JT de 20h sur TF1 !</title>
+      <link>https://www.youtube.com/watch?v=DPFg40ZO9C8</link>
+      <guid>https://www.youtube.com/watch?v=DPFg40ZO9C8</guid>
+      <pubDate>2026-11-09T11:37:20+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>DPFg40ZO9C8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DPFg40ZO9C8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Vite, le SMIC à 1.700 euros !</title>
       <link>https://www.youtube.com/watch?v=56Z2jQEd6iM</link>
@@ -453,19 +474,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>eMGP7oGtU5g</videoId>
       <enclosure url="https://i.ytimg.com/vi/eMGP7oGtU5g/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'aRNaque sociale : entretien avec Pierre Joigneaux à Limoges</title>
-      <link>https://www.youtube.com/watch?v=06ZjsfDUFvs</link>
-      <guid>https://www.youtube.com/watch?v=06ZjsfDUFvs</guid>
-      <pubDate>2026-11-06T15:24:40+00:00</pubDate>
-      <author>DAMIEN MAUDET</author>
-      <description>Le 13 octobre dernier, la librairie Page &amp; Plume recevait Pierre Joigneaux pour échanger ensemble autour de son dernier livre, L’aRNaque sociale, ou comment le RN trompe les gens et sert les puissants.
-
-Merci à toutes celles et tous ceux qui se sont déplacés et pour les discussions passionnantes !</description>
-      <channelTitle>DAMIEN MAUDET</channelTitle>
-      <videoId>06ZjsfDUFvs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/06ZjsfDUFvs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
