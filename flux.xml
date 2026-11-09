@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 08:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:02:19 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Notre programme l’Avenir en commun - interview par Apolline de Malherbes</title>
+      <link>https://www.youtube.com/watch?v=nlcP1r4GJns</link>
+      <guid>https://www.youtube.com/watch?v=nlcP1r4GJns</guid>
+      <pubDate>2026-11-09T08:57:54+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Éric Coquerel était l'invité du 9/10 Apolline de Malherbes, après la réussite du meeting de Jean-Luc Mélenchon au Bourget sur la présentation du programme l'Avenir en commun, avec 20 000 personnes présente.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>nlcP1r4GJns</videoId>
+      <enclosure url="https://i.ytimg.com/vi/nlcP1r4GJns/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Éric Ciotti aux Rencontres de l'Avenir 2026 : l'avenir de nos institution et de notre économie</title>
       <link>https://www.youtube.com/watch?v=S3ZF_EB8HnY</link>
@@ -457,32 +468,6 @@ Participez à la campagne de Marine Le Pen : https://marinelepen.com/</descripti
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>KLug5vqw2kk</videoId>
       <enclosure url="https://i.ytimg.com/vi/KLug5vqw2kk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>FACILITER L'ACCÈS À LA PROPRIÉTÉ PRIVÉE : UNE GRANDE VICTOIRE DE L'UDR</title>
-      <link>https://www.youtube.com/watch?v=zLwa3rJHjzA</link>
-      <guid>https://www.youtube.com/watch?v=zLwa3rJHjzA</guid>
-      <pubDate>2026-11-06T10:18:01+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : UDR
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>zLwa3rJHjzA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zLwa3rJHjzA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
