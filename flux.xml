@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 21:31:01 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:45:39 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>📺 Y A PAS PHOTO : « L'Avenir en commun » est le meilleur programme #presidentielle2027</title>
+      <link>https://www.youtube.com/watch?v=dE3z6IiOdCA</link>
+      <guid>https://www.youtube.com/watch?v=dE3z6IiOdCA</guid>
+      <pubDate>2026-11-09T21:35:21+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Retrouvez l'intégralité de mon passage de ce lundi 9 novembre 2026 sur BFMTV.
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram : https://www.instagram.com/danieleobono
+➡️ Facebook : https://www.facebook.com/DanieleObono
+➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok : https://www.tiktok.com/@danieleobono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>dE3z6IiOdCA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dE3z6IiOdCA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>De Gaulle : l’exigence de l’ordre</title>
       <link>https://www.youtube.com/watch?v=p929gMZUDxg</link>
@@ -360,17 +381,6 @@ Il est revenu sur la nécessité de mettre en place l'état d'urgence pour lutte
       <channelTitle>Clémence Guetté</channelTitle>
       <videoId>ZVb4Ei6KsFs</videoId>
       <enclosure url="https://i.ytimg.com/vi/ZVb4Ei6KsFs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La hausse des inégalités mène à la brutalité de la société ! - Alexis Corbière sur BFMTV</title>
-      <link>https://www.youtube.com/watch?v=x5aBitRZSDY</link>
-      <guid>https://www.youtube.com/watch?v=x5aBitRZSDY</guid>
-      <pubDate>2026-11-08T10:56:19+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député Alexis Corbière était l'invité de Marc Fauvel, hier, sur BFMTV.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>x5aBitRZSDY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/x5aBitRZSDY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
