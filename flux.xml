@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 08:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 08:31:07 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>"La première urgence, c’est de mettre fin à l’impunité, une peine prononcée doit être exécutée."</title>
+      <link>https://www.youtube.com/watch?v=Ekm0-sMbkZ0</link>
+      <guid>https://www.youtube.com/watch?v=Ekm0-sMbkZ0</guid>
+      <pubDate>2026-11-09T08:22:17+00:00</pubDate>
+      <author>François-Xavier Bellamy</author>
+      <description>François-Xavier Bellamy était l'invité de Laurence Ferrari ce matin sur Cnews et Europe 1.
+
+Il est revenu sur la nécessité de mettre en place l'état d'urgence pour lutter contre les violences commises ces dernières semaines. Il est également revenu sur le programme de Jean-Luc Mélenchon ainsi que sur la conférence sociale prévue aujourd'hui.</description>
+      <channelTitle>François-Xavier Bellamy</channelTitle>
+      <videoId>Ekm0-sMbkZ0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Ekm0-sMbkZ0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Sarah Knafo sur BFMTV : La France n’a pas besoin de 40 ministères, je veux en supprimer !</title>
       <link>https://www.youtube.com/watch?v=F3avcFVMUTU</link>
@@ -460,27 +473,6 @@ Audition en commission affaires économiques de madame Camille Tubiana, nominée
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>7V9wBOWLdcU</videoId>
       <enclosure url="https://i.ytimg.com/vi/7V9wBOWLdcU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📺 MOBILISATION générale, dans la RUE et les URNES, pour en finir avec le macronisme !</title>
-      <link>https://www.youtube.com/watch?v=pa-cdxrlgxg</link>
-      <guid>https://www.youtube.com/watch?v=pa-cdxrlgxg</guid>
-      <pubDate>2026-11-06T09:15:28+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce jeudi 5 novembre 2026 sur France Info TV
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram :   / danieleobono  
-➡️ Facebook :   / danieleobono  
-➡️ Bluesky : https://bsky.app/profile/danieleobono
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok :   / danieleobono  
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>pa-cdxrlgxg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pa-cdxrlgxg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
