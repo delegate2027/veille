@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 18:01:11 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:31:25 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>On débrief du meeting du Bourget avec Antoine Léaument...</title>
+      <link>https://www.youtube.com/watch?v=y8BZe7y6tEY</link>
+      <guid>https://www.youtube.com/watch?v=y8BZe7y6tEY</guid>
+      <pubDate>2026-11-09T18:16:11+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>Ce soir, j'étais en direct avec Antoine Léaument sur Twitch, pour parler de notre programme l'Avenir en Commun, du succès du meeting du Bourget avec Jean-Luc Mélenchon, et de l'actu de la présidentielle.
+
+Voici le replay complet et sans montage !
+
+Mon lien tortue (pour soutenir la candidature de Jean-Luc Mélenchon, et m'aider à progresser !) : https://jlm27.fr/p/Nqvek2Zp0W</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>y8BZe7y6tEY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/y8BZe7y6tEY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Discours sur la paix - Jean-Luc Mélenchon à La Souterraine</title>
       <link>https://www.youtube.com/watch?v=xZoKroZbxbA</link>
@@ -420,17 +435,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>JZoJXZhEatg</videoId>
       <enclosure url="https://i.ytimg.com/vi/JZoJXZhEatg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Clémence Guetté en direct sur France Info !</title>
-      <link>https://www.youtube.com/watch?v=SKa6T75hV_c</link>
-      <guid>https://www.youtube.com/watch?v=SKa6T75hV_c</guid>
-      <pubDate>2026-11-07T17:49:08+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>J'étais invitée en direct du duplex de France Info. À retrouver en intégralité.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>SKa6T75hV_c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SKa6T75hV_c/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
