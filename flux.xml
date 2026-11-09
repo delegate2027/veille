@@ -4,8 +4,31 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 16:45:43 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:01:14 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Discours sur la paix - Jean-Luc Mélenchon à La Souterraine</title>
+      <link>https://www.youtube.com/watch?v=xZoKroZbxbA</link>
+      <guid>https://www.youtube.com/watch?v=xZoKroZbxbA</guid>
+      <pubDate>2026-11-09T16:54:35+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Ce mercredi 11 novembre, rendez-vous à 16h45 pour suivre en direct un discours de Jean-Luc Mélenchon sur la paix.
+
+Retrouvez toutes les informations sur : https://actionpopulaire.fr/evenements/0b75e623-33b2-4e4e-8e73-add257957513/
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>xZoKroZbxbA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/xZoKroZbxbA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ALEKSANDAR NIKOLIC est l'invité de LCI !</title>
       <link>https://www.youtube.com/watch?v=W-9Ss3Ggxug</link>
@@ -408,28 +431,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Clémence Guetté</channelTitle>
       <videoId>SKa6T75hV_c</videoId>
       <enclosure url="https://i.ytimg.com/vi/SKa6T75hV_c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📺 Le gouvernement refuse de répondre aux revendications populaires</title>
-      <link>https://www.youtube.com/watch?v=zam5_D814JU</link>
-      <guid>https://www.youtube.com/watch?v=zam5_D814JU</guid>
-      <pubDate>2026-11-07T09:15:19+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce vendredi 6 novembre 2026 sur BFM TV 
-
----
-
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram :   / danieleobono  
-➡️ Facebook :   / danieleobono  
-➡️ Bluesky : https://bsky.app/profile/danieleobono
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok :   / danieleobono  
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>zam5_D814JU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zam5_D814JU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
