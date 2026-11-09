@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 09 Nov 2026 20:01:33 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:15:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>"SMIC : ce n'est pas une augmentation, c'est une provocation" Marine Tondelier au 20H de TF1</title>
+      <link>https://www.youtube.com/watch?v=7lHfA5IPeeI</link>
+      <guid>https://www.youtube.com/watch?v=7lHfA5IPeeI</guid>
+      <pubDate>2026-11-09T20:12:25+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>7lHfA5IPeeI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7lHfA5IPeeI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Projet de loi de fin de gestion : nos victoires pour des soignants et la jeunesse !</title>
       <link>https://www.youtube.com/watch?v=46GljAdXSiM</link>
@@ -376,49 +387,6 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>793lEPBVgaE</videoId>
       <enclosure url="https://i.ytimg.com/vi/793lEPBVgaE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Je ne serai jamais pessimiste » | Édouard Philippe aux Rencontres de l’Avenir</title>
-      <link>https://www.youtube.com/watch?v=JZoJXZhEatg</link>
-      <guid>https://www.youtube.com/watch?v=JZoJXZhEatg</guid>
-      <pubDate>2026-11-08T01:33:58+00:00</pubDate>
-      <author>Edouard Philippe</author>
-      <description>Édouard Philippe participait au débat présidentiel des Rencontres de l’Avenir 2026, autour de la question : « Quelles raisons de croire en l’avenir de la France ? ». Il a été interrogé par Nicolas Bouzou, Nora Bussigny et Olivier Babeau.
-
-Face à un pessimisme record (82 % des Français voient l’avenir négativement), il défend une boussole : faire chaque choix dans l’intérêt de nos enfants et de la France de demain.
-
-Il a abordé l’angoisse de la jeunesse et la réforme de Parcoursup, la nécessité de dire la vérité aux Français, la politique de l’offre qu’il a menée à Matignon, son plan pour redresser les comptes publics, l’intelligence artificielle comme instrument de puissance, et le rassemblement de la droite et du centre.
-
-« Je suis intimement convaincu que nous avons toutes les armes pour le faire. »
-
-0:00 82 % des Français pessimistes
-2:39 La confiance dans les maires
-6:10 Jeunesse : « la boussole, c’est l’intérêt de nos enfants »
-9:45 Lycéens et Parcoursup : ce qu’il faut changer
-18:31 Peut-on être élu en disant la vérité ?
-23:52 La politique de l’offre : « je l’assume »
-30:44 Redresser les comptes publics
-35:59 Impôts de production : le « double effacement »
-37:44 L’IA, un instrument de puissance
-43:56 Primaire : « créer du commun »
-47:31 Sa vision de la France de demain
-49:57 Le Havre, la preuve que c’est possible
-
-#ÉdouardPhilippe #RencontresDeLAvenir #Présidentielle2027
----
-Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
-
-→ Twitter : https://x.com/Avec_Edouard
-→ Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
-→ Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
-→ Linkedin : https://www.linkedin.com/company/avecedouard
-→ YouTube : https://www.youtube.com/@AvecEdouard
-→ TikTok : https://www.tiktok.com/@avec_edouard
-→ Telegram : https://t.me/HorizonsOff
-→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
-      <channelTitle>Edouard Philippe</channelTitle>
-      <videoId>JZoJXZhEatg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/JZoJXZhEatg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
