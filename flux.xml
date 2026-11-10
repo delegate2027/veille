@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 13:15:48 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:31:02 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Pour une école de tous les savoirs !</title>
+      <link>https://www.youtube.com/watch?v=_1yLr2gn9Uo</link>
+      <guid>https://www.youtube.com/watch?v=_1yLr2gn9Uo</guid>
+      <pubDate>2026-11-10T13:26:22+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>Retrouvez notre cahier de campagne sur l'éducation sur le site nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>_1yLr2gn9Uo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_1yLr2gn9Uo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jordan Bardella est l'invité de « Face à BFM » sur BFMTV !</title>
       <link>https://www.youtube.com/watch?v=8ifDCfn2j74</link>
@@ -396,19 +409,6 @@ https://twitter.com/partiudr
       <channelTitle>UDR</channelTitle>
       <videoId>S3ZF_EB8HnY</videoId>
       <enclosure url="https://i.ytimg.com/vi/S3ZF_EB8HnY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"La première urgence, c’est de mettre fin à l’impunité, une peine prononcée doit être exécutée."</title>
-      <link>https://www.youtube.com/watch?v=Ekm0-sMbkZ0</link>
-      <guid>https://www.youtube.com/watch?v=Ekm0-sMbkZ0</guid>
-      <pubDate>2026-11-09T08:22:17+00:00</pubDate>
-      <author>François-Xavier Bellamy</author>
-      <description>François-Xavier Bellamy était l'invité de Laurence Ferrari ce matin sur Cnews et Europe 1.
-
-Il est revenu sur la nécessité de mettre en place l'état d'urgence pour lutter contre les violences commises ces dernières semaines. Il est également revenu sur le programme de Jean-Luc Mélenchon ainsi que sur la conférence sociale prévue aujourd'hui.</description>
-      <channelTitle>François-Xavier Bellamy</channelTitle>
-      <videoId>Ekm0-sMbkZ0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ekm0-sMbkZ0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
