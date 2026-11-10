@@ -4,63 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 06:30:52 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:45:38 -0000</lastBuildDate>
     <feedCount>50</feedCount>
-    <item>
-      <title>Marine Tondelier va-t-elle se désister ? Elle répond au JT de 20H de Gilles Bouleau sur TF1</title>
-      <link>https://www.youtube.com/watch?v=7lHfA5IPeeI</link>
-      <guid>https://www.youtube.com/watch?v=7lHfA5IPeeI</guid>
-      <pubDate>2026-11-09T20:12:25+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Le 9 novembre 2026, pour l'ouverture de la COP31, Marine Tondelier était sur le plateau du JT de TF1.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>7lHfA5IPeeI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7lHfA5IPeeI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présentation de nos mesures pour la culture.</title>
-      <link>https://www.youtube.com/watch?v=pxcX-DyK2uQ</link>
-      <guid>https://www.youtube.com/watch?v=pxcX-DyK2uQ</guid>
-      <pubDate>2026-11-09T14:07:37+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Avec : Marine Tondelier, Antoinette Guhl, David Cormand, Anne Souyris et Édouard DENOUEL
-À la médiathèque de Bagnolet le 9 novembre 2026</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>pxcX-DyK2uQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pxcX-DyK2uQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Votre réponse n'est pas à la hauteur !" Marine Tondelier et Sonia Mabrouk sur l'attentat de Trappes</title>
-      <link>https://www.youtube.com/watch?v=zAVNAb0hPyY</link>
-      <guid>https://www.youtube.com/watch?v=zAVNAb0hPyY</guid>
-      <pubDate>2026-11-05T19:45:13+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Plateau du 5 novembre 2026 dans 100% Mabrouk après les manifestations de l'intersyndicale.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>zAVNAb0hPyY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zAVNAb0hPyY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier : "l'extrême droite au pouvoir finit toujours par se décrédibiliser" (Public Sénat)</title>
-      <link>https://www.youtube.com/watch?v=lVhXN2Wu_4w</link>
-      <guid>https://www.youtube.com/watch?v=lVhXN2Wu_4w</guid>
-      <pubDate>2026-11-05T07:54:55+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Matinale du 5 novembre 2026 dans "Bonjour chez vous" sur Public Sénat, avant la grande journée de mobilisation.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>lVhXN2Wu_4w</videoId>
-      <enclosure url="https://i.ytimg.com/vi/lVhXN2Wu_4w/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier : "ce gouvernement ne sait même plus organiser une simple manifestation" (LCI)</title>
-      <link>https://www.youtube.com/watch?v=WmGEG69a_04</link>
-      <guid>https://www.youtube.com/watch?v=WmGEG69a_04</guid>
-      <pubDate>2026-11-04T21:22:10+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Le 4 novembre 2026, Marine Tondelier a répondu aux questions d'un panel de 5 Français·es à la veille de la journée de mobilisation du 5 novembre.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>WmGEG69a_04</videoId>
-      <enclosure url="https://i.ytimg.com/vi/WmGEG69a_04/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
