@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 13:31:02 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:45:41 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Répondre aux revendications lycéennes et étudiantes grâce au projet de loi de fin de gestion</title>
+      <link>https://www.youtube.com/watch?v=ol6p3kflf_A</link>
+      <guid>https://www.youtube.com/watch?v=ol6p3kflf_A</guid>
+      <pubDate>2026-11-10T13:42:17+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Le projet de loi de fin de gestion est devenu un instrument permettant au gouvernement d'imposer des coupes budgétaires en fin d'année, sans que l'Assemblée nationale puisse proposer de nouvelles recettes, contrairement à un projet de loi de finances rectificative.
+
+Nous proposons, par amendements, d'y inscrire 5 milliards d'euros de mesures issues des revendications du mouvement étudiant et lycéen, sans les renvoyer aux aléas de l'examen du budget.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>ol6p3kflf_A</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ol6p3kflf_A/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pour une école de tous les savoirs !</title>
       <link>https://www.youtube.com/watch?v=_1yLr2gn9Uo</link>
@@ -383,32 +396,6 @@ Au programme également : nucléaire, nationalisations, allocation d’autonomie
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>nlcP1r4GJns</videoId>
       <enclosure url="https://i.ytimg.com/vi/nlcP1r4GJns/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Éric Ciotti aux Rencontres de l'Avenir 2026 : l'avenir de nos institution et de notre économie</title>
-      <link>https://www.youtube.com/watch?v=S3ZF_EB8HnY</link>
-      <guid>https://www.youtube.com/watch?v=S3ZF_EB8HnY</guid>
-      <pubDate>2026-11-09T08:33:45+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo :
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>S3ZF_EB8HnY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/S3ZF_EB8HnY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
