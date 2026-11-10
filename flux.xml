@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 08:15:51 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:31:05 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Il faut INTERDIRE les produits issus des COLONIES ISRAÉLIENNES</title>
+      <link>https://www.youtube.com/watch?v=e2Hn8B4aqnU</link>
+      <guid>https://www.youtube.com/watch?v=e2Hn8B4aqnU</guid>
+      <pubDate>2026-11-10T08:30:38+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>Nous soutenons la proposition de loi visant à interdire les relations commerciales contribuant à la politique de colonisation en Palestine et dans le Territoire syrien occupé des hauteurs du Golan.
+
+Mais soyons clairs : elle est loin d’être suffisante. On ne met pas fin à des crimes de masse en retirant quelques produits des rayons. Les solutions sont connues : embargo sur les armes, respect des mandats d’arrêt de la CPI, rupture de l’accord d’association UE-Israel, poursuite des criminels et de leurs complices, rupture totale des partenariats culturels, universitaires, commerciaux, sportifs avec Israël et sanctions économiques. C’est ce que nous ferons. En attendant le boycott doit être total.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>e2Hn8B4aqnU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/e2Hn8B4aqnU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Gabriel Attal sur France Inter | Il faut une grande primaire !</title>
       <link>https://www.youtube.com/watch?v=pCu-qJyfLak</link>
@@ -371,27 +384,6 @@ Il est revenu sur la nécessité de mettre en place l'état d'urgence pour lutte
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>pUvuL98fMfk</videoId>
       <enclosure url="https://i.ytimg.com/vi/pUvuL98fMfk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Meeting du Bourget, sortie du programme, augmentation du SMIC : Manuel Bompard, invité de BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=bZG3p06ak8Y</link>
-      <guid>https://www.youtube.com/watch?v=bZG3p06ak8Y</guid>
-      <pubDate>2026-11-08T12:38:14+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur BFM TV du dimanche 8 novembre 2026.
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>bZG3p06ak8Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/bZG3p06ak8Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
