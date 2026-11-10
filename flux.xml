@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 23:01:08 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:15:42 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Jordan Bardella sur BFMTV : « Je veux m'adresser à la majorité silencieuse de nos compatriotes. »</title>
+      <link>https://www.youtube.com/watch?v=2MRncUq3VtI</link>
+      <guid>https://www.youtube.com/watch?v=2MRncUq3VtI</guid>
+      <pubDate>2026-11-10T23:01:50+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>2MRncUq3VtI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2MRncUq3VtI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Zemmour face aux voix d'internet</title>
       <link>https://www.youtube.com/watch?v=ntOjSe5GkSo</link>
@@ -437,17 +457,6 @@ Retrouvez toutes les informations sur : https://actionpopulaire.fr/evenements/0b
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>xZoKroZbxbA</videoId>
       <enclosure url="https://i.ytimg.com/vi/xZoKroZbxbA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La France doit rompre avec son rapport colonial aux territoires ultramarins | Sandrine Rousseau</title>
-      <link>https://www.youtube.com/watch?v=iCjaswgEdsE</link>
-      <guid>https://www.youtube.com/watch?v=iCjaswgEdsE</guid>
-      <pubDate>2026-11-09T15:20:43+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description />
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>iCjaswgEdsE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iCjaswgEdsE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
