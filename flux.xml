@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 10:45:49 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:01:09 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Manon Aubry face à BFM TV</title>
+      <link>https://www.youtube.com/watch?v=PswabZExeWI</link>
+      <guid>https://www.youtube.com/watch?v=PswabZExeWI</guid>
+      <pubDate>2026-11-10T10:48:25+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>BFM TV le 09 novembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>PswabZExeWI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PswabZExeWI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY est l'invité de CNEWS !</title>
       <link>https://www.youtube.com/watch?v=FDtA_e_VuEY</link>
@@ -373,17 +384,6 @@ Il est revenu sur la nécessité de mettre en place l'état d'urgence pour lutte
       <channelTitle>Laurent Wauquiez</channelTitle>
       <videoId>gt_oR5F7L1I</videoId>
       <enclosure url="https://i.ytimg.com/vi/gt_oR5F7L1I/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Liberté, Égalité, Solidarité : retour sur le meeting de Jean-Luc Mélenchon au Bourget</title>
-      <link>https://www.youtube.com/watch?v=pUvuL98fMfk</link>
-      <guid>https://www.youtube.com/watch?v=pUvuL98fMfk</guid>
-      <pubDate>2026-11-08T13:06:07+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description />
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>pUvuL98fMfk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pUvuL98fMfk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
