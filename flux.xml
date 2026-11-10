@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 16:15:44 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:30:59 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Violences policières : Sandrine Rousseau interroge le Ministre de l'intérieur sur sa responsabilité</title>
+      <link>https://www.youtube.com/watch?v=c3XMIvfMkqo</link>
+      <guid>https://www.youtube.com/watch?v=c3XMIvfMkqo</guid>
+      <pubDate>2026-11-10T16:28:48+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description>La police est un service public soumis aux principes républicains de Liberté, Égalité, Fraternité. Pourtant les «dérapages» sont si nombreux et graves qu’une question se pose:
+
+M. Nunes, les forces de l’ordre concernées par ces faits ont-elles agi sur vos ordres ou sont-elles hors de votre contrôle?
+--
+Question au gouvernement du 10/11/2026</description>
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>c3XMIvfMkqo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/c3XMIvfMkqo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>“Partout, des moyens disproportionnés de maintien de l’ordre ont été utilisés”</title>
       <link>https://www.youtube.com/watch?v=JHA0AaBXzlY</link>
@@ -297,19 +312,6 @@ Retrouvez toutes les informations sur : https://actionpopulaire.fr/evenements/0b
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>xZoKroZbxbA</videoId>
       <enclosure url="https://i.ytimg.com/vi/xZoKroZbxbA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ALEKSANDAR NIKOLIC est l'invité de LCI !</title>
-      <link>https://www.youtube.com/watch?v=W-9Ss3Ggxug</link>
-      <guid>https://www.youtube.com/watch?v=W-9Ss3Ggxug</guid>
-      <pubDate>2026-11-09T15:45:02+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>W-9Ss3Ggxug</videoId>
-      <enclosure url="https://i.ytimg.com/vi/W-9Ss3Ggxug/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>La France doit rompre avec son rapport colonial aux territoires ultramarins | Sandrine Rousseau</title>
