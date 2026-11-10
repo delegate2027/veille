@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 16:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:01:18 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Violences policières : Sandrine Rousseau interroge le Ministre de l'intérieur sur sa responsabilité</title>
@@ -160,19 +160,6 @@ https://twitter.com/partiudr
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>PswabZExeWI</videoId>
       <enclosure url="https://i.ytimg.com/vi/PswabZExeWI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY est l'invité de CNEWS !</title>
-      <link>https://www.youtube.com/watch?v=FDtA_e_VuEY</link>
-      <guid>https://www.youtube.com/watch?v=FDtA_e_VuEY</guid>
-      <pubDate>2026-11-10T08:47:14+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>FDtA_e_VuEY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/FDtA_e_VuEY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Il faut INTERDIRE les produits issus des COLONIES ISRAÉLIENNES</title>
@@ -397,6 +384,19 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>56Z2jQEd6iM</videoId>
       <enclosure url="https://i.ytimg.com/vi/56Z2jQEd6iM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Lecture par 12 élus insoumis du texte de Victor Hugo « Nous sommes tes fils, Révolution ! »</title>
+      <link>https://www.youtube.com/watch?v=rAIL3Pkrz70</link>
+      <guid>https://www.youtube.com/watch?v=rAIL3Pkrz70</guid>
+      <pubDate>2026-11-09T09:33:31+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>Lecture par 12 élus insoumis du texte de Victor Hugo « Nous sommes tes fils, Révolution ! »
+
+« Aujourd’hui pour toute la terre, la France s’appelle Révolution ; et désormais ce mot, Révolution, sera le nom de la civilisation jusqu’à ce qu’il soit remplacé par le mot Harmonie. »</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>rAIL3Pkrz70</videoId>
+      <enclosure url="https://i.ytimg.com/vi/rAIL3Pkrz70/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
