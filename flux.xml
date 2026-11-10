@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 20:01:08 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 20:15:38 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>DLIVE</title>
+      <link>https://www.youtube.com/watch?v=ikzfcs0PPfs</link>
+      <guid>https://www.youtube.com/watch?v=ikzfcs0PPfs</guid>
+      <pubDate>2026-11-10T20:00:01+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>Suivez en direct le premier DLIVE</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>ikzfcs0PPfs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ikzfcs0PPfs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>DLIVE</title>
       <link>https://www.youtube.com/watch?v=pIh7AkOHYcs</link>
@@ -404,18 +415,6 @@ Suivi d'une table ronde en présence d'Anicet Le Pors, Caroline Chevé, Barbara 
       <channelTitle>DAMIEN MAUDET</channelTitle>
       <videoId>IkUfmUzssvA</videoId>
       <enclosure url="https://i.ytimg.com/vi/IkUfmUzssvA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présentation de nos mesures pour la culture.</title>
-      <link>https://www.youtube.com/watch?v=pxcX-DyK2uQ</link>
-      <guid>https://www.youtube.com/watch?v=pxcX-DyK2uQ</guid>
-      <pubDate>2026-11-09T14:07:37+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Avec : Marine Tondelier, Antoinette Guhl, David Cormand, Anne Souyris et Édouard DENOUEL
-À la médiathèque de Bagnolet le 9 novembre 2026</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>pxcX-DyK2uQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pxcX-DyK2uQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
