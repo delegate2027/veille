@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 08:01:13 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:15:51 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Gabriel Attal sur France Inter | Il faut une grande primaire !</title>
+      <link>https://www.youtube.com/watch?v=pCu-qJyfLak</link>
+      <guid>https://www.youtube.com/watch?v=pCu-qJyfLak</guid>
+      <pubDate>2026-11-10T08:03:25+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal était l'invité de France Inter pour parler de la grande primaire pour sauver la France d'un second tour entre le Rassemblement National et La France Insoumise.
+
+Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>pCu-qJyfLak</videoId>
+      <enclosure url="https://i.ytimg.com/vi/pCu-qJyfLak/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>📺 Y A PAS PHOTO : « L'Avenir en commun » est le meilleur programme #presidentielle2027</title>
       <link>https://www.youtube.com/watch?v=dE3z6IiOdCA</link>
@@ -370,17 +392,6 @@ Il est revenu sur la nécessité de mettre en place l'état d'urgence pour lutte
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>bZG3p06ak8Y</videoId>
       <enclosure url="https://i.ytimg.com/vi/bZG3p06ak8Y/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Meeting du Bourget, programme présidentiel, pouvoir d'achat : Clémence Guetté sur LCI !</title>
-      <link>https://www.youtube.com/watch?v=ZVb4Ei6KsFs</link>
-      <guid>https://www.youtube.com/watch?v=ZVb4Ei6KsFs</guid>
-      <pubDate>2026-11-08T12:06:36+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>J'étais ce matin l'invitée sur LCI pour parler de la campagne présidentielle et de notre meeting au Bourget. À retrouver en intégralité.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>ZVb4Ei6KsFs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ZVb4Ei6KsFs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
