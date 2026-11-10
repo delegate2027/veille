@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 15:45:42 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:01:09 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Vive la France une et indivisible !</title>
+      <link>https://www.youtube.com/watch?v=v5uFQymMOU0</link>
+      <guid>https://www.youtube.com/watch?v=v5uFQymMOU0</guid>
+      <pubDate>2026-11-10T15:46:45+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Retrouvez le clip diffusé à l'occasion du grand meeting au Bourget, le 7 novembre 2026.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>v5uFQymMOU0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/v5uFQymMOU0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SMIC : « Ce sont des miettes que vous lâchez ! »</title>
       <link>https://www.youtube.com/watch?v=5QUS7FBtwow</link>
@@ -374,28 +395,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>rAIL3Pkrz70</videoId>
       <enclosure url="https://i.ytimg.com/vi/rAIL3Pkrz70/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fabien Roussel sur franceinfo : salaires, nucléaire et présidentielle 2027</title>
-      <link>https://www.youtube.com/watch?v=-crmm1UXPzw</link>
-      <guid>https://www.youtube.com/watch?v=-crmm1UXPzw</guid>
-      <pubDate>2026-11-09T09:30:39+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Fabien Roussel détaille sur franceinfo TV les propositions qu’il porte dans la campagne présidentielle de 2027 : augmenter les salaires, baisser les factures d’énergie et réindustrialiser la France.
-
-Le secrétaire national du Parti communiste français répond aux questions sur le SMIC, la fiscalité du capital, Parcoursup et les moyens consacrés à la jeunesse. Il revient également sur la guerre en Ukraine,  le rassemblement de la gauche face à l’extrême droite.
-
-Au programme également : nucléaire, nationalisations, allocation d’autonomie pour les étudiants, data centers, souveraineté numérique et avenir de l’industrie française, avec le cas de Vallourec.
-
-00:00 Salaires, pouvoir d’achat et fiscalité
-12:54 Jeunesse, Parcoursup et guerre en Ukraine
-19:24 Présidentielle 2027
-26:35 Nucléaire, nationalisations et programme social
-33:58 Data centers, souveraineté numérique et défense
-42:03 Vote RN et avenir de l’industrie française</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>-crmm1UXPzw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/-crmm1UXPzw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
