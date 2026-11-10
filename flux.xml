@@ -4,8 +4,37 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 18:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:01:14 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Il se fait PERQUISITIONNER par le RAID pour son SOUTIEN à la Palestine - Interrègne</title>
+      <link>https://www.youtube.com/watch?v=ZewqbKM0TvM</link>
+      <guid>https://www.youtube.com/watch?v=ZewqbKM0TvM</guid>
+      <pubDate>2026-11-10T19:00:11+00:00</pubDate>
+      <author>Révolution Permanente</author>
+      <description>Dans ce nouvel épisode d’Interrègne, nous interviewons Tom Martin, militant anti-impérialiste à Toulouse, récemment visé par une intervention du RAID en raison de son soutien à la Palestine.
+
+Nous reviendrons ensemble sur la répression des militants solidaires du peuple palestinien et sur la complicité de l’État français dans les politiques impérialistes au Moyen-Orient.
+
+Venez pour un grand meeting révolutionnaire autour de la candidature d'Anasse Kazib ! Avec Alexis Durey, Elsa Marcel et lycéens et travailleurs en lutte.
+https://my.weezevent.com/meeting-anasse-2027-grand-meeting-revolutionnaire-a-paris
+
+Abonnez-vous à notre chaîne YouTube !
+➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
+
+★ Retrouvez-nous sur les réseaux sociaux :
+▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
+▸Twitter ▸ https://twitter.com/@RevPermanente
+▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
+▸Telegram ▸ https://t.me/revolution_permanente
+▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
+      <channelTitle>Révolution Permanente</channelTitle>
+      <videoId>ZewqbKM0TvM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ZewqbKM0TvM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>GABRIEL ATTAL DÉBAT AUX RENCONTRES DE L'AVENIR À SAINT-RAPHAËL</title>
       <link>https://www.youtube.com/watch?v=fZXNZKsc0n8</link>
@@ -397,17 +426,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>DPFg40ZO9C8</videoId>
       <enclosure url="https://i.ytimg.com/vi/DPFg40ZO9C8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Vite, le SMIC à 1.700 euros !</title>
-      <link>https://www.youtube.com/watch?v=56Z2jQEd6iM</link>
-      <guid>https://www.youtube.com/watch?v=56Z2jQEd6iM</guid>
-      <pubDate>2026-11-09T11:19:09+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot sur RTL, le lundi 9 novembre 2026 à 7h40.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>56Z2jQEd6iM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/56Z2jQEd6iM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
