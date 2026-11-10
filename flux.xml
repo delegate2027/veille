@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 15:01:14 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:15:45 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>SMIC : « Ce sont des miettes que vous lâchez ! »</title>
+      <link>https://www.youtube.com/watch?v=5QUS7FBtwow</link>
+      <guid>https://www.youtube.com/watch?v=5QUS7FBtwow</guid>
+      <pubDate>2026-11-10T15:07:33+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Notre député Jérémie Iordanoff interpelle le Premier ministre au sujet de l'augmentation du SMIC et de la colère populaire.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>5QUS7FBtwow</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5QUS7FBtwow/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Répondre aux revendications lycéennes et étudiantes grâce au projet de loi de fin de gestion</title>
       <link>https://www.youtube.com/watch?v=ol6p3kflf_A</link>
@@ -385,17 +396,6 @@ Au programme également : nucléaire, nationalisations, allocation d’autonomie
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>-crmm1UXPzw</videoId>
       <enclosure url="https://i.ytimg.com/vi/-crmm1UXPzw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Notre programme l’Avenir en commun - interview par Apolline de Malherbe</title>
-      <link>https://www.youtube.com/watch?v=nlcP1r4GJns</link>
-      <guid>https://www.youtube.com/watch?v=nlcP1r4GJns</guid>
-      <pubDate>2026-11-09T08:57:54+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Éric Coquerel était l'invité du 9/10 Apolline de Malherbe, après la réussite du meeting de Jean-Luc Mélenchon au Bourget sur la présentation du programme l'Avenir en commun, avec 20 000 personnes présente.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>nlcP1r4GJns</videoId>
-      <enclosure url="https://i.ytimg.com/vi/nlcP1r4GJns/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
