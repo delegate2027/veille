@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 10 Nov 2026 12:31:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:45:41 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Jordan Bardella est l'invité de « Face à BFM » sur BFMTV !</title>
+      <link>https://www.youtube.com/watch?v=8ifDCfn2j74</link>
+      <guid>https://www.youtube.com/watch?v=8ifDCfn2j74</guid>
+      <pubDate>2026-11-10T12:35:51+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>8ifDCfn2j74</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8ifDCfn2j74/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Les Français ne sont pas des assistés, contrairement au RN</title>
       <link>https://www.youtube.com/watch?v=YAzMBc6-Rz8</link>
@@ -388,17 +409,6 @@ Il est revenu sur la nécessité de mettre en place l'état d'urgence pour lutte
       <channelTitle>François-Xavier Bellamy</channelTitle>
       <videoId>Ekm0-sMbkZ0</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ekm0-sMbkZ0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Vive la Nouvelle France ! – Discours de Mathilde Panot à la Convention de la France insoumise</title>
-      <link>https://www.youtube.com/watch?v=v1XNJwFdgt4</link>
-      <guid>https://www.youtube.com/watch?v=v1XNJwFdgt4</guid>
-      <pubDate>2026-11-08T19:35:23+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez le discours de Mathilde Panot à la Convention de la France insoumise au Bourget, le 7 novembre 2026.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>v1XNJwFdgt4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/v1XNJwFdgt4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
