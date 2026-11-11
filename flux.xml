@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 11 Nov 2026 17:01:31 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:15:50 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Le dossier du jour : Grève générale ! – En campagne #6</title>
+      <link>https://www.youtube.com/watch?v=3rwZJIwBPjs</link>
+      <guid>https://www.youtube.com/watch?v=3rwZJIwBPjs</guid>
+      <pubDate>2026-11-11T17:00:36+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Avec Ryad Rani, Kamel Brahmi et Ludivine Bantigny.
+
+Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/live/IopyyAlu01Q</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>3rwZJIwBPjs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/3rwZJIwBPjs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>11 Novembre : on ne prépare pas l'avenir en effaçant le passé | Marine Le Pen à Hénin-Beaumont</title>
       <link>https://www.youtube.com/watch?v=Gebzo6e0gmE</link>
@@ -420,31 +433,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>dE3z6IiOdCA</videoId>
       <enclosure url="https://i.ytimg.com/vi/dE3z6IiOdCA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>De Gaulle : l’exigence de l’ordre</title>
-      <link>https://www.youtube.com/watch?v=p929gMZUDxg</link>
-      <guid>https://www.youtube.com/watch?v=p929gMZUDxg</guid>
-      <pubDate>2026-11-09T21:11:24+00:00</pubDate>
-      <author>Bruno Retailleau</author>
-      <description>Pour remettre la France en ordre, je remettrai le peuple au premier rang.
-
-À Colombey, en ce 9 novembre, je rends hommage au général de Gaulle et à l’exigence qui guidait son action : un État respecté, des finances tenues, des frontières gardées et un peuple souverain.
-
-Cet héritage nous oblige. Sécurité, justice, immigration, travail, maîtrise des comptes publics : dans ce discours, je présente les priorités que je défends pour remettre la France en ordre et rendre la parole aux Français par le référendum.
-
-Je défends aussi une France indépendante, capable de maîtriser son avenir énergétique, industriel et agricole, et de relever le défi de l’intelligence artificielle.
-
-À tous les Français qui ne se résignent pas : tenez bon, tenez ferme !
-
-
-https://www.avecretailleau.fr/
-
-
-#France #DeGaulle #Colombey</description>
-      <channelTitle>Bruno Retailleau</channelTitle>
-      <videoId>p929gMZUDxg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/p929gMZUDxg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
