@@ -4,83 +4,140 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 11 Nov 2026 05:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:15:42 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
-      <title>Pour une école de tous les savoirs !</title>
-      <link>https://www.youtube.com/watch?v=_1yLr2gn9Uo</link>
-      <guid>https://www.youtube.com/watch?v=_1yLr2gn9Uo</guid>
-      <pubDate>2026-11-10T13:26:22+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>Retrouvez notre cahier de campagne sur l'éducation sur le site nouspresident.fr
-
-Merci à @botanadeliciosa et @tableedeschefs_fr !
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>_1yLr2gn9Uo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_1yLr2gn9Uo/maxresdefault.jpg" type="image/jpeg" />
+      <title>Damien Maudet dans la matinale d'ICI Limousin</title>
+      <link>https://www.youtube.com/watch?v=IkUfmUzssvA</link>
+      <guid>https://www.youtube.com/watch?v=IkUfmUzssvA</guid>
+      <pubDate>2026-11-09T14:29:24+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description />
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>IkUfmUzssvA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/IkUfmUzssvA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Manon Aubry face à BFM TV</title>
-      <link>https://www.youtube.com/watch?v=PswabZExeWI</link>
-      <guid>https://www.youtube.com/watch?v=PswabZExeWI</guid>
-      <pubDate>2026-11-10T10:48:25+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>BFM TV le 09 novembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>PswabZExeWI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PswabZExeWI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le programme qui va tout changer ! (Manon Aubry face à Giesbert sur BFM)</title>
-      <link>https://www.youtube.com/watch?v=KMkQuVsS5zc</link>
-      <guid>https://www.youtube.com/watch?v=KMkQuVsS5zc</guid>
-      <pubDate>2026-11-07T00:38:08+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Le programme qui va tout changer !
+      <title>Le logement : une priorité pour Marine Le Pen | Au cœur de la campagne #2 · F. Falcon et J. Sanchez</title>
+      <link>https://www.youtube.com/watch?v=KLug5vqw2kk</link>
+      <guid>https://www.youtube.com/watch?v=KLug5vqw2kk</guid>
+      <pubDate>2026-11-06T10:19:49+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
 
-Manon Aubry présente de le programme de la France Insoumise et de Jean-Luc Mélenchon face à Giesbert sur BFM.
+Chaque mercredi, « Au cœur de la campagne » vous fait vivre de l'intérieur la campagne présidentielle de Marine Le Pen.
 
-Vendredi 6 novembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>KMkQuVsS5zc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/KMkQuVsS5zc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sarah Saldmann, histoire d'une conversion</title>
-      <link>https://www.youtube.com/watch?v=QtA3IIhSC78</link>
-      <guid>https://www.youtube.com/watch?v=QtA3IIhSC78</guid>
-      <pubDate>2026-11-06T15:16:05+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>2 ans jour pour jour après la sortie du film "Au Boulot !", Sarah Saldmann et François Ruffin refont l'histoire d'une conversion.
+Pour ce deuxième épisode, « Le logement : une priorité pour Marine Le Pen », Frédéric Falcon, coordinateur du Pôle logement de la campagne, et Julien Sanchez, directeur de campagne, échangent autour de l'accès au logement et à la propriété pour les Français.
 
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>QtA3IIhSC78</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QtA3IIhSC78/maxresdefault.jpg" type="image/jpeg" />
+Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>KLug5vqw2kk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/KLug5vqw2kk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Manon Aubry face à BFM TV</title>
-      <link>https://www.youtube.com/watch?v=gFFtiVg8B1I</link>
-      <guid>https://www.youtube.com/watch?v=gFFtiVg8B1I</guid>
-      <pubDate>2026-11-02T16:01:06+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>BFM TV le 31 octobre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>gFFtiVg8B1I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gFFtiVg8B1I/maxresdefault.jpg" type="image/jpeg" />
+      <title>🟠 RÉPRESSION DES LYCÉENS, LOI INTÉGRALE, UKRAINE - Clémentine Autain sur France Info</title>
+      <link>https://www.youtube.com/watch?v=HQC2RRaCWqQ</link>
+      <guid>https://www.youtube.com/watch?v=HQC2RRaCWqQ</guid>
+      <pubDate>2026-10-12T10:20:47+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>Clémentine Autain sur Franceinfo, dimanche 11 octobre 2026. 
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>HQC2RRaCWqQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/HQC2RRaCWqQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Mobilisation lycéenne, vie chère, présidentielle : Manon Aubry invitée de la matinale de Sud Radio</title>
-      <link>https://www.youtube.com/watch?v=bTxe-8-n4I8</link>
-      <guid>https://www.youtube.com/watch?v=bTxe-8-n4I8</guid>
-      <pubDate>2026-11-02T09:50:55+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Sud Radio le 2 novembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>bTxe-8-n4I8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/bTxe-8-n4I8/maxresdefault.jpg" type="image/jpeg" />
+      <title>🟠 VSS : LOI DITE « INTÉGRALE » - MON DISCOURS À L'ASSEMBLÉE EN INTÉGRALITÉ</title>
+      <link>https://www.youtube.com/watch?v=MCGv2iXqX1I</link>
+      <guid>https://www.youtube.com/watch?v=MCGv2iXqX1I</guid>
+      <pubDate>2026-10-01T18:05:08+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>Mon discours à l'Assemblée nationale pour la loi dite intégrale contre les violences faites aux femmes et aux enfants, en intégralité.
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>MCGv2iXqX1I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/MCGv2iXqX1I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>VSS : LOI DITE « INTÉGRALE » - JE VOUS EXPLIQUE TOUT EN MOINS DE 15 MINUTES !</title>
+      <link>https://www.youtube.com/watch?v=vmBBDkDKsi8</link>
+      <guid>https://www.youtube.com/watch?v=vmBBDkDKsi8</guid>
+      <pubDate>2026-09-16T19:01:08+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>La loi dite intégrale pour lutter contre les violences faites aux femmes et aux enfants arrive à l'Assemblée nationale. Que contient-elle ? Quelles sont les avancées et les limites de cette proposition de loi ? Je vous explique en 15 minutes.
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>vmBBDkDKsi8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vmBBDkDKsi8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🟠 FIN DE LA PRIMAIRE ET CANICULE - Clémentine Autain aux 4V sur France 2</title>
+      <link>https://www.youtube.com/watch?v=Nw4rSUpD4wE</link>
+      <guid>https://www.youtube.com/watch?v=Nw4rSUpD4wE</guid>
+      <pubDate>2026-07-11T08:09:57+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>Clémentine Autain était l'invité des 4V sur France 2 samedi 11 juillet 2026.
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>Nw4rSUpD4wE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Nw4rSUpD4wE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🟠 CLÉMENTINE AUTAIN SUR FRANCE INTER - CADMIUM ET SÉCURITÉ SOCIALE DE L'ALIMENTATION</title>
+      <link>https://www.youtube.com/watch?v=ZJ9YzQlW5bY</link>
+      <guid>https://www.youtube.com/watch?v=ZJ9YzQlW5bY</guid>
+      <pubDate>2026-06-08T11:23:03+00:00</pubDate>
+      <author>Clémentine Autain</author>
+      <description>Clémentine Autain était dans la matinale de France Inter lundi 8 juin 2026.
+
+Retrouvez moi sur mes réseaux sociaux :
+
+👉 Bluesky : https://bsky.app/profile/clementineautain.bsky.social
+👉 Twitter / X : https://x.com/Clem_Autain 
+👉 Instagram :  https://www.instagram.com/clementineautain/  
+👉 Telegram : https://t.me/clementineautain
+👉 WhatsApp : https://whatsapp.com/channel/0029VaFC6NyC6ZveBwDVMV0Q
+👉 TikTok :   https://www.tiktok.com/@clementine_autain
+👉 Facebook : https://www.facebook.com/profile.php?id=100044148110691</description>
+      <channelTitle>Clémentine Autain</channelTitle>
+      <videoId>ZJ9YzQlW5bY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ZJ9YzQlW5bY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
