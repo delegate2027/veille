@@ -4,135 +4,219 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 11 Nov 2026 04:00:58 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:15:38 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
-      <title>DLIVE</title>
-      <link>https://www.youtube.com/watch?v=ikzfcs0PPfs</link>
-      <guid>https://www.youtube.com/watch?v=ikzfcs0PPfs</guid>
-      <pubDate>2026-11-10T20:00:01+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>Suivez en direct le premier DLIVE</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>ikzfcs0PPfs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ikzfcs0PPfs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>DLIVE</title>
-      <link>https://www.youtube.com/watch?v=pIh7AkOHYcs</link>
-      <guid>https://www.youtube.com/watch?v=pIh7AkOHYcs</guid>
-      <pubDate>2026-11-10T19:51:09+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>Suivez en direct le premier DLIVE</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>pIh7AkOHYcs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pIh7AkOHYcs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>“Partout, des moyens disproportionnés de maintien de l’ordre ont été utilisés”</title>
-      <link>https://www.youtube.com/watch?v=JHA0AaBXzlY</link>
-      <guid>https://www.youtube.com/watch?v=JHA0AaBXzlY</guid>
-      <pubDate>2026-11-10T16:02:52+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Notre députée Sandrine Rousseau interpelle le ministre de l'Intérieur sur les moyens disproportionnés utilisés par la police lors des dernières journées de mobilisation citoyenne.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>JHA0AaBXzlY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/JHA0AaBXzlY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SMIC : « Ce sont des miettes que vous lâchez ! »</title>
-      <link>https://www.youtube.com/watch?v=5QUS7FBtwow</link>
-      <guid>https://www.youtube.com/watch?v=5QUS7FBtwow</guid>
-      <pubDate>2026-11-10T15:07:33+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Notre député Jérémie Iordanoff interpelle le Premier ministre au sujet de l'augmentation du SMIC et de la colère populaire.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>5QUS7FBtwow</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5QUS7FBtwow/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier va-t-elle se désister ? Elle répond au JT de 20H de Gilles Bouleau sur TF1</title>
-      <link>https://www.youtube.com/watch?v=7lHfA5IPeeI</link>
-      <guid>https://www.youtube.com/watch?v=7lHfA5IPeeI</guid>
-      <pubDate>2026-11-09T20:12:25+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Le 9 novembre 2026, pour l'ouverture de la COP31, Marine Tondelier était sur le plateau du JT de TF1.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>7lHfA5IPeeI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7lHfA5IPeeI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présentation de nos mesures pour la culture.</title>
-      <link>https://www.youtube.com/watch?v=pxcX-DyK2uQ</link>
-      <guid>https://www.youtube.com/watch?v=pxcX-DyK2uQ</guid>
-      <pubDate>2026-11-09T14:07:37+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Avec : Marine Tondelier, Antoinette Guhl, David Cormand, Anne Souyris et Édouard DENOUEL
-À la médiathèque de Bagnolet le 9 novembre 2026</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>pxcX-DyK2uQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pxcX-DyK2uQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Vite, le SMIC à 1.700 euros !</title>
-      <link>https://www.youtube.com/watch?v=56Z2jQEd6iM</link>
-      <guid>https://www.youtube.com/watch?v=56Z2jQEd6iM</guid>
-      <pubDate>2026-11-09T11:19:09+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez l'interview de Mathilde Panot sur RTL, le lundi 9 novembre 2026 à 7h40.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>56Z2jQEd6iM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/56Z2jQEd6iM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Vive la Nouvelle France ! – Discours de Mathilde Panot à la Convention de la France insoumise</title>
-      <link>https://www.youtube.com/watch?v=v1XNJwFdgt4</link>
-      <guid>https://www.youtube.com/watch?v=v1XNJwFdgt4</guid>
-      <pubDate>2026-11-08T19:35:23+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez le discours de Mathilde Panot à la Convention de la France insoumise au Bourget, le 7 novembre 2026.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>v1XNJwFdgt4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/v1XNJwFdgt4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Franc-jeu France 2 et France Inter, dimanche 8 novembre 2026 | Laurent Wauquiez</title>
-      <link>https://www.youtube.com/watch?v=gt_oR5F7L1I</link>
-      <guid>https://www.youtube.com/watch?v=gt_oR5F7L1I</guid>
-      <pubDate>2026-11-08T13:49:12+00:00</pubDate>
-      <author>Laurent Wauquiez</author>
-      <description>Crise sociale, primaire de la droite, immigration, débat avec Benoît Hamon… J’étais l’invité de Benjamin Duhamel dans Franc-jeu sur France 2 et France Inter ce dimanche 8 novembre 2026. Retrouvez l’intégralité de mon interview.</description>
-      <channelTitle>Laurent Wauquiez</channelTitle>
-      <videoId>gt_oR5F7L1I</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gt_oR5F7L1I/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le logement : une priorité pour Marine Le Pen | Au cœur de la campagne #2 · F. Falcon et J. Sanchez</title>
-      <link>https://www.youtube.com/watch?v=KLug5vqw2kk</link>
-      <guid>https://www.youtube.com/watch?v=KLug5vqw2kk</guid>
-      <pubDate>2026-11-06T10:19:49+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+      <title>Violences policières : Sandrine Rousseau interroge le Ministre de l'intérieur sur sa responsabilité</title>
+      <link>https://www.youtube.com/watch?v=c3XMIvfMkqo</link>
+      <guid>https://www.youtube.com/watch?v=c3XMIvfMkqo</guid>
+      <pubDate>2026-11-10T16:28:48+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description>La police est un service public soumis aux principes républicains de Liberté, Égalité, Fraternité. Pourtant les «dérapages» sont si nombreux et graves qu’une question se pose:
 
-Chaque mercredi, « Au cœur de la campagne » vous fait vivre de l'intérieur la campagne présidentielle de Marine Le Pen.
-
-Pour ce deuxième épisode, « Le logement : une priorité pour Marine Le Pen », Frédéric Falcon, coordinateur du Pôle logement de la campagne, et Julien Sanchez, directeur de campagne, échangent autour de l'accès au logement et à la propriété pour les Français.
-
-Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>KLug5vqw2kk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/KLug5vqw2kk/maxresdefault.jpg" type="image/jpeg" />
+M. Nunes, les forces de l’ordre concernées par ces faits ont-elles agi sur vos ordres ou sont-elles hors de votre contrôle?
+--
+Question au gouvernement du 10/11/2026</description>
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>c3XMIvfMkqo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/c3XMIvfMkqo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>"Votre réponse n'est pas à la hauteur !" Marine Tondelier et Sonia Mabrouk sur l'attentat de Trappes</title>
-      <link>https://www.youtube.com/watch?v=zAVNAb0hPyY</link>
-      <guid>https://www.youtube.com/watch?v=zAVNAb0hPyY</guid>
-      <pubDate>2026-11-05T19:45:13+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Plateau du 5 novembre 2026 dans 100% Mabrouk après les manifestations de l'intersyndicale.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>zAVNAb0hPyY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zAVNAb0hPyY/maxresdefault.jpg" type="image/jpeg" />
+      <title>📺 Y A PAS PHOTO : « L'Avenir en commun » est le meilleur programme #presidentielle2027</title>
+      <link>https://www.youtube.com/watch?v=dE3z6IiOdCA</link>
+      <guid>https://www.youtube.com/watch?v=dE3z6IiOdCA</guid>
+      <pubDate>2026-11-09T21:35:21+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Retrouvez l'intégralité de mon passage de ce lundi 9 novembre 2026 sur BFMTV.
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram : https://www.instagram.com/danieleobono
+➡️ Facebook : https://www.facebook.com/DanieleObono
+➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok : https://www.tiktok.com/@danieleobono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>dE3z6IiOdCA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dE3z6IiOdCA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La France doit rompre avec son rapport colonial aux territoires ultramarins | Sandrine Rousseau</title>
+      <link>https://www.youtube.com/watch?v=iCjaswgEdsE</link>
+      <guid>https://www.youtube.com/watch?v=iCjaswgEdsE</guid>
+      <pubDate>2026-11-09T15:20:43+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description />
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>iCjaswgEdsE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/iCjaswgEdsE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"La première urgence, c’est de mettre fin à l’impunité, une peine prononcée doit être exécutée."</title>
+      <link>https://www.youtube.com/watch?v=Ekm0-sMbkZ0</link>
+      <guid>https://www.youtube.com/watch?v=Ekm0-sMbkZ0</guid>
+      <pubDate>2026-11-09T08:22:17+00:00</pubDate>
+      <author>François-Xavier Bellamy</author>
+      <description>François-Xavier Bellamy était l'invité de Laurence Ferrari ce matin sur Cnews et Europe 1.
+
+Il est revenu sur la nécessité de mettre en place l'état d'urgence pour lutter contre les violences commises ces dernières semaines. Il est également revenu sur le programme de Jean-Luc Mélenchon ainsi que sur la conférence sociale prévue aujourd'hui.</description>
+      <channelTitle>François-Xavier Bellamy</channelTitle>
+      <videoId>Ekm0-sMbkZ0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Ekm0-sMbkZ0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>📺 Le gouvernement refuse de répondre aux revendications populaires</title>
+      <link>https://www.youtube.com/watch?v=zam5_D814JU</link>
+      <guid>https://www.youtube.com/watch?v=zam5_D814JU</guid>
+      <pubDate>2026-11-07T09:15:19+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Retrouvez l'intégralité de mon passage de ce vendredi 6 novembre 2026 sur BFM TV 
+
+---
+
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram :   / danieleobono  
+➡️ Facebook :   / danieleobono  
+➡️ Bluesky : https://bsky.app/profile/danieleobono
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok :   / danieleobono  
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>zam5_D814JU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zam5_D814JU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La méthode Trump vient de subir un revers électoral majeur | Maud Petit</title>
+      <link>https://www.youtube.com/watch?v=Dh7fw4QgRxI</link>
+      <guid>https://www.youtube.com/watch?v=Dh7fw4QgRxI</guid>
+      <pubDate>2026-11-04T14:38:32+00:00</pubDate>
+      <author>MoDem</author>
+      <description>La méthode Trump vient de subir un revers électoral majeur | Maud Petit
+
+Lors des questions au gouvernement, notre députée du Val-de-Marne, Maud Petit, a interrogé notre ministre de l’Europe et des Affaires étrangères, Jean-Noël Barrot, sur les résultats des midterms aux États-unis.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/international/maud-petit-la-methode-trump-vient-de-subir-un-revers-electoral-majeur-video-8562
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>Dh7fw4QgRxI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Dh7fw4QgRxI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Il y a quelque chose de criminel dans certaines pratiques des géants du numérique | Sarah El Haïry</title>
+      <link>https://www.youtube.com/watch?v=fBBjUziL6Ag</link>
+      <guid>https://www.youtube.com/watch?v=fBBjUziL6Ag</guid>
+      <pubDate>2026-11-04T09:38:02+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Il y a quelque chose de criminel dans certaines pratiques des géants du numérique | Sarah El Haïry
+
+Sarah El Haïry, Haute-commissaire à l'Enfance et vice-présidente du MoDem, était l'invitée de Mardi Politique de France 24 et RFI.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/numerique/sarah-el-hairy-il-y-quelque-chose-de-criminel-dans-certaines-pratiques-des-geants-du
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>fBBjUziL6Ag</videoId>
+      <enclosure url="https://i.ytimg.com/vi/fBBjUziL6Ag/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La France a fait le choix d'une énergie décarbonée sans renoncer à sa souveraineté | Romain Daubié</title>
+      <link>https://www.youtube.com/watch?v=AFNPOGEBKGM</link>
+      <guid>https://www.youtube.com/watch?v=AFNPOGEBKGM</guid>
+      <pubDate>2026-11-03T16:57:30+00:00</pubDate>
+      <author>MoDem</author>
+      <description>La France a fait le choix d'avoir une énergie décarbonée sans renoncer à sa souveraineté | Romain Daubié
+
+Lors des questions au gouvernement, notre député de l’Ain apparenté au groupe Les Démocrates, Romain Daubié, a interrogé le ministre de l’Économie sur le financement du nucléaire par la France au sein l’UE.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/romain-daubie-la-france-fait-le-choix-davoir-une-energie-decarbonee-sans
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>AFNPOGEBKGM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/AFNPOGEBKGM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La question de l'endettement et des déficits, c'est une urgence | Nicolas Turquois</title>
+      <link>https://www.youtube.com/watch?v=Z5WLgVcG4Qg</link>
+      <guid>https://www.youtube.com/watch?v=Z5WLgVcG4Qg</guid>
+      <pubDate>2026-10-30T08:47:53+00:00</pubDate>
+      <author>MoDem</author>
+      <description>La question de l'endettement et des déficits, c'est une urgence | Nicolas Turquois
+
+Lors des questions au gouvernement du mercredi 28 octobre, notre député de la Vienne, Nicolas Turquois, a interrogé le ministre des Comptes publics sur la lutte contre les stratégies d’évitement de l’impôt et la justice fiscale dans le budget 2027. 
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/nicolas-turquois-la-question-de-lendettement-et-des-deficits-cest-une-urgence
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>Z5WLgVcG4Qg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Z5WLgVcG4Qg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Il y a la nécessité de rassembler des forces pour l'élection présidentielle | Marc Fesneau</title>
+      <link>https://www.youtube.com/watch?v=c8DdEJpXLHo</link>
+      <guid>https://www.youtube.com/watch?v=c8DdEJpXLHo</guid>
+      <pubDate>2026-10-29T16:02:33+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Il y a la nécessité de rassembler des forces pour l'élection présidentielle | Marc Fesneau
+
+Alors que les tensions politiques et sociales mettent notre démocratie à l’épreuve, notre président du groupe Les Démocrates à l'Assemblée nationale et premier vice-président du MoDem, Marc Fesneau, appelle à sortir des logiques de confrontation, qu’il s’agisse de préparer la présidentielle, d’encadrer les manifestations ou de répondre aux revendications des lycéens.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/marc-fesneau-il-y-la-necessite-de-rassembler-des-forces-pour-lelection
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>c8DdEJpXLHo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/c8DdEJpXLHo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
