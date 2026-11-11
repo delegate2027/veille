@@ -4,7 +4,83 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 11 Nov 2026 04:45:39 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:01:05 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Pour une école de tous les savoirs !</title>
+      <link>https://www.youtube.com/watch?v=_1yLr2gn9Uo</link>
+      <guid>https://www.youtube.com/watch?v=_1yLr2gn9Uo</guid>
+      <pubDate>2026-11-10T13:26:22+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>Retrouvez notre cahier de campagne sur l'éducation sur le site nouspresident.fr
+
+Merci à @botanadeliciosa et @tableedeschefs_fr !
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>_1yLr2gn9Uo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_1yLr2gn9Uo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Manon Aubry face à BFM TV</title>
+      <link>https://www.youtube.com/watch?v=PswabZExeWI</link>
+      <guid>https://www.youtube.com/watch?v=PswabZExeWI</guid>
+      <pubDate>2026-11-10T10:48:25+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>BFM TV le 09 novembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>PswabZExeWI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PswabZExeWI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Le programme qui va tout changer ! (Manon Aubry face à Giesbert sur BFM)</title>
+      <link>https://www.youtube.com/watch?v=KMkQuVsS5zc</link>
+      <guid>https://www.youtube.com/watch?v=KMkQuVsS5zc</guid>
+      <pubDate>2026-11-07T00:38:08+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Le programme qui va tout changer !
+
+Manon Aubry présente de le programme de la France Insoumise et de Jean-Luc Mélenchon face à Giesbert sur BFM.
+
+Vendredi 6 novembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>KMkQuVsS5zc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/KMkQuVsS5zc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sarah Saldmann, histoire d'une conversion</title>
+      <link>https://www.youtube.com/watch?v=QtA3IIhSC78</link>
+      <guid>https://www.youtube.com/watch?v=QtA3IIhSC78</guid>
+      <pubDate>2026-11-06T15:16:05+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>2 ans jour pour jour après la sortie du film "Au Boulot !", Sarah Saldmann et François Ruffin refont l'histoire d'une conversion.
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>QtA3IIhSC78</videoId>
+      <enclosure url="https://i.ytimg.com/vi/QtA3IIhSC78/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Manon Aubry face à BFM TV</title>
+      <link>https://www.youtube.com/watch?v=gFFtiVg8B1I</link>
+      <guid>https://www.youtube.com/watch?v=gFFtiVg8B1I</guid>
+      <pubDate>2026-11-02T16:01:06+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>BFM TV le 31 octobre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>gFFtiVg8B1I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gFFtiVg8B1I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mobilisation lycéenne, vie chère, présidentielle : Manon Aubry invitée de la matinale de Sud Radio</title>
+      <link>https://www.youtube.com/watch?v=bTxe-8-n4I8</link>
+      <guid>https://www.youtube.com/watch?v=bTxe-8-n4I8</guid>
+      <pubDate>2026-11-02T09:50:55+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Sud Radio le 2 novembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>bTxe-8-n4I8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/bTxe-8-n4I8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
