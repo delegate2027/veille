@@ -4,20 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 11 Nov 2026 05:30:56 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:45:38 -0000</lastBuildDate>
     <feedCount>50</feedCount>
-    <item>
-      <title>"La première urgence, c’est de mettre fin à l’impunité, une peine prononcée doit être exécutée."</title>
-      <link>https://www.youtube.com/watch?v=Ekm0-sMbkZ0</link>
-      <guid>https://www.youtube.com/watch?v=Ekm0-sMbkZ0</guid>
-      <pubDate>2026-11-09T08:22:17+00:00</pubDate>
-      <author>François-Xavier Bellamy</author>
-      <description>François-Xavier Bellamy était l'invité de Laurence Ferrari ce matin sur Cnews et Europe 1.
-
-Il est revenu sur la nécessité de mettre en place l'état d'urgence pour lutter contre les violences commises ces dernières semaines. Il est également revenu sur le programme de Jean-Luc Mélenchon ainsi que sur la conférence sociale prévue aujourd'hui.</description>
-      <channelTitle>François-Xavier Bellamy</channelTitle>
-      <videoId>Ekm0-sMbkZ0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ekm0-sMbkZ0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
