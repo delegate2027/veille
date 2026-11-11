@@ -4,7 +4,53 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 11 Nov 2026 01:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:30:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>GABRIEL ATTAL DÉBAT AUX RENCONTRES DE L'AVENIR À SAINT-RAPHAËL</title>
+      <link>https://www.youtube.com/watch?v=fZXNZKsc0n8</link>
+      <guid>https://www.youtube.com/watch?v=fZXNZKsc0n8</guid>
+      <pubDate>2026-11-10T17:54:21+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal débat aux rencontres de Saint-Raphaël sur l’École, l’intégration et l’autorité de l’État
+
+Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal
+
+Si vous êtes arrivés jusqu'ici, écrivez en commentaire "Gabriel Attal Président !"</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>fZXNZKsc0n8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/fZXNZKsc0n8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gabriel Attal sur France Inter | Il faut une grande primaire !</title>
+      <link>https://www.youtube.com/watch?v=pCu-qJyfLak</link>
+      <guid>https://www.youtube.com/watch?v=pCu-qJyfLak</guid>
+      <pubDate>2026-11-10T08:03:25+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal était l'invité de France Inter pour parler de la grande primaire pour sauver la France d'un second tour entre le Rassemblement National et La France Insoumise.
+
+Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>pCu-qJyfLak</videoId>
+      <enclosure url="https://i.ytimg.com/vi/pCu-qJyfLak/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
