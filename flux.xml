@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 11 Nov 2026 01:45:42 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:01:10 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Jordan Bardella sur BFMTV : « Je veux m'adresser à la majorité silencieuse de nos compatriotes. »</title>
@@ -423,21 +423,6 @@ https://www.avecretailleau.fr/
       <enclosure url="https://i.ytimg.com/vi/46GljAdXSiM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>On débrief du meeting du Bourget avec Antoine Léaument...</title>
-      <link>https://www.youtube.com/watch?v=y8BZe7y6tEY</link>
-      <guid>https://www.youtube.com/watch?v=y8BZe7y6tEY</guid>
-      <pubDate>2026-11-09T18:16:11+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>Ce soir, j'étais en direct avec Antoine Léaument sur Twitch, pour parler de notre programme l'Avenir en Commun, du succès du meeting du Bourget avec Jean-Luc Mélenchon, et de l'actu de la présidentielle.
-
-Voici le replay complet et sans montage !
-
-Mon lien tortue (pour soutenir la candidature de Jean-Luc Mélenchon, et m'aider à progresser !) : https://jlm27.fr/p/Nqvek2Zp0W</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>y8BZe7y6tEY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/y8BZe7y6tEY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Discours sur la paix - Jean-Luc Mélenchon à La Souterraine</title>
       <link>https://www.youtube.com/watch?v=xZoKroZbxbA</link>
       <guid>https://www.youtube.com/watch?v=xZoKroZbxbA</guid>
@@ -459,6 +444,17 @@ Retrouvez toutes les informations sur : https://actionpopulaire.fr/evenements/0b
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>xZoKroZbxbA</videoId>
       <enclosure url="https://i.ytimg.com/vi/xZoKroZbxbA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La France doit rompre avec son rapport colonial aux territoires ultramarins | Sandrine Rousseau</title>
+      <link>https://www.youtube.com/watch?v=iCjaswgEdsE</link>
+      <guid>https://www.youtube.com/watch?v=iCjaswgEdsE</guid>
+      <pubDate>2026-11-09T15:20:43+00:00</pubDate>
+      <author>Sandrine Rousseau</author>
+      <description />
+      <channelTitle>Sandrine Rousseau</channelTitle>
+      <videoId>iCjaswgEdsE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/iCjaswgEdsE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
