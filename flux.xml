@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 11 Nov 2026 14:15:38 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:30:57 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>11 Novembre : on ne prépare pas l'avenir en effaçant le passé | Marine Le Pen à Hénin-Beaumont</title>
+      <link>https://www.youtube.com/watch?v=Gebzo6e0gmE</link>
+      <guid>https://www.youtube.com/watch?v=Gebzo6e0gmE</guid>
+      <pubDate>2026-11-11T14:23:06+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Discours de Marine Le Pen pour la commémoration du 108e anniversaire de l'Armistice du 11 novembre 1918, à Hénin-Beaumont.
+
+« Le 11 novembre pour la France n'est pas juste une date qui appartient à l'histoire, mais à l'âme de tout notre peuple. »
+
+Hommage aux poilus, aux combattants de l'arrière et aux femmes, qui « n'étaient pas dans les tranchées, mais étaient au cœur de la bataille », et appel au devoir de mémoire : « On ne prépare pas l'avenir en effaçant le passé. »
+
+Gloire à nos héros de 14 ! Gloire à tous nos morts pour la France ! Vive la République ! Vive la France !
+
+Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>Gebzo6e0gmE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Gebzo6e0gmE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>11-Novembre aux côtés de nos anciens combattants.</title>
       <link>https://www.youtube.com/watch?v=ppk5b5fRZ6M</link>
@@ -424,17 +445,6 @@ https://www.avecretailleau.fr/
       <channelTitle>Bruno Retailleau</channelTitle>
       <videoId>p929gMZUDxg</videoId>
       <enclosure url="https://i.ytimg.com/vi/p929gMZUDxg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier va-t-elle se désister ? Elle répond au JT de 20H de Gilles Bouleau sur TF1</title>
-      <link>https://www.youtube.com/watch?v=7lHfA5IPeeI</link>
-      <guid>https://www.youtube.com/watch?v=7lHfA5IPeeI</guid>
-      <pubDate>2026-11-09T20:12:25+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Le 9 novembre 2026, pour l'ouverture de la COP31, Marine Tondelier était sur le plateau du JT de TF1.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>7lHfA5IPeeI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7lHfA5IPeeI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
