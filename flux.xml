@@ -4,8 +4,40 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 11 Nov 2026 14:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:15:38 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>11-Novembre aux côtés de nos anciens combattants.</title>
+      <link>https://www.youtube.com/watch?v=ppk5b5fRZ6M</link>
+      <guid>https://www.youtube.com/watch?v=ppk5b5fRZ6M</guid>
+      <pubDate>2026-11-11T14:11:53+00:00</pubDate>
+      <author>Emmanuel Macron</author>
+      <description />
+      <channelTitle>Emmanuel Macron</channelTitle>
+      <videoId>ppk5b5fRZ6M</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ppk5b5fRZ6M/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Maudite soit la guerre ! - Discours à Gentioux</title>
+      <link>https://www.youtube.com/watch?v=ZdXVMq-_Cwk</link>
+      <guid>https://www.youtube.com/watch?v=ZdXVMq-_Cwk</guid>
+      <pubDate>2026-11-11T14:05:11+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à Gentioux à l'occasion de la commémoration de l’armistice de la Première Guerre mondiale, le 11 novembre 2026. 
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>ZdXVMq-_Cwk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ZdXVMq-_Cwk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>110 ans après Verdun, la paix. Fabien Roussel</title>
       <link>https://www.youtube.com/watch?v=4n5N3fbnHJ0</link>
@@ -403,32 +435,6 @@ https://www.avecretailleau.fr/
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>7lHfA5IPeeI</videoId>
       <enclosure url="https://i.ytimg.com/vi/7lHfA5IPeeI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Projet de loi de fin de gestion : nos victoires pour des soignants et la jeunesse !</title>
-      <link>https://www.youtube.com/watch?v=46GljAdXSiM</link>
-      <guid>https://www.youtube.com/watch?v=46GljAdXSiM</guid>
-      <pubDate>2026-11-09T19:15:28+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>🔴 Le projet de loi de fin de gestion 2026 a été rejeté en commission des Finances. Mais nous avons obtenu de belles victoires, notamment une prime pour les soignant·es exerçant en centres municipaux de santé et 4 amendements en faveur des conditions d’étude des lycéens et étudiants ! Je vous explique tout !</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>46GljAdXSiM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/46GljAdXSiM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>On débrief du meeting du Bourget avec Antoine Léaument...</title>
-      <link>https://www.youtube.com/watch?v=y8BZe7y6tEY</link>
-      <guid>https://www.youtube.com/watch?v=y8BZe7y6tEY</guid>
-      <pubDate>2026-11-09T18:16:11+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>Ce soir, j'étais en direct avec Antoine Léaument sur Twitch, pour parler de notre programme l'Avenir en Commun, du succès du meeting du Bourget avec Jean-Luc Mélenchon, et de l'actu de la présidentielle.
-
-Voici le replay complet et sans montage !
-
-Mon lien tortue (pour soutenir la candidature de Jean-Luc Mélenchon, et m'aider à progresser !) : https://jlm27.fr/p/Nqvek2Zp0W</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>y8BZe7y6tEY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/y8BZe7y6tEY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
