@@ -4,15 +4,44 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 12 Nov 2026 17:31:01 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:45:49 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
-      <title>Hôpital, Justice, Prison... Les propositions de Marine Tondelier sur le service public (France Info)</title>
+      <title>RIPOSTE ANTIRACISTE</title>
+      <link>https://www.youtube.com/watch?v=_lxJYw3K7CA</link>
+      <guid>https://www.youtube.com/watch?v=_lxJYw3K7CA</guid>
+      <pubDate>2026-11-12T17:30:07+00:00</pubDate>
+      <author>NPA - L’Anticapitaliste</author>
+      <description>La fascisation avance en fabriquant des populations suspectes qu’il devient même légitime de tuer, puis en élargissant la cible à l’ensemble de celles et ceux qui s’opposent à ce système. L’antiracisme est au cœur du combat pour nos libertés et nos droits sociaux.
+
+Suivez L’Anticapitaliste, le média :
+http://lanticapitaliste.org
+Instagram : http://www.instagram.com/l_anticapitaliste
+Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
+Twitter : http://www.twitter.com/Lanticapitalis1
+Tik Tok : http://www.tiktok.com/@lanticapitaliste
+Facebook : http://www.facebook.com/anticapitaliste.presse
+Threads : http://www.threads.net/@l_anticapitaliste
+
+L’actu du NPA l'Anticapitaliste :
+http://npa-lanticapitaliste.org
+Instagram : http://www.instagram.com/npa.anticapitaliste
+Bluesky : http://bsky.app/profile/npa-antica.bsky.social
+Twitter : http://www.twitter.com/NPA_antica
+Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
+Facebook : http://www.facebook.com/npa.anticapitaliste
+Threads : http://www.threads.net/@npa.officiel</description>
+      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
+      <videoId>_lxJYw3K7CA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_lxJYw3K7CA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hôpital, prisons, culture, médias: grand oral de Marine Tondelier sur le service public (franceinfo)</title>
       <link>https://www.youtube.com/watch?v=CXX3N6Lfa2Y</link>
       <guid>https://www.youtube.com/watch?v=CXX3N6Lfa2Y</guid>
       <pubDate>2026-11-12T15:17:34+00:00</pubDate>
       <author>Les Écologistes</author>
-      <description />
+      <description>Jeudi 12 novembre 2026, Marine Tondelier était l'invitée de France Info pour détailler ses propositions sur les services publics.</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>CXX3N6Lfa2Y</videoId>
       <enclosure url="https://i.ytimg.com/vi/CXX3N6Lfa2Y/maxresdefault.jpg" type="image/jpeg" />
@@ -448,32 +477,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>YAzMBc6-Rz8</videoId>
       <enclosure url="https://i.ytimg.com/vi/YAzMBc6-Rz8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Lycées &amp; universités, l'emprise islamo-gauchistes est-elle réversible ?</title>
-      <link>https://www.youtube.com/watch?v=dDtT-LjyOtg</link>
-      <guid>https://www.youtube.com/watch?v=dDtT-LjyOtg</guid>
-      <pubDate>2026-11-10T11:21:25+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : UDR
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>dDtT-LjyOtg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dDtT-LjyOtg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
