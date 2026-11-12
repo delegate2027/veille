@@ -4,8 +4,25 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 12 Nov 2026 10:15:37 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:30:54 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>L’UDR, soutien essentiel de Marine Le Pen | Au cœur de la campagne #3 avec É. Ciotti et J. Sanchez</title>
+      <link>https://www.youtube.com/watch?v=-Md4POFXIWc</link>
+      <guid>https://www.youtube.com/watch?v=-Md4POFXIWc</guid>
+      <pubDate>2026-11-12T10:22:02+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Chaque mercredi, « Au cœur de la campagne » vous fait vivre de l’intérieur la campagne présidentielle de Marine Le Pen. Lancée le 25 octobre à Orléans, cette campagne porte un cap clair : rétablir l’ordre, rendre la parole au peuple et ouvrir la voie de la Renaissance de la France.
+
+Pour ce troisième épisode, « L’UDR : soutien essentiel pour la victoire de Marine Le Pen », Éric Ciotti, maire de Nice et président de l’UDR, et Julien Sanchez, directeur de campagne, reviennent sur le rôle de l’UDR dans la campagne et sur l’union autour de Marine Le Pen.
+
+Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>-Md4POFXIWc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-Md4POFXIWc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ANDRÉA KOTARAC : « La France n'est pas un pays raciste ! » (France Info)</title>
       <link>https://www.youtube.com/watch?v=ZAtLIEBYc7c</link>
@@ -107,27 +124,6 @@ Participez à la campagne de Marine Le Pen : https://marinelepen.com/</descripti
       <channelTitle>Emmanuel Macron</channelTitle>
       <videoId>ppk5b5fRZ6M</videoId>
       <enclosure url="https://i.ytimg.com/vi/ppk5b5fRZ6M/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Maudite soit la guerre ! - Discours à Gentioux</title>
-      <link>https://www.youtube.com/watch?v=ZdXVMq-_Cwk</link>
-      <guid>https://www.youtube.com/watch?v=ZdXVMq-_Cwk</guid>
-      <pubDate>2026-11-11T14:05:11+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à Gentioux à l'occasion de la commémoration de l’armistice de la Première Guerre mondiale, le 11 novembre 2026. 
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>ZdXVMq-_Cwk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ZdXVMq-_Cwk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>110 ans après Verdun, la paix. Fabien Roussel</title>
