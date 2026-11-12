@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 12 Nov 2026 23:15:47 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:30:54 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Marine Tondelier était à VOUS PRÉSIDENTE sur BFM TV</title>
+      <link>https://www.youtube.com/watch?v=7thkhaSxiUA</link>
+      <guid>https://www.youtube.com/watch?v=7thkhaSxiUA</guid>
+      <pubDate>2026-11-12T23:29:44+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description />
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>7thkhaSxiUA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7thkhaSxiUA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Services publics : « Moins de normes, plus de décideurs » | Édouard Philippe sur franceinfo</title>
       <link>https://www.youtube.com/watch?v=ymai0zOx_pU</link>
@@ -517,17 +528,6 @@ Question au gouvernement du 10/11/2026</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>JHA0AaBXzlY</videoId>
       <enclosure url="https://i.ytimg.com/vi/JHA0AaBXzlY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SMIC : « Ce sont des miettes que vous lâchez ! »</title>
-      <link>https://www.youtube.com/watch?v=5QUS7FBtwow</link>
-      <guid>https://www.youtube.com/watch?v=5QUS7FBtwow</guid>
-      <pubDate>2026-11-10T15:07:33+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Notre député Jérémie Iordanoff interpelle le Premier ministre au sujet de l'augmentation du SMIC et de la colère populaire.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>5QUS7FBtwow</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5QUS7FBtwow/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
