@@ -4,8 +4,41 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 12 Nov 2026 13:45:42 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:01:18 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Eric Zemmour : Mes propositions pour le service public</title>
+      <link>https://www.youtube.com/watch?v=hOdtRPtU8iU</link>
+      <guid>https://www.youtube.com/watch?v=hOdtRPtU8iU</guid>
+      <pubDate>2026-11-12T13:59:29+00:00</pubDate>
+      <author>Éric Zemmour</author>
+      <description>Eric Zemmour, candidat à l'élection présidentielle de 2027, était l'invité de France Info pour donner ses propositions pour améliorer le service public français.
+
+Quatre thèmes ont été abordés avec des mesures concrètes : Police et justice ; Santé ; poids de la fonction publique.
+
+🇫🇷 Soutenez sa candidature : ericzemmour.fr
+
+1️⃣ Likez la vidéo, abonnez-vous à ma chaîne YouTube en cliquant sur le bouton « S’abonner », et activez la cloche 🔔 et partagez cette vidéo à vos proches !
+2️⃣ Adhérez à RECONQUÊTE : https://www.parti-reconquete.fr/adhesions
+3️⃣ Faites un don : https://soutien.ericzemmour.fr
+
+#EricZemmour
+
+📱 Suivez-moi sur les réseaux sociaux : 
+
+Facebook : https://www.facebook.com/ZemmourEric
+Twitter : https://twitter.com/ZemmourEric
+Instagram : https://www.instagram.com/ericzemmour_/
+LinkedIn : https://www.linkedin.com/in/eric-zemmour/
+WhatsApp : https://whatsapp.com/channel/0029Va8tObJE50UnrZc5c13h
+Telegram : https://t.me/EricZemmourOfficiel
+TikTok : https://www.tiktok.com/@zemmour_eric
+
+📖 Commandez la version augmentée de mon livre Le Suicide français : https://www.amazon.fr/suicide-français-Eric-Zemmour/dp/2818507928/ref=tmm_mmp_swatch_0?_encoding=UTF8&amp;amp;dib_tag=se&amp;amp;dib=eyJ2IjoiMSJ9.QHuIbjdvWA2uncNV0zlaju0WXY583mDf7emcwqB7FtL_TfQqKt_3JiXNJnmXYeDkHDQNONHP4dql9KQFUBqy0ISgUqLSQfVDY2JC9H1wi2lW7Zx-fjO5bjcUA7ulUiDh1L07Vr_bKBdea8snGZUWVA.9-Tjg4JBIAkQ_5nt-5pC1aOZRmdEIAt63SW00LnnFaI&amp;amp;qid=1789369244&amp;amp;sr=8-1</description>
+      <channelTitle>Éric Zemmour</channelTitle>
+      <videoId>hOdtRPtU8iU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hOdtRPtU8iU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Gabriel Attal sur France Info | Ses propositions sur le service public</title>
       <link>https://www.youtube.com/watch?v=QHsojHi4vsI</link>
@@ -405,32 +438,6 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>YAzMBc6-Rz8</videoId>
       <enclosure url="https://i.ytimg.com/vi/YAzMBc6-Rz8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Lycées &amp; universités, l'emprise islamo-gauchistes est-elle réversible ?</title>
-      <link>https://www.youtube.com/watch?v=dDtT-LjyOtg</link>
-      <guid>https://www.youtube.com/watch?v=dDtT-LjyOtg</guid>
-      <pubDate>2026-11-10T11:21:25+00:00</pubDate>
-      <author>UDR</author>
-      <description>Crédits Vidéo : UDR
-
-----------------------------------------------
-
-► Rejoignez l'UDR ici :
-https://www.udr.fr/
-https://www.instagram.com/partiudr
-https://www.tiktok.com/@partiudr
-https://www.facebook.com/udrofficiel
-https://twitter.com/partiudr
-
-----------------------------------------------
-
-► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
-
-#UDR #EricCiotti</description>
-      <channelTitle>UDR</channelTitle>
-      <videoId>dDtT-LjyOtg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/dDtT-LjyOtg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
