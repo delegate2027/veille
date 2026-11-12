@@ -4,15 +4,15 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 12 Nov 2026 23:30:54 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:45:40 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
-      <title>Marine Tondelier était à VOUS PRÉSIDENTE sur BFM TV</title>
+      <title>Marine Tondelier invitée de VOUS PRÉSIDENTE sur BFM TV</title>
       <link>https://www.youtube.com/watch?v=7thkhaSxiUA</link>
       <guid>https://www.youtube.com/watch?v=7thkhaSxiUA</guid>
       <pubDate>2026-11-12T23:29:44+00:00</pubDate>
       <author>Les Écologistes</author>
-      <description />
+      <description>Jeudi 12 novembre 2026, Marine Tondelier était l'invitée de BFM pendant 3 heures pour répondre aux journalistes et aux Français·es !</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>7thkhaSxiUA</videoId>
       <enclosure url="https://i.ytimg.com/vi/7thkhaSxiUA/maxresdefault.jpg" type="image/jpeg" />
