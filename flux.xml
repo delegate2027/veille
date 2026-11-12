@@ -4,8 +4,50 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 12 Nov 2026 18:01:12 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:15:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>500 000 SOUTIENS À JEAN-LUC MÉLENCHON AVANT GTA VI ✅🔥</title>
+      <link>https://www.youtube.com/watch?v=hsAkTO_oPII</link>
+      <guid>https://www.youtube.com/watch?v=hsAkTO_oPII</guid>
+      <pubDate>2026-11-12T18:08:40+00:00</pubDate>
+      <author>Paul Vannier</author>
+      <description>500 000 soutiens citoyens à la candidature de Jean-Luc Mélenchon, avant GTA VI.
+
+Rendez-vous le 18 avril et le 2 mai 2027.
+
+📲 RETROUVEZ PAUL VANNIER SUR :
+
+🔗 Telegram : https://t.me/paulvannier
+🔗 Facebook : https://bit.ly/3PD1FZ1
+🔗 Twitter : https://twitter.com/PaulVannierFI
+🔗 Instagram : https://www.instagram.com/paulvannier_/
+🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
+      <channelTitle>Paul Vannier</channelTitle>
+      <videoId>hsAkTO_oPII</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hsAkTO_oPII/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grand oral sur les services publics avec Jean-Luc Mélenchon</title>
+      <link>https://www.youtube.com/watch?v=5Honm5yYYB4</link>
+      <guid>https://www.youtube.com/watch?v=5Honm5yYYB4</guid>
+      <pubDate>2026-11-12T18:08:11+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un grand oral sur les services publics diffusé par France Info, le 12 novembre 2026. 
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>5Honm5yYYB4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5Honm5yYYB4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>RIPOSTE ANTIRACISTE</title>
       <link>https://www.youtube.com/watch?v=_lxJYw3K7CA</link>
@@ -450,32 +492,6 @@ Nous proposons, par amendements, d'y inscrire 5 milliards d'euros de mesures iss
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>ol6p3kflf_A</videoId>
       <enclosure url="https://i.ytimg.com/vi/ol6p3kflf_A/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Pour une école de tous les savoirs !</title>
-      <link>https://www.youtube.com/watch?v=_1yLr2gn9Uo</link>
-      <guid>https://www.youtube.com/watch?v=_1yLr2gn9Uo</guid>
-      <pubDate>2026-11-10T13:26:22+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>Retrouvez notre cahier de campagne sur l'éducation sur le site nouspresident.fr
-
-Merci à @botanadeliciosa et @tableedeschefs_fr !
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>_1yLr2gn9Uo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_1yLr2gn9Uo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les Français ne sont pas des assistés, contrairement au RN</title>
-      <link>https://www.youtube.com/watch?v=YAzMBc6-Rz8</link>
-      <guid>https://www.youtube.com/watch?v=YAzMBc6-Rz8</guid>
-      <pubDate>2026-11-10T11:28:26+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description />
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>YAzMBc6-Rz8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YAzMBc6-Rz8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
