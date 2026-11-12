@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 12 Nov 2026 10:45:36 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:01:04 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>François Bayrou invité de Myriam Encaoua sur franceinfo</title>
@@ -32,6 +32,23 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>V3ZRTdwkBGs</videoId>
       <enclosure url="https://i.ytimg.com/vi/V3ZRTdwkBGs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Projet de loi de fin de gestion : rompre avec l’austérité pour financer les demandes de la jeunesse</title>
+      <link>https://www.youtube.com/watch?v=4Ldx0-COLYU</link>
+      <guid>https://www.youtube.com/watch?v=4Ldx0-COLYU</guid>
+      <pubDate>2026-11-12T10:43:09+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez le discours d’Éric Coquerel lors de l’examen du projet de loi de finances de fin de gestion pour 2026, le jeudi 12 novembre 2026.
+
+Depuis 2021, les lois de finances de fin de gestion sont devenues un nouvel instrument d’austérité : elles permettent au Gouvernement d'annuler des crédits dans les ministères sans rouvrir le débat sur les recettes.
+
+9 milliards d’euros de crédits gelés annoncés, 5,8 milliards d’annulations inscrites dans ce PLFG. Dans le même temps, France 2030, le sport, les associations et la culture subissent de nouvelles coupes budgétaires.
+
+Nous proposons de mobiliser 5 milliards d’euros dès maintenant pour répondre aux revendications des lycéens et des étudiants, et financer les besoins des lycées et des universités.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>4Ldx0-COLYU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4Ldx0-COLYU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>L'avenir nous appartient !</title>
@@ -277,17 +294,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>David Lisnard</channelTitle>
       <videoId>ikzfcs0PPfs</videoId>
       <enclosure url="https://i.ytimg.com/vi/ikzfcs0PPfs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>DLIVE</title>
-      <link>https://www.youtube.com/watch?v=pIh7AkOHYcs</link>
-      <guid>https://www.youtube.com/watch?v=pIh7AkOHYcs</guid>
-      <pubDate>2026-11-10T19:51:09+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>Suivez en direct le premier DLIVE</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>pIh7AkOHYcs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pIh7AkOHYcs/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>GABRIEL ATTAL DÉBAT AUX RENCONTRES DE L'AVENIR À SAINT-RAPHAËL</title>
