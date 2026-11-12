@@ -4,8 +4,31 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 12 Nov 2026 11:01:04 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:15:47 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Services publics : les propositions de Fabien Roussel | Grand oral franceinfo</title>
+      <link>https://www.youtube.com/watch?v=cIyz-YCcRQk</link>
+      <guid>https://www.youtube.com/watch?v=cIyz-YCcRQk</guid>
+      <pubDate>2026-11-12T11:12:14+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Quel avenir pour nos services publics ? Invité du grand oral de franceinfo, Fabien Roussel détaille ses propositions pour l’énergie, la sécurité, l’éducation et le logement.
+
+Au programme : un pôle public de l’énergie réunissant EDF, Engie et Total, des recrutements dans la fonction publique, une police de proximité, la suppression de Parcoursup et la construction de logements sociaux. Il défend également une réforme de la fiscalité pour financer ces investissements.
+
+Un entretien consacré à la place de l’État, au pouvoir d’achat et à l’accès aux services publics dans tous les territoires.
+
+00:00 Introduction et actualité : extrême droite, ingérences et Ukraine
+06:01 Services publics : recrutements, salaires et financement
+10:35 Énergie : nationalisations, nucléaire et prix des carburants
+15:56 Sécurité : maintien de l’ordre et police de proximité
+22:39 Éducation : Parcoursup, enseignants et justice fiscale
+32:13 Logement : logements sociaux, rénovation et loyers
+38:44 Quelle place pour les entreprises privées ?</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>cIyz-YCcRQk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/cIyz-YCcRQk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>François Bayrou invité de Myriam Encaoua sur franceinfo</title>
       <link>https://www.youtube.com/watch?v=V3ZRTdwkBGs</link>
@@ -420,17 +443,6 @@ https://twitter.com/partiudr
       <channelTitle>UDR</channelTitle>
       <videoId>dDtT-LjyOtg</videoId>
       <enclosure url="https://i.ytimg.com/vi/dDtT-LjyOtg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manon Aubry face à BFM TV</title>
-      <link>https://www.youtube.com/watch?v=PswabZExeWI</link>
-      <guid>https://www.youtube.com/watch?v=PswabZExeWI</guid>
-      <pubDate>2026-11-10T10:48:25+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>BFM TV le 09 novembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>PswabZExeWI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PswabZExeWI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
