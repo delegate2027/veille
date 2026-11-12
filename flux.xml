@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 12 Nov 2026 16:15:38 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:30:57 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Hôpital, Justice, Prison... Les propositions de Marine Tondelier sur le service public (France Info)</title>
@@ -199,19 +199,6 @@ Participez à la campagne de Marine Le Pen : https://marinelepen.com/</descripti
       <enclosure url="https://i.ytimg.com/vi/-Md4POFXIWc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>ANDRÉA KOTARAC : « La France n'est pas un pays raciste ! » (France Info)</title>
-      <link>https://www.youtube.com/watch?v=ZAtLIEBYc7c</link>
-      <guid>https://www.youtube.com/watch?v=ZAtLIEBYc7c</guid>
-      <pubDate>2026-11-12T08:41:03+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>ZAtLIEBYc7c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ZAtLIEBYc7c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Ukraine : les peuples doivent disposer d'eux-même</title>
       <link>https://www.youtube.com/watch?v=Ix3-b3Hrwi8</link>
       <guid>https://www.youtube.com/watch?v=Ix3-b3Hrwi8</guid>
@@ -363,17 +350,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <enclosure url="https://i.ytimg.com/vi/8ifDCfn2j74/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>DLIVE</title>
-      <link>https://www.youtube.com/watch?v=ikzfcs0PPfs</link>
-      <guid>https://www.youtube.com/watch?v=ikzfcs0PPfs</guid>
-      <pubDate>2026-11-10T20:00:01+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>Suivez en direct le premier DLIVE</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>ikzfcs0PPfs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ikzfcs0PPfs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>GABRIEL ATTAL DÉBAT AUX RENCONTRES DE L'AVENIR À SAINT-RAPHAËL</title>
       <link>https://www.youtube.com/watch?v=fZXNZKsc0n8</link>
       <guid>https://www.youtube.com/watch?v=fZXNZKsc0n8</guid>
@@ -461,6 +437,43 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>FRANÇOIS RUFFIN</channelTitle>
       <videoId>_1yLr2gn9Uo</videoId>
       <enclosure url="https://i.ytimg.com/vi/_1yLr2gn9Uo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Les Français ne sont pas des assistés, contrairement au RN</title>
+      <link>https://www.youtube.com/watch?v=YAzMBc6-Rz8</link>
+      <guid>https://www.youtube.com/watch?v=YAzMBc6-Rz8</guid>
+      <pubDate>2026-11-10T11:28:26+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>YAzMBc6-Rz8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YAzMBc6-Rz8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Lycées &amp; universités, l'emprise islamo-gauchistes est-elle réversible ?</title>
+      <link>https://www.youtube.com/watch?v=dDtT-LjyOtg</link>
+      <guid>https://www.youtube.com/watch?v=dDtT-LjyOtg</guid>
+      <pubDate>2026-11-10T11:21:25+00:00</pubDate>
+      <author>UDR</author>
+      <description>Crédits Vidéo : UDR
+
+----------------------------------------------
+
+► Rejoignez l'UDR ici :
+https://www.udr.fr/
+https://www.instagram.com/partiudr
+https://www.tiktok.com/@partiudr
+https://www.facebook.com/udrofficiel
+https://twitter.com/partiudr
+
+----------------------------------------------
+
+► Rejoindre notre chaîne YouTube : https://www.youtube.com/@partiudr
+
+#UDR #EricCiotti</description>
+      <channelTitle>UDR</channelTitle>
+      <videoId>dDtT-LjyOtg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/dDtT-LjyOtg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
