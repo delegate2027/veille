@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 13 Nov 2026 08:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:01:07 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>EDWIGE DIAZ : « L'ordre doit revenir à l'école ! » (CNEWS)</title>
+      <link>https://www.youtube.com/watch?v=9vTbFno0_VI</link>
+      <guid>https://www.youtube.com/watch?v=9vTbFno0_VI</guid>
+      <pubDate>2026-11-13T08:52:47+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>9vTbFno0_VI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/9vTbFno0_VI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier invitée de VOUS PRÉSIDENTE sur BFM TV</title>
       <link>https://www.youtube.com/watch?v=7thkhaSxiUA</link>
@@ -517,17 +530,6 @@ Question au gouvernement du 10/11/2026</description>
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>c3XMIvfMkqo</videoId>
       <enclosure url="https://i.ytimg.com/vi/c3XMIvfMkqo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>“Partout, des moyens disproportionnés de maintien de l’ordre ont été utilisés”</title>
-      <link>https://www.youtube.com/watch?v=JHA0AaBXzlY</link>
-      <guid>https://www.youtube.com/watch?v=JHA0AaBXzlY</guid>
-      <pubDate>2026-11-10T16:02:52+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Notre députée Sandrine Rousseau interpelle le ministre de l'Intérieur sur les moyens disproportionnés utilisés par la police lors des dernières journées de mobilisation citoyenne.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>JHA0AaBXzlY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/JHA0AaBXzlY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
