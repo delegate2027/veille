@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 13 Nov 2026 11:45:58 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:02:01 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>🔴 Suite des mobilisations sociales et lycéennes : Manuel Bompard, invité de BFM Marseille !</title>
@@ -53,6 +53,27 @@ N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhait
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>9vTbFno0_VI</videoId>
       <enclosure url="https://i.ytimg.com/vi/9vTbFno0_VI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EN DIRECT | Jordan Bardella est l'invité de Margot Haddad sur LCI !</title>
+      <link>https://www.youtube.com/watch?v=2_vsB2bzX5Q</link>
+      <guid>https://www.youtube.com/watch?v=2_vsB2bzX5Q</guid>
+      <pubDate>2026-11-13T08:36:59+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>2_vsB2bzX5Q</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2_vsB2bzX5Q/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Marine Tondelier invitée de VOUS PRÉSIDENTE sur BFM TV</title>
@@ -505,27 +526,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>2MRncUq3VtI</videoId>
       <enclosure url="https://i.ytimg.com/vi/2MRncUq3VtI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella est l'invité de « Face à BFM » sur BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=8ifDCfn2j74</link>
-      <guid>https://www.youtube.com/watch?v=8ifDCfn2j74</guid>
-      <pubDate>2026-11-10T22:40:41+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
-
-Suivez-moi sur mes réseaux sociaux ! ⤵️
-
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>8ifDCfn2j74</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8ifDCfn2j74/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
