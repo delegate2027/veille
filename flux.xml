@@ -4,66 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 13 Nov 2026 00:31:09 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:45:33 -0000</lastBuildDate>
     <feedCount>50</feedCount>
-    <item>
-      <title>Les multinationales du pétrole et Total sont les vraies responsables.</title>
-      <link>https://www.youtube.com/watch?v=MHMa7Y-4Sjc</link>
-      <guid>https://www.youtube.com/watch?v=MHMa7Y-4Sjc</guid>
-      <pubDate>2026-11-03T13:17:55+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>MHMa7Y-4Sjc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/MHMa7Y-4Sjc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Je présente en exclusivité ma mission parlementaire sur les prix délirants à la pompe ⛽</title>
-      <link>https://www.youtube.com/watch?v=n2nqEYoBr8c</link>
-      <guid>https://www.youtube.com/watch?v=n2nqEYoBr8c</guid>
-      <pubDate>2026-11-03T09:08:30+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>n2nqEYoBr8c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/n2nqEYoBr8c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Annonces aux lycéens, attentat raciste de Trappes : j’étais hier soir l’invitée de LCP</title>
-      <link>https://www.youtube.com/watch?v=oKKbWg6ksGs</link>
-      <guid>https://www.youtube.com/watch?v=oKKbWg6ksGs</guid>
-      <pubDate>2026-10-27T14:29:04+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>oKKbWg6ksGs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/oKKbWg6ksGs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mon discours lors de la réunion publique de Montbéliard.</title>
-      <link>https://www.youtube.com/watch?v=cjiGcWtCevQ</link>
-      <guid>https://www.youtube.com/watch?v=cjiGcWtCevQ</guid>
-      <pubDate>2026-10-22T16:15:38+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Ce mardi 20 octobre, j'ai pris la parole lors de la réunion publique de Montbéliard, en présence de Manuel Bompard et de Séverine Véziès.
-
-L'occasion de revenir sur le mouvement initié par la jeunesse, de parler de ma proposition de loi sur le contrôle des investissements étrangers et de revenir sur le plan d'investissement productif sur l'automobile de La France insoumise dans le cadre de l'élection présidentielle et de la candidature de Jean-Luc Mélenchon.
-
-Bon visionnage !</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>cjiGcWtCevQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/cjiGcWtCevQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présentation de notre proposition de loi pour protéger nos entreprises et notre souveraineté !</title>
-      <link>https://www.youtube.com/watch?v=r5iv7U2z3fA</link>
-      <guid>https://www.youtube.com/watch?v=r5iv7U2z3fA</guid>
-      <pubDate>2026-10-22T13:34:10+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>r5iv7U2z3fA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/r5iv7U2z3fA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
