@@ -4,8 +4,37 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 13 Nov 2026 15:48:59 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:04:53 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>📽️ Ce que le MOUVEMENT SOCIAL dit de la MACRONIE et de la NOUVELLE FRANCE</title>
+      <link>https://www.youtube.com/watch?v=WStMYsq3YKk</link>
+      <guid>https://www.youtube.com/watch?v=WStMYsq3YKk</guid>
+      <pubDate>2026-11-13T16:00:25+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Bienvenue dans Contrechamp, l'émission où je revois l’actu, en prenant un peu de recul et en élargissant la focale.
+
+00:00 Introduction
+01:37 Bascule autoritaire
+07:50 Nouvelle France
+09:04 La jeunesse du 18ème et du 19ème en lutte
+11:23 La banlieue influence Paname, Paname influence le monde
+15:15 L'imagination au pouvoir
+24:20 Conclusion
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram : https://www.instagram.com/deputee_obono
+➡️ Facebook : https://www.facebook.com/DanieleObono
+➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok : https://www.tiktok.com/@danieleobono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>WStMYsq3YKk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WStMYsq3YKk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jean-Luc Mélenchon s’est fait le porte-parole du Kremlin | Jean-Noël Barrot</title>
       <link>https://www.youtube.com/watch?v=g-ANwNlgkUs</link>
@@ -537,27 +566,6 @@ Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.c
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>3rwZJIwBPjs</videoId>
       <enclosure url="https://i.ytimg.com/vi/3rwZJIwBPjs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>11 Novembre : on ne prépare pas l'avenir en effaçant le passé | Marine Le Pen à Hénin-Beaumont</title>
-      <link>https://www.youtube.com/watch?v=Gebzo6e0gmE</link>
-      <guid>https://www.youtube.com/watch?v=Gebzo6e0gmE</guid>
-      <pubDate>2026-11-11T14:23:06+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Discours de Marine Le Pen pour la commémoration du 108e anniversaire de l'Armistice du 11 novembre 1918, à Hénin-Beaumont.
-
-« Le 11 novembre pour la France n'est pas juste une date qui appartient à l'histoire, mais à l'âme de tout notre peuple. »
-
-Hommage aux poilus, aux combattants de l'arrière et aux femmes, qui « n'étaient pas dans les tranchées, mais étaient au cœur de la bataille », et appel au devoir de mémoire : « On ne prépare pas l'avenir en effaçant le passé. »
-
-Gloire à nos héros de 14 ! Gloire à tous nos morts pour la France ! Vive la République ! Vive la France !
-
-Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>Gebzo6e0gmE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Gebzo6e0gmE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
