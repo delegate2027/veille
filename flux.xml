@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 13 Nov 2026 16:19:11 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:34:26 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>📽️ Ce que le MOUVEMENT SOCIAL dit de la MACRONIE et de la NOUVELLE FRANCE</title>
@@ -34,32 +34,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>WStMYsq3YKk</videoId>
       <enclosure url="https://i.ytimg.com/vi/WStMYsq3YKk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jean-Luc Mélenchon s’est fait le porte-parole du Kremlin | Jean-Noël Barrot</title>
-      <link>https://www.youtube.com/watch?v=g-ANwNlgkUs</link>
-      <guid>https://www.youtube.com/watch?v=g-ANwNlgkUs</guid>
-      <pubDate>2026-11-13T15:43:05+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Jean-Luc Mélenchon s’est fait le porte-parole du Kremlin | Jean-Noël Barrot
-
-Invité du Grand Jury sur RTL et Public Sénat, notre ministre de l'Europe et des Affaires étrangères et vice-président est revenu sur les grandes tensions internationales, la guerre en Ukraine et les enjeux de la prochaine élection présidentielle.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/jean-noel-barrot-jean-luc-melenchon-sest-fait-le-porte-parole-du-kremlin-image-8571
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>g-ANwNlgkUs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/g-ANwNlgkUs/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Nous ferons tout ce qui nous permettra de réindustrialiser la France ! | Marine Le Pen</title>
@@ -566,6 +540,27 @@ Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.c
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>3rwZJIwBPjs</videoId>
       <enclosure url="https://i.ytimg.com/vi/3rwZJIwBPjs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>11 Novembre : on ne prépare pas l'avenir en effaçant le passé | Marine Le Pen à Hénin-Beaumont</title>
+      <link>https://www.youtube.com/watch?v=Gebzo6e0gmE</link>
+      <guid>https://www.youtube.com/watch?v=Gebzo6e0gmE</guid>
+      <pubDate>2026-11-11T14:23:06+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Discours de Marine Le Pen pour la commémoration du 108e anniversaire de l'Armistice du 11 novembre 1918, à Hénin-Beaumont.
+
+« Le 11 novembre pour la France n'est pas juste une date qui appartient à l'histoire, mais à l'âme de tout notre peuple. »
+
+Hommage aux poilus, aux combattants de l'arrière et aux femmes, qui « n'étaient pas dans les tranchées, mais étaient au cœur de la bataille », et appel au devoir de mémoire : « On ne prépare pas l'avenir en effaçant le passé. »
+
+Gloire à nos héros de 14 ! Gloire à tous nos morts pour la France ! Vive la République ! Vive la France !
+
+Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>Gebzo6e0gmE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Gebzo6e0gmE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
