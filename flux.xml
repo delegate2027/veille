@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 13 Nov 2026 10:30:57 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:45:40 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 Suite des mobilisations sociales et lycéennes : Manuel Bompard, invité de BFM Marseille !</title>
+      <link>https://www.youtube.com/watch?v=Q6buBxMNYPs</link>
+      <guid>https://www.youtube.com/watch?v=Q6buBxMNYPs</guid>
+      <pubDate>2026-11-13T10:15:34+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur BFM Marseille du vendredi 13 novembre 2026.
+
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>Q6buBxMNYPs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Q6buBxMNYPs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>François Ruffin invité de la matinale de France Inter</title>
       <link>https://www.youtube.com/watch?v=3eMaVbxcq40</link>
@@ -504,30 +526,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>8ifDCfn2j74</videoId>
       <enclosure url="https://i.ytimg.com/vi/8ifDCfn2j74/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>GABRIEL ATTAL DÉBAT AUX RENCONTRES DE L'AVENIR À SAINT-RAPHAËL</title>
-      <link>https://www.youtube.com/watch?v=fZXNZKsc0n8</link>
-      <guid>https://www.youtube.com/watch?v=fZXNZKsc0n8</guid>
-      <pubDate>2026-11-10T17:54:21+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Gabriel Attal débat aux rencontres de Saint-Raphaël sur l’École, l’intégration et l’autorité de l’État
-
-Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal
-
-Si vous êtes arrivés jusqu'ici, écrivez en commentaire "Gabriel Attal Président !"</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>fZXNZKsc0n8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/fZXNZKsc0n8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
