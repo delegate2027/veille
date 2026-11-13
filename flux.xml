@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 13 Nov 2026 21:15:39 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 21:30:54 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Jordan Bardella sur LCI : « Le programme de Jean-Luc Mélenchon est une fable ! »</title>
+      <link>https://www.youtube.com/watch?v=qgu49Ml9a8E</link>
+      <guid>https://www.youtube.com/watch?v=qgu49Ml9a8E</guid>
+      <pubDate>2026-11-13T21:14:01+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>qgu49Ml9a8E</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qgu49Ml9a8E/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Jordan Bardella est l'invité de Margot Haddad sur LCI !</title>
       <link>https://www.youtube.com/watch?v=2_vsB2bzX5Q</link>
@@ -542,19 +562,6 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>Ix3-b3Hrwi8</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ix3-b3Hrwi8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le dossier du jour : Grève générale ! – En campagne #6</title>
-      <link>https://www.youtube.com/watch?v=3rwZJIwBPjs</link>
-      <guid>https://www.youtube.com/watch?v=3rwZJIwBPjs</guid>
-      <pubDate>2026-11-11T17:00:36+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Avec Ryad Rani, Kamel Brahmi et Ludivine Bantigny.
-
-Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/live/IopyyAlu01Q</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>3rwZJIwBPjs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/3rwZJIwBPjs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
