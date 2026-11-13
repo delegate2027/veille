@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 13 Nov 2026 19:01:40 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:15:41 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 Réunion publique à Nice &amp; acte 5 des mobilisations : Manuel Bompard, invité de BFM Côte d'Azur !</title>
+      <link>https://www.youtube.com/watch?v=idfk1Pz_dOQ</link>
+      <guid>https://www.youtube.com/watch?v=idfk1Pz_dOQ</guid>
+      <pubDate>2026-11-13T19:10:48+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur BFM Côte d'Azur du vendredi 13 novembre 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>idfk1Pz_dOQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/idfk1Pz_dOQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Youssef Swatt's, l'invité musical ! – En campagne #6</title>
       <link>https://www.youtube.com/watch?v=sS9ZNaWMouU</link>
@@ -539,19 +560,6 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>Ix3-b3Hrwi8</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ix3-b3Hrwi8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le dossier du jour : Grève générale ! – En campagne #6</title>
-      <link>https://www.youtube.com/watch?v=3rwZJIwBPjs</link>
-      <guid>https://www.youtube.com/watch?v=3rwZJIwBPjs</guid>
-      <pubDate>2026-11-11T17:00:36+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Avec Ryad Rani, Kamel Brahmi et Ludivine Bantigny.
-
-Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/live/IopyyAlu01Q</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>3rwZJIwBPjs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/3rwZJIwBPjs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
