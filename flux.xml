@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 13 Nov 2026 09:15:38 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:30:56 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>François Ruffin invité de la matinale de France Inter</title>
+      <link>https://www.youtube.com/watch?v=3eMaVbxcq40</link>
+      <guid>https://www.youtube.com/watch?v=3eMaVbxcq40</guid>
+      <pubDate>2026-11-13T09:14:35+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Soutenez François Ruffin : nouspresident.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>3eMaVbxcq40</videoId>
+      <enclosure url="https://i.ytimg.com/vi/3eMaVbxcq40/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EDWIGE DIAZ : « L'ordre doit revenir à l'école ! » (CNEWS)</title>
       <link>https://www.youtube.com/watch?v=9vTbFno0_VI</link>
@@ -515,21 +528,6 @@ Si vous êtes arrivés jusqu'ici, écrivez en commentaire "Gabriel Attal Présid
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>fZXNZKsc0n8</videoId>
       <enclosure url="https://i.ytimg.com/vi/fZXNZKsc0n8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Violences policières : Sandrine Rousseau interroge le Ministre de l'intérieur sur sa responsabilité</title>
-      <link>https://www.youtube.com/watch?v=c3XMIvfMkqo</link>
-      <guid>https://www.youtube.com/watch?v=c3XMIvfMkqo</guid>
-      <pubDate>2026-11-10T16:28:48+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description>La police est un service public soumis aux principes républicains de Liberté, Égalité, Fraternité. Pourtant les «dérapages» sont si nombreux et graves qu’une question se pose:
-
-M. Nunes, les forces de l’ordre concernées par ces faits ont-elles agi sur vos ordres ou sont-elles hors de votre contrôle?
---
-Question au gouvernement du 10/11/2026</description>
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>c3XMIvfMkqo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/c3XMIvfMkqo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
