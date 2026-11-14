@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 14 Nov 2026 09:30:59 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:45:36 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Mélenchonomics : quelles alternatives au néolibéralisme ? – Débat avec Éric Berr</title>
+      <link>https://www.youtube.com/watch?v=8wyrIB5rzG4</link>
+      <guid>https://www.youtube.com/watch?v=8wyrIB5rzG4</guid>
+      <pubDate>2026-11-14T09:37:06+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>Comment comprendre les politiques économiques qui dominent aujourd'hui ? Quelles alternatives au néolibéralisme et quelle place redonner à la puissance publique dans l'économie ?
+
+Autour de son livre Mélenchonomics, Éric Berr, coresponsable du département d'économie de l'Institut La Boétie, est venu échanger avec Sophia Chikirou lors d'un débat consacré aux grandes questions économiques et politiques de notre temps.
+
+Au fil de la discussion, plusieurs sujets ont été abordés : l'héritage du néolibéralisme, le rôle de l'État et des marchés, les politiques d'offre, les aides publiques aux entreprises, la répartition des richesses, la planification écologique et la nécessité de remettre l'économie au service des besoins humains plutôt que des intérêts des actionnaires.
+
+La rencontre s'est poursuivie par un temps d'échange avec le public, qui a pu poser de nombreuses questions et approfondir les sujets abordés.
+
+Un véritable moment de débat, de formation populaire et d'éducation politique pour mieux comprendre les mécanismes économiques et discuter des alternatives possibles.
+
+📚 Avec Éric Berr, coresponsable du département d'économie de l'Institut La Boétie, auteur de Mélenchonomics.</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>8wyrIB5rzG4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8wyrIB5rzG4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>📺 Je déroule notre PROGRAMME en pleine garde à vue médiatique</title>
       <link>https://www.youtube.com/watch?v=Ocu4HDqulOQ</link>
@@ -525,23 +546,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>V3ZRTdwkBGs</videoId>
       <enclosure url="https://i.ytimg.com/vi/V3ZRTdwkBGs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Projet de loi de fin de gestion : rompre avec l’austérité pour financer les demandes de la jeunesse</title>
-      <link>https://www.youtube.com/watch?v=4Ldx0-COLYU</link>
-      <guid>https://www.youtube.com/watch?v=4Ldx0-COLYU</guid>
-      <pubDate>2026-11-12T10:43:09+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez le discours d’Éric Coquerel lors de l’examen du projet de loi de finances de fin de gestion pour 2026, le jeudi 12 novembre 2026.
-
-Depuis 2021, les lois de finances de fin de gestion sont devenues un nouvel instrument d’austérité : elles permettent au Gouvernement d'annuler des crédits dans les ministères sans rouvrir le débat sur les recettes.
-
-9 milliards d’euros de crédits gelés annoncés, 5,8 milliards d’annulations inscrites dans ce PLFG. Dans le même temps, France 2030, le sport, les associations et la culture subissent de nouvelles coupes budgétaires.
-
-Nous proposons de mobiliser 5 milliards d’euros dès maintenant pour répondre aux revendications des lycéens et des étudiants, et financer les besoins des lycées et des universités.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>4Ldx0-COLYU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4Ldx0-COLYU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
