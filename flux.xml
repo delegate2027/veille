@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 14 Nov 2026 11:01:08 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:15:34 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Mélenchonomics : quelles alternatives au néolibéralisme ? – Débat avec Éric Berr</title>
@@ -188,17 +188,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>WStMYsq3YKk</videoId>
       <enclosure url="https://i.ytimg.com/vi/WStMYsq3YKk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nous ferons tout ce qui nous permettra de réindustrialiser la France ! | Marine Le Pen</title>
-      <link>https://www.youtube.com/watch?v=2m-b5s3fJis</link>
-      <guid>https://www.youtube.com/watch?v=2m-b5s3fJis</guid>
-      <pubDate>2026-11-13T14:12:31+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Au Salon du Made in France, j’ai rappelé notre priorité : réindustrialiser la France. Baisse des impôts de production, allègement des normes, priorité nationale dans les 200 milliards annuels de commande publique, étiquetage précis de l’origine des produits : produisons chez nous !</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>2m-b5s3fJis</videoId>
-      <enclosure url="https://i.ytimg.com/vi/2m-b5s3fJis/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>« Paul Éluard doit être une digue face à la répression pour tout le mouvement » - Anasse Kazib</title>
@@ -546,6 +535,23 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>V3ZRTdwkBGs</videoId>
       <enclosure url="https://i.ytimg.com/vi/V3ZRTdwkBGs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Projet de loi de fin de gestion : rompre avec l’austérité pour financer les demandes de la jeunesse</title>
+      <link>https://www.youtube.com/watch?v=4Ldx0-COLYU</link>
+      <guid>https://www.youtube.com/watch?v=4Ldx0-COLYU</guid>
+      <pubDate>2026-11-12T10:43:09+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez le discours d’Éric Coquerel lors de l’examen du projet de loi de finances de fin de gestion pour 2026, le jeudi 12 novembre 2026.
+
+Depuis 2021, les lois de finances de fin de gestion sont devenues un nouvel instrument d’austérité : elles permettent au Gouvernement d'annuler des crédits dans les ministères sans rouvrir le débat sur les recettes.
+
+9 milliards d’euros de crédits gelés annoncés, 5,8 milliards d’annulations inscrites dans ce PLFG. Dans le même temps, France 2030, le sport, les associations et la culture subissent de nouvelles coupes budgétaires.
+
+Nous proposons de mobiliser 5 milliards d’euros dès maintenant pour répondre aux revendications des lycéens et des étudiants, et financer les besoins des lycées et des universités.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>4Ldx0-COLYU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4Ldx0-COLYU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
