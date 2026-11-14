@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 14 Nov 2026 16:45:37 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 17:01:15 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>La France qui lutte : avec Amal Bentounsi – En campagne #6</title>
@@ -446,39 +446,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <enclosure url="https://i.ytimg.com/vi/gNOytBj52fw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Eric Zemmour sur France Info : Mes propositions pour le service public</title>
-      <link>https://www.youtube.com/watch?v=hOdtRPtU8iU</link>
-      <guid>https://www.youtube.com/watch?v=hOdtRPtU8iU</guid>
-      <pubDate>2026-11-12T13:59:29+00:00</pubDate>
-      <author>Éric Zemmour</author>
-      <description>Eric Zemmour, candidat à l'élection présidentielle de 2027, était l'invité de France Info pour donner ses propositions pour améliorer le service public français.
-
-Quatre thèmes ont été abordés avec des mesures concrètes : Justice ; Santé ; Ecole ; Réforme de l’État.
-
-🇫🇷 Soutenez sa candidature : ericzemmour.fr
-
-1️⃣ Likez la vidéo, abonnez-vous à ma chaîne YouTube en cliquant sur le bouton « S’abonner », et activez la cloche 🔔 et partagez cette vidéo à vos proches !
-2️⃣ Adhérez à RECONQUÊTE : https://www.parti-reconquete.fr/adhesions
-3️⃣ Faites un don : https://soutien.ericzemmour.fr
-
-#EricZemmour
-
-📱 Suivez-moi sur les réseaux sociaux : 
-
-Facebook : https://www.facebook.com/ZemmourEric
-Twitter : https://twitter.com/ZemmourEric
-Instagram : https://www.instagram.com/ericzemmour_/
-LinkedIn : https://www.linkedin.com/in/eric-zemmour/
-WhatsApp : https://whatsapp.com/channel/0029Va8tObJE50UnrZc5c13h
-Telegram : https://t.me/EricZemmourOfficiel
-TikTok : https://www.tiktok.com/@zemmour_eric
-
-📖 Commandez la version augmentée de mon livre Le Suicide français : https://www.amazon.fr/suicide-français-Eric-Zemmour/dp/2818507928/ref=tmm_mmp_swatch_0?_encoding=UTF8&amp;amp;dib_tag=se&amp;amp;dib=eyJ2IjoiMSJ9.QHuIbjdvWA2uncNV0zlaju0WXY583mDf7emcwqB7FtL_TfQqKt_3JiXNJnmXYeDkHDQNONHP4dql9KQFUBqy0ISgUqLSQfVDY2JC9H1wi2lW7Zx-fjO5bjcUA7ulUiDh1L07Vr_bKBdea8snGZUWVA.9-Tjg4JBIAkQ_5nt-5pC1aOZRmdEIAt63SW00LnnFaI&amp;amp;qid=1789369244&amp;amp;sr=8-1</description>
-      <channelTitle>Éric Zemmour</channelTitle>
-      <videoId>hOdtRPtU8iU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hOdtRPtU8iU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Gabriel Attal sur France Info | Ses propositions sur le service public</title>
       <link>https://www.youtube.com/watch?v=QHsojHi4vsI</link>
       <guid>https://www.youtube.com/watch?v=QHsojHi4vsI</guid>
@@ -546,6 +513,23 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>V3ZRTdwkBGs</videoId>
       <enclosure url="https://i.ytimg.com/vi/V3ZRTdwkBGs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Projet de loi de fin de gestion : rompre avec l’austérité pour financer les demandes de la jeunesse</title>
+      <link>https://www.youtube.com/watch?v=4Ldx0-COLYU</link>
+      <guid>https://www.youtube.com/watch?v=4Ldx0-COLYU</guid>
+      <pubDate>2026-11-12T10:43:09+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez le discours d’Éric Coquerel lors de l’examen du projet de loi de finances de fin de gestion pour 2026, le jeudi 12 novembre 2026.
+
+Depuis 2021, les lois de finances de fin de gestion sont devenues un nouvel instrument d’austérité : elles permettent au Gouvernement d'annuler des crédits dans les ministères sans rouvrir le débat sur les recettes.
+
+9 milliards d’euros de crédits gelés annoncés, 5,8 milliards d’annulations inscrites dans ce PLFG. Dans le même temps, France 2030, le sport, les associations et la culture subissent de nouvelles coupes budgétaires.
+
+Nous proposons de mobiliser 5 milliards d’euros dès maintenant pour répondre aux revendications des lycéens et des étudiants, et financer les besoins des lycées et des universités.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>4Ldx0-COLYU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4Ldx0-COLYU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
