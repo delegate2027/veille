@@ -4,29 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 13 Nov 2026 23:45:39 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:01:12 -0000</lastBuildDate>
     <feedCount>50</feedCount>
-    <item>
-      <title>Le programme pour vivre mieux ! Manon Aubry face aux Grandes Gueules</title>
-      <link>https://www.youtube.com/watch?v=Is__bQaEMdk</link>
-      <guid>https://www.youtube.com/watch?v=Is__bQaEMdk</guid>
-      <pubDate>2026-11-11T10:35:07+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Les Grandes Gueules sur RMC le 11 novembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>Is__bQaEMdk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Is__bQaEMdk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bientôt 1 million de signatures pour fermer #CNEWS : la pétition qui fait rager Pascal Praud</title>
-      <link>https://www.youtube.com/watch?v=ly9AI2PC9i8</link>
-      <guid>https://www.youtube.com/watch?v=ly9AI2PC9i8</guid>
-      <pubDate>2026-11-04T10:49:31+00:00</pubDate>
-      <author>Aurélien Saintoul - Député des Hauts-de-Seine</author>
-      <description>Retrouvez mon passage sur Le Média du 3 novembre 2026 pour aborder la pétition déjà signée plus de 800 000 fois pour exiger la fermeture de CNEWS. Le #racisme tue. Et s'il progresse dans la société c'est grâce à des chaînes de TV propagandistes que l’#Arcom a laissé faire. Pour en finir avec le racisme, il faudra remonter toute la chaîne de la responsabilité.</description>
-      <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
-      <videoId>ly9AI2PC9i8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ly9AI2PC9i8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
