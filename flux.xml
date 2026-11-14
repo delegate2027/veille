@@ -4,8 +4,38 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 14 Nov 2026 20:30:49 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:45:37 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>OLIVIER BESANCENOT : "LA CRISE SOCIALE SE TRANSFORME EN CRISE POLITIQUE"</title>
+      <link>https://www.youtube.com/watch?v=5emKyF5G8Mw</link>
+      <guid>https://www.youtube.com/watch?v=5emKyF5G8Mw</guid>
+      <pubDate>2026-11-14T20:32:42+00:00</pubDate>
+      <author>NPA - L’Anticapitaliste</author>
+      <description>Olivier Besancenot était l'invité de BFM TV le 13 novembre 2026 pour parler du mouvement contre la vie chère et la mobilisation de la jeunesse qui se poursuit depuis le mois de septembre.
+"La dernière fois qu'on a obtenu 30% d'augmentation de salaire, c'est quand on a eu une grève générale. C'était en mai 1968"
+
+L’actu du NPA l'Anticapitaliste :
+http://npa-lanticapitaliste.org
+Instagram : http://www.instagram.com/npa.anticapitaliste
+Bluesky : http://bsky.app/profile/npa-antica.bsky.social
+Twitter : http://www.twitter.com/NPA_antica
+Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
+Facebook : http://www.facebook.com/npa.anticapitaliste
+Threads : http://www.threads.net/@npa.officiel
+
+Suivez L’Anticapitaliste, le média :
+http://lanticapitaliste.org
+Instagram : http://www.instagram.com/l_anticapitaliste
+Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
+Twitter : http://www.twitter.com/Lanticapitalis1
+Tik Tok : http://www.tiktok.com/@lanticapitaliste
+Facebook : http://www.facebook.com/anticapitaliste.presse
+Threads : http://www.threads.net/@l_anticapitaliste</description>
+      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
+      <videoId>5emKyF5G8Mw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5emKyF5G8Mw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Le Pen répond aux questions de la jeunesse : logement, études, travail, Parcoursup</title>
       <link>https://www.youtube.com/watch?v=CQ_VHJjtxlA</link>
@@ -517,23 +547,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>V3ZRTdwkBGs</videoId>
       <enclosure url="https://i.ytimg.com/vi/V3ZRTdwkBGs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Projet de loi de fin de gestion : rompre avec l’austérité pour financer les demandes de la jeunesse</title>
-      <link>https://www.youtube.com/watch?v=4Ldx0-COLYU</link>
-      <guid>https://www.youtube.com/watch?v=4Ldx0-COLYU</guid>
-      <pubDate>2026-11-12T10:43:09+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez le discours d’Éric Coquerel lors de l’examen du projet de loi de finances de fin de gestion pour 2026, le jeudi 12 novembre 2026.
-
-Depuis 2021, les lois de finances de fin de gestion sont devenues un nouvel instrument d’austérité : elles permettent au Gouvernement d'annuler des crédits dans les ministères sans rouvrir le débat sur les recettes.
-
-9 milliards d’euros de crédits gelés annoncés, 5,8 milliards d’annulations inscrites dans ce PLFG. Dans le même temps, France 2030, le sport, les associations et la culture subissent de nouvelles coupes budgétaires.
-
-Nous proposons de mobiliser 5 milliards d’euros dès maintenant pour répondre aux revendications des lycéens et des étudiants, et financer les besoins des lycées et des universités.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>4Ldx0-COLYU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/4Ldx0-COLYU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
