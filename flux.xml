@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 15 Nov 2026 13:45:44 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:01:14 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>L'instant militant : l'Observatoire national de l'extrême droite – En campagne #6</title>
+      <link>https://www.youtube.com/watch?v=iH35tGAm0kc</link>
+      <guid>https://www.youtube.com/watch?v=iH35tGAm0kc</guid>
+      <pubDate>2026-11-15T14:00:08+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Avec Juliette Prados et Thomas Portes.
+
+Retrouvez l'émission En Campagne dans son intégralité : https://youtube.com/live/IopyyAlu01Q</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>iH35tGAm0kc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/iH35tGAm0kc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La francophonie, une véritable fraternité à faire vivre | Marine Le Pen</title>
       <link>https://www.youtube.com/watch?v=8AbeIVTjlio</link>
@@ -489,17 +502,6 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <channelTitle>NPA - L’Anticapitaliste</channelTitle>
       <videoId>_lxJYw3K7CA</videoId>
       <enclosure url="https://i.ytimg.com/vi/_lxJYw3K7CA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hôpital, prisons, culture, médias: grand oral de Marine Tondelier sur le service public (franceinfo)</title>
-      <link>https://www.youtube.com/watch?v=CXX3N6Lfa2Y</link>
-      <guid>https://www.youtube.com/watch?v=CXX3N6Lfa2Y</guid>
-      <pubDate>2026-11-12T15:17:34+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Jeudi 12 novembre 2026, Marine Tondelier était l'invitée de France Info pour détailler ses propositions sur les services publics.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>CXX3N6Lfa2Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/CXX3N6Lfa2Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
