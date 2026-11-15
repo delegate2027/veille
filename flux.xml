@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 15 Nov 2026 14:01:14 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:15:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>L'instant militant : l'Observatoire national de l'extrême droite – En campagne #6</title>
@@ -125,23 +125,6 @@ Threads : http://www.threads.net/@l_anticapitaliste</description>
       <channelTitle>NPA - L’Anticapitaliste</channelTitle>
       <videoId>5emKyF5G8Mw</videoId>
       <enclosure url="https://i.ytimg.com/vi/5emKyF5G8Mw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Le Pen répond aux questions de la jeunesse : logement, études, travail, Parcoursup</title>
-      <link>https://www.youtube.com/watch?v=CQ_VHJjtxlA</link>
-      <guid>https://www.youtube.com/watch?v=CQ_VHJjtxlA</guid>
-      <pubDate>2026-11-14T19:16:16+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Tony et Louise, deux jeunes Français, interrogent Marine Le Pen sur les inquiétudes de leur génération : la violence, les études, Parcoursup, le logement étudiant, l'accès à la propriété, le travail et le mérite.
-
-« Je comprends tout à fait l'état d'esprit de la jeunesse, parce que l'horizon leur apparaît bloqué. Et en même temps, je crois que c'est une grande chance pour la jeunesse française, parce que tout est à reconstruire. »
-
-Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>CQ_VHJjtxlA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/CQ_VHJjtxlA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>La France qui lutte : avec Amal Bentounsi – En campagne #6</title>
@@ -502,6 +485,17 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <channelTitle>NPA - L’Anticapitaliste</channelTitle>
       <videoId>_lxJYw3K7CA</videoId>
       <enclosure url="https://i.ytimg.com/vi/_lxJYw3K7CA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hôpital, prisons, culture, médias: grand oral de Marine Tondelier sur le service public (franceinfo)</title>
+      <link>https://www.youtube.com/watch?v=CXX3N6Lfa2Y</link>
+      <guid>https://www.youtube.com/watch?v=CXX3N6Lfa2Y</guid>
+      <pubDate>2026-11-12T15:17:34+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Jeudi 12 novembre 2026, Marine Tondelier était l'invitée de France Info pour détailler ses propositions sur les services publics.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>CXX3N6Lfa2Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/CXX3N6Lfa2Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
