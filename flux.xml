@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 15 Nov 2026 18:45:57 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 19:01:03 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Marine Tondelier : "tous les ennemis de la France comme Poutine soutiennent le RN" (France Info)</title>
@@ -18,7 +18,7 @@
       <enclosure url="https://i.ytimg.com/vi/dBuPN4sAC3U/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>On décrypte la DEFAITE de Trump aux Midterms, et MAINTENANT ? - Interrègne</title>
+      <title>DÉFAITE de Trump aux Midterms, et MAINTENANT ? - Interrègne</title>
       <link>https://www.youtube.com/watch?v=VOxfGzNNoQ8</link>
       <guid>https://www.youtube.com/watch?v=VOxfGzNNoQ8</guid>
       <pubDate>2026-11-15T18:00:21+00:00</pubDate>
@@ -242,26 +242,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>Ocu4HDqulOQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ocu4HDqulOQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella sur LCI : « Le programme de Jean-Luc Mélenchon est une fable ! »</title>
-      <link>https://www.youtube.com/watch?v=qgu49Ml9a8E</link>
-      <guid>https://www.youtube.com/watch?v=qgu49Ml9a8E</guid>
-      <pubDate>2026-11-13T21:14:01+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
-
-Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>qgu49Ml9a8E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qgu49Ml9a8E/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>🔴 Réunion publique à Nice &amp; acte 5 des mobilisations : Manuel Bompard, invité de BFM Côte d'Azur !</title>
@@ -499,6 +479,35 @@ Rendez-vous le 18 avril et le 2 mai 2027.
       <channelTitle>Paul Vannier</channelTitle>
       <videoId>hsAkTO_oPII</videoId>
       <enclosure url="https://i.ytimg.com/vi/hsAkTO_oPII/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>RIPOSTE ANTIRACISTE</title>
+      <link>https://www.youtube.com/watch?v=_lxJYw3K7CA</link>
+      <guid>https://www.youtube.com/watch?v=_lxJYw3K7CA</guid>
+      <pubDate>2026-11-12T17:30:07+00:00</pubDate>
+      <author>NPA - L’Anticapitaliste</author>
+      <description>La fascisation avance en fabriquant des populations suspectes qu’il devient même légitime de tuer, puis en élargissant la cible à l’ensemble de celles et ceux qui s’opposent à ce système. L’antiracisme est au cœur du combat pour nos libertés et nos droits sociaux.
+
+Suivez L’Anticapitaliste, le média :
+http://lanticapitaliste.org
+Instagram : http://www.instagram.com/l_anticapitaliste
+Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
+Twitter : http://www.twitter.com/Lanticapitalis1
+Tik Tok : http://www.tiktok.com/@lanticapitaliste
+Facebook : http://www.facebook.com/anticapitaliste.presse
+Threads : http://www.threads.net/@l_anticapitaliste
+
+L’actu du NPA l'Anticapitaliste :
+http://npa-lanticapitaliste.org
+Instagram : http://www.instagram.com/npa.anticapitaliste
+Bluesky : http://bsky.app/profile/npa-antica.bsky.social
+Twitter : http://www.twitter.com/NPA_antica
+Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
+Facebook : http://www.facebook.com/npa.anticapitaliste
+Threads : http://www.threads.net/@npa.officiel</description>
+      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
+      <videoId>_lxJYw3K7CA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_lxJYw3K7CA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
