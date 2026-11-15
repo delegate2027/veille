@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 15 Nov 2026 14:30:55 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:45:46 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Pouvoir d'achat : Eric Coquerel face à Michel Edouard Leclerc</title>
+      <link>https://www.youtube.com/watch?v=kPXP5b-oHho</link>
+      <guid>https://www.youtube.com/watch?v=kPXP5b-oHho</guid>
+      <pubDate>2026-11-15T14:30:58+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Retrouvez le débat entre Éric Coquerel et Michel-Édouard Leclerc dans Franc jeu, sur France 2/ France Inter, le dimanche 15 novembre 2026.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>kPXP5b-oHho</videoId>
+      <enclosure url="https://i.ytimg.com/vi/kPXP5b-oHho/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>L'instant militant : l'Observatoire national de l'extrême droite – En campagne #6</title>
       <link>https://www.youtube.com/watch?v=iH35tGAm0kc</link>
@@ -485,17 +496,6 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <channelTitle>NPA - L’Anticapitaliste</channelTitle>
       <videoId>_lxJYw3K7CA</videoId>
       <enclosure url="https://i.ytimg.com/vi/_lxJYw3K7CA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hôpital, prisons, culture, médias: grand oral de Marine Tondelier sur le service public (franceinfo)</title>
-      <link>https://www.youtube.com/watch?v=CXX3N6Lfa2Y</link>
-      <guid>https://www.youtube.com/watch?v=CXX3N6Lfa2Y</guid>
-      <pubDate>2026-11-12T15:17:34+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Jeudi 12 novembre 2026, Marine Tondelier était l'invitée de France Info pour détailler ses propositions sur les services publics.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>CXX3N6Lfa2Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/CXX3N6Lfa2Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
