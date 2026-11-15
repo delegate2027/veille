@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 15 Nov 2026 12:30:59 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:45:39 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>La francophonie, une véritable fraternité à faire vivre | Marine Le Pen</title>
@@ -312,35 +312,6 @@ Mes réseaux sociaux
       <enclosure url="https://i.ytimg.com/vi/WStMYsq3YKk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>« Paul Éluard doit être une digue face à la répression pour tout le mouvement » - Anasse Kazib</title>
-      <link>https://www.youtube.com/watch?v=NVyeCPFgSZk</link>
-      <guid>https://www.youtube.com/watch?v=NVyeCPFgSZk</guid>
-      <pubDate>2026-11-13T13:40:33+00:00</pubDate>
-      <author>Révolution Permanente</author>
-      <description>Lors du rassemblement dimanche 8 novembre à Saint-Denis en soutien à Paul Eluard, Anasse Kazib a dénoncé la répression qui s'abat sur les lycéens et les personnels du lycée, mobilisés pour défendre leurs élèves. Face à cette offensive, il appelle à faire front contre la répression en construisant une solidarité massive, et à faire de leur combat un point d'appui pour élargir et durcir la mobilisation.
-
-Le 21 novembre à 18h à Paris à l’espace Charenton, un grand meeting révolutionnaire sera organisé autour de la candidature d’Anasse Kazib, cheminot et porte-parole de Révolution Permanente, à la présidentielle. Un événement pour discuter de la lutte en cours, des outils pour la renforcer et avancer dans la construction d’un pouvoir indépendant des travailleurs et de la jeunesse, mais aussi des objectifs d’une campagne ouvrière, communiste et révolutionnaire dans ce contexte. Avec Alexis Durey, Elsa Marcel et lycéens et travailleurs en lutte.
-
-Prends ta place :
-https://my.weezevent.com/meeting-anasse-2027-grand-meeting-revolutionnaire-a-paris
-
-Abonnez-vous à notre chaîne YouTube !
-➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
-
-★ Retrouvez-nous sur les réseaux sociaux :
-▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
-▸Twitter ▸ https://twitter.com/@RevPermanente
-▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
-▸Telegram ▸ https://t.me/revolution_permanente
-▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
-      <channelTitle>Révolution Permanente</channelTitle>
-      <videoId>NVyeCPFgSZk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/NVyeCPFgSZk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Nous allons relancer la filière textile en France</title>
       <link>https://www.youtube.com/watch?v=SO2oL5FFNEU</link>
       <guid>https://www.youtube.com/watch?v=SO2oL5FFNEU</guid>
@@ -518,6 +489,17 @@ Threads : http://www.threads.net/@npa.officiel</description>
       <channelTitle>NPA - L’Anticapitaliste</channelTitle>
       <videoId>_lxJYw3K7CA</videoId>
       <enclosure url="https://i.ytimg.com/vi/_lxJYw3K7CA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hôpital, prisons, culture, médias: grand oral de Marine Tondelier sur le service public (franceinfo)</title>
+      <link>https://www.youtube.com/watch?v=CXX3N6Lfa2Y</link>
+      <guid>https://www.youtube.com/watch?v=CXX3N6Lfa2Y</guid>
+      <pubDate>2026-11-12T15:17:34+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Jeudi 12 novembre 2026, Marine Tondelier était l'invitée de France Info pour détailler ses propositions sur les services publics.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>CXX3N6Lfa2Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/CXX3N6Lfa2Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
