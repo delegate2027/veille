@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 16 Nov 2026 22:16:03 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:30:59 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>EN DIRECT | Je débats face à Mélenchon, Le Pen, Glucksmann et Retailleau sur LCI.</title>
+      <link>https://www.youtube.com/watch?v=1NR_BfzVgoo</link>
+      <guid>https://www.youtube.com/watch?v=1NR_BfzVgoo</guid>
+      <pubDate>2026-11-16T22:20:49+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal débat face à Jean-Luc Mélenchon, Marine Le Pen, Raphaël Glucksmann et Bruno Retailleau sur LCI.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>1NR_BfzVgoo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/1NR_BfzVgoo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>École, industrie, civilisation : Eric Zemmour face aux Entrepreneurs et Dirigeants Chrétiens.</title>
       <link>https://www.youtube.com/watch?v=hz2ckr8mXGE</link>
@@ -36,19 +49,6 @@ TikTok : https://www.tiktok.com/@zemmour_eric
       <channelTitle>Éric Zemmour</channelTitle>
       <videoId>hz2ckr8mXGE</videoId>
       <enclosure url="https://i.ytimg.com/vi/hz2ckr8mXGE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Je débats face à Mélenchon, Le Pen, Glucksmann et Retailleau sur LCI.</title>
-      <link>https://www.youtube.com/watch?v=1NR_BfzVgoo</link>
-      <guid>https://www.youtube.com/watch?v=1NR_BfzVgoo</guid>
-      <pubDate>2026-11-16T19:11:09+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Gabriel Attal débat face à Jean-Luc Mélenchon, Marine Le Pen, Raphaël Glucksmann et Bruno Retailleau sur LCI.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>1NR_BfzVgoo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/1NR_BfzVgoo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Retrouver la FORCE du 17 OCTOBRE ?? On en parle au MEETING DU 21 NOVEMBRE - Edito d'Anasse Kazib</title>
