@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 16 Nov 2026 08:31:09 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:45:40 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY est l'invité de FRANCE 2 !</title>
+      <link>https://www.youtube.com/watch?v=K2RFCnziEa4</link>
+      <guid>https://www.youtube.com/watch?v=K2RFCnziEa4</guid>
+      <pubDate>2026-11-16T08:32:41+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>K2RFCnziEa4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/K2RFCnziEa4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier : "la consommation de drogues a explosé en France malgré la répression" (LCI)</title>
       <link>https://www.youtube.com/watch?v=a9q6R1hplPM</link>
@@ -477,35 +490,6 @@ Rendez-vous le 18 avril et le 2 mai 2027.
       <channelTitle>Paul Vannier</channelTitle>
       <videoId>hsAkTO_oPII</videoId>
       <enclosure url="https://i.ytimg.com/vi/hsAkTO_oPII/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>RIPOSTE ANTIRACISTE</title>
-      <link>https://www.youtube.com/watch?v=_lxJYw3K7CA</link>
-      <guid>https://www.youtube.com/watch?v=_lxJYw3K7CA</guid>
-      <pubDate>2026-11-12T17:30:07+00:00</pubDate>
-      <author>NPA - L’Anticapitaliste</author>
-      <description>La fascisation avance en fabriquant des populations suspectes qu’il devient même légitime de tuer, puis en élargissant la cible à l’ensemble de celles et ceux qui s’opposent à ce système. L’antiracisme est au cœur du combat pour nos libertés et nos droits sociaux.
-
-Suivez L’Anticapitaliste, le média :
-http://lanticapitaliste.org
-Instagram : http://www.instagram.com/l_anticapitaliste
-Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
-Twitter : http://www.twitter.com/Lanticapitalis1
-Tik Tok : http://www.tiktok.com/@lanticapitaliste
-Facebook : http://www.facebook.com/anticapitaliste.presse
-Threads : http://www.threads.net/@l_anticapitaliste
-
-L’actu du NPA l'Anticapitaliste :
-http://npa-lanticapitaliste.org
-Instagram : http://www.instagram.com/npa.anticapitaliste
-Bluesky : http://bsky.app/profile/npa-antica.bsky.social
-Twitter : http://www.twitter.com/NPA_antica
-Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
-Facebook : http://www.facebook.com/npa.anticapitaliste
-Threads : http://www.threads.net/@npa.officiel</description>
-      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
-      <videoId>_lxJYw3K7CA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_lxJYw3K7CA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
