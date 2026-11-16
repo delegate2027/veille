@@ -4,26 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 16 Nov 2026 02:45:58 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 03:01:08 -0000</lastBuildDate>
     <feedCount>50</feedCount>
-    <item>
-      <title>La francophonie, une véritable fraternité à faire vivre | Marine Le Pen</title>
-      <link>https://www.youtube.com/watch?v=8AbeIVTjlio</link>
-      <guid>https://www.youtube.com/watch?v=8AbeIVTjlio</guid>
-      <pubDate>2026-11-15T11:09:14+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Alors que s'ouvre au Cambodge le 20e sommet de la Francophonie, Marine Le Pen s'adresse à tous les locuteurs de langue française.
-
-« Je n'envisage pas la francophonie comme une influence à préserver, et encore moins comme une domination à créer, mais comme une véritable fraternité à faire vivre. »
-
-Circulation des étudiants, partage des découvertes scientifiques, rencontre des artistes, investissements culturels, synergies diplomatiques : la francophonie porte la promesse d'un monde où les nations peuvent se rapprocher sans se ressembler, coopérer sans se soumettre, et aller de l'avant ensemble sans renoncer à ce qu'elles sont.
-
-Longue vie à la francophonie ! 🇫🇷</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>8AbeIVTjlio</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8AbeIVTjlio/maxresdefault.jpg" type="image/jpeg" />
-    </item>
   </channel>
 </rss>
