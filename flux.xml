@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 16 Nov 2026 22:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 23:01:13 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Le grand débat LCI avec Jean-Luc Mélenchon - En association avec les Restos du Cœur</title>
@@ -28,6 +28,28 @@ Rejoignez la campagne ⏩ https://jlm27.fr/p/j4VuXNIJZb
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>5Df-5eY6Xtc</videoId>
       <enclosure url="https://i.ytimg.com/vi/5Df-5eY6Xtc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>LE QUARTIER GÉNÉRAL | Suivez en direct le grand débat de Marine Le Pen sur LCI !</title>
+      <link>https://www.youtube.com/watch?v=Ac9fQMLkbww</link>
+      <guid>https://www.youtube.com/watch?v=Ac9fQMLkbww</guid>
+      <pubDate>2026-11-16T22:33:30+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔴 EN DIRECT | Édition spéciale du Quartier Général : Marine Le Pen dans le grand débat de LCI
+
+Ce soir, Marine Le Pen participe au grand débat de LCI à 20h40. Le Quartier Général vous fait vivre la soirée en direct !
+
+Margaux Taillefer et Gaëtan Dussausaye vous accompagnent pour décrypter les temps forts, réagir en direct et analyser les échanges de Marine Le Pen face à ses contradicteurs.
+
+🎙️ Invité exceptionnel : Jean-Philippe Tanguy
+
+📺 Le débat est à suivre sur LCI, lundi 16 novembre à 20h20.
+💬 Posez vos questions et réagissez dans le chat, on vous lit en direct !
+
+👉 Abonnez-vous et activez la cloche 🔔 pour ne manquer aucune émission du Quartier Général.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>Ac9fQMLkbww</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Ac9fQMLkbww/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>EN DIRECT | Je débats face à Mélenchon, Le Pen, Glucksmann et Retailleau sur LCI.</title>
@@ -206,28 +228,6 @@ La victoire est au bout du chemin.</description>
       <channelTitle>Clémence Guetté</channelTitle>
       <videoId>K3szInQOSqA</videoId>
       <enclosure url="https://i.ytimg.com/vi/K3szInQOSqA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LE QUARTIER GÉNÉRAL | Suivez en direct le grand débat de Marine Le Pen sur LCI !</title>
-      <link>https://www.youtube.com/watch?v=Ac9fQMLkbww</link>
-      <guid>https://www.youtube.com/watch?v=Ac9fQMLkbww</guid>
-      <pubDate>2026-11-16T11:20:01+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔴 EN DIRECT | Édition spéciale du Quartier Général : Marine Le Pen dans le grand débat de LCI
-
-Ce soir, Marine Le Pen participe au grand débat de LCI à 20h40. Le Quartier Général vous fait vivre la soirée en direct !
-
-Margaux Taillefer et Gaëtan Dussausaye vous accompagnent pour décrypter les temps forts, réagir en direct et analyser les échanges de Marine Le Pen face à ses contradicteurs.
-
-🎙️ Invité exceptionnel : Jean-Philippe Tanguy
-
-📺 Le débat est à suivre sur LCI, lundi 16 novembre à 20h20.
-💬 Posez vos questions et réagissez dans le chat, on vous lit en direct !
-
-👉 Abonnez-vous et activez la cloche 🔔 pour ne manquer aucune émission du Quartier Général.</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>Ac9fQMLkbww</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ac9fQMLkbww/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Produire en France, campagne présidentielle : Fabien Roussel face à la presse au salon du MiF 2026.</title>
