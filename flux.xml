@@ -4,8 +4,30 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 16 Nov 2026 17:15:49 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:31:03 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Sécurité privée après le 17 octobre : pourquoi Emmanuel Grégoire refuse-t-il de répondre ?</title>
+      <link>https://www.youtube.com/watch?v=1ex3Yt_j17Q</link>
+      <guid>https://www.youtube.com/watch?v=1ex3Yt_j17Q</guid>
+      <pubDate>2026-11-16T17:16:13+00:00</pubDate>
+      <author>Ugo Bernalicis</author>
+      <description>Le 16 novembre 2026, dans le cadre des travaux d'enquête menés sur les évènements liés aux manifestations du 17 octobre 2026, J’insiste auprès du maire de Paris, Emmanuel Grégoire, sur les suites données aux événements du 17 octobre, et notamment sur les éventuelles consignes transmises par la préfecture de police aux commerçants, ainsi que sur la manière dont la mairie en a été informée, pour les inciter à recourir à des sociétés de sécurité privée afin de protéger leurs établissements.
+
+Je ne comprends pas les réponses évasives, voire les non-réponses, apportées sur ce sujet pourtant essentiel aux travaux de notre commission d’enquête. Il est indispensable de comprendre qui a pris cette initiative, dans quel cadre et avec quelles garanties.
+
+Emmanuel Grégoire feint une nouvelle fois de ne pas comprendre la question pour éviter d'y répondre. Or, nous attendons des réponses précises sur un sujet qui engage directement les responsabilités de la préfecture et de la mairie de Paris.Suivez Ugo Bernalicis sur :
+👉 Facebook : https://www.facebook.com/ugobernalicis
+👉 Twitter : https://twitter.com/Ugobernalicis
+👉 Instagram : https://www.instagram.com/ugo_bernalicis/
+👉 YouTube : https://youtube.com/c/UgoBernalicisofficiel
+👉 Twitch : https://www.twitch.tv/deputwitch/
+👉 Telegram : https://t.me/ub_actu
+👉 Son blog : https://www.ugobernalicis.fr</description>
+      <channelTitle>Ugo Bernalicis</channelTitle>
+      <videoId>1ex3Yt_j17Q</videoId>
+      <enclosure url="https://i.ytimg.com/vi/1ex3Yt_j17Q/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Fabien Roussel face aux entrepreneurs chrétiens : travail, industrie et énergie</title>
       <link>https://www.youtube.com/watch?v=EGhHavVjEiE</link>
@@ -453,17 +475,6 @@ Mes réseaux sociaux
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>idfk1Pz_dOQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/idfk1Pz_dOQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Youssef Swatt's, l'invité musical ! – En campagne #6</title>
-      <link>https://www.youtube.com/watch?v=sS9ZNaWMouU</link>
-      <guid>https://www.youtube.com/watch?v=sS9ZNaWMouU</guid>
-      <pubDate>2026-11-13T17:36:42+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/live/IopyyAlu01Q</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>sS9ZNaWMouU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/sS9ZNaWMouU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
