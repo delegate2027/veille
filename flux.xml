@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 16 Nov 2026 10:01:30 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 10:15:43 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>La primaire, ça ne peut pas être l'auberge espagnole | Marc Fesneau</title>
+      <link>https://www.youtube.com/watch?v=CNfhRFX9C_0</link>
+      <guid>https://www.youtube.com/watch?v=CNfhRFX9C_0</guid>
+      <pubDate>2026-11-16T10:13:41+00:00</pubDate>
+      <author>MoDem</author>
+      <description>La primaire, ça ne peut pas être l'auberge espagnole | Marc Fesneau
+
+Marc Fesneau, président du groupe Les Démocrates à l'Assemblée nationale et premier vice-président du MoDem, était l’invité de la matinale de TF1 ce lundi 16 novembre à 7h35.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 [Lien vers l'article]
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>CNfhRFX9C_0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/CNfhRFX9C_0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY est l'invité de FRANCE 2 !</title>
       <link>https://www.youtube.com/watch?v=K2RFCnziEa4</link>
@@ -469,27 +495,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Edouard Philippe</channelTitle>
       <videoId>ymai0zOx_pU</videoId>
       <enclosure url="https://i.ytimg.com/vi/ymai0zOx_pU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>500 000 SOUTIENS À JEAN-LUC MÉLENCHON AVANT GTA VI ✅🔥</title>
-      <link>https://www.youtube.com/watch?v=hsAkTO_oPII</link>
-      <guid>https://www.youtube.com/watch?v=hsAkTO_oPII</guid>
-      <pubDate>2026-11-12T18:08:40+00:00</pubDate>
-      <author>Paul Vannier</author>
-      <description>500 000 soutiens citoyens à la candidature de Jean-Luc Mélenchon, avant GTA VI.
-
-Rendez-vous le 18 avril et le 2 mai 2027.
-
-📲 RETROUVEZ PAUL VANNIER SUR :
-
-🔗 Telegram : https://t.me/paulvannier
-🔗 Facebook : https://bit.ly/3PD1FZ1
-🔗 Twitter : https://twitter.com/PaulVannierFI
-🔗 Instagram : https://www.instagram.com/paulvannier_/
-🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
-      <channelTitle>Paul Vannier</channelTitle>
-      <videoId>hsAkTO_oPII</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hsAkTO_oPII/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
