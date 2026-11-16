@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 16 Nov 2026 19:15:45 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:31:20 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>EN DIRECT | Je débats face à Mélenchon, Le Pen, Glucksmann et Retailleau sur LCI.</title>
+      <link>https://www.youtube.com/watch?v=1NR_BfzVgoo</link>
+      <guid>https://www.youtube.com/watch?v=1NR_BfzVgoo</guid>
+      <pubDate>2026-11-16T19:11:09+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Gabriel Attal débat face à Jean-Luc Mélenchon, Marine Le Pen, Raphaël Glucksmann et Bruno Retailleau sur LCI.
+
+Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>1NR_BfzVgoo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/1NR_BfzVgoo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Retrouver la FORCE du 17 OCTOBRE ?? On en parle au MEETING DU 21 NOVEMBRE - Edito d'Anasse Kazib</title>
       <link>https://www.youtube.com/watch?v=Q9qYQKby_tA</link>
@@ -443,27 +456,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>Ocu4HDqulOQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/Ocu4HDqulOQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 Réunion publique à Nice &amp; acte 5 des mobilisations : Manuel Bompard, invité de BFM Côte d'Azur !</title>
-      <link>https://www.youtube.com/watch?v=idfk1Pz_dOQ</link>
-      <guid>https://www.youtube.com/watch?v=idfk1Pz_dOQ</guid>
-      <pubDate>2026-11-13T19:10:48+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage sur BFM Côte d'Azur du vendredi 13 novembre 2026.
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>idfk1Pz_dOQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/idfk1Pz_dOQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
