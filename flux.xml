@@ -4,8 +4,39 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 16 Nov 2026 19:31:20 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:45:47 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>École, industrie, civilisation : Eric Zemmour face aux Entrepreneurs et Dirigeants Chrétiens.</title>
+      <link>https://www.youtube.com/watch?v=hz2ckr8mXGE</link>
+      <guid>https://www.youtube.com/watch?v=hz2ckr8mXGE</guid>
+      <pubDate>2026-11-16T19:39:59+00:00</pubDate>
+      <author>Éric Zemmour</author>
+      <description>Eric Zemmour, candidat à l'élection présidentielle de 2027, était l'invité des Entrepreneurs et Dirigeants Chrétiens pour intervenir sur son programme économique et scolaire.
+
+🇫🇷 Soutenez sa candidature : ericzemmour.fr
+
+1️⃣ Likez la vidéo, abonnez-vous à ma chaîne YouTube en cliquant sur le bouton « S’abonner », et activez la cloche 🔔 et partagez cette vidéo à vos proches !
+2️⃣ Adhérez à RECONQUÊTE : https://www.parti-reconquete.fr/adhesions
+3️⃣ Faites un don : https://soutien.ericzemmour.fr
+
+#EricZemmour
+
+📱 Suivez-moi sur les réseaux sociaux : 
+
+Facebook : https://www.facebook.com/ZemmourEric
+Twitter : https://twitter.com/ZemmourEric
+Instagram : https://www.instagram.com/ericzemmour_/
+LinkedIn : https://www.linkedin.com/in/eric-zemmour/
+WhatsApp : https://whatsapp.com/channel/0029Va8tObJE50UnrZc5c13h
+Telegram : https://t.me/EricZemmourOfficiel
+TikTok : https://www.tiktok.com/@zemmour_eric
+
+📖 Commandez la version augmentée de mon livre Le Suicide français : https://www.amazon.fr/suicide-français-Eric-Zemmour/dp/2818507928/ref=tmm_mmp_swatch_0?_encoding=UTF8&amp;amp;dib_tag=se&amp;amp;dib=eyJ2IjoiMSJ9.QHuIbjdvWA2uncNV0zlaju0WXY583mDf7emcwqB7FtL_TfQqKt_3JiXNJnmXYeDkHDQNONHP4dql9KQFUBqy0ISgUqLSQfVDY2JC9H1wi2lW7Zx-fjO5bjcUA7ulUiDh1L07Vr_bKBdea8snGZUWVA.9-Tjg4JBIAkQ_5nt-5pC1aOZRmdEIAt63SW00LnnFaI&amp;amp;qid=1789369244&amp;amp;sr=8-1</description>
+      <channelTitle>Éric Zemmour</channelTitle>
+      <videoId>hz2ckr8mXGE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hz2ckr8mXGE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Je débats face à Mélenchon, Le Pen, Glucksmann et Retailleau sur LCI.</title>
       <link>https://www.youtube.com/watch?v=1NR_BfzVgoo</link>
@@ -435,27 +466,6 @@ Un véritable moment de débat, de formation populaire et d'éducation politique
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>8wyrIB5rzG4</videoId>
       <enclosure url="https://i.ytimg.com/vi/8wyrIB5rzG4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📺 Je déroule notre PROGRAMME en pleine garde à vue médiatique</title>
-      <link>https://www.youtube.com/watch?v=Ocu4HDqulOQ</link>
-      <guid>https://www.youtube.com/watch?v=Ocu4HDqulOQ</guid>
-      <pubDate>2026-11-14T09:15:38+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Retrouvez l'intégralité de mon passage de ce vendredi 13 novembre 2026 sur BFMTV
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/danieleobono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>Ocu4HDqulOQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ocu4HDqulOQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
