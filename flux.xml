@@ -4,8 +4,31 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 16 Nov 2026 16:46:06 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:01:12 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Fabien Roussel face aux entrepreneurs chrétiens : travail, industrie et énergie</title>
+      <link>https://www.youtube.com/watch?v=EGhHavVjEiE</link>
+      <guid>https://www.youtube.com/watch?v=EGhHavVjEiE</guid>
+      <pubDate>2026-11-16T16:53:45+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Comment mieux vivre de son travail, soutenir les entreprises et réindustrialiser la France ? Fabien Roussel répond aux questions du mouvement des Entrepreneurs et Dirigeants Chrétiens (EDC).
+
+Dans cet entretien, il confronte ses propositions aux préoccupations des dirigeants : simplification des normes, place des salariés, fiscalité des PME, coût de l’énergie et production durable.
+
+Il défend notamment des baisses de fiscalité ciblées pour les entreprises qui investissent et produisent en France, des aides publiques conditionnées à des objectifs environnementaux et un grand pôle public de l’énergie. Il revient également sur ses différences avec d’autres courants de gauche concernant le travail, la croissance et le nucléaire.
+
+Un échange direct, entre points d’accord et désaccords, sur la place de l’entreprise, le rôle de l’État et l’avenir des territoires.
+
+00:00 Introduction, rôle de l’État et moyens des collectivités
+05:39 Entreprises : normes, travail et fiscalité
+15:31 Industrie, croissance et production durable
+21:38 Énergie : nationalisation et baisse des factures
+26:17 Avenir des territoires et services publics</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>EGhHavVjEiE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EGhHavVjEiE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Mobilisation de la jeunesse et sociale, salaires : Éric Coquerel invité de BFM</title>
       <link>https://www.youtube.com/watch?v=MyApM9zPdJQ</link>
@@ -441,32 +464,6 @@ Mes réseaux sociaux
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>sS9ZNaWMouU</videoId>
       <enclosure url="https://i.ytimg.com/vi/sS9ZNaWMouU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jean-Luc Mélenchon s’est fait le porte-parole du Kremlin | Jean-Noël Barrot</title>
-      <link>https://www.youtube.com/watch?v=O6G0cddLWBY</link>
-      <guid>https://www.youtube.com/watch?v=O6G0cddLWBY</guid>
-      <pubDate>2026-11-13T16:44:05+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Jean-Luc Mélenchon s’est fait le porte-parole du Kremlin | Jean-Noël Barrot
-
-Invité du Grand Jury sur RTL et Public Sénat, notre ministre de l'Europe et des Affaires étrangères et vice-président est revenu sur les grandes tensions internationales, la guerre en Ukraine et les enjeux de la prochaine élection présidentielle.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/jean-noel-barrot-jean-luc-melenchon-sest-fait-le-porte-parole-du-kremlin-image-8571
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>O6G0cddLWBY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/O6G0cddLWBY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
