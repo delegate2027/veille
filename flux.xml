@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 16 Nov 2026 15:31:05 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:45:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>La France a besoin d'un sursaut pénal ! | Jordan Bardella chez les « Grandes Gueules » sur RMC</title>
@@ -25,6 +25,33 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>ykPWvwRDIMI</videoId>
       <enclosure url="https://i.ytimg.com/vi/ykPWvwRDIMI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>GRAND MEETING À NICE | Clémence Guetté</title>
+      <link>https://www.youtube.com/watch?v=K3szInQOSqA</link>
+      <guid>https://www.youtube.com/watch?v=K3szInQOSqA</guid>
+      <pubDate>2026-11-16T15:21:40+00:00</pubDate>
+      <author>Clémence Guetté</author>
+      <description>Retour sur le Grand Meeting de Nice avec Manuel Bompard et François Piquemal !
+
+Retrouvez mon discours à Nice :
+
+JUSTICE SOCIALE ET POUVOIR D'ACHAT
+
+Face à la précarité et à l'explosion du coût de la vie, je défends des mesures concrètes pour améliorer la vie des gens : SMIC à 1 700 € net, retraite à 60 ans, blocage des prix des produits de première nécessité et des loyers, semaine de 32 heures pour les métiers les plus pénibles et sixième semaine de congés payés. Je rends également hommage à la mobilisation de la jeunesse, des lycéens et des travailleurs qui se battent pour leurs droits et pour des conditions de vie dignes.
+
+REFUSER LA GUERRE ET PRÉPARER LA PAIX
+
+Face à la militarisation de l'économie et aux discours qui présentent la guerre comme inévitable, je défends une France indépendante, non alignée sur les grandes puissances et engagée dans la diplomatie. De Gaza au Soudan, en passant par le Congo et le Liban, je rappelle l'urgence de mettre fin aux conflits et aux souffrances des populations. Plutôt que de financer l'industrie de l'armement, nous devons investir dans la bifurcation écologique, les transports ferroviaires, la rénovation énergétique et les services publics.
+
+POUR NOS LIBERTES ET CONTRE LE RACISME
+
+Face aux atteintes aux libertés publiques, à la répression des mobilisations sociales et aux tentatives d'intimidation contre l'opposition au Macronisme, je défends le droit de manifester et de s'exprimer librement. Je dénonce également la montée de l'extrême droite, la banalisation du racisme et les discours de haine qui divisent les Français.
+
+La victoire est au bout du chemin.</description>
+      <channelTitle>Clémence Guetté</channelTitle>
+      <videoId>K3szInQOSqA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/K3szInQOSqA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>LE QUARTIER GÉNÉRAL | Suivez en direct le grand débat de Marine Le Pen sur LCI !</title>
@@ -454,27 +481,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>WStMYsq3YKk</videoId>
       <enclosure url="https://i.ytimg.com/vi/WStMYsq3YKk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nous allons relancer la filière textile en France</title>
-      <link>https://www.youtube.com/watch?v=SO2oL5FFNEU</link>
-      <guid>https://www.youtube.com/watch?v=SO2oL5FFNEU</guid>
-      <pubDate>2026-11-13T12:27:09+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un point presse au salon du Made in France, le 13 novembre 2026.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>SO2oL5FFNEU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/SO2oL5FFNEU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
