@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 16 Nov 2026 16:30:58 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:46:06 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Mobilisation de la jeunesse et sociale, salaires : Éric Coquerel invité de BFM</title>
+      <link>https://www.youtube.com/watch?v=MyApM9zPdJQ</link>
+      <guid>https://www.youtube.com/watch?v=MyApM9zPdJQ</guid>
+      <pubDate>2026-11-16T16:37:53+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Éric Coquerel était l’invité de BFMTV sur les revendications de la mobilisation de la jeunesse et du mouvement social, le dimanche 15 novembre 2026.
+
+👍 Pensez à liker, commenter et partager cette vidéo !
+
+🔔 Abonnez-vous à la chaîne pour suivre ses prochaines interventions et analyses de l’actualité.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>MyApM9zPdJQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/MyApM9zPdJQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La France a besoin d'un sursaut pénal ! | Jordan Bardella chez les « Grandes Gueules » sur RMC</title>
       <link>https://www.youtube.com/watch?v=ykPWvwRDIMI</link>
@@ -452,35 +467,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>O6G0cddLWBY</videoId>
       <enclosure url="https://i.ytimg.com/vi/O6G0cddLWBY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>📽️ Ce que le MOUVEMENT SOCIAL dit de la MACRONIE et de la NOUVELLE FRANCE</title>
-      <link>https://www.youtube.com/watch?v=WStMYsq3YKk</link>
-      <guid>https://www.youtube.com/watch?v=WStMYsq3YKk</guid>
-      <pubDate>2026-11-13T16:00:25+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Bienvenue dans Contrechamp, l'émission où je revois l’actu, en prenant un peu de recul et en élargissant la focale.
-
-00:00 Introduction
-01:37 Bascule autoritaire
-07:50 Nouvelle France
-09:04 La jeunesse du 18ème et du 19ème en lutte
-11:23 La banlieue influence Paname, Paname influence le monde
-15:15 L'imagination au pouvoir
-24:20 Conclusion
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/deputee_obono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>WStMYsq3YKk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/WStMYsq3YKk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
