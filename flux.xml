@@ -4,8 +4,35 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 08:30:55 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:45:38 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>SK JA</title>
+      <link>https://www.youtube.com/watch?v=EV55sf3Y6r4</link>
+      <guid>https://www.youtube.com/watch?v=EV55sf3Y6r4</guid>
+      <pubDate>2026-11-17T08:41:40+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo, députée française Reconquête au Parlement européen, était l’invitée d'Apolline de Malherbe sur BFMTV.
+
+👍 Likez, 💬 commentez, 📤 partagez la vidéo et 🔔 abonnez-vous en activant la cloche pour ne manquer aucune vidéo !
+
+Pour suivre l’actualité de Sarah Knafo :
+
+Instagram : https://www.instagram.com/sarahknafo1
+X/Twitter : https://x.com/knafo_sarah?s=11
+Facebook : https://www.facebook.com/share/1BDboyows5/?mibextid=wwXIfr
+Linkedln : https://www.linkedin.com/in/sarah-knafo-7a0129b5?utm_source=share_via&amp;amp;utm_content=profile&amp;amp;utm_medium=member_ios
+WhatsApp : ‎https://whatsapp.com/channel/0029VakkwXs60eBd95uc7e2n
+TikTok : https://www.tiktok.com/@sarah_knafo?_r=1&amp;_t=ZN-98M2y5vFPLG
+Telegram : https://t.me/Sarah_Knafo
+
+📖 Commandez mon livre : sarahknafo.fr
+
+🗳️ Adhérez à Reconquête : https://www.parti-reconquete.fr/adhesions</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>EV55sf3Y6r4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EV55sf3Y6r4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Discours de François Piquemal au meeting à Nice le 14 novembre 2026</title>
       <link>https://www.youtube.com/watch?v=lsAFNNFZZuA</link>
@@ -450,36 +477,6 @@ Par ailleurs, Antoine Léaument revient aussi sur la pétition pour la fermeture
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>mItJ0LhiwIQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/mItJ0LhiwIQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>OLIVIER BESANCENOT : "LA CRISE SOCIALE SE TRANSFORME EN CRISE POLITIQUE"</title>
-      <link>https://www.youtube.com/watch?v=5emKyF5G8Mw</link>
-      <guid>https://www.youtube.com/watch?v=5emKyF5G8Mw</guid>
-      <pubDate>2026-11-14T20:32:42+00:00</pubDate>
-      <author>NPA - L’Anticapitaliste</author>
-      <description>Olivier Besancenot était l'invité de BFM TV le 13 novembre 2026 pour parler du mouvement contre la vie chère et la mobilisation de la jeunesse qui se poursuit depuis le mois de septembre.
-"La dernière fois qu'on a obtenu 30% d'augmentation de salaire, c'est quand on a eu une grève générale. C'était en mai 1968"
-
-L’actu du NPA l'Anticapitaliste :
-http://npa-lanticapitaliste.org
-Instagram : http://www.instagram.com/npa.anticapitaliste
-Bluesky : http://bsky.app/profile/npa-antica.bsky.social
-Twitter : http://www.twitter.com/NPA_antica
-Tik Tok : http://www.tiktok.com/@npa.anticapitaliste
-Facebook : http://www.facebook.com/npa.anticapitaliste
-Threads : http://www.threads.net/@npa.officiel
-
-Suivez L’Anticapitaliste, le média :
-http://lanticapitaliste.org
-Instagram : http://www.instagram.com/l_anticapitaliste
-Bluesky : https://bsky.app/profile/lanticapitaliste.bsky.social
-Twitter : http://www.twitter.com/Lanticapitalis1
-Tik Tok : http://www.tiktok.com/@lanticapitaliste
-Facebook : http://www.facebook.com/anticapitaliste.presse
-Threads : http://www.threads.net/@l_anticapitaliste</description>
-      <channelTitle>NPA - L’Anticapitaliste</channelTitle>
-      <videoId>5emKyF5G8Mw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5emKyF5G8Mw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
