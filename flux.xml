@@ -4,8 +4,39 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 15:31:06 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:45:47 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Le grand débat de LCI aux Restos du Cœur en intégralité | Marine Le Pen</title>
+      <link>https://www.youtube.com/watch?v=HwHevlkDyHw</link>
+      <guid>https://www.youtube.com/watch?v=HwHevlkDyHw</guid>
+      <pubDate>2026-11-17T15:29:01+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Le grand débat de LCI du 16 novembre 2026, organisé dans un entrepôt des Restos du Cœur et animé par Amélie Carrouër et Gilles Bouleau. Marine Le Pen y faisait face à Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal, interpellés par des Français en difficulté : une maman solo, un demandeur de logement, une étudiante, un bénévole et une retraitée.
+
+« Tout ça, c'est la conséquence de décisions politiques. Il faut juste avoir le courage de mettre en œuvre d'autres solutions politiques. »
+
+Au programme :
+• Le pouvoir d'achat et les fins de mois : baisse de la TVA sur l'énergie et TVA à 0 % sur un panier de produits de première nécessité
+• Le logement et l'accès à la propriété
+• La précarité étudiante et le permis de conduire pour les jeunes
+• L'avenir des associations
+• Les petites retraites
+
+00:00 Ouverture du grand débat
+00:56 Sandrine, maman solo : boucler les fins de mois
+46:30 David : l'accès au logement
+1:10:05 Ftia, étudiante : la précarité des jeunes
+1:36:33 Romain : l'avenir des associations
+2:08:07 Odile, 73 ans : les petites retraites
+2:39:54 La première mesure de chaque candidat
+2:46:02 La première mesure de Marine Le Pen présidente</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>HwHevlkDyHw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/HwHevlkDyHw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Rendre aux Français l'argent de leur salaire ! | Conférence de presse de Jordan Bardella</title>
       <link>https://www.youtube.com/watch?v=_ZgBOj_aOzM</link>
@@ -464,19 +495,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>kPXP5b-oHho</videoId>
       <enclosure url="https://i.ytimg.com/vi/kPXP5b-oHho/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'instant militant : l'Observatoire national de l'extrême droite – En campagne #6</title>
-      <link>https://www.youtube.com/watch?v=iH35tGAm0kc</link>
-      <guid>https://www.youtube.com/watch?v=iH35tGAm0kc</guid>
-      <pubDate>2026-11-15T14:00:08+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Avec Juliette Prados et Thomas Portes.
-
-Retrouvez l'émission En Campagne dans son intégralité : https://youtube.com/live/IopyyAlu01Q</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>iH35tGAm0kc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iH35tGAm0kc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
