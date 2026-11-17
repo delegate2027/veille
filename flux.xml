@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 11:31:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:45:59 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Conférence de presse - Réparer notre système de retraites (17/11/26)</title>
+      <link>https://www.youtube.com/watch?v=AO6y_6ZqmlI</link>
+      <guid>https://www.youtube.com/watch?v=AO6y_6ZqmlI</guid>
+      <pubDate>2026-11-17T11:34:40+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>Retrouvez la conférence de presse de Marine Le Pen, Jordan Bardella et Jean-Philippe Tanguy qui présentent le projet de réforme visant à réparer le système de retraite : restaurer le régime par répartition, instaurer la capitalisation.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>AO6y_6ZqmlI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/AO6y_6ZqmlI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Motion de rejet à l’Assemblée face au bilan catastrophique de Macron et pour des logements dignes</title>
       <link>https://www.youtube.com/watch?v=gEgTiJDE7Iw</link>
@@ -16,17 +27,6 @@
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>gEgTiJDE7Iw</videoId>
       <enclosure url="https://i.ytimg.com/vi/gEgTiJDE7Iw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de presse - Réparer notre système de retraites (17/11/26)</title>
-      <link>https://www.youtube.com/watch?v=AO6y_6ZqmlI</link>
-      <guid>https://www.youtube.com/watch?v=AO6y_6ZqmlI</guid>
-      <pubDate>2026-11-17T10:02:04+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Retrouvez la conférence de presse de Marine Le Pen, Jordan Bardella et Jean-Philippe Tanguy qui présentent le projet de réforme visant à réparer le système de retraite : restaurer le régime par répartition, instaurer la capitalisation.</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>AO6y_6ZqmlI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/AO6y_6ZqmlI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Il n'y a pas de candidat MoDem à la présidentielle | Marc Fesneau</title>
