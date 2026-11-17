@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 18:01:17 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:15:49 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>🔴 En direct | Édouard Philippe présente le premier volet de mon programme.</title>
@@ -308,34 +308,6 @@ Rejoignez la campagne ⏩ https://jlm27.fr/p/j4VuXNIJZb
       <enclosure url="https://i.ytimg.com/vi/5Df-5eY6Xtc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Marine Le Pen au grand débat de LCI aux Restos du Cœur | Le Quartier Général</title>
-      <link>https://www.youtube.com/watch?v=Ac9fQMLkbww</link>
-      <guid>https://www.youtube.com/watch?v=Ac9fQMLkbww</guid>
-      <pubDate>2026-11-16T22:33:30+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Édition spéciale du Quartier Général : revivez le grand débat de LCI du 16 novembre 2026, organisé aux Restos du Cœur et animé par Amélie Carrouër et Gilles Bouleau. Marine Le Pen y faisait face à Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal, interpellés par des Français sur la pauvreté, le pouvoir d'achat, le logement, la précarité étudiante et les petites retraites.
-
-« Tout ça, c'est la conséquence de décisions politiques. Il faut juste avoir le courage de mettre en œuvre d'autres solutions politiques. »
-
-Avant et après le débat, Margaux Taillefer et Gaëtan Dussausaye décryptent les temps forts avec Jean-Philippe Tanguy, depuis le siège de campagne de Marine Le Pen.
-
-00:00 Le Quartier Général avant le débat
-41:35 Début du grand débat de LCI aux Restos du Cœur
-42:30 Sandrine, maman solo : boucler les fins de mois
-1:28:06 David : l'accès au logement
-1:51:41 Ftia, étudiante : la précarité des jeunes
-2:18:09 Romain : l'avenir des associations
-2:49:44 Odile, 73 ans : les petites retraites
-3:21:30 La première mesure de chaque candidat
-3:27:38 La première mesure de Marine Le Pen présidente
-3:30:20 Le débrief du Quartier Général</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>Ac9fQMLkbww</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Ac9fQMLkbww/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>EN DIRECT | Je débats face à Mélenchon, Le Pen, Glucksmann et Retailleau sur LCI.</title>
       <link>https://www.youtube.com/watch?v=1NR_BfzVgoo</link>
       <guid>https://www.youtube.com/watch?v=1NR_BfzVgoo</guid>
@@ -498,6 +470,32 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>UnSTtU2ZbYA</videoId>
       <enclosure url="https://i.ytimg.com/vi/UnSTtU2ZbYA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La primaire, ça ne peut pas être l'auberge espagnole | Marc Fesneau</title>
+      <link>https://www.youtube.com/watch?v=CNfhRFX9C_0</link>
+      <guid>https://www.youtube.com/watch?v=CNfhRFX9C_0</guid>
+      <pubDate>2026-11-16T10:13:41+00:00</pubDate>
+      <author>MoDem</author>
+      <description>La primaire, ça ne peut pas être l'auberge espagnole | Marc Fesneau
+
+Marc Fesneau, président du groupe Les Démocrates à l'Assemblée nationale et premier vice-président du MoDem, était l’invité de la matinale de TF1 ce lundi 16 novembre à 7h35.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/marc-fesneau-la-primaire-ca-ne-peut-pas-etre-lauberge-espagnole-video-8574-video
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>CNfhRFX9C_0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/CNfhRFX9C_0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
