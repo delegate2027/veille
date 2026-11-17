@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 21:31:08 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 21:45:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>EN DIRECT | Jordan Bardella est l'invité de Laurence Ferrari sur CNEWS</title>
+      <link>https://www.youtube.com/watch?v=BfykDivOYFI</link>
+      <guid>https://www.youtube.com/watch?v=BfykDivOYFI</guid>
+      <pubDate>2026-11-17T21:43:27+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>BfykDivOYFI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/BfykDivOYFI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LE QUARTIER GÉNÉRAL #02 | AVEC JEAN-PHILIPPE TANGUY !</title>
       <link>https://www.youtube.com/watch?v=b_TcMBeYjig</link>
@@ -37,26 +57,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>1gcHLo8zowQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/1gcHLo8zowQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Jordan Bardella est l'invité de Laurence Ferrari sur CNEWS</title>
-      <link>https://www.youtube.com/watch?v=BfykDivOYFI</link>
-      <guid>https://www.youtube.com/watch?v=BfykDivOYFI</guid>
-      <pubDate>2026-11-17T19:47:29+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
-
-Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>BfykDivOYFI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BfykDivOYFI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Vive le Made in France ! | Marine Le Pen au Salon du Made in France</title>
