@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 07:31:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:45:49 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Discours de François Piquemal au meeting à Nice le 14 novembre 2026</title>
+      <link>https://www.youtube.com/watch?v=lsAFNNFZZuA</link>
+      <guid>https://www.youtube.com/watch?v=lsAFNNFZZuA</guid>
+      <pubDate>2026-11-17T07:44:09+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>lsAFNNFZZuA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/lsAFNNFZZuA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Le grand débat LCI avec Jean-Luc Mélenchon - En association avec les Restos du Cœur</title>
       <link>https://www.youtube.com/watch?v=5Df-5eY6Xtc</link>
@@ -469,17 +480,6 @@ Threads : http://www.threads.net/@l_anticapitaliste</description>
       <channelTitle>NPA - L’Anticapitaliste</channelTitle>
       <videoId>5emKyF5G8Mw</videoId>
       <enclosure url="https://i.ytimg.com/vi/5emKyF5G8Mw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La France qui lutte : avec Amal Bentounsi – En campagne #6</title>
-      <link>https://www.youtube.com/watch?v=Sv-e5yT6ejU</link>
-      <guid>https://www.youtube.com/watch?v=Sv-e5yT6ejU</guid>
-      <pubDate>2026-11-14T14:00:28+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Retrouvez l'émission En Campagne dans son intégralité : https://www.youtube.com/live/IopyyAlu01Q</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>Sv-e5yT6ejU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Sv-e5yT6ejU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
