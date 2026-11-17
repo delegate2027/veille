@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 09:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:01:10 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>📺 PRÉSIDENTIELLE : nous c'est carré, eux c'est la chienlit !</title>
+      <link>https://www.youtube.com/watch?v=DjoZLUfKisE</link>
+      <guid>https://www.youtube.com/watch?v=DjoZLUfKisE</guid>
+      <pubDate>2026-11-17T09:56:22+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Retrouvez l'intégralité de mon passage de ce lundi 16 novembre 2026 sur BFMTV
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram : https://www.instagram.com/danieleobono
+➡️ Facebook : https://www.facebook.com/DanieleObono
+➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok : https://www.tiktok.com/@danieleobono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>DjoZLUfKisE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/DjoZLUfKisE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Mobilisations, présidentielle, international : Manuel Bompard, invité de France info !</title>
       <link>https://www.youtube.com/watch?v=Ns2Yxso2LYw</link>
@@ -460,31 +481,6 @@ Longue vie à la francophonie ! 🇫🇷</description>
       <channelTitle>Aurélie Trouvé - Députée</channelTitle>
       <videoId>Q3g3FGQBmwc</videoId>
       <enclosure url="https://i.ytimg.com/vi/Q3g3FGQBmwc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Programme best-seller : LFI en ordre de bataille - L'Actu politique</title>
-      <link>https://www.youtube.com/watch?v=mItJ0LhiwIQ</link>
-      <guid>https://www.youtube.com/watch?v=mItJ0LhiwIQ</guid>
-      <pubDate>2026-11-15T07:00:09+00:00</pubDate>
-      <author>Antoine Léaument</author>
-      <description>Dans cette Actu politique de la semaine, le député LFI Antoine Léaument revient sur plusieurs événements de la campagne de Jean-Luc Mélenchon : meeting du Bourget, meeting de la Souterraine (Creuse), lancement du programme « L'Avenir en commun », lancement du « cahier de la victoire », lancement du tract programmatique 4 pages, lancement de l'affiche de campagne « Liberté, Égalité, Solidarité ». Il explique pourquoi ces éléments sont constitutifs d'une dynamique jamais vue auparavant. 
-
-Par ailleurs, Antoine Léaument revient aussi sur la pétition pour la fermeture de CNews qui a reçu un million de signatures et a pourtant été classée par l'Assemblée nationale. 
-
-***SUIVEZ-MOI SUR***
-- Twitch : https://twitch.tv/ALeaument
-- Tiktok : https://www.tiktok.com/@aleaument
-- Facebook : https://www.facebook.com/ALeaument/
-- Twitter : https://twitter.com/ALeaument
-- Discord : https://discord.gg/w83JavD
-- Instagram : https://www.instagram.com/aleaument/
-- Snapchat : @ALeaument
-- Youtube (pour vous abonner) : http://bit.ly/2gbk7cm
-- Whatsapp : https://whatsapp.com/channel/0029VaCUZ4U2Jl8JGtMZfK1J
-- Linkedin : https://www.linkedin.com/in/aleaument/</description>
-      <channelTitle>Antoine Léaument</channelTitle>
-      <videoId>mItJ0LhiwIQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/mItJ0LhiwIQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
