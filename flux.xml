@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 08:45:38 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:01:27 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 Mobilisations, présidentielle, international : Manuel Bompard, invité de France info !</title>
+      <link>https://www.youtube.com/watch?v=Ns2Yxso2LYw</link>
+      <guid>https://www.youtube.com/watch?v=Ns2Yxso2LYw</guid>
+      <pubDate>2026-11-17T08:52:15+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage sur France info du mardi 17 novembre 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>Ns2Yxso2LYw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Ns2Yxso2LYw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SK JA</title>
       <link>https://www.youtube.com/watch?v=EV55sf3Y6r4</link>
@@ -337,19 +358,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>CNfhRFX9C_0</videoId>
       <enclosure url="https://i.ytimg.com/vi/CNfhRFX9C_0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY est l'invité de FRANCE 2 !</title>
-      <link>https://www.youtube.com/watch?v=K2RFCnziEa4</link>
-      <guid>https://www.youtube.com/watch?v=K2RFCnziEa4</guid>
-      <pubDate>2026-11-16T08:32:41+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>K2RFCnziEa4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/K2RFCnziEa4/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Marine Tondelier : "la consommation de drogues a explosé en France malgré la répression" (LCI)</title>
