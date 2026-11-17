@@ -4,8 +4,35 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 12:31:05 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:45:49 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Sarah Knafo débat face à Julien Aubert</title>
+      <link>https://www.youtube.com/watch?v=Zso30CqWRYM</link>
+      <guid>https://www.youtube.com/watch?v=Zso30CqWRYM</guid>
+      <pubDate>2026-11-17T12:41:32+00:00</pubDate>
+      <author>Sarah Knafo</author>
+      <description>Sarah Knafo, députée française Reconquête au Parlement européen, débat face a Julien Aubert lors de l’université de rentrée d’Oser La France.
+
+👍 Likez, 💬 commentez, 📤 partagez la vidéo et 🔔 abonnez-vous en activant la cloche pour ne manquer aucune vidéo !
+
+Pour suivre l’actualité de Sarah Knafo :
+
+Instagram : https://www.instagram.com/sarahknafo1
+X/Twitter : https://x.com/knafo_sarah?s=11
+Facebook : https://www.facebook.com/share/1BDboyows5/?mibextid=wwXIfr
+Linkedln : https://www.linkedin.com/in/sarah-knafo-7a0129b5?utm_source=share_via&amp;amp;utm_content=profile&amp;amp;utm_medium=member_ios
+WhatsApp : ‎https://whatsapp.com/channel/0029VakkwXs60eBd95uc7e2n
+TikTok : https://www.tiktok.com/@sarah_knafo?_r=1&amp;_t=ZN-98M2y5vFPLG
+Telegram : https://t.me/Sarah_Knafo
+
+📖 Commandez mon livre : sarahknafo.fr
+
+🗳️ Adhérez à Reconquête : https://www.parti-reconquete.fr/adhesions</description>
+      <channelTitle>Sarah Knafo</channelTitle>
+      <videoId>Zso30CqWRYM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Zso30CqWRYM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de presse - Réparer notre système de retraites (17/11/26)</title>
       <link>https://www.youtube.com/watch?v=AO6y_6ZqmlI</link>
@@ -433,17 +460,6 @@ Retrouvez l'émission En Campagne dans son intégralité : https://youtube.com/l
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>uRDyn4sUb0o</videoId>
       <enclosure url="https://i.ytimg.com/vi/uRDyn4sUb0o/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mon débat face à Alain Duhamel sur BFMTV;</title>
-      <link>https://www.youtube.com/watch?v=Q3g3FGQBmwc</link>
-      <guid>https://www.youtube.com/watch?v=Q3g3FGQBmwc</guid>
-      <pubDate>2026-11-15T07:30:18+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description />
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>Q3g3FGQBmwc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Q3g3FGQBmwc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
