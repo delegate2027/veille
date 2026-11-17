@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 16:45:55 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:01:16 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>NOUS FERONS L'AMNISTIE POUR LES LYCÉENS</title>
+      <link>https://www.youtube.com/watch?v=uxdLx-VExRE</link>
+      <guid>https://www.youtube.com/watch?v=uxdLx-VExRE</guid>
+      <pubDate>2026-11-17T17:00:19+00:00</pubDate>
+      <author>Louis Boyard</author>
+      <description />
+      <channelTitle>Louis Boyard</channelTitle>
+      <videoId>uxdLx-VExRE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/uxdLx-VExRE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>COP 31 : “Votre gouvernement est sur le podium des diplomaties fossiles qui sapent notre avenir"</title>
       <link>https://www.youtube.com/watch?v=yKRvWCKwHQs</link>
@@ -486,17 +497,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>CNfhRFX9C_0</videoId>
       <enclosure url="https://i.ytimg.com/vi/CNfhRFX9C_0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Tondelier : "la consommation de drogues a explosé en France malgré la répression" (LCI)</title>
-      <link>https://www.youtube.com/watch?v=a9q6R1hplPM</link>
-      <guid>https://www.youtube.com/watch?v=a9q6R1hplPM</guid>
-      <pubDate>2026-11-16T08:13:42+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Lundi 16 novembre 2026, Marine Tondelier était l'invitée de la matinale de LCI.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>a9q6R1hplPM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/a9q6R1hplPM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
