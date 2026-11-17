@@ -4,8 +4,35 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 17:45:51 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:01:17 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 En direct | Édouard Philippe présente le premier volet de mon programme.</title>
+      <link>https://www.youtube.com/watch?v=FipwPmUL9jk</link>
+      <guid>https://www.youtube.com/watch?v=FipwPmUL9jk</guid>
+      <pubDate>2026-11-17T17:47:31+00:00</pubDate>
+      <author>Edouard Philippe</author>
+      <description>Sécurité, justice, comptes publics, école, travail, logement, famille ou encore intelligence artificielle… Édouard Philippe a déjà fait de nombreuses propositions depuis le début de la campagne.
+
+Il présente toutes ces mesures, pour la première fois en totalité, lors d’une grande conférence de presse !
+
+Dans le même temps, il dévoile les Voix de la campagne, qui seront chargées de faire vivre le programme partout en France.
+
+---
+Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
+
+→ Twitter : https://x.com/Avec_Edouard
+→ Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
+→ Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
+→ Linkedin : https://www.linkedin.com/company/avecedouard
+→ YouTube : https://www.youtube.com/@AvecEdouard
+→ TikTok : https://www.tiktok.com/@avec_edouard
+→ Telegram : https://t.me/HorizonsOff
+→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
+      <channelTitle>Edouard Philippe</channelTitle>
+      <videoId>FipwPmUL9jk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/FipwPmUL9jk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>NOUS FERONS L'AMNISTIE POUR LES LYCÉENS</title>
       <link>https://www.youtube.com/watch?v=uxdLx-VExRE</link>
@@ -471,32 +498,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>UnSTtU2ZbYA</videoId>
       <enclosure url="https://i.ytimg.com/vi/UnSTtU2ZbYA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La primaire, ça ne peut pas être l'auberge espagnole | Marc Fesneau</title>
-      <link>https://www.youtube.com/watch?v=CNfhRFX9C_0</link>
-      <guid>https://www.youtube.com/watch?v=CNfhRFX9C_0</guid>
-      <pubDate>2026-11-16T10:13:41+00:00</pubDate>
-      <author>MoDem</author>
-      <description>La primaire, ça ne peut pas être l'auberge espagnole | Marc Fesneau
-
-Marc Fesneau, président du groupe Les Démocrates à l'Assemblée nationale et premier vice-président du MoDem, était l’invité de la matinale de TF1 ce lundi 16 novembre à 7h35.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/marc-fesneau-la-primaire-ca-ne-peut-pas-etre-lauberge-espagnole-video-8574-video
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>CNfhRFX9C_0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/CNfhRFX9C_0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
