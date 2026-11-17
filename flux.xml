@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 19:45:43 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:01:11 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>EN DIRECT | Jordan Bardella est l'invité de Laurence Ferrari sur CNEWS</title>
+      <link>https://www.youtube.com/watch?v=BfykDivOYFI</link>
+      <guid>https://www.youtube.com/watch?v=BfykDivOYFI</guid>
+      <pubDate>2026-11-17T19:47:29+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>BfykDivOYFI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/BfykDivOYFI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Vive le Made in France ! | Marine Le Pen au Salon du Made in France</title>
       <link>https://www.youtube.com/watch?v=U7dEqufHTCc</link>
@@ -159,37 +179,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>Sy2ErZK9mlM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Sy2ErZK9mlM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le grand débat de LCI aux Restos du Cœur en intégralité | Marine Le Pen</title>
-      <link>https://www.youtube.com/watch?v=HwHevlkDyHw</link>
-      <guid>https://www.youtube.com/watch?v=HwHevlkDyHw</guid>
-      <pubDate>2026-11-17T15:29:01+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Le grand débat de LCI du 16 novembre 2026, organisé dans un entrepôt des Restos du Cœur et animé par Amélie Carrouër et Gilles Bouleau. Marine Le Pen y faisait face à Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal, interpellés par des Français en difficulté : une maman solo, un demandeur de logement, une étudiante, un bénévole et une retraitée.
-
-« Tout ça, c'est la conséquence de décisions politiques. Il faut juste avoir le courage de mettre en œuvre d'autres solutions politiques. »
-
-Au programme :
-• Le pouvoir d'achat et les fins de mois : baisse de la TVA sur l'énergie et TVA à 0 % sur un panier de produits de première nécessité
-• Le logement et l'accès à la propriété
-• La précarité étudiante et le permis de conduire pour les jeunes
-• L'avenir des associations
-• Les petites retraites
-
-00:00 Ouverture du grand débat
-00:56 Sandrine, maman solo : boucler les fins de mois
-46:30 David : l'accès au logement
-1:10:05 Ftia, étudiante : la précarité des jeunes
-1:36:33 Romain : l'avenir des associations
-2:08:07 Odile, 73 ans : les petites retraites
-2:39:54 La première mesure de chaque candidat
-2:46:02 La première mesure de Marine Le Pen présidente</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>HwHevlkDyHw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HwHevlkDyHw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Rendre aux Français l'argent de leur salaire ! | Conférence de presse de Jordan Bardella</title>
