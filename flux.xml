@@ -4,8 +4,40 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 20:45:51 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 21:01:09 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>LE QUARTIER GÉNÉRAL #02 | AVEC JEAN-PHILIPPE TANGUY !</title>
+      <link>https://www.youtube.com/watch?v=b_TcMBeYjig</link>
+      <guid>https://www.youtube.com/watch?v=b_TcMBeYjig</guid>
+      <pubDate>2026-11-17T21:00:14+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description />
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>b_TcMBeYjig</videoId>
+      <enclosure url="https://i.ytimg.com/vi/b_TcMBeYjig/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>📺 La macronie est mauvaise pour la FERTILITÉ</title>
+      <link>https://www.youtube.com/watch?v=1gcHLo8zowQ</link>
+      <guid>https://www.youtube.com/watch?v=1gcHLo8zowQ</guid>
+      <pubDate>2026-11-17T20:42:53+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Retrouvez l'intégralité de mon passage de ce mardi 17 novembre 2026 sur LCP
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram : https://www.instagram.com/danieleobono
+➡️ Facebook : https://www.facebook.com/DanieleObono
+➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok : https://www.tiktok.com/@danieleobono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>1gcHLo8zowQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/1gcHLo8zowQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Jordan Bardella est l'invité de Laurence Ferrari sur CNEWS</title>
       <link>https://www.youtube.com/watch?v=BfykDivOYFI</link>
@@ -456,44 +488,6 @@ Un échange direct, entre points d’accord et désaccords, sur la place de l’
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>MyApM9zPdJQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/MyApM9zPdJQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>GRAND MEETING À NICE | Clémence Guetté</title>
-      <link>https://www.youtube.com/watch?v=K3szInQOSqA</link>
-      <guid>https://www.youtube.com/watch?v=K3szInQOSqA</guid>
-      <pubDate>2026-11-16T15:21:40+00:00</pubDate>
-      <author>Clémence Guetté</author>
-      <description>Retour sur le Grand Meeting de Nice avec Manuel Bompard et François Piquemal !
-
-Retrouvez mon discours à Nice :
-
-JUSTICE SOCIALE ET POUVOIR D'ACHAT
-
-Face à la précarité et à l'explosion du coût de la vie, je défends des mesures concrètes pour améliorer la vie des gens : SMIC à 1 700 € net, retraite à 60 ans, blocage des prix des produits de première nécessité et des loyers, semaine de 32 heures pour les métiers les plus pénibles et sixième semaine de congés payés. Je rends également hommage à la mobilisation de la jeunesse, des lycéens et des travailleurs qui se battent pour leurs droits et pour des conditions de vie dignes.
-
-REFUSER LA GUERRE ET PRÉPARER LA PAIX
-
-Face à la militarisation de l'économie et aux discours qui présentent la guerre comme inévitable, je défends une France indépendante, non alignée sur les grandes puissances et engagée dans la diplomatie. De Gaza au Soudan, en passant par le Congo et le Liban, je rappelle l'urgence de mettre fin aux conflits et aux souffrances des populations. Plutôt que de financer l'industrie de l'armement, nous devons investir dans la bifurcation écologique, les transports ferroviaires, la rénovation énergétique et les services publics.
-
-POUR NOS LIBERTES ET CONTRE LE RACISME
-
-Face aux atteintes aux libertés publiques, à la répression des mobilisations sociales et aux tentatives d'intimidation contre l'opposition au Macronisme, je défends le droit de manifester et de s'exprimer librement. Je dénonce également la montée de l'extrême droite, la banalisation du racisme et les discours de haine qui divisent les Français.
-
-La victoire est au bout du chemin.</description>
-      <channelTitle>Clémence Guetté</channelTitle>
-      <videoId>K3szInQOSqA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/K3szInQOSqA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Produire en France, campagne présidentielle : Fabien Roussel face à la presse au salon du MiF 2026.</title>
-      <link>https://www.youtube.com/watch?v=U6T1uKlK0NU</link>
-      <guid>https://www.youtube.com/watch?v=U6T1uKlK0NU</guid>
-      <pubDate>2026-11-16T10:54:26+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Fabien Roussel, secrétaire national du PCF accompagné d'une délégation d'élu et d'élues communistes s'est adressé aux médias lors de la visite du Salon du Made in France 2026.</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>U6T1uKlK0NU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/U6T1uKlK0NU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
