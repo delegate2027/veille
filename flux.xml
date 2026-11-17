@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 14:15:41 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:31:06 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Rendre aux Français l'argent de leur salaire ! | Conférence de presse de Jordan Bardella</title>
+      <link>https://www.youtube.com/watch?v=_ZgBOj_aOzM</link>
+      <guid>https://www.youtube.com/watch?v=_ZgBOj_aOzM</guid>
+      <pubDate>2026-11-17T14:20:31+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>_ZgBOj_aOzM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_ZgBOj_aOzM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nous proposons une loi d'amnistie pour les lycéen-nes !</title>
       <link>https://www.youtube.com/watch?v=hnMZWA7HQiE</link>
@@ -457,17 +477,6 @@ Retrouvez l'émission En Campagne dans son intégralité : https://youtube.com/l
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>iH35tGAm0kc</videoId>
       <enclosure url="https://i.ytimg.com/vi/iH35tGAm0kc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Accord UE-Israel : la Commission européenne a 6 mois pour agir !</title>
-      <link>https://www.youtube.com/watch?v=VJIeb1zShOM</link>
-      <guid>https://www.youtube.com/watch?v=VJIeb1zShOM</guid>
-      <pubDate>2026-11-15T09:00:31+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Discours lors du rassemblement devant la Commission européenne le 12 novembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>VJIeb1zShOM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/VJIeb1zShOM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
