@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 17 Nov 2026 12:45:49 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:01:16 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Nous proposons une loi d'amnistie pour les lycéen-nes !</title>
+      <link>https://www.youtube.com/watch?v=hnMZWA7HQiE</link>
+      <guid>https://www.youtube.com/watch?v=hnMZWA7HQiE</guid>
+      <pubDate>2026-11-17T13:00:34+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>Je dépose avec ma collègue Marianne Maximi et l’ensemble de mon groupe une proposition de loi portant amnistie des délits reprochés aux mineurs et donc aux enfants ayant subi la violente répression du mouvement lycéen et étudiant de 2026.
+
+La répression policière, judiciaire et administrative doit cesser.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>hnMZWA7HQiE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hnMZWA7HQiE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Sarah Knafo débat face à Julien Aubert</title>
       <link>https://www.youtube.com/watch?v=Zso30CqWRYM</link>
@@ -449,17 +462,6 @@ Retrouvez l'émission En Campagne dans son intégralité : https://youtube.com/l
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>VJIeb1zShOM</videoId>
       <enclosure url="https://i.ytimg.com/vi/VJIeb1zShOM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Sans changement de politique, le pays va exploser socialement !" - Alexis Corbière sur BFMTV</title>
-      <link>https://www.youtube.com/watch?v=uRDyn4sUb0o</link>
-      <guid>https://www.youtube.com/watch?v=uRDyn4sUb0o</guid>
-      <pubDate>2026-11-15T08:45:41+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député Alexis Corbière était l'invité de Marc Fauvel pour débattre de la poursuite de la mobilisation lycéenne, des manifestations contre la vie chère, des annonces, honteuses car minimales, de l'augmentation du SMIC et des élections présidentielles à venir.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>uRDyn4sUb0o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/uRDyn4sUb0o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
