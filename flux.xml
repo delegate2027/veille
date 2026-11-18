@@ -4,8 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 22:45:59 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:01:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Je présente le premier volet de mon programme.</title>
+      <link>https://www.youtube.com/watch?v=vrNvyNcIXac</link>
+      <guid>https://www.youtube.com/watch?v=vrNvyNcIXac</guid>
+      <pubDate>2026-11-18T22:56:07+00:00</pubDate>
+      <author>Edouard Philippe</author>
+      <description>🔴 En direct | Je présente le premier volet de mon programme, aux côtés des Voix de la campagne.
+
+Sécurité, justice, comptes publics, école, travail, logement, familles, intelligence artificielle : des propositions précises et chiffrées.
+
+---
+Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
+
+→ Twitter : https://x.com/Avec_Edouard
+→ Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
+→ Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
+→ Linkedin : https://www.linkedin.com/company/avecedouard
+→ YouTube : https://www.youtube.com/@AvecEdouard
+→ TikTok : https://www.tiktok.com/@avec_edouard
+→ Telegram : https://t.me/HorizonsOff
+→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
+      <channelTitle>Edouard Philippe</channelTitle>
+      <videoId>vrNvyNcIXac</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vrNvyNcIXac/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Marine Tondelier prête à travailler à une coalition autour de la candidature de JL Mélenchon (TF1)</title>
       <link>https://www.youtube.com/watch?v=17zZk-HOLSo</link>
@@ -277,31 +302,6 @@ Adhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion<
       <channelTitle>David Lisnard</channelTitle>
       <videoId>67yMGmr_pS0</videoId>
       <enclosure url="https://i.ytimg.com/vi/67yMGmr_pS0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Je présente le premier volet de mon programme.</title>
-      <link>https://www.youtube.com/watch?v=vrNvyNcIXac</link>
-      <guid>https://www.youtube.com/watch?v=vrNvyNcIXac</guid>
-      <pubDate>2026-11-18T08:52:00+00:00</pubDate>
-      <author>Edouard Philippe</author>
-      <description>🔴 En direct | Je présente le premier volet de mon programme, aux côtés des Voix de la campagne.
-
-Sécurité, justice, comptes publics, école, travail, logement, familles, intelligence artificielle : des propositions précises et chiffrées.
-
----
-Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
-
-→ Twitter : https://x.com/Avec_Edouard
-→ Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
-→ Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
-→ Linkedin : https://www.linkedin.com/company/avecedouard
-→ YouTube : https://www.youtube.com/@AvecEdouard
-→ TikTok : https://www.tiktok.com/@avec_edouard
-→ Telegram : https://t.me/HorizonsOff
-→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
-      <channelTitle>Edouard Philippe</channelTitle>
-      <videoId>vrNvyNcIXac</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vrNvyNcIXac/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Dans les couloirs du Conseil #5 Hommage à Pengo, lutte contre le racisme, débat budgétaire</title>
