@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 09:45:44 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:01:24 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>LAURENT JACOBELLI est l'invité de FRANCE INFO !</title>
+      <link>https://www.youtube.com/watch?v=hw4fTM8hlOI</link>
+      <guid>https://www.youtube.com/watch?v=hw4fTM8hlOI</guid>
+      <pubDate>2026-11-18T10:00:39+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>hw4fTM8hlOI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hw4fTM8hlOI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pour des millions de Français, la crise du pouvoir d’achat est un étranglement | Jean-Noël Barrot</title>
       <link>https://www.youtube.com/watch?v=ZecUp8zgt0E</link>
@@ -447,29 +460,6 @@ Mes réseaux sociaux
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>lsAFNNFZZuA</videoId>
       <enclosure url="https://i.ytimg.com/vi/lsAFNNFZZuA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le grand débat LCI avec Jean-Luc Mélenchon - En association avec les Restos du Cœur</title>
-      <link>https://www.youtube.com/watch?v=5Df-5eY6Xtc</link>
-      <guid>https://www.youtube.com/watch?v=5Df-5eY6Xtc</guid>
-      <pubDate>2026-11-16T22:36:57+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un grand débat sur LCI en association avec les Restos du Cœur, le 16 novembre 2026.
-
-Rejoignez la campagne ⏩ https://jlm27.fr/p/j4VuXNIJZb
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>5Df-5eY6Xtc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5Df-5eY6Xtc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
