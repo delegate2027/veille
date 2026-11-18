@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 14:31:00 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:45:41 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>«Investir dans l’éducation et la jeunesse n’est pas une dépense c’est préparer l’avenir»</title>
+      <link>https://www.youtube.com/watch?v=7kUkukoPlCY</link>
+      <guid>https://www.youtube.com/watch?v=7kUkukoPlCY</guid>
+      <pubDate>2026-11-18T14:29:19+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>La députée Christine Arrighi interpelle le ministre de l'Éducation sur un  budget qui fragilise l'école et la jeunesse.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>7kUkukoPlCY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7kUkukoPlCY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Jordan Bardella est l'invité de « C à vous » sur France 5 !</title>
       <link>https://www.youtube.com/watch?v=AZMesw7xiQY</link>
@@ -64,19 +75,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>ZecUp8zgt0E</videoId>
       <enclosure url="https://i.ytimg.com/vi/ZecUp8zgt0E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SÉBASTIEN CHENU : « Électeurs de droite, rejoignez-nous ! » (CNEWS)</title>
-      <link>https://www.youtube.com/watch?v=atTc6foe-MA</link>
-      <guid>https://www.youtube.com/watch?v=atTc6foe-MA</guid>
-      <pubDate>2026-11-18T09:30:34+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>atTc6foe-MA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/atTc6foe-MA/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Nous allons créer un véritable capitalisme populaire | Jordan Bardella sur CNEWS et Europe 1</title>
