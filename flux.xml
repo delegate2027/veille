@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 15:15:53 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:31:06 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Santé « Le démantèlement annoncée de cette protection sociale »</title>
+      <link>https://www.youtube.com/watch?v=YmzaqLtX8pY</link>
+      <guid>https://www.youtube.com/watch?v=YmzaqLtX8pY</guid>
+      <pubDate>2026-11-18T15:26:32+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Dépassements d'honoraires, hausse des mutuelles : notre sénatrice Anne Souyris interpelle la ministre de la Santé  sur des mesures qui creusent les inégalités d'accès aux soins.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>YmzaqLtX8pY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YmzaqLtX8pY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>«Investir dans l’éducation et la jeunesse n’est pas une dépense c’est préparer l’avenir»</title>
       <link>https://www.youtube.com/watch?v=7kUkukoPlCY</link>
@@ -36,19 +47,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>AZMesw7xiQY</videoId>
       <enclosure url="https://i.ytimg.com/vi/AZMesw7xiQY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LAURENT JACOBELLI est l'invité de FRANCE INFO !</title>
-      <link>https://www.youtube.com/watch?v=hw4fTM8hlOI</link>
-      <guid>https://www.youtube.com/watch?v=hw4fTM8hlOI</guid>
-      <pubDate>2026-11-18T10:00:39+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>hw4fTM8hlOI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hw4fTM8hlOI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Pour des millions de Français, la crise du pouvoir d’achat est un étranglement | Jean-Noël Barrot</title>
