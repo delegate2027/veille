@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 20:15:40 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:31:00 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Marine Tondelier au JT de France 2</title>
+      <link>https://www.youtube.com/watch?v=17zZk-HOLSo</link>
+      <guid>https://www.youtube.com/watch?v=17zZk-HOLSo</guid>
+      <pubDate>2026-11-18T20:29:16+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Marine Tondelier était l'invitée du JT de France 2 le mecredi 18 novembre.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>17zZk-HOLSo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/17zZk-HOLSo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nous voulons lutter contre la vie chère | Jordan Bardella est l'invité de « Ç à vous » sur France 5.</title>
       <link>https://www.youtube.com/watch?v=44B9PSp1tzo</link>
@@ -459,17 +470,6 @@ Telegram : https://t.me/Sarah_Knafo
       <channelTitle>Sarah Knafo</channelTitle>
       <videoId>Zso30CqWRYM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Zso30CqWRYM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Motion de rejet à l’Assemblée face au bilan catastrophique de Macron et pour des logements dignes</title>
-      <link>https://www.youtube.com/watch?v=gEgTiJDE7Iw</link>
-      <guid>https://www.youtube.com/watch?v=gEgTiJDE7Iw</guid>
-      <pubDate>2026-11-17T11:08:38+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description />
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>gEgTiJDE7Iw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gEgTiJDE7Iw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
