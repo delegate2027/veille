@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 21:15:39 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:30:58 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Marine Tondelier prête à travailler à une coalition autour de la candidature de JL Mélenchon (TF1)</title>
@@ -349,30 +349,6 @@ Mes réseaux sociaux
       <enclosure url="https://i.ytimg.com/vi/1gcHLo8zowQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Vive le Made in France ! | Marine Le Pen au Salon du Made in France</title>
-      <link>https://www.youtube.com/watch?v=U7dEqufHTCc</link>
-      <guid>https://www.youtube.com/watch?v=U7dEqufHTCc</guid>
-      <pubDate>2026-11-17T19:09:25+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Revivez la visite de Marine Le Pen au Salon du Made in France, le 13 novembre 2026, à la rencontre des entrepreneurs, artisans et industriels qui font vivre le savoir-faire français.
-
-« Un pays sans usine, ça n'existe pas. Nous devons réindustrialiser notre pays : il en va du niveau de nos salaires, de notre souveraineté et de la vitalité de nos territoires. »
-
-Au programme :
-• Les 200 milliards d'euros de commande publique fléchés vers nos entreprises
-• La suppression des impôts de production et des normes inutiles
-• L'apprentissage et l'alternance moins chers pour les entreprises
-• La lutte contre la fraude aux normes à l'importation
-• Un étiquetage clair de l'origine des produits
-
-Vive le Made in France ! 🇫🇷</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>U7dEqufHTCc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/U7dEqufHTCc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>NOUS FERONS L'AMNISTIE POUR LES LYCÉENS</title>
       <link>https://www.youtube.com/watch?v=uxdLx-VExRE</link>
       <guid>https://www.youtube.com/watch?v=uxdLx-VExRE</guid>
@@ -470,6 +446,17 @@ Telegram : https://t.me/Sarah_Knafo
       <channelTitle>Sarah Knafo</channelTitle>
       <videoId>Zso30CqWRYM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Zso30CqWRYM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Motion de rejet à l’Assemblée face au bilan catastrophique de Macron et pour des logements dignes</title>
+      <link>https://www.youtube.com/watch?v=gEgTiJDE7Iw</link>
+      <guid>https://www.youtube.com/watch?v=gEgTiJDE7Iw</guid>
+      <pubDate>2026-11-17T11:08:38+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>gEgTiJDE7Iw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gEgTiJDE7Iw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
