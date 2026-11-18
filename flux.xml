@@ -4,8 +4,53 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 19:15:39 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:31:22 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>« Rétablir l’ordre pour remettre la France sur le chemin du progrès » | Mon programme</title>
+      <link>https://www.youtube.com/watch?v=Km3Lxv44KJA</link>
+      <guid>https://www.youtube.com/watch?v=Km3Lxv44KJA</guid>
+      <pubDate>2026-11-18T19:17:32+00:00</pubDate>
+      <author>Edouard Philippe</author>
+      <description>Édouard Philippe a présenté le premier volet de son programme présidentiel, « Croire en nous ». Il l’a voulu massif, car l’heure est à la rupture, et sérieux, car la situation de la France l’exige.
+
+Son objectif : rétablir l’ordre pour remettre la France sur le chemin du progrès. Cela veut dire de l’ordre dans les comptes, pour éviter la crise financière qui a commencé, et de l’ordre dans le pays, dans nos rues comme à nos frontières. Ensuite, le progrès : l’école comme première priorité de la nation, la prospérité, le soutien aux travailleurs et aux familles, l’adaptation au changement climatique et la restauration de la puissance française.
+
+Il a aussi présenté les Voix de la campagne, les personnalités qui porteront ce projet partout en France.
+
+0:00 Introduction
+0:58 Un projet massif : oser la rupture
+4:37 Un projet sérieux
+6:37 L’ordre dans nos comptes
+10:11 L’ordre dans nos rues et à nos frontières
+13:38 Le progrès : l’école d’abord
+17:42 La prospérité, le travail et les familles
+19:20 Climat, IA, défense et Europe
+22:00 Les prochaines étapes de la campagne
+23:28 Les Voix de la campagne
+26:18 Laurent Marcangeli : l’ordre républicain
+29:30 Nathalie Loiseau : la France dans le monde
+33:20 Maël de Calan : l’économie et le travail
+36:18 Laure Darcos : savoir, culture et sport
+38:23 Thomas Mesnier : les familles
+41:25 Bérangère Abba : les transitions écologiques
+
+#ÉdouardPhilippe #CroireEnNous #Présidentielle2027
+---
+Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
+
+→ Twitter : https://x.com/Avec_Edouard
+→ Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
+→ Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
+→ Linkedin : https://www.linkedin.com/company/avecedouard
+→ YouTube : https://www.youtube.com/@AvecEdouard
+→ TikTok : https://www.tiktok.com/@avec_edouard
+→ Telegram : https://t.me/HorizonsOff
+→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
+      <channelTitle>Edouard Philippe</channelTitle>
+      <videoId>Km3Lxv44KJA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Km3Lxv44KJA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Éric Zemmour sur CNews : Primaire de la droite, pouvoir d'achat et présidentielle 2027 !</title>
       <link>https://www.youtube.com/watch?v=kTYGbmS_Xbw</link>
@@ -434,17 +479,6 @@ Telegram : https://t.me/Sarah_Knafo
       <channelTitle>Sarah Knafo</channelTitle>
       <videoId>Zso30CqWRYM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Zso30CqWRYM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Motion de rejet à l’Assemblée face au bilan catastrophique de Macron et pour des logements dignes</title>
-      <link>https://www.youtube.com/watch?v=gEgTiJDE7Iw</link>
-      <guid>https://www.youtube.com/watch?v=gEgTiJDE7Iw</guid>
-      <pubDate>2026-11-17T11:08:38+00:00</pubDate>
-      <author>Francois Piquemal</author>
-      <description />
-      <channelTitle>Francois Piquemal</channelTitle>
-      <videoId>gEgTiJDE7Iw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/gEgTiJDE7Iw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
