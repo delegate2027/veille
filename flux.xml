@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 20:01:06 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:15:40 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Nous voulons lutter contre la vie chère | Jordan Bardella est l'invité de « Ç à vous » sur France 5.</title>
@@ -204,26 +204,6 @@ Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On 
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>7kUkukoPlCY</videoId>
       <enclosure url="https://i.ytimg.com/vi/7kUkukoPlCY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Jordan Bardella est l'invité de « C à vous » sur France 5 !</title>
-      <link>https://www.youtube.com/watch?v=AZMesw7xiQY</link>
-      <guid>https://www.youtube.com/watch?v=AZMesw7xiQY</guid>
-      <pubDate>2026-11-18T13:27:10+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
-
-Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>AZMesw7xiQY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/AZMesw7xiQY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Pour des millions de Français, la crise du pouvoir d’achat est un étranglement | Jean-Noël Barrot</title>
@@ -479,6 +459,17 @@ Telegram : https://t.me/Sarah_Knafo
       <channelTitle>Sarah Knafo</channelTitle>
       <videoId>Zso30CqWRYM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Zso30CqWRYM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Motion de rejet à l’Assemblée face au bilan catastrophique de Macron et pour des logements dignes</title>
+      <link>https://www.youtube.com/watch?v=gEgTiJDE7Iw</link>
+      <guid>https://www.youtube.com/watch?v=gEgTiJDE7Iw</guid>
+      <pubDate>2026-11-17T11:08:38+00:00</pubDate>
+      <author>Francois Piquemal</author>
+      <description />
+      <channelTitle>Francois Piquemal</channelTitle>
+      <videoId>gEgTiJDE7Iw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/gEgTiJDE7Iw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
