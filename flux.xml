@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 16:01:29 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:15:41 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>La "Lecornisation" de Grégoire, le 17 octobre et Thermo-sur-Seine | Dans les couloirs du Conseil #6</title>
+      <link>https://www.youtube.com/watch?v=YYyBq9rLKLk</link>
+      <guid>https://www.youtube.com/watch?v=YYyBq9rLKLk</guid>
+      <pubDate>2026-11-18T15:52:47+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>🔴 Dans les couloirs du Conseil de Paris
+
+Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On revient ensemble sur la « lecornisation » d’Emmanuel Grégoire, au cœur de notre question d’actualité, et sur les événements des 17 et 18 octobre. On parlera aussi des évacuations de campements et du projet d’incinérateur Thermo-sur-Seine à Vitry.</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>YYyBq9rLKLk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YYyBq9rLKLk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Santé « Le démantèlement annoncée de cette protection sociale »</title>
       <link>https://www.youtube.com/watch?v=YmzaqLtX8pY</link>
@@ -432,29 +445,6 @@ Mes réseaux sociaux
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>lsAFNNFZZuA</videoId>
       <enclosure url="https://i.ytimg.com/vi/lsAFNNFZZuA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le grand débat LCI avec Jean-Luc Mélenchon - En association avec les Restos du Cœur</title>
-      <link>https://www.youtube.com/watch?v=5Df-5eY6Xtc</link>
-      <guid>https://www.youtube.com/watch?v=5Df-5eY6Xtc</guid>
-      <pubDate>2026-11-16T22:36:57+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un grand débat sur LCI en association avec les Restos du Cœur, le 16 novembre 2026.
-
-Rejoignez la campagne ⏩ https://jlm27.fr/p/j4VuXNIJZb
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>5Df-5eY6Xtc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5Df-5eY6Xtc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
