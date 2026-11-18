@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 08:31:05 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:45:47 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Dans les couloirs du Conseil #5 Hommage à Pengo, lutte contre le racisme, débat budgétaire</title>
+      <link>https://www.youtube.com/watch?v=_Xw9syN27nM</link>
+      <guid>https://www.youtube.com/watch?v=_Xw9syN27nM</guid>
+      <pubDate>2026-11-18T08:40:25+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>🔴 Dans les couloirs du Conseil de Paris
+
+Débrief à chaud après la séance du Conseil de Paris du 17 novembre 2026. On revient ensemble sur nos combats au Conseil de Paris, avec un hommage à Pengo et un point sur la lutte contre le racisme. On parlera aussi du budget de la Ville, de sa politique de sécurité et de prévention, mais aussi des mobilisations sociales, de la manifestation pour la mise à l’abri des personnes à la rue et du logement social.</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>_Xw9syN27nM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_Xw9syN27nM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Jordan Bardella est l'invité de Laurence Ferrari sur CNEWS</title>
       <link>https://www.youtube.com/watch?v=BfykDivOYFI</link>
@@ -112,19 +125,6 @@ Au programme :
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>zKjV6bmKSF8</videoId>
       <enclosure url="https://i.ytimg.com/vi/zKjV6bmKSF8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Dans les couloirs du Conseil #5 Hommage à Pengo, lutte contre le racisme, débat budgétaire</title>
-      <link>https://www.youtube.com/watch?v=_Xw9syN27nM</link>
-      <guid>https://www.youtube.com/watch?v=_Xw9syN27nM</guid>
-      <pubDate>2026-11-17T18:25:22+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>🔴 Dans les couloirs du Conseil de Paris
-
-Débrief à chaud après la séance du Conseil de Paris du 17 novembre 2026. On revient ensemble sur nos combats au Conseil de Paris, avec un hommage à Pengo et un point sur la lutte contre le racisme. On parlera aussi du budget de la Ville, de sa politique de sécurité et de prévention, mais aussi des mobilisations sociales, de la manifestation pour la mise à l’abri des personnes à la rue et du logement social.</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>_Xw9syN27nM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_Xw9syN27nM/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>NOUS FERONS L'AMNISTIE POUR LES LYCÉENS</title>
