@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 13:30:57 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:46:01 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>EN DIRECT | Jordan Bardella est l'invité de « C à vous » sur France 5 !</title>
+      <link>https://www.youtube.com/watch?v=AZMesw7xiQY</link>
+      <guid>https://www.youtube.com/watch?v=AZMesw7xiQY</guid>
+      <pubDate>2026-11-18T13:27:10+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>AZMesw7xiQY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/AZMesw7xiQY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LAURENT JACOBELLI est l'invité de FRANCE INFO !</title>
       <link>https://www.youtube.com/watch?v=hw4fTM8hlOI</link>
@@ -429,29 +449,6 @@ Mes réseaux sociaux
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>lsAFNNFZZuA</videoId>
       <enclosure url="https://i.ytimg.com/vi/lsAFNNFZZuA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le grand débat LCI avec Jean-Luc Mélenchon - En association avec les Restos du Cœur</title>
-      <link>https://www.youtube.com/watch?v=5Df-5eY6Xtc</link>
-      <guid>https://www.youtube.com/watch?v=5Df-5eY6Xtc</guid>
-      <pubDate>2026-11-16T22:36:57+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un grand débat sur LCI en association avec les Restos du Cœur, le 16 novembre 2026.
-
-Rejoignez la campagne ⏩ https://jlm27.fr/p/j4VuXNIJZb
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>5Df-5eY6Xtc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5Df-5eY6Xtc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
