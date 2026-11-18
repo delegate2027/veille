@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 18 Nov 2026 11:15:58 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:31:00 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>LAURENT JACOBELLI est l'invité de FRANCE INFO !</title>
@@ -242,37 +242,6 @@ Vive le Made in France ! 🇫🇷</description>
       <enclosure url="https://i.ytimg.com/vi/U7dEqufHTCc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Réparer notre système de retraites | Conférence de presse de Marine Le Pen et Jordan Bardella</title>
-      <link>https://www.youtube.com/watch?v=zKjV6bmKSF8</link>
-      <guid>https://www.youtube.com/watch?v=zKjV6bmKSF8</guid>
-      <pubDate>2026-11-17T18:55:15+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Conférence de presse du 17 novembre 2026 : Marine Le Pen, Jordan Bardella et Jean-Philippe Tanguy présentent la réforme des retraites qu'ils mettront en œuvre en 2027.
-
-« Notre réforme des retraites est pleinement financée. Non seulement nous sommes en mesure de la financer totalement, mais nous diviserons par deux le déficit hérité d'Emmanuel Macron d'ici 2032. »
-
-Au programme :
-• Abolition de la réforme Borne au 1er janvier 2028
-• Un départ de 60 à 62 ans, avec 40 à 42 ans de cotisation selon l'âge du premier emploi
-• L'indexation de toutes les retraites pendant cinq ans et l'âge de 67 ans maintenu pour le taux plein
-• Les huit trimestres des mères de famille préservés
-• Un pilier de capitalisation pour tous
-• Le chiffrage complet de la réforme
-
-00:00 Introduction de Marine Le Pen : une réforme pleinement financée
-09:10 Nos engagements et l'abolition de la réforme Borne
-16:12 Jordan Bardella détaille la réforme
-17:28 L'entrée dans la vie active : de 60 à 62 ans selon le premier emploi
-25:55 Un pilier de capitalisation pour tous
-31:34 Jean-Philippe Tanguy présente le chiffrage
-43:39 Questions des journalistes</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>zKjV6bmKSF8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/zKjV6bmKSF8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>NOUS FERONS L'AMNISTIE POUR LES LYCÉENS</title>
       <link>https://www.youtube.com/watch?v=uxdLx-VExRE</link>
       <guid>https://www.youtube.com/watch?v=uxdLx-VExRE</guid>
@@ -460,6 +429,29 @@ Mes réseaux sociaux
       <channelTitle>Francois Piquemal</channelTitle>
       <videoId>lsAFNNFZZuA</videoId>
       <enclosure url="https://i.ytimg.com/vi/lsAFNNFZZuA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Le grand débat LCI avec Jean-Luc Mélenchon - En association avec les Restos du Cœur</title>
+      <link>https://www.youtube.com/watch?v=5Df-5eY6Xtc</link>
+      <guid>https://www.youtube.com/watch?v=5Df-5eY6Xtc</guid>
+      <pubDate>2026-11-16T22:36:57+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un grand débat sur LCI en association avec les Restos du Cœur, le 16 novembre 2026.
+
+Rejoignez la campagne ⏩ https://jlm27.fr/p/j4VuXNIJZb
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>5Df-5eY6Xtc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5Df-5eY6Xtc/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
