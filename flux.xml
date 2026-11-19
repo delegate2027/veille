@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 19 Nov 2026 15:31:05 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:45:59 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Rénover un million de logements par an | Fabien Roussel au grand oral de la FFB</title>
+      <link>https://www.youtube.com/watch?v=_WfBqE5VS_U</link>
+      <guid>https://www.youtube.com/watch?v=_WfBqE5VS_U</guid>
+      <pubDate>2026-11-19T15:38:06+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Construire entre 400 000 et 500 000 logements et en rénover un million chaque année. C’est l’objectif que défend Fabien Roussel au grand oral de la Fédération française du bâtiment, ce jeudi 19 novembre 2026.
+
+Devant les artisans et les entrepreneurs du bâtiment, il détaille son plan sur cinq ans. Il propose notamment de consacrer 5 milliards d’euros supplémentaires aux collectivités pour rénover les bâtiments publics et 5 milliards aux bailleurs sociaux pour construire et réhabiliter des logements.
+
+Il répond aussi aux questions de deux entrepreneurs sur les difficultés du bâtiment en outre-mer et la flambée du prix des matériaux.
+
+00:00 Relancer le bâtiment et l’emploi
+02:58 Construire davantage et rénover un million de logements par an
+08:00 Comment financer le plan sur cinq ans ?
+10:37 Outre-mer : adapter les normes et faciliter l’accès à la propriété
+14:54 Comment agir face à la flambée du prix des matériaux ?</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>_WfBqE5VS_U</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_WfBqE5VS_U/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>VOICI COMMENT NOUS ALLONS RECONSTRUIRE L'ÉCOLE PUBLIQUE.</title>
       <link>https://www.youtube.com/watch?v=Qmf_uQ9y4mU</link>
@@ -480,17 +501,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>1gcHLo8zowQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/1gcHLo8zowQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>NOUS FERONS L'AMNISTIE POUR LES LYCÉENS</title>
-      <link>https://www.youtube.com/watch?v=uxdLx-VExRE</link>
-      <guid>https://www.youtube.com/watch?v=uxdLx-VExRE</guid>
-      <pubDate>2026-11-17T17:00:19+00:00</pubDate>
-      <author>Louis Boyard</author>
-      <description />
-      <channelTitle>Louis Boyard</channelTitle>
-      <videoId>uxdLx-VExRE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/uxdLx-VExRE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
