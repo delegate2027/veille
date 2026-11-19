@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 19 Nov 2026 12:15:48 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:31:05 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Manon Aubry face à un plateau très masculin sur BFM TV !</title>
+      <link>https://www.youtube.com/watch?v=WIO1S0qAevE</link>
+      <guid>https://www.youtube.com/watch?v=WIO1S0qAevE</guid>
+      <pubDate>2026-11-19T12:16:01+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>J'étais sur BFM TV le 18 novembre 2026 face à un plateau en quasi non-mixité masculine ! 😉
+
+Seule face à beaucoup de nuances de droite !</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>WIO1S0qAevE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WIO1S0qAevE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY est l'invité de LCI !</title>
       <link>https://www.youtube.com/watch?v=sQKcRHOBm30</link>
@@ -476,17 +489,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>1AmWAmELfvQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/1AmWAmELfvQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le gouvernement fabrique le pourrissement du mouvement lycéen - Alexis Corbière sur BFMTV</title>
-      <link>https://www.youtube.com/watch?v=Sy2ErZK9mlM</link>
-      <guid>https://www.youtube.com/watch?v=Sy2ErZK9mlM</guid>
-      <pubDate>2026-11-17T15:46:31+00:00</pubDate>
-      <author>Alexis Corbière</author>
-      <description>Le député Alexis Corbière était invité à participer au duel, sur France Info TV, dans lequel il était opposé à la porte-parole des Républicains, Céline Imart.</description>
-      <channelTitle>Alexis Corbière</channelTitle>
-      <videoId>Sy2ErZK9mlM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Sy2ErZK9mlM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
