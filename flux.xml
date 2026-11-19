@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 19 Nov 2026 20:01:46 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:15:52 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>EN DIRECT | Pour L’Heure de vérité, je réponds à Caroline Roux et son équipe.</title>
@@ -315,26 +315,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <enclosure url="https://i.ytimg.com/vi/17zZk-HOLSo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Nous voulons lutter contre la vie chère | Jordan Bardella est l'invité de « Ç à vous » sur France 5.</title>
-      <link>https://www.youtube.com/watch?v=44B9PSp1tzo</link>
-      <guid>https://www.youtube.com/watch?v=44B9PSp1tzo</guid>
-      <pubDate>2026-11-18T19:31:12+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
-
-Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>44B9PSp1tzo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/44B9PSp1tzo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>« Rétablir l’ordre pour remettre la France sur le chemin du progrès » | Mon programme</title>
       <link>https://www.youtube.com/watch?v=Km3Lxv44KJA</link>
       <guid>https://www.youtube.com/watch?v=Km3Lxv44KJA</guid>
@@ -520,6 +500,27 @@ Bien sûr que non. Tout cela est entièrement faux.
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>_qE7S0YTZhU</videoId>
       <enclosure url="https://i.ytimg.com/vi/_qE7S0YTZhU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>David Lisnard invité de Bonjour ! sur TF1</title>
+      <link>https://www.youtube.com/watch?v=67yMGmr_pS0</link>
+      <guid>https://www.youtube.com/watch?v=67yMGmr_pS0</guid>
+      <pubDate>2026-11-18T09:06:43+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>J'étais l'invité de Bonjour! ce matin dans la matinale de TF1 pour répondre aux questions de Bruce Toussaint et Alba Ventura. 
+
+Suivez moi sur mes réseaux : 
+
+Instagram : https://www.instagram.com/davidlisnard/
+X : https://x.com/davidlisnard
+Facebook : https://www.facebook.com/lisnard.david
+Tik Tok : https://www.tiktok.com/@david.lisnard
+LinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/
+
+Adhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>67yMGmr_pS0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/67yMGmr_pS0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
