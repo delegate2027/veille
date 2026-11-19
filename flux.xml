@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 19 Nov 2026 10:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:30:56 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY est l'invité de LCI !</title>
+      <link>https://www.youtube.com/watch?v=sQKcRHOBm30</link>
+      <guid>https://www.youtube.com/watch?v=sQKcRHOBm30</guid>
+      <pubDate>2026-11-19T10:14:14+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>sQKcRHOBm30</videoId>
+      <enclosure url="https://i.ytimg.com/vi/sQKcRHOBm30/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Protection de l'enfance : le projet de Marine Le Pen | Au cœur de la campagne #4 avec M. Hamelet</title>
       <link>https://www.youtube.com/watch?v=EageFDe2-3o</link>
@@ -474,19 +487,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Alexis Corbière</channelTitle>
       <videoId>Sy2ErZK9mlM</videoId>
       <enclosure url="https://i.ytimg.com/vi/Sy2ErZK9mlM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nous proposons une loi d'amnistie pour les lycéen-nes !</title>
-      <link>https://www.youtube.com/watch?v=hnMZWA7HQiE</link>
-      <guid>https://www.youtube.com/watch?v=hnMZWA7HQiE</guid>
-      <pubDate>2026-11-17T13:00:34+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>Je dépose avec ma collègue Marianne Maximi et l’ensemble de mon groupe une proposition de loi portant amnistie des délits reprochés aux mineurs et donc aux enfants ayant subi la violente répression du mouvement lycéen et étudiant de 2026.
-
-La répression policière, judiciaire et administrative doit cesser.</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>hnMZWA7HQiE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/hnMZWA7HQiE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
