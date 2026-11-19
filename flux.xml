@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 19 Nov 2026 07:31:01 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:45:58 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>La "Lecornusation" de Grégoire, le 17 octobre et Thermo-sur-Seine | Dans les couloirs du Conseil #6</title>
+      <link>https://www.youtube.com/watch?v=YYyBq9rLKLk</link>
+      <guid>https://www.youtube.com/watch?v=YYyBq9rLKLk</guid>
+      <pubDate>2026-11-19T07:44:29+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>🔴 Dans les couloirs du Conseil de Paris
+
+Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On revient ensemble sur la « lecornusation » d’Emmanuel Grégoire, au cœur de notre question d’actualité, et sur les événements des 17 et 18 octobre. On parlera aussi des évacuations de campements et du projet d’incinérateur Thermo-sur-Seine à Vitry.</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>YYyBq9rLKLk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YYyBq9rLKLk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Je présente le premier volet de mon programme.</title>
       <link>https://www.youtube.com/watch?v=vrNvyNcIXac</link>
@@ -205,19 +218,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>0NvO6P1-uIY</videoId>
       <enclosure url="https://i.ytimg.com/vi/0NvO6P1-uIY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La "Lecornusation" de Grégoire, le 17 octobre et Thermo-sur-Seine | Dans les couloirs du Conseil #6</title>
-      <link>https://www.youtube.com/watch?v=YYyBq9rLKLk</link>
-      <guid>https://www.youtube.com/watch?v=YYyBq9rLKLk</guid>
-      <pubDate>2026-11-18T15:52:47+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>🔴 Dans les couloirs du Conseil de Paris
-
-Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On revient ensemble sur la « lecornusation » d’Emmanuel Grégoire, au cœur de notre question d’actualité, et sur les événements des 17 et 18 octobre. On parlera aussi des évacuations de campements et du projet d’incinérateur Thermo-sur-Seine à Vitry.</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>YYyBq9rLKLk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YYyBq9rLKLk/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Santé « Le démantèlement annoncée de cette protection sociale »</title>
