@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 20 Nov 2026 13:45:48 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:01:26 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 EN DIRECT | Marine Le Pen invitée de Franc-Jeu (France 3 / France Inter)</title>
+      <link>https://www.youtube.com/watch?v=xQzC0u4tqNQ</link>
+      <guid>https://www.youtube.com/watch?v=xQzC0u4tqNQ</guid>
+      <pubDate>2026-11-20T13:57:14+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Marine Le Pen est l'invitée de Franc-Jeu, dimanche 22 novembre à 13h20, en direct sur France 3 et France Inter.
+
+Retrouvez l'émission en intégralité et en direct sur sa chaîne.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>xQzC0u4tqNQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/xQzC0u4tqNQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🏛️ Politique migratoire : avec MELENCHON, en 2027, la France sera un exemple en EUROPE</title>
       <link>https://www.youtube.com/watch?v=h1xc_mqzA8s</link>
@@ -462,32 +477,6 @@ TikTok : https://www.tiktok.com/@zemmour_eric
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>wYNM00hgEOg</videoId>
       <enclosure url="https://i.ytimg.com/vi/wYNM00hgEOg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Notre modèle de sécurité civile doit évoluer | Delphine Lingemann</title>
-      <link>https://www.youtube.com/watch?v=0NvO6P1-uIY</link>
-      <guid>https://www.youtube.com/watch?v=0NvO6P1-uIY</guid>
-      <pubDate>2026-11-18T16:36:12+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Notre modèle de sécurité civile doit évoluer | Delphine Lingemann
-
-Lors des questions au gouvernement du mercredi 18 novembre, notre députée du Puy de Dôme, Delphine Lingemann, a interrogé le ministre de l'Intérieur sur les suites du Beauveau de la sécurité en matière de sécurité civile.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/delphine-lingemann-notre-modele-de-securite-civile-doit-evoluer-video-8578-video
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>0NvO6P1-uIY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0NvO6P1-uIY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
