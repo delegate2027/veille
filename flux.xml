@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 20 Nov 2026 09:01:08 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:15:42 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>LAURENT JACOBELLI est l'invité de France Info !</title>
+      <link>https://www.youtube.com/watch?v=FbjWU1QlAlo</link>
+      <guid>https://www.youtube.com/watch?v=FbjWU1QlAlo</guid>
+      <pubDate>2026-11-20T08:56:25+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>FbjWU1QlAlo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/FbjWU1QlAlo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Des AED de Paul Eluard chez Révolution Permanente ?? On en est très fiers ! Elsa Marcel sur BFM</title>
       <link>https://www.youtube.com/watch?v=5VcsDL9blc8</link>
@@ -497,32 +510,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>7kUkukoPlCY</videoId>
       <enclosure url="https://i.ytimg.com/vi/7kUkukoPlCY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Pour des millions de Français, la crise du pouvoir d’achat est un étranglement | Jean-Noël Barrot</title>
-      <link>https://www.youtube.com/watch?v=ZecUp8zgt0E</link>
-      <guid>https://www.youtube.com/watch?v=ZecUp8zgt0E</guid>
-      <pubDate>2026-11-18T09:41:56+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Pour des millions de Français, la crise du pouvoir d’achat est un étranglement | Jean-Noël Barrot
-
-Notre ministre de l'Europe et des Affaires étrangères et vice-président du MoDem, Jean-Noël Barrot, était l'invité de C à vous ce mardi 17 novembre.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/jean-noel-barrot-pour-des-millions-de-francais-la-crise-du-pouvoir-dachat-est-un
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>ZecUp8zgt0E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ZecUp8zgt0E/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
