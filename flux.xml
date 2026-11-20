@@ -4,8 +4,35 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 20 Nov 2026 08:45:41 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:01:08 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Des AED de Paul Eluard chez Révolution Permanente ?? On en est très fiers ! Elsa Marcel sur BFM</title>
+      <link>https://www.youtube.com/watch?v=5VcsDL9blc8</link>
+      <guid>https://www.youtube.com/watch?v=5VcsDL9blc8</guid>
+      <pubDate>2026-11-20T08:45:54+00:00</pubDate>
+      <author>Révolution Permanente</author>
+      <description>« Ça fait un mois que vous commentez un mouvement auquel vous ne comprenez rien, et que vous répétez les mensonges du gouvernement. Vous parlez d'instrumentalisation par LFI ou RP, mais la colère dépasse largement n'importe quelle organisation. Oui, Alexis Durey est AED à Paul Eluard et Révolution Permanente est implanté dans les lieux d'études et dans les lieux de travail et on en est très fiers. D'ailleurs, on invite à venir nombreux au grand meeting qu'on organise ce samedi avec les lycéens et les profs mobilisés ! » - Elsa Marcel est intervenue sur BFM pour répondre aux attaques contre les grévistes de Paul Eluard et Révolution Permanente
+
+Venez pour un grand meeting révolutionnaire autour de la candidature d'Anasse Kazib ! Avec Alexis Durey, Elsa Marcel et lycéens et travailleurs en lutte.
+https://my.weezevent.com/meeting-anasse-2027-grand-meeting-revolutionnaire-a-paris
+
+Abonnez-vous à notre chaîne YouTube !
+➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
+
+★ Retrouvez-nous sur les réseaux sociaux :
+▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
+▸Twitter ▸ https://twitter.com/@RevPermanente
+▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
+▸Telegram ▸ https://t.me/revolution_permanente
+▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
+      <channelTitle>Révolution Permanente</channelTitle>
+      <videoId>5VcsDL9blc8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5VcsDL9blc8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Journée internationale des droits de l’enfant.</title>
       <link>https://www.youtube.com/watch?v=TPORMSsByP4</link>
@@ -496,21 +523,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>ZecUp8zgt0E</videoId>
       <enclosure url="https://i.ytimg.com/vi/ZecUp8zgt0E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Je réponds aux mensonges du gouvernement et du RN sur le SMIC à 1700€ !</title>
-      <link>https://www.youtube.com/watch?v=_qE7S0YTZhU</link>
-      <guid>https://www.youtube.com/watch?v=_qE7S0YTZhU</guid>
-      <pubDate>2026-11-18T09:15:43+00:00</pubDate>
-      <author>Gabrielle Cathala</author>
-      <description>Augmenter le SMIC à 1700€ net conduirait à détruire 230 000 emplois, augmenter l’inflation et couler des milliers d’entreprises ?
-
-Bien sûr que non. Tout cela est entièrement faux.
-
-🎙️Je réponds aux mensonges du gouvernement et du RN.</description>
-      <channelTitle>Gabrielle Cathala</channelTitle>
-      <videoId>_qE7S0YTZhU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_qE7S0YTZhU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
