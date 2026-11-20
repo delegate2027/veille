@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 20 Nov 2026 08:15:48 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:31:07 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Journée internationale des droits de l’enfant.</title>
+      <link>https://www.youtube.com/watch?v=TPORMSsByP4</link>
+      <guid>https://www.youtube.com/watch?v=TPORMSsByP4</guid>
+      <pubDate>2026-11-20T08:11:03+00:00</pubDate>
+      <author>Emmanuel Macron</author>
+      <description>Nous continuerons à faire de la protection et des droits de l’enfant une priorité.</description>
+      <channelTitle>Emmanuel Macron</channelTitle>
+      <videoId>TPORMSsByP4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/TPORMSsByP4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Propos inacceptables du maire du 13e, Hind Rajab, services publics | Dans les couloirs du Conseil #7</title>
       <link>https://www.youtube.com/watch?v=J_WZtMZSNl0</link>
@@ -500,27 +511,6 @@ Bien sûr que non. Tout cela est entièrement faux.
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>_qE7S0YTZhU</videoId>
       <enclosure url="https://i.ytimg.com/vi/_qE7S0YTZhU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>David Lisnard invité de Bonjour ! sur TF1</title>
-      <link>https://www.youtube.com/watch?v=67yMGmr_pS0</link>
-      <guid>https://www.youtube.com/watch?v=67yMGmr_pS0</guid>
-      <pubDate>2026-11-18T09:06:43+00:00</pubDate>
-      <author>David Lisnard</author>
-      <description>J'étais l'invité de Bonjour! ce matin dans la matinale de TF1 pour répondre aux questions de Bruce Toussaint et Alba Ventura. 
-
-Suivez moi sur mes réseaux : 
-
-Instagram : https://www.instagram.com/davidlisnard/
-X : https://x.com/davidlisnard
-Facebook : https://www.facebook.com/lisnard.david
-Tik Tok : https://www.tiktok.com/@david.lisnard
-LinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/
-
-Adhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion</description>
-      <channelTitle>David Lisnard</channelTitle>
-      <videoId>67yMGmr_pS0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/67yMGmr_pS0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
