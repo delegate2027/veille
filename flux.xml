@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 20 Nov 2026 16:46:03 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:01:35 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Les macronistes ont ouvert les portes à l'extrême droite : Manon Aubry face à Agnès Pannier-Runacher</title>
+      <link>https://www.youtube.com/watch?v=x_SWZofIx3Y</link>
+      <guid>https://www.youtube.com/watch?v=x_SWZofIx3Y</guid>
+      <pubDate>2026-11-20T16:53:50+00:00</pubDate>
+      <author>Manon Aubry</author>
+      <description>Les macronistes ont ouvert les portes à l'extrême droite : Manon Aubry face à Agnès Pannier-Runacher
+
+Chez Pol sur Libération le 19 novembre 2026</description>
+      <channelTitle>Manon Aubry</channelTitle>
+      <videoId>x_SWZofIx3Y</videoId>
+      <enclosure url="https://i.ytimg.com/vi/x_SWZofIx3Y/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Les docteurs en pharmacie sont des DOCTEURS, et trop souvent, on l’oublie</title>
       <link>https://www.youtube.com/watch?v=PXR_Lc_X6oQ</link>
@@ -454,17 +467,6 @@ TikTok : https://www.tiktok.com/@zemmour_eric
       <channelTitle>Mathilde Panot</channelTitle>
       <videoId>Daeb9a5TKbE</videoId>
       <enclosure url="https://i.ytimg.com/vi/Daeb9a5TKbE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Stratégie Présidentielle : @QuotidienTMC suis Sandrine Rousseau en manif</title>
-      <link>https://www.youtube.com/watch?v=wYNM00hgEOg</link>
-      <guid>https://www.youtube.com/watch?v=wYNM00hgEOg</guid>
-      <pubDate>2026-11-18T16:42:14+00:00</pubDate>
-      <author>Sandrine Rousseau</author>
-      <description>le 17/11/2026</description>
-      <channelTitle>Sandrine Rousseau</channelTitle>
-      <videoId>wYNM00hgEOg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/wYNM00hgEOg/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
