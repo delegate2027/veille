@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 20 Nov 2026 11:15:58 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:31:09 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🏛️ Politique migratoire : avec MELENCHON, en 2027, la France sera un exemple en EUROPE</title>
+      <link>https://www.youtube.com/watch?v=h1xc_mqzA8s</link>
+      <guid>https://www.youtube.com/watch?v=h1xc_mqzA8s</guid>
+      <pubDate>2026-11-20T11:07:30+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Intervention de Danièle Obono, mercredi 18 novembre 2026, lors de la discussion générale en commission des Affaires européennes sur le rapport d'information concernant la mise en application du pacte asile et migration
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram : https://www.instagram.com/danieleobono
+➡️ Facebook : https://www.facebook.com/DanieleObono
+➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok : https://www.tiktok.com/@danieleobono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>h1xc_mqzA8s</videoId>
+      <enclosure url="https://i.ytimg.com/vi/h1xc_mqzA8s/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La surenchère repressive, attentatoire aux droits fondamentaux et inutile de la droite !</title>
       <link>https://www.youtube.com/watch?v=GVn-q386rAw</link>
@@ -467,17 +488,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>0NvO6P1-uIY</videoId>
       <enclosure url="https://i.ytimg.com/vi/0NvO6P1-uIY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Santé « Le démantèlement annoncée de cette protection sociale »</title>
-      <link>https://www.youtube.com/watch?v=YmzaqLtX8pY</link>
-      <guid>https://www.youtube.com/watch?v=YmzaqLtX8pY</guid>
-      <pubDate>2026-11-18T15:26:32+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Dépassements d'honoraires, hausse des mutuelles : notre sénatrice Anne Souyris interpelle la ministre de la Santé  sur des mesures qui creusent les inégalités d'accès aux soins.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>YmzaqLtX8pY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YmzaqLtX8pY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
