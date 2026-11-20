@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 20 Nov 2026 10:01:16 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:15:43 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Un primaire de la droite pour barrer la route du second tour à Mélenchon</title>
@@ -134,44 +134,6 @@ Retrouvez l'intégralité de la conférence sur : https://www.youtube.com/live/1
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>abNC9fWHpyE</videoId>
       <enclosure url="https://i.ytimg.com/vi/abNC9fWHpyE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Libérer la construction ! | Marine Le Pen au Grand Oral de la Construction</title>
-      <link>https://www.youtube.com/watch?v=XTDvuKtegqI</link>
-      <guid>https://www.youtube.com/watch?v=XTDvuKtegqI</guid>
-      <pubDate>2026-11-19T17:35:15+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Revivez l'intervention de Marine Le Pen au Grand Oral de la Construction de la Fédération Française du Bâtiment, face aux chefs d'entreprise et artisans du secteur.
-
-« Ma priorité, c'est le pouvoir d'achat des Français. Et le pouvoir d'achat, ça passe par le portefeuille et par le trousseau de clés. »
-
-Au programme :
-• La suppression des lois SRU et ZAN et des contraintes du DPE
-• Le foncier de l'État mis à disposition pour des logements à loyer modéré
-• La transformation des bureaux vides en logements
-• La suppression de toutes les normes au-delà du minimum européen
-• L'apprentissage et l'alternance revalorisés
-• La lutte contre le travail détaché, le travail illégal et la concurrence déloyale
-
-00:00 Introduction
-00:39 Le pouvoir d'achat, c'est aussi le trousseau de clés
-01:55 Retraites, 1 % logement et logement social
-03:22 Libérer le foncier de l'État
-05:13 Capitalisation et accès à la propriété
-06:28 Les bureaux vides transformés en logements
-07:58 Suppression des lois SRU, ZAN et des contraintes du DPE
-08:41 « Je vais faire pire qu'un moratoire » sur les normes
-12:00 Apprentissage et alternance
-15:09 Concurrence déloyale et sous-traitance
-18:12 Travail illégal et fraude
-18:45 Immigration de travail
-
-Libérons la construction ! 🇫🇷</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>XTDvuKtegqI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/XTDvuKtegqI/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>« Au revoir » : Fabien Roussel charge Macron et défend sa candidature</title>
@@ -488,6 +450,32 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>7kUkukoPlCY</videoId>
       <enclosure url="https://i.ytimg.com/vi/7kUkukoPlCY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pour des millions de Français, la crise du pouvoir d’achat est un étranglement | Jean-Noël Barrot</title>
+      <link>https://www.youtube.com/watch?v=ZecUp8zgt0E</link>
+      <guid>https://www.youtube.com/watch?v=ZecUp8zgt0E</guid>
+      <pubDate>2026-11-18T09:41:56+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Pour des millions de Français, la crise du pouvoir d’achat est un étranglement | Jean-Noël Barrot
+
+Notre ministre de l'Europe et des Affaires étrangères et vice-président du MoDem, Jean-Noël Barrot, était l'invité de C à vous ce mardi 17 novembre.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/jean-noel-barrot-pour-des-millions-de-francais-la-crise-du-pouvoir-dachat-est-un
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>ZecUp8zgt0E</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ZecUp8zgt0E/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
