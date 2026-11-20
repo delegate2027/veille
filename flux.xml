@@ -4,8 +4,47 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 20 Nov 2026 10:15:43 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:31:00 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>La surenchère repressive, attentatoire aux droits fondamentaux et inutile de la droite !</title>
+      <link>https://www.youtube.com/watch?v=GVn-q386rAw</link>
+      <guid>https://www.youtube.com/watch?v=GVn-q386rAw</guid>
+      <pubDate>2026-11-20T10:24:43+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>La droite et l’extrême droite préfèrent toujours la surenchère repressive, attentatoire aux droits fondamentaux et inutile.
+
+En 2027, nous assurerons le respect de la Convention internationale des droits de l’Enfant et des principes de la Justice des mineurs.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>GVn-q386rAw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/GVn-q386rAw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Il y a une gouvernance très clivante aujourd’hui à la tête de la FIFA | Marina Ferrari</title>
+      <link>https://www.youtube.com/watch?v=v00eTQmNkII</link>
+      <guid>https://www.youtube.com/watch?v=v00eTQmNkII</guid>
+      <pubDate>2026-11-20T10:02:39+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Il y a une gouvernance très clivante aujourd’hui à la tête de la FIFA | Marina Ferrari
+
+[Description]
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 [Lien vers l'article]
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>v00eTQmNkII</videoId>
+      <enclosure url="https://i.ytimg.com/vi/v00eTQmNkII/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Un primaire de la droite pour barrer la route du second tour à Mélenchon</title>
       <link>https://www.youtube.com/watch?v=tNyiBG-vBQM</link>
@@ -439,43 +478,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>YmzaqLtX8pY</videoId>
       <enclosure url="https://i.ytimg.com/vi/YmzaqLtX8pY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>«Investir dans l’éducation et la jeunesse n’est pas une dépense c’est préparer l’avenir»</title>
-      <link>https://www.youtube.com/watch?v=7kUkukoPlCY</link>
-      <guid>https://www.youtube.com/watch?v=7kUkukoPlCY</guid>
-      <pubDate>2026-11-18T14:29:19+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>La députée Christine Arrighi interpelle le ministre de l'Éducation sur un  budget qui fragilise l'école et la jeunesse.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>7kUkukoPlCY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7kUkukoPlCY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Pour des millions de Français, la crise du pouvoir d’achat est un étranglement | Jean-Noël Barrot</title>
-      <link>https://www.youtube.com/watch?v=ZecUp8zgt0E</link>
-      <guid>https://www.youtube.com/watch?v=ZecUp8zgt0E</guid>
-      <pubDate>2026-11-18T09:41:56+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Pour des millions de Français, la crise du pouvoir d’achat est un étranglement | Jean-Noël Barrot
-
-Notre ministre de l'Europe et des Affaires étrangères et vice-président du MoDem, Jean-Noël Barrot, était l'invité de C à vous ce mardi 17 novembre.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/jean-noel-barrot-pour-des-millions-de-francais-la-crise-du-pouvoir-dachat-est-un
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>ZecUp8zgt0E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ZecUp8zgt0E/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
