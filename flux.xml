@@ -4,46 +4,8 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 21 Nov 2026 21:01:26 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:15:56 -0000</lastBuildDate>
     <feedCount>50</feedCount>
-    <item>
-      <title>De la RÉVOLTE à la RÉVOLUTION : MEETING de RP avec Anasse Kazib, Elsa Marcel...</title>
-      <link>https://www.youtube.com/watch?v=qAjepismht0</link>
-      <guid>https://www.youtube.com/watch?v=qAjepismht0</guid>
-      <pubDate>2026-11-21T19:45:32+00:00</pubDate>
-      <author>Révolution Permanente</author>
-      <description>« Ceux qui font tourner le pays doivent décider » : meeting avec Anasse Kazib !
-
-La révolte lycéenne a fait basculer la situation en France. Partie des lycées des quartiers populaires, la colère de la jeunesse a contaminé tout le pays. C’est grâce à elle que le 17 octobre a été une journée historique, qui a débordé le dispositif policier et fait trembler le gouvernement.
-
-Le mouvement en cours n’est pas comme les autres. Il cristallise 10 ans de lutte de classes dans le pays. Il reflète les aspirations révolutionnaires de toute une génération qui refuse l’avenir de guerre et de misère qui lui est promis. C’est pour ça qu’il inspire les jeunes de toute l’Europe et qu’il est suivi dans le monde entier.
-
-Cette révolte rappelle la force qui existe pour arracher nos revendications, affronter l’autoritarisme du gouvernement et de l’extrême-droite, mais aussi pour changer la société. Pour ça, il faut une stratégie à la hauteur, pas un simple débouché électoral à la colère une fois qu’elle aura quitté la rue.
-
-Avec Révolution Permanente, nous luttons pour que la jeunesse s’organise, pour étendre la révolte lycéenne à toute la nouvelle classe ouvrière, pour construire une grève générale politique. C’est la clé pour dégager Macron, Nuñez et Lecornu, affronter le grand patronat et renverser ce système. 
-
-C’est pour ça que dans la présidentielle nous voulons faire entendre autre chose que des promesses impuissantes de changer les choses une fois au pouvoir : tirer le bilan des luttes de la jeunesse et de la nouvelle classe ouvrière, défendre un programme et une stratégie qui leur permette de vaincre, reconstruire une organisation communiste, anti-impérialiste et révolutionnaire, implantée dans les lieux de travail et d’études.
-
-Rendez-vous le 21 novembre à 18h à Paris à l’espace Charenton pour un grand meeting révolutionnaire autour de la candidature d’Anasse Kazib. Un événement pour discuter de la lutte en cours, des outils pour la renforcer et avancer dans la construction d’un pouvoir indépendant des travailleurs et de la jeunesse, mais aussi des objectifs d’une campagne ouvrière, communiste et révolutionnaire dans ce contexte.
-
-Avec des lycéens, des étudiants et des travailleurs en lutte.
-
-Abonnez-vous à notre chaîne YouTube !
-➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
-
-★ Retrouvez-nous sur les réseaux sociaux :
-▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
-▸Twitter ▸ https://twitter.com/@RevPermanente
-▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
-▸Telegram ▸ https://t.me/revolution_permanente
-▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
-      <channelTitle>Révolution Permanente</channelTitle>
-      <videoId>qAjepismht0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qAjepismht0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
     <item>
       <title>Sarah Knafo fait le procès de Jean-Luc Mélenchon</title>
       <link>https://www.youtube.com/watch?v=DTUrRRgFq0A</link>
@@ -483,6 +445,17 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>17zZk-HOLSo</videoId>
       <enclosure url="https://i.ytimg.com/vi/17zZk-HOLSo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nous avons tout un monde à inventer ! – Discours de Mathilde Panot au meeting de Créteil</title>
+      <link>https://www.youtube.com/watch?v=Daeb9a5TKbE</link>
+      <guid>https://www.youtube.com/watch?v=Daeb9a5TKbE</guid>
+      <pubDate>2026-11-18T17:21:29+00:00</pubDate>
+      <author>Mathilde Panot</author>
+      <description>Revivez le discours de Mathilde Panot au meeting de Créteil, le 16 novembre 2026.</description>
+      <channelTitle>Mathilde Panot</channelTitle>
+      <videoId>Daeb9a5TKbE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Daeb9a5TKbE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
