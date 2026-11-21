@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 21 Nov 2026 17:15:48 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:30:57 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Eric Zemmour : Grand meeting de lancement de campagne !</title>
@@ -107,6 +107,19 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>h1xc_mqzA8s</videoId>
       <enclosure url="https://i.ytimg.com/vi/h1xc_mqzA8s/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La surenchère repressive, attentatoire aux droits fondamentaux et inutile de la droite !</title>
+      <link>https://www.youtube.com/watch?v=GVn-q386rAw</link>
+      <guid>https://www.youtube.com/watch?v=GVn-q386rAw</guid>
+      <pubDate>2026-11-20T10:24:43+00:00</pubDate>
+      <author>Gabrielle Cathala</author>
+      <description>La droite et l’extrême droite préfèrent toujours la surenchère repressive, attentatoire aux droits fondamentaux et inutile.
+
+En 2027, nous assurerons le respect de la Convention internationale des droits de l’Enfant et des principes de la Justice des mineurs.</description>
+      <channelTitle>Gabrielle Cathala</channelTitle>
+      <videoId>GVn-q386rAw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/GVn-q386rAw/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Les attentes des jeunes sont légitimes ! | Marina Ferrari</title>
@@ -235,6 +248,47 @@ Retrouvez l'intégralité de la conférence sur : https://www.youtube.com/live/1
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>abNC9fWHpyE</videoId>
       <enclosure url="https://i.ytimg.com/vi/abNC9fWHpyE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>« Au revoir » : Fabien Roussel charge Macron et défend sa candidature</title>
+      <link>https://www.youtube.com/watch?v=djfBA35Ih80</link>
+      <guid>https://www.youtube.com/watch?v=djfBA35Ih80</guid>
+      <pubDate>2026-11-19T15:55:45+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Fabien Roussel répond aux questions de BFMTV sur les violences dans les lycées, la mobilisation sociale et les fractures de la société française. Interrogé sur le bilan d’Emmanuel Macron, il lance : « Au revoir, c’est tout ce que j’ai envie de dire. »
+
+Pouvoir d’achat, hausses de salaires, dette publique, réindustrialisation : il expose ses priorités et défend sa candidature à l’élection présidentielle. Il détaille également ses propositions sur la fiscalité des multinationales et la nationalisation de Total.
+
+00:00 Violences dans les lycées, mobilisation sociale et maintien de l’ordre
+09:28 France fracturée, éducation et bilan d’Emmanuel Macron
+15:17 Pouvoir d’achat, salaires, dette et réindustrialisation
+18:59 Présidentielle : Fabien Roussel défend sa candidature et ses soutiens
+25:06 Débat politique, fiscalité et nationalisation de Total
+30:48 Teddy Riner en politique</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>djfBA35Ih80</videoId>
+      <enclosure url="https://i.ytimg.com/vi/djfBA35Ih80/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rénover un million de logements par an | Fabien Roussel au grand oral de la FFB</title>
+      <link>https://www.youtube.com/watch?v=_WfBqE5VS_U</link>
+      <guid>https://www.youtube.com/watch?v=_WfBqE5VS_U</guid>
+      <pubDate>2026-11-19T15:38:06+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Construire entre 400 000 et 500 000 logements et en rénover un million chaque année. C’est l’objectif que défend Fabien Roussel au grand oral de la Fédération française du bâtiment, ce jeudi 19 novembre 2026.
+
+Devant les artisans et les entrepreneurs du bâtiment, il détaille son plan sur cinq ans. Il propose notamment de consacrer 5 milliards d’euros supplémentaires aux collectivités pour rénover les bâtiments publics et 5 milliards aux bailleurs sociaux pour construire et réhabiliter des logements.
+
+Il répond aussi aux questions de deux entrepreneurs sur les difficultés du bâtiment en outre-mer et la flambée du prix des matériaux.
+
+00:00 Relancer le bâtiment et l’emploi
+02:58 Construire davantage et rénover un million de logements par an
+08:00 Comment financer le plan sur cinq ans ?
+10:37 Outre-mer : adapter les normes et faciliter l’accès à la propriété
+14:54 Comment agir face à la flambée du prix des matériaux ?</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>_WfBqE5VS_U</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_WfBqE5VS_U/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>VOICI COMMENT NOUS ALLONS RECONSTRUIRE L'ÉCOLE PUBLIQUE.</title>
@@ -386,54 +440,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Sandrine Rousseau</channelTitle>
       <videoId>wYNM00hgEOg</videoId>
       <enclosure url="https://i.ytimg.com/vi/wYNM00hgEOg/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Notre modèle de sécurité civile doit évoluer | Delphine Lingemann</title>
-      <link>https://www.youtube.com/watch?v=0NvO6P1-uIY</link>
-      <guid>https://www.youtube.com/watch?v=0NvO6P1-uIY</guid>
-      <pubDate>2026-11-18T16:36:12+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Notre modèle de sécurité civile doit évoluer | Delphine Lingemann
-
-Lors des questions au gouvernement du mercredi 18 novembre, notre députée du Puy de Dôme, Delphine Lingemann, a interrogé le ministre de l'Intérieur sur les suites du Beauveau de la sécurité en matière de sécurité civile.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/delphine-lingemann-notre-modele-de-securite-civile-doit-evoluer-video-8578-video
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>0NvO6P1-uIY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/0NvO6P1-uIY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Santé « Le démantèlement annoncée de cette protection sociale »</title>
-      <link>https://www.youtube.com/watch?v=YmzaqLtX8pY</link>
-      <guid>https://www.youtube.com/watch?v=YmzaqLtX8pY</guid>
-      <pubDate>2026-11-18T15:26:32+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Dépassements d'honoraires, hausse des mutuelles : notre sénatrice Anne Souyris interpelle la ministre de la Santé  sur des mesures qui creusent les inégalités d'accès aux soins.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>YmzaqLtX8pY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YmzaqLtX8pY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>«Investir dans l’éducation et la jeunesse n’est pas une dépense c’est préparer l’avenir»</title>
-      <link>https://www.youtube.com/watch?v=7kUkukoPlCY</link>
-      <guid>https://www.youtube.com/watch?v=7kUkukoPlCY</guid>
-      <pubDate>2026-11-18T14:29:19+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>La députée Christine Arrighi interpelle le ministre de l'Éducation sur un  budget qui fragilise l'école et la jeunesse.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>7kUkukoPlCY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7kUkukoPlCY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
