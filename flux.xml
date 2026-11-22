@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 22 Nov 2026 13:01:12 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:16:00 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 EN DIRECT | Marine Le Pen invitée de Franc-Jeu (France 2 / France Inter)</title>
+      <link>https://www.youtube.com/watch?v=xQzC0u4tqNQ</link>
+      <guid>https://www.youtube.com/watch?v=xQzC0u4tqNQ</guid>
+      <pubDate>2026-11-22T13:04:19+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Marine Le Pen est l'invitée de Franc-Jeu, dimanche 22 novembre à 13h20, en direct sur France 2 et France Inter.
+
+Retrouvez l'émission en intégralité et en direct sur sa chaîne.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>xQzC0u4tqNQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/xQzC0u4tqNQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>J'explique le programme de Jean-Luc Mélenchon</title>
       <link>https://www.youtube.com/watch?v=a--IdFisVLI</link>
@@ -478,31 +493,6 @@ Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On 
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>YYyBq9rLKLk</videoId>
       <enclosure url="https://i.ytimg.com/vi/YYyBq9rLKLk/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Je présente le premier volet de mon programme.</title>
-      <link>https://www.youtube.com/watch?v=vrNvyNcIXac</link>
-      <guid>https://www.youtube.com/watch?v=vrNvyNcIXac</guid>
-      <pubDate>2026-11-18T22:56:07+00:00</pubDate>
-      <author>Edouard Philippe</author>
-      <description>🔴 En direct | Je présente le premier volet de mon programme, aux côtés des Voix de la campagne.
-
-Sécurité, justice, comptes publics, école, travail, logement, familles, intelligence artificielle : des propositions précises et chiffrées.
-
----
-Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
-
-→ Twitter : https://x.com/Avec_Edouard
-→ Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
-→ Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
-→ Linkedin : https://www.linkedin.com/company/avecedouard
-→ YouTube : https://www.youtube.com/@AvecEdouard
-→ TikTok : https://www.tiktok.com/@avec_edouard
-→ Telegram : https://t.me/HorizonsOff
-→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
-      <channelTitle>Edouard Philippe</channelTitle>
-      <videoId>vrNvyNcIXac</videoId>
-      <enclosure url="https://i.ytimg.com/vi/vrNvyNcIXac/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
