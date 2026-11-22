@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 22 Nov 2026 14:45:41 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:01:22 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Marine Le Pen invitée de Franc-Jeu en intégralité (France 2 / France Inter)</title>
@@ -127,33 +127,6 @@ Partagez avec #FreeDrHussamAbuSafiya
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>okWBXbSg6t4</videoId>
       <enclosure url="https://i.ytimg.com/vi/okWBXbSg6t4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sarah Knafo fait le procès de Jean-Luc Mélenchon</title>
-      <link>https://www.youtube.com/watch?v=DTUrRRgFq0A</link>
-      <guid>https://www.youtube.com/watch?v=DTUrRRgFq0A</guid>
-      <pubDate>2026-11-21T18:20:31+00:00</pubDate>
-      <author>Sarah Knafo</author>
-      <description>Sarah Knafo, députée française Reconquête au Parlement européen, fait le procès de Jean-Luc Mélenchon au meeting de lancement de campagne d'Eric Zemmour
-
-👍 Likez, 💬 commentez, 📤 partagez la vidéo et 🔔 abonnez-vous en activant la cloche pour ne manquer aucune vidéo !
-
-Pour suivre l’actualité de Sarah Knafo :
-
-Instagram : https://www.instagram.com/sarahknafo1
-X/Twitter : https://x.com/knafo_sarah?s=11
-Facebook : https://www.facebook.com/share/1BDboyows5/?mibextid=wwXIfr
-Linkedln : https://www.linkedin.com/in/sarah-knafo-7a0129b5?utm_source=share_via&amp;amp;utm_content=profile&amp;amp;utm_medium=member_ios
-WhatsApp : ‎https://whatsapp.com/channel/0029VakkwXs60eBd95uc7e2n
-TikTok : https://www.tiktok.com/@sarah_knafo?_r=1&amp;_t=ZN-98M2y5vFPLG
-Telegram : https://t.me/Sarah_Knafo
-
-📖 Commandez mon livre : sarahknafo.fr
-
-🗳️ Adhérez à Reconquête : https://www.parti-reconquete.fr/adhesions</description>
-      <channelTitle>Sarah Knafo</channelTitle>
-      <videoId>DTUrRRgFq0A</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DTUrRRgFq0A/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Eric Zemmour : Grand meeting de lancement de campagne !</title>
@@ -520,6 +493,19 @@ Suivez Ugo Bernalicis sur :
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>fbtkDtC-1CY</videoId>
       <enclosure url="https://i.ytimg.com/vi/fbtkDtC-1CY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La "Lecornusation" de Grégoire, le 17 octobre et Thermo-sur-Seine | Dans les couloirs du Conseil #7</title>
+      <link>https://www.youtube.com/watch?v=YYyBq9rLKLk</link>
+      <guid>https://www.youtube.com/watch?v=YYyBq9rLKLk</guid>
+      <pubDate>2026-11-19T07:44:29+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>🔴 Dans les couloirs du Conseil de Paris
+
+Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On revient ensemble sur la « lecornusation » d’Emmanuel Grégoire, au cœur de notre question d’actualité, et sur les événements des 17 et 18 octobre. On parlera aussi des évacuations de campements et du projet d’incinérateur Thermo-sur-Seine à Vitry.</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>YYyBq9rLKLk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YYyBq9rLKLk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
