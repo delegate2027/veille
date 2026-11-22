@@ -4,8 +4,48 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 22 Nov 2026 14:31:00 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:45:41 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Marine Le Pen invitée de Franc-Jeu en intégralité (France 2 / France Inter)</title>
+      <link>https://www.youtube.com/watch?v=rbz45koL_oc</link>
+      <guid>https://www.youtube.com/watch?v=rbz45koL_oc</guid>
+      <pubDate>2026-11-22T14:39:54+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Marine Le Pen était l'invitée de Franc-Jeu, l'émission politique de Benjamin Duhamel diffusée le dimanche 22 novembre 2026 sur France 2 et France Inter. Retraites, associations subventionnées, Ukraine, date de l'élection présidentielle : la candidate à l'élection présidentielle a répondu à toutes les questions, avant de débattre avec Alexandre Saubot, président de France Industrie.
+
+« Une élection n'est jamais gagnée avant le dernier tour de scrutin. Faisons campagne comme si nous étions à 15 %. »
+
+Au programme :
+• La réforme des retraites : un départ entre 60 et 62 ans et 40 à 42 annuités selon l'âge du premier emploi
+• La retraite des mères de famille et le nouveau pilier de capitalisation, sans cotisation supplémentaire
+• Plus de subventions publiques pour les associations qui font de la politique
+• L'Ukraine : l'aide humanitaire continue, mais la France n'a plus les moyens de l'aide financière
+• Le pouvoir d'achat : la TVA sur l'énergie de 20 % à 5,5 %, face aux industriels
+• La règle d'or budgétaire demandée par Jordan Bardella
+
+00:00 Introduction
+01:03 Les soupçons de fuite et le préfet Hugues Moutouh
+04:20 Racisme et discriminations : « La France est un des pays les moins racistes du monde »
+07:59 Réforme des retraites : « La plus grande avancée sociale depuis les Trente Glorieuses »
+13:41 La retraite des mères et la surcote des pères
+16:11 Le pilier de capitalisation
+18:58 Les subventions aux associations politisées et le Planning familial
+22:35 Ukraine : aide humanitaire oui, aide financière non
+24:35 Laure Lavalette, Jordan Bardella et les accusations de Mediapart
+26:53 David Lisnard
+28:20 Les dates de l'élection présidentielle
+29:14 La règle d'or budgétaire
+30:00 Le débat face à Alexandre Saubot, président de France Industrie
+37:49 « Faisons campagne comme si nous étions à 15 % »
+
+#MarineLePen #FrancJeu #Présidentielle2027</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>rbz45koL_oc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/rbz45koL_oc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 EN DIRECT | Marine Le Pen invitée de Franc-Jeu (France 2 / France Inter)</title>
       <link>https://www.youtube.com/watch?v=xQzC0u4tqNQ</link>
@@ -480,19 +520,6 @@ Suivez Ugo Bernalicis sur :
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>fbtkDtC-1CY</videoId>
       <enclosure url="https://i.ytimg.com/vi/fbtkDtC-1CY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La "Lecornusation" de Grégoire, le 17 octobre et Thermo-sur-Seine | Dans les couloirs du Conseil #7</title>
-      <link>https://www.youtube.com/watch?v=YYyBq9rLKLk</link>
-      <guid>https://www.youtube.com/watch?v=YYyBq9rLKLk</guid>
-      <pubDate>2026-11-19T07:44:29+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>🔴 Dans les couloirs du Conseil de Paris
-
-Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On revient ensemble sur la « lecornusation » d’Emmanuel Grégoire, au cœur de notre question d’actualité, et sur les événements des 17 et 18 octobre. On parlera aussi des évacuations de campements et du projet d’incinérateur Thermo-sur-Seine à Vitry.</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>YYyBq9rLKLk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YYyBq9rLKLk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
