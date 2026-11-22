@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 22 Nov 2026 21:01:06 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:15:43 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Vie chère à La Réunion, 6e République : Clémence Guetté dans Dimanche politique</title>
@@ -141,38 +141,6 @@ Partagez avec #FreeDrHussamAbuSafiya
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>okWBXbSg6t4</videoId>
       <enclosure url="https://i.ytimg.com/vi/okWBXbSg6t4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Éric Zemmour : Grand meeting de lancement de campagne !</title>
-      <link>https://www.youtube.com/watch?v=DvPGcz-3NHY</link>
-      <guid>https://www.youtube.com/watch?v=DvPGcz-3NHY</guid>
-      <pubDate>2026-11-21T17:13:11+00:00</pubDate>
-      <author>Éric Zemmour</author>
-      <description>Regardez aussi le discours de Sarah Knafo : https://youtu.be/DTUrRRgFq0A?is=FWcfWyni7CgE3mSk
-
-Eric Zemmour lance sa campagne à Toulon par un grand meeting.
-
-Likez la vidéo, Abonnez-vous à la chaîne YouTube en cliquant sur le bouton « s'abonner » et sur la cloche grise. Partagez cette vidéo à tous vos proches !
-
-Adhérez à RECONQUÊTE : https://www.parti-reconquete.fr/adhesions 
-
-Faites un don à Reconquête : https://www.ericzemmour.fr/je-donne
-
-Recevez toutes les informations en avant-première : https://www.ericzemmour.fr/jeminforme
-
-Suivez Éric Zemmour : https://www.ericzemmour.fr/
-Restez connecté à Éric Zemmour sur les Réseaux Sociaux:
-Facebook : https://www.facebook.com/ZemmourEric
-Twitter : https://twitter.com/ZemmourEric
-Instagram:  https://www.instagram.com/ericzemmour_
-Telegram : https://t.me/EricZemmourOfficiel
-TikTok : https://www.tiktok.com/@zemmour_eric
-Pinterest : https://www.pinterest.fr/zemmoureric/
-
-#Toulon  #Zemmour #Meeting</description>
-      <channelTitle>Éric Zemmour</channelTitle>
-      <videoId>DvPGcz-3NHY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/DvPGcz-3NHY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Conférence de Jean-Luc Mélenchon à Sciences Po Paris</title>
@@ -507,6 +475,19 @@ Suivez Ugo Bernalicis sur :
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>fbtkDtC-1CY</videoId>
       <enclosure url="https://i.ytimg.com/vi/fbtkDtC-1CY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La "Lecornusation" de Grégoire, le 17 octobre et Thermo-sur-Seine | Dans les couloirs du Conseil #7</title>
+      <link>https://www.youtube.com/watch?v=YYyBq9rLKLk</link>
+      <guid>https://www.youtube.com/watch?v=YYyBq9rLKLk</guid>
+      <pubDate>2026-11-19T07:44:29+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>🔴 Dans les couloirs du Conseil de Paris
+
+Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On revient ensemble sur la « lecornusation » d’Emmanuel Grégoire, au cœur de notre question d’actualité, et sur les événements des 17 et 18 octobre. On parlera aussi des évacuations de campements et du projet d’incinérateur Thermo-sur-Seine à Vitry.</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>YYyBq9rLKLk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YYyBq9rLKLk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
