@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 22 Nov 2026 23:31:06 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 23:45:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Présidentielle 2027 : Face au risque du pire, je retire ma candidature</title>
@@ -72,21 +72,6 @@ Au programme :
       <channelTitle>Marine Le Pen</channelTitle>
       <videoId>rbz45koL_oc</videoId>
       <enclosure url="https://i.ytimg.com/vi/rbz45koL_oc/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 EN DIRECT | Marine Le Pen invitée de Franc-Jeu (France 2 / France Inter)</title>
-      <link>https://www.youtube.com/watch?v=xQzC0u4tqNQ</link>
-      <guid>https://www.youtube.com/watch?v=xQzC0u4tqNQ</guid>
-      <pubDate>2026-11-22T13:04:19+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Marine Le Pen est l'invitée de Franc-Jeu, dimanche 22 novembre à 13h20, en direct sur France 2 et France Inter.
-
-Retrouvez l'émission en intégralité et en direct sur sa chaîne.</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>xQzC0u4tqNQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/xQzC0u4tqNQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>J'explique le programme de Jean-Luc Mélenchon</title>
@@ -488,6 +473,19 @@ Suivez Ugo Bernalicis sur :
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>fbtkDtC-1CY</videoId>
       <enclosure url="https://i.ytimg.com/vi/fbtkDtC-1CY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La "Lecornusation" de Grégoire, le 17 octobre et Thermo-sur-Seine | Dans les couloirs du Conseil #7</title>
+      <link>https://www.youtube.com/watch?v=YYyBq9rLKLk</link>
+      <guid>https://www.youtube.com/watch?v=YYyBq9rLKLk</guid>
+      <pubDate>2026-11-19T07:44:29+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>🔴 Dans les couloirs du Conseil de Paris
+
+Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On revient ensemble sur la « lecornusation » d’Emmanuel Grégoire, au cœur de notre question d’actualité, et sur les événements des 17 et 18 octobre. On parlera aussi des évacuations de campements et du projet d’incinérateur Thermo-sur-Seine à Vitry.</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>YYyBq9rLKLk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YYyBq9rLKLk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
