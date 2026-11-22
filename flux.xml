@@ -4,8 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 22 Nov 2026 10:15:42 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:30:58 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Il faut sauver le docteur palestinien Hussam Abu Safiya !</title>
+      <link>https://www.youtube.com/watch?v=okWBXbSg6t4</link>
+      <guid>https://www.youtube.com/watch?v=okWBXbSg6t4</guid>
+      <pubDate>2026-11-22T09:57:25+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu avec Mathilde Panot pour appeler à la libération du docteur palestinien Hussam Abu Safiya, le 22 novembre 2026.
+
+Agissez dès maintenant : https://www.amnesty.org/fr/petition/release-dr-hussam-abu-safiya/
+
+Partagez avec #FreeDrHussamAbuSafiya
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>okWBXbSg6t4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/okWBXbSg6t4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Sarah Knafo fait le procès de Jean-Luc Mélenchon</title>
       <link>https://www.youtube.com/watch?v=DTUrRRgFq0A</link>
@@ -447,17 +472,6 @@ Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux socia
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>17zZk-HOLSo</videoId>
       <enclosure url="https://i.ytimg.com/vi/17zZk-HOLSo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nous avons tout un monde à inventer ! – Discours de Mathilde Panot au meeting de Créteil</title>
-      <link>https://www.youtube.com/watch?v=Daeb9a5TKbE</link>
-      <guid>https://www.youtube.com/watch?v=Daeb9a5TKbE</guid>
-      <pubDate>2026-11-18T17:21:29+00:00</pubDate>
-      <author>Mathilde Panot</author>
-      <description>Revivez le discours de Mathilde Panot au meeting de Créteil, le 16 novembre 2026.</description>
-      <channelTitle>Mathilde Panot</channelTitle>
-      <videoId>Daeb9a5TKbE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Daeb9a5TKbE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
