@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sun, 22 Nov 2026 22:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 22:15:43 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Présidentielle 2027 : Face au risque du pire, je retire ma candidature</title>
+      <link>https://www.youtube.com/watch?v=I7yZcMRwLAQ</link>
+      <guid>https://www.youtube.com/watch?v=I7yZcMRwLAQ</guid>
+      <pubDate>2026-11-22T21:51:08+00:00</pubDate>
+      <author>FRANÇOIS RUFFIN</author>
+      <description>➡️ Rejoignez la campagne anti-RN sur debout.fr
+
+N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
+      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
+      <videoId>I7yZcMRwLAQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/I7yZcMRwLAQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Vie chère à La Réunion, 6e République : Clémence Guetté dans Dimanche politique</title>
       <link>https://www.youtube.com/watch?v=lrGNfeNN5dA</link>
@@ -475,19 +488,6 @@ Suivez Ugo Bernalicis sur :
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>fbtkDtC-1CY</videoId>
       <enclosure url="https://i.ytimg.com/vi/fbtkDtC-1CY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La "Lecornusation" de Grégoire, le 17 octobre et Thermo-sur-Seine | Dans les couloirs du Conseil #7</title>
-      <link>https://www.youtube.com/watch?v=YYyBq9rLKLk</link>
-      <guid>https://www.youtube.com/watch?v=YYyBq9rLKLk</guid>
-      <pubDate>2026-11-19T07:44:29+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>🔴 Dans les couloirs du Conseil de Paris
-
-Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On revient ensemble sur la « lecornusation » d’Emmanuel Grégoire, au cœur de notre question d’actualité, et sur les événements des 17 et 18 octobre. On parlera aussi des évacuations de campements et du projet d’incinérateur Thermo-sur-Seine à Vitry.</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>YYyBq9rLKLk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YYyBq9rLKLk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
