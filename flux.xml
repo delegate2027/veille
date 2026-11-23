@@ -4,8 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 23 Nov 2026 12:31:01 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:45:42 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Meeting de Jean-Luc Mélenchon au Havre</title>
+      <link>https://www.youtube.com/watch?v=G_SLHQgnbGk</link>
+      <guid>https://www.youtube.com/watch?v=G_SLHQgnbGk</guid>
+      <pubDate>2026-11-23T12:33:40+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Le samedi 5 décembre, rendez-vous à 15h30 pour suivre en direct le meeting de Jean-Luc Mélenchon au Havre !
+
+Retrouvez la version accessible aux personnes sourdes et malentendantes (vélotypie et LSF) ici : https://youtube.com/live/vwgMDAt4gzU
+
+Retrouvez toutes les informations sur : https://actionpopulaire.fr/evenements/4bee6511-ca5c-4b6f-91e4-106df23fcb51/
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>G_SLHQgnbGk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/G_SLHQgnbGk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🇫🇷 LIBERTÉS CHÉRIES : Intro</title>
       <link>https://www.youtube.com/watch?v=RoxPMqIRdxQ</link>
@@ -455,26 +480,6 @@ Retrouvez l'intégralité de la conférence sur : https://www.youtube.com/live/1
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>abNC9fWHpyE</videoId>
       <enclosure url="https://i.ytimg.com/vi/abNC9fWHpyE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Au revoir » : Fabien Roussel charge Macron et défend sa candidature</title>
-      <link>https://www.youtube.com/watch?v=djfBA35Ih80</link>
-      <guid>https://www.youtube.com/watch?v=djfBA35Ih80</guid>
-      <pubDate>2026-11-19T15:55:45+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Fabien Roussel répond aux questions de BFMTV sur les violences dans les lycées, la mobilisation sociale et les fractures de la société française. Interrogé sur le bilan d’Emmanuel Macron, il lance : « Au revoir, c’est tout ce que j’ai envie de dire. »
-
-Pouvoir d’achat, hausses de salaires, dette publique, réindustrialisation : il expose ses priorités et défend sa candidature à l’élection présidentielle. Il détaille également ses propositions sur la fiscalité des multinationales et la nationalisation de Total.
-
-00:00 Violences dans les lycées, mobilisation sociale et maintien de l’ordre
-09:28 France fracturée, éducation et bilan d’Emmanuel Macron
-15:17 Pouvoir d’achat, salaires, dette et réindustrialisation
-18:59 Présidentielle : Fabien Roussel défend sa candidature et ses soutiens
-25:06 Débat politique, fiscalité et nationalisation de Total
-30:48 Teddy Riner en politique</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>djfBA35Ih80</videoId>
-      <enclosure url="https://i.ytimg.com/vi/djfBA35Ih80/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
