@@ -4,8 +4,31 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 23 Nov 2026 08:45:46 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:01:10 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Dette : Emmanuel Macron ose donner des leçons de rigueur après avoir ruiné les finances de la France</title>
+      <link>https://www.youtube.com/watch?v=N8SexrrjtwQ</link>
+      <guid>https://www.youtube.com/watch?v=N8SexrrjtwQ</guid>
+      <pubDate>2026-11-23T08:56:05+00:00</pubDate>
+      <author>François-Xavier Bellamy</author>
+      <description>Ce matin sur CNews et Europe 1, François-Xavier Bellamy est revenu sur trois sujets majeurs de l'actualité :
+
+🔴 **La dette publique** : face à l'explosion de la dette et des intérêts, il dénonce le bilan budgétaire d'Emmanuel Macron, qui propose aujourd'hui une règle d'or après dix ans au pouvoir.
+
+🔴 **Les blocages des lycées** : face aux violences et aux perturbations qui touchent les établissements scolaires, il appelle à rétablir l'autorité, à protéger la liberté d'étudier et à mettre fin à l'impunité.
+
+🔴 **La primaire de la droite** : il défend l'organisation d'une primaire pour permettre aux électeurs de choisir leur candidat à l'élection présidentielle de 2027 et éviter la dispersion des voix au premier tour, qui pourrait ouvrir la voie à Jean-Luc Mélenchon.
+
+Retrouvez l'intégralité de son intervention.
+
+🔔 Abonnez-vous pour suivre les prises de parole de François-Xavier Bellamy.
+
+#Bellamy #CNews #Europe1 #Macron #Primaire #Education #Dette</description>
+      <channelTitle>François-Xavier Bellamy</channelTitle>
+      <videoId>N8SexrrjtwQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/N8SexrrjtwQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LYCÉES, SÛRETÉ, LOGEMENT : NOTRE RÉUNION PUBLIQUE À VITRY-EN-ARTOIS !</title>
       <link>https://www.youtube.com/watch?v=R0bzJ8K43OM</link>
@@ -443,34 +466,6 @@ Seule face à beaucoup de nuances de droite !</description>
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>WIO1S0qAevE</videoId>
       <enclosure url="https://i.ytimg.com/vi/WIO1S0qAevE/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>10 ans bientôt ! Ugo Bernalicis présente son bilan de mandat 2026</title>
-      <link>https://www.youtube.com/watch?v=fbtkDtC-1CY</link>
-      <guid>https://www.youtube.com/watch?v=fbtkDtC-1CY</guid>
-      <pubDate>2026-11-19T08:56:11+00:00</pubDate>
-      <author>Ugo Bernalicis</author>
-      <description>Retrouvez le replay de mon bilan de mandat 2026 ! 
-
-Avec : 
-- Nadège Abomangoli (députée, vice-présidente de l'Assemblée nationale) 
-- Antoine Marszalek (conseiller municipal de Villeneuve d'Ascq) 
-- Marie Boucknooghe (députée suppléante) 
-- Estelle Montreuil (conseillère municipale de Ronchin)
-- Aymeric Salmon (conseiller municipal de Mons-en-Baroeul) 
-- Khadija Gorwa-Ghomari (conseillère municipale Hellemmes-Lille)
-
-Suivez Ugo Bernalicis sur :
-👉 Facebook : https://www.facebook.com/ugobernalicis
-👉 Twitter : https://twitter.com/Ugobernalicis
-👉 Instagram : https://www.instagram.com/ugo_bernalicis/
-👉 YouTube : https://youtube.com/c/UgoBernalicisofficiel
-👉 Twitch : https://www.twitch.tv/deputwitch/
-👉 Telegram : https://t.me/ub_actu
-👉 Son blog : https://www.ugobernalicis.fr</description>
-      <channelTitle>Ugo Bernalicis</channelTitle>
-      <videoId>fbtkDtC-1CY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/fbtkDtC-1CY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
