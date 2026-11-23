@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 23 Nov 2026 09:01:10 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:15:58 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>PHILIPPE BALLARD est l'invité de TF1 !</title>
+      <link>https://www.youtube.com/watch?v=WcwiPyUaJec</link>
+      <guid>https://www.youtube.com/watch?v=WcwiPyUaJec</guid>
+      <pubDate>2026-11-23T09:09:08+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>WcwiPyUaJec</videoId>
+      <enclosure url="https://i.ytimg.com/vi/WcwiPyUaJec/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Dette : Emmanuel Macron ose donner des leçons de rigueur après avoir ruiné les finances de la France</title>
       <link>https://www.youtube.com/watch?v=N8SexrrjtwQ</link>
@@ -453,19 +466,6 @@ Youtube : https://www.youtube.com/@Boris_Vallaud</description>
       <channelTitle>BorisVallaud</channelTitle>
       <videoId>cTGv8tP_29A</videoId>
       <enclosure url="https://i.ytimg.com/vi/cTGv8tP_29A/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manon Aubry face à un plateau très à droite sur BFM TV !</title>
-      <link>https://www.youtube.com/watch?v=WIO1S0qAevE</link>
-      <guid>https://www.youtube.com/watch?v=WIO1S0qAevE</guid>
-      <pubDate>2026-11-19T12:16:01+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>J'étais sur BFM TV le 18 novembre 2026 face à un plateau en quasi non-mixité masculine ! 😉
-
-Seule face à beaucoup de nuances de droite !</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>WIO1S0qAevE</videoId>
-      <enclosure url="https://i.ytimg.com/vi/WIO1S0qAevE/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
