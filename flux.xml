@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 23 Nov 2026 08:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 08:15:40 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>LYCÉES, SÛRETÉ, LOGEMENT : NOTRE RÉUNION PUBLIQUE À VITRY-EN-ARTOIS !</title>
+      <link>https://www.youtube.com/watch?v=R0bzJ8K43OM</link>
+      <guid>https://www.youtube.com/watch?v=R0bzJ8K43OM</guid>
+      <pubDate>2026-11-23T08:07:35+00:00</pubDate>
+      <author>Ugo Bernalicis</author>
+      <description>Retrouvez l’intégralité de notre intervention avec ma camarade Élodie Cloez lors de la réunion publique à Vitry-en-Artois, autour des lycées, de la sûreté et du logement !</description>
+      <channelTitle>Ugo Bernalicis</channelTitle>
+      <videoId>R0bzJ8K43OM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/R0bzJ8K43OM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Sarah Knafo sur RTL : Je demande à M. Lecornu le coût des aides sociales aux étrangers !</title>
       <link>https://www.youtube.com/watch?v=UaiZRoBl4Ao</link>
@@ -460,19 +471,6 @@ Suivez Ugo Bernalicis sur :
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>fbtkDtC-1CY</videoId>
       <enclosure url="https://i.ytimg.com/vi/fbtkDtC-1CY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La "Lecornusation" de Grégoire, le 17 octobre et Thermo-sur-Seine | Dans les couloirs du Conseil #7</title>
-      <link>https://www.youtube.com/watch?v=YYyBq9rLKLk</link>
-      <guid>https://www.youtube.com/watch?v=YYyBq9rLKLk</guid>
-      <pubDate>2026-11-19T07:44:29+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>🔴 Dans les couloirs du Conseil de Paris
-
-Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On revient ensemble sur la « lecornusation » d’Emmanuel Grégoire, au cœur de notre question d’actualité, et sur les événements des 17 et 18 octobre. On parlera aussi des évacuations de campements et du projet d’incinérateur Thermo-sur-Seine à Vitry.</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>YYyBq9rLKLk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YYyBq9rLKLk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
