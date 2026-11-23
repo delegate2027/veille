@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 23 Nov 2026 00:16:01 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:30:55 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Présidentielle 2027 : Face au risque du pire, je retire ma candidature</title>
@@ -32,46 +32,6 @@ L'occasion de présenter nos propositions pour répondre à l'urgence sociale à
       <channelTitle>Clémence Guetté</channelTitle>
       <videoId>lrGNfeNN5dA</videoId>
       <enclosure url="https://i.ytimg.com/vi/lrGNfeNN5dA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Marine Le Pen invitée de Franc-Jeu en intégralité (France 2 / France Inter)</title>
-      <link>https://www.youtube.com/watch?v=rbz45koL_oc</link>
-      <guid>https://www.youtube.com/watch?v=rbz45koL_oc</guid>
-      <pubDate>2026-11-22T14:39:54+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Marine Le Pen était l'invitée de Franc-Jeu, l'émission politique de Benjamin Duhamel diffusée le dimanche 22 novembre 2026 sur France 2 et France Inter. Retraites, associations subventionnées, Ukraine, date de l'élection présidentielle : la candidate à l'élection présidentielle a répondu à toutes les questions, avant de débattre avec Alexandre Saubot, président de France Industrie.
-
-« Une élection n'est jamais gagnée avant le dernier tour de scrutin. Faisons campagne comme si nous étions à 15 %. »
-
-Au programme :
-• La réforme des retraites : un départ entre 60 et 62 ans et 40 à 42 annuités selon l'âge du premier emploi
-• La retraite des mères de famille et le nouveau pilier de capitalisation, sans cotisation supplémentaire
-• Plus de subventions publiques pour les associations qui font de la politique
-• L'Ukraine : l'aide humanitaire continue, mais la France n'a plus les moyens de l'aide financière
-• Le pouvoir d'achat : la TVA sur l'énergie de 20 % à 5,5 %, face aux industriels
-• La règle d'or budgétaire demandée par Jordan Bardella
-
-00:00 Introduction
-01:03 Les soupçons de fuite et le préfet Hugues Moutouh
-04:20 Racisme et discriminations : « La France est un des pays les moins racistes du monde »
-07:59 Réforme des retraites : « La plus grande avancée sociale depuis les Trente Glorieuses »
-13:41 La retraite des mères et la surcote des pères
-16:11 Le pilier de capitalisation
-18:58 Les subventions aux associations politisées et le Planning familial
-22:35 Ukraine : aide humanitaire oui, aide financière non
-24:35 Laure Lavalette, Jordan Bardella et les accusations de Mediapart
-26:53 David Lisnard
-28:20 Les dates de l'élection présidentielle
-29:14 La règle d'or budgétaire
-30:00 Le débat face à Alexandre Saubot, président de France Industrie
-37:49 « Faisons campagne comme si nous étions à 15 % »
-
-#MarineLePen #FrancJeu #Présidentielle2027</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>rbz45koL_oc</videoId>
-      <enclosure url="https://i.ytimg.com/vi/rbz45koL_oc/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>J'explique le programme de Jean-Luc Mélenchon</title>
@@ -486,6 +446,31 @@ Débrief à chaud après la séance du Conseil de Paris du 18 novembre 2026. On 
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>YYyBq9rLKLk</videoId>
       <enclosure url="https://i.ytimg.com/vi/YYyBq9rLKLk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Je présente le premier volet de mon programme.</title>
+      <link>https://www.youtube.com/watch?v=vrNvyNcIXac</link>
+      <guid>https://www.youtube.com/watch?v=vrNvyNcIXac</guid>
+      <pubDate>2026-11-18T22:56:07+00:00</pubDate>
+      <author>Edouard Philippe</author>
+      <description>🔴 En direct | Je présente le premier volet de mon programme, aux côtés des Voix de la campagne.
+
+Sécurité, justice, comptes publics, école, travail, logement, familles, intelligence artificielle : des propositions précises et chiffrées.
+
+---
+Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
+
+→ Twitter : https://x.com/Avec_Edouard
+→ Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
+→ Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
+→ Linkedin : https://www.linkedin.com/company/avecedouard
+→ YouTube : https://www.youtube.com/@AvecEdouard
+→ TikTok : https://www.tiktok.com/@avec_edouard
+→ Telegram : https://t.me/HorizonsOff
+→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
+      <channelTitle>Edouard Philippe</channelTitle>
+      <videoId>vrNvyNcIXac</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vrNvyNcIXac/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
