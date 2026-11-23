@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 23 Nov 2026 15:31:05 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:45:43 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Présentation de nos mesures pour défendre et étendre l'État de droit</title>
+      <link>https://www.youtube.com/watch?v=CKyZzbYGDaM</link>
+      <guid>https://www.youtube.com/watch?v=CKyZzbYGDaM</guid>
+      <pubDate>2026-11-23T15:32:23+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Avec :
+Marine Tondelier, Secrétaire Nationale des Écologistes
+Léa Balage El Mariky, Députée de Paris, porte-parole du groupe Écologiste et Social et porte-parole de la campagne de Marine Tondelier
+Félix Blanc, Militant Écologiste
+Mohamed Jaite, Président de la section parisienne du Syndicat des Avocats de France</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>CKyZzbYGDaM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/CKyZzbYGDaM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Le Grand Oral de Gabriel Attal sur le logement</title>
       <link>https://www.youtube.com/watch?v=TTf8rDTBF_E</link>
@@ -476,19 +491,6 @@ Il appelle à donner la parole aux électeurs pour choisir un candidat capable d
       <channelTitle>Emmanuel Macron</channelTitle>
       <videoId>TPORMSsByP4</videoId>
       <enclosure url="https://i.ytimg.com/vi/TPORMSsByP4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Propos inacceptables du maire du 13e, Hind Rajab, services publics | Dans les couloirs du Conseil #8</title>
-      <link>https://www.youtube.com/watch?v=J_WZtMZSNl0</link>
-      <guid>https://www.youtube.com/watch?v=J_WZtMZSNl0</guid>
-      <pubDate>2026-11-20T07:19:52+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>🔴 Dans les couloirs du Conseil de Paris
-
-Débrief à chaud après la séance du Conseil de Paris du 19 novembre 2026. On revient ensemble sur les propos inacceptables du maire du 13e arrondissement concernant l’intimité des enfants en maternelle. On parlera aussi de la dénomination en hommage à Hind Rajab et de la Palestine, avant de revenir sur le Liban, l’Ukraine et la citoyenneté d’honneur aux femmes afghanes. Également au programme : les services publics, la Fondation Œuvre de la Croix Saint-Simon et le sport.</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>J_WZtMZSNl0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/J_WZtMZSNl0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
