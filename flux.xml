@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 23 Nov 2026 19:01:12 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:15:58 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Portrait de Bally Bagayoko dans le New York Times</title>
+      <link>https://www.youtube.com/watch?v=jWESu18JgyY</link>
+      <guid>https://www.youtube.com/watch?v=jWESu18JgyY</guid>
+      <pubDate>2026-11-23T19:11:33+00:00</pubDate>
+      <author>Bally BAGAYOKO</author>
+      <description>Portrait du dimanche 22 novembre 2026 par le New York Times.</description>
+      <channelTitle>Bally BAGAYOKO</channelTitle>
+      <videoId>jWESu18JgyY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/jWESu18JgyY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Présentation de nos mesures pour défendre et étendre l'État de droit</title>
       <link>https://www.youtube.com/watch?v=CKyZzbYGDaM</link>
@@ -478,19 +489,6 @@ Il appelle à donner la parole aux électeurs pour choisir un candidat capable d
       <channelTitle>Emmanuel Macron</channelTitle>
       <videoId>TPORMSsByP4</videoId>
       <enclosure url="https://i.ytimg.com/vi/TPORMSsByP4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Propos inacceptables du maire du 13e, Hind Rajab, services publics | Dans les couloirs du Conseil #8</title>
-      <link>https://www.youtube.com/watch?v=J_WZtMZSNl0</link>
-      <guid>https://www.youtube.com/watch?v=J_WZtMZSNl0</guid>
-      <pubDate>2026-11-20T07:19:52+00:00</pubDate>
-      <author>SOPHIA CHIKIROU</author>
-      <description>🔴 Dans les couloirs du Conseil de Paris
-
-Débrief à chaud après la séance du Conseil de Paris du 19 novembre 2026. On revient ensemble sur les propos inacceptables du maire du 13e arrondissement concernant l’intimité des enfants en maternelle. On parlera aussi de la dénomination en hommage à Hind Rajab et de la Palestine, avant de revenir sur le Liban, l’Ukraine et la citoyenneté d’honneur aux femmes afghanes. Également au programme : les services publics, la Fondation Œuvre de la Croix Saint-Simon et le sport.</description>
-      <channelTitle>SOPHIA CHIKIROU</channelTitle>
-      <videoId>J_WZtMZSNl0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/J_WZtMZSNl0/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
