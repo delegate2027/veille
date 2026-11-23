@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 23 Nov 2026 11:15:51 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:31:01 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>David Lisnard invité de "Bonjour chez vous !" sur Public Sénat !</title>
+      <link>https://www.youtube.com/watch?v=Lq6hl0nBjK4</link>
+      <guid>https://www.youtube.com/watch?v=Lq6hl0nBjK4</guid>
+      <pubDate>2026-11-23T11:03:01+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>David Lisnard était l'invité ce matin sur Public Sénat dans Bonjour Chez vous afin de répondre aux différentes questions sur son programme et sur la présidence de l’Association des maires de France. 
+
+Suivez moi sur mes réseaux : 
+
+Instagram : https://www.instagram.com/davidlisnard/
+X : https://x.com/davidlisnard
+Facebook : https://www.facebook.com/lisnard.david
+Tik Tok : https://www.tiktok.com/@david.lisnard
+LinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/
+
+Adhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>Lq6hl0nBjK4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Lq6hl0nBjK4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SÉBASTIEN CHENU : « Marine Le Pen est une candidate parfaitement républicaine ! » (LCI)</title>
       <link>https://www.youtube.com/watch?v=6bB4cwSd-28</link>
@@ -448,25 +469,6 @@ Il répond aussi aux questions de deux entrepreneurs sur les difficultés du bâ
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>_WfBqE5VS_U</videoId>
       <enclosure url="https://i.ytimg.com/vi/_WfBqE5VS_U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>VOICI COMMENT NOUS ALLONS RECONSTRUIRE L'ÉCOLE PUBLIQUE.</title>
-      <link>https://www.youtube.com/watch?v=Qmf_uQ9y4mU</link>
-      <guid>https://www.youtube.com/watch?v=Qmf_uQ9y4mU</guid>
-      <pubDate>2026-11-19T15:19:30+00:00</pubDate>
-      <author>Paul Vannier</author>
-      <description>Au Grand Oral de l’égalité des chances, Paul Vannier a présenté le programme de Jean-Luc Mélenchon pour reconstruire l’École publique, l’Ecole de l’égalité et de l’émancipation.
-
-📲 RETROUVEZ PAUL VANNIER SUR :
-
-🔗 Telegram : https://t.me/paulvannier
-🔗 Facebook : https://bit.ly/3PD1FZ1
-🔗 Twitter : https://twitter.com/PaulVannierFI
-🔗 Instagram : https://www.instagram.com/paulvannier_/
-🔗 Snapchat : https://www.snapchat.com/add/paul.vannier</description>
-      <channelTitle>Paul Vannier</channelTitle>
-      <videoId>Qmf_uQ9y4mU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Qmf_uQ9y4mU/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
