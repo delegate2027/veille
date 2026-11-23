@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 23 Nov 2026 15:01:49 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:15:42 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Le Grand Oral de Gabriel Attal sur le logement</title>
@@ -395,6 +395,27 @@ Ce modèle doit changer. Les pharmaciens doivent être reconnus comme des docteu
       <enclosure url="https://i.ytimg.com/vi/PXR_Lc_X6oQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>🏛️ Politique migratoire : avec MELENCHON, en 2027, la France sera un exemple en EUROPE</title>
+      <link>https://www.youtube.com/watch?v=h1xc_mqzA8s</link>
+      <guid>https://www.youtube.com/watch?v=h1xc_mqzA8s</guid>
+      <pubDate>2026-11-20T11:07:30+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Intervention de Danièle Obono, mercredi 18 novembre 2026, lors de la discussion générale en commission des Affaires européennes sur le rapport d'information concernant la mise en application du pacte asile et migration
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram : https://www.instagram.com/danieleobono
+➡️ Facebook : https://www.facebook.com/DanieleObono
+➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok : https://www.tiktok.com/@danieleobono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>h1xc_mqzA8s</videoId>
+      <enclosure url="https://i.ytimg.com/vi/h1xc_mqzA8s/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>La surenchère repressive, attentatoire aux droits fondamentaux et inutile de la droite !</title>
       <link>https://www.youtube.com/watch?v=GVn-q386rAw</link>
       <guid>https://www.youtube.com/watch?v=GVn-q386rAw</guid>
@@ -468,23 +489,6 @@ Débrief à chaud après la séance du Conseil de Paris du 19 novembre 2026. On 
       <channelTitle>SOPHIA CHIKIROU</channelTitle>
       <videoId>J_WZtMZSNl0</videoId>
       <enclosure url="https://i.ytimg.com/vi/J_WZtMZSNl0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Pour L’Heure de vérité, je réponds à Caroline Roux et son équipe.</title>
-      <link>https://www.youtube.com/watch?v=pRH3R3mfP8o</link>
-      <guid>https://www.youtube.com/watch?v=pRH3R3mfP8o</guid>
-      <pubDate>2026-11-19T21:36:56+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Ce soir à 20h40, je suis l’invité de L’Heure de vérité sur France 2.
-
-Face à Caroline Roux, je réponds aux questions de Maryse Burgot, Neila Latrous, Benjamin Duhamel, Thomas Porcher ainsi qu’Eugénie Bastié.
-
-Pouvoir d’achat, mobilisation des lycéens et des étudiants, avenir de la jeunesse, primaire : je vous présente ma vision et mon projet pour la France.
-
-Vous aussi rejoignez la dynamique sur attalpresident.fr</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>pRH3R3mfP8o</videoId>
-      <enclosure url="https://i.ytimg.com/vi/pRH3R3mfP8o/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
