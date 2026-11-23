@@ -4,8 +4,35 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Mon, 23 Nov 2026 12:15:44 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:31:01 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🇫🇷 LIBERTÉS CHÉRIES : Intro</title>
+      <link>https://www.youtube.com/watch?v=RoxPMqIRdxQ</link>
+      <guid>https://www.youtube.com/watch?v=RoxPMqIRdxQ</guid>
+      <pubDate>2026-11-23T12:12:33+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>Une génération se lève avec puissance et avec joie, aspirant à un monde différent. À cet espoir, le Gouvernement répond par la répression et renforce un appareil sécuritaire qui pourrait demain être entre les mains d’un Gouvernement autoritaire.
+
+La protection des libertés publiques sera déterminante dans l'élection qui arrive. Nous, Socialistes, portons une ambition pour l'État de droit, pour une vraie refondation démocratique dans notre pays, pour protéger l'indépendance des médias, pour protéger la liberté de manifester. Nous portons un vrai projet de liberté, pour que la liberté soit égale pour toutes et tous, qu’elle soit partagée, et qu’elle ne soit plus un privilège réservé à quelques-uns.
+
+Cette semaine, découvre notre série « Libertés chéries ». Nous y revenons sur les dangereuses dérives de 10 années de macronisme, et sur les combats que nous devons continuer de mener pour préserver les libertés publiques qui font l’essence de la République.
+
+--
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste 
+➡️  https://www.facebook.com/partisocialiste 
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>RoxPMqIRdxQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/RoxPMqIRdxQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>David Lisnard invité de "Bonjour chez vous !" sur Public Sénat !</title>
       <link>https://www.youtube.com/watch?v=Lq6hl0nBjK4</link>
@@ -448,27 +475,6 @@ Pouvoir d’achat, hausses de salaires, dette publique, réindustrialisation : i
       <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
       <videoId>djfBA35Ih80</videoId>
       <enclosure url="https://i.ytimg.com/vi/djfBA35Ih80/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rénover un million de logements par an | Fabien Roussel au grand oral de la FFB</title>
-      <link>https://www.youtube.com/watch?v=_WfBqE5VS_U</link>
-      <guid>https://www.youtube.com/watch?v=_WfBqE5VS_U</guid>
-      <pubDate>2026-11-19T15:38:06+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Construire entre 400 000 et 500 000 logements et en rénover un million chaque année. C’est l’objectif que défend Fabien Roussel au grand oral de la Fédération française du bâtiment, ce jeudi 19 novembre 2026.
-
-Devant les artisans et les entrepreneurs du bâtiment, il détaille son plan sur cinq ans. Il propose notamment de consacrer 5 milliards d’euros supplémentaires aux collectivités pour rénover les bâtiments publics et 5 milliards aux bailleurs sociaux pour construire et réhabiliter des logements.
-
-Il répond aussi aux questions de deux entrepreneurs sur les difficultés du bâtiment en outre-mer et la flambée du prix des matériaux.
-
-00:00 Relancer le bâtiment et l’emploi
-02:58 Construire davantage et rénover un million de logements par an
-08:00 Comment financer le plan sur cinq ans ?
-10:37 Outre-mer : adapter les normes et faciliter l’accès à la propriété
-14:54 Comment agir face à la flambée du prix des matériaux ?</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>_WfBqE5VS_U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/_WfBqE5VS_U/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
