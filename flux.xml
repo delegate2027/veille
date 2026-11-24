@@ -4,8 +4,45 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 24 Nov 2026 15:31:13 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:46:03 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Protéger les communes, c'est défendre les murs porteurs de la Nation ! | Marine Le Pen aux maires</title>
+      <link>https://www.youtube.com/watch?v=Wosz7lNirIE</link>
+      <guid>https://www.youtube.com/watch?v=Wosz7lNirIE</guid>
+      <pubDate>2026-11-24T15:38:58+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Revivez le discours de Marine Le Pen devant les maires de France, réunis à l'occasion du congrès de l'AMF.
+
+« Protéger les communes, c'est défendre les murs porteurs de la Nation. »
+
+Au programme :
+• La commune, socle de la démocratie : non aux fusions imposées
+• Une intercommunalité volontaire, au service des communes
+• La fin de l'inflation normative et un appui en ingénierie pour les petites communes
+• Le bilan de la décentralisation et la fin du millefeuille territorial
+• La démétropolisation : une politique des campagnes
+• Des dotations garanties et des maires protégés contre les violences
+
+00:00 La commune, âme de la France
+01:48 Les parrainages des maires
+04:03 Une intercommunalité volontaire
+04:54 Reconnaître l'autorité des maires
+06:28 Le bilan de la décentralisation
+09:06 Rendre aux maires la liberté d'adhérer aux intercommunalités
+10:27 La démétropolisation
+12:06 Les banlieues
+13:38 Les finances des communes : FCTVA et dotations
+14:37 Protéger les maires contre les violences
+15:16 La commune, institution d'avenir
+
+Vive les maires de France, vive la République, vive la France ! 🇫🇷</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>Wosz7lNirIE</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Wosz7lNirIE/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 Préfet Moutouh, Laurent Nuñez : même combat ?</title>
       <link>https://www.youtube.com/watch?v=a-mqPLcMVH8</link>
@@ -594,29 +631,6 @@ Partagez avec #FreeDrHussamAbuSafiya
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>okWBXbSg6t4</videoId>
       <enclosure url="https://i.ytimg.com/vi/okWBXbSg6t4/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de Jean-Luc Mélenchon à Sciences Po Paris</title>
-      <link>https://www.youtube.com/watch?v=BWGz0_CCoe8</link>
-      <guid>https://www.youtube.com/watch?v=BWGz0_CCoe8</guid>
-      <pubDate>2026-11-20T20:35:51+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'une conférence à Sciences Po Paris, le 20 novembre 2026.
-
-La qualité de la captation est due à Sciences Po Paris qui a interdit à nos équipes de filmer avec leurs équipements.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>BWGz0_CCoe8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/BWGz0_CCoe8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
