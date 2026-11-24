@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 24 Nov 2026 14:31:11 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:45:49 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>LOUIS ALIOT est l'invité de LCI !</title>
+      <link>https://www.youtube.com/watch?v=Qz5Lg9Fo90I</link>
+      <guid>https://www.youtube.com/watch?v=Qz5Lg9Fo90I</guid>
+      <pubDate>2026-11-24T14:30:41+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>Qz5Lg9Fo90I</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Qz5Lg9Fo90I/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La France insoumise poursuit sa dynamique</title>
       <link>https://www.youtube.com/watch?v=_kpo-ny_wCI</link>
@@ -593,21 +606,6 @@ Chez Pol sur Libération le 19 novembre 2026</description>
       <channelTitle>Manon Aubry</channelTitle>
       <videoId>x_SWZofIx3Y</videoId>
       <enclosure url="https://i.ytimg.com/vi/x_SWZofIx3Y/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les docteurs en pharmacie sont des DOCTEURS, et trop souvent, on l’oublie</title>
-      <link>https://www.youtube.com/watch?v=PXR_Lc_X6oQ</link>
-      <guid>https://www.youtube.com/watch?v=PXR_Lc_X6oQ</guid>
-      <pubDate>2026-11-20T15:08:03+00:00</pubDate>
-      <author>DAMIEN MAUDET</author>
-      <description>Les conseils, les actes réalisés, la recherche de solutions pour trouver les bons médicaments en période de pénurie… Tout cela n’est presque jamais pris en compte à sa juste valeur.
-
-Aujourd’hui, près des trois quarts des revenus des pharmacies proviennent de la vente de médicaments.
-
-Ce modèle doit changer. Les pharmaciens doivent être reconnus comme des docteurs en pharmacie et rémunérés pour leur expertise, leurs compétences et les services de santé qu’ils rendent aux patients, et non principalement en fonction des ventes de médicaments.</description>
-      <channelTitle>DAMIEN MAUDET</channelTitle>
-      <videoId>PXR_Lc_X6oQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PXR_Lc_X6oQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
