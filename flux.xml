@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 24 Nov 2026 15:46:03 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:01:13 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>"Raphaël Glucksmann est le seul à pouvoir battre Marine Le Pen !" Boris Vallaud sur BFM TV</title>
+      <link>https://www.youtube.com/watch?v=LppeD_kbr3c</link>
+      <guid>https://www.youtube.com/watch?v=LppeD_kbr3c</guid>
+      <pubDate>2026-11-24T15:45:58+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de BFM TV ce lundi 23 novembre 2026.
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>LppeD_kbr3c</videoId>
+      <enclosure url="https://i.ytimg.com/vi/LppeD_kbr3c/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Protéger les communes, c'est défendre les murs porteurs de la Nation ! | Marine Le Pen aux maires</title>
       <link>https://www.youtube.com/watch?v=Wosz7lNirIE</link>
@@ -606,31 +626,6 @@ Chapitres :
       <channelTitle>Antoine Léaument</channelTitle>
       <videoId>a--IdFisVLI</videoId>
       <enclosure url="https://i.ytimg.com/vi/a--IdFisVLI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Il faut sauver le docteur palestinien Hussam Abu Safiya !</title>
-      <link>https://www.youtube.com/watch?v=okWBXbSg6t4</link>
-      <guid>https://www.youtube.com/watch?v=okWBXbSg6t4</guid>
-      <pubDate>2026-11-22T09:57:25+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu avec Mathilde Panot pour appeler à la libération du docteur palestinien Hussam Abu Safiya, le 22 novembre 2026.
-
-Agissez dès maintenant : https://www.amnesty.org/fr/petition/release-dr-hussam-abu-safiya/
-
-Partagez avec #FreeDrHussamAbuSafiya
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>okWBXbSg6t4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/okWBXbSg6t4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
