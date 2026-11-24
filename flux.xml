@@ -4,8 +4,53 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 24 Nov 2026 10:15:54 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:31:06 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Pierre Jouvet invité de Sonia Mabrouk sur BFM</title>
+      <link>https://www.youtube.com/watch?v=pZDB_7n_CzU</link>
+      <guid>https://www.youtube.com/watch?v=pZDB_7n_CzU</guid>
+      <pubDate>2026-11-24T10:22:34+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>Pierre Jouvet, secrétaire général du Parti socialiste et député européen, était hier l’invité de Sonia Mabrouk sur BFMTV. Il a pu s’exprimer sur les tensions qui traversent le débat politique, la responsabilité des dirigeants face à la violence des mots et les enjeux de la prochaine élection présidentielle.
+
+Rassemblement national : la responsabilité des mots et la violence politique
+
+Il a dénoncé les discours du Rassemblement national, rappelant que les mots employés par ses responsables peuvent avoir des conséquences concrètes et armer ceux qui passent ensuite à l’acte.
+
+Présidentielle 2027 : une alternative de gauche avec Raphaël Glucksmann
+
+Pierre Jouvet a défendu une alternative politique de gauche, sociale, écologiste, démocratique et pro-européenne, portée avec Raphaël Glucksmann. Une alternative qui doit permettre de combattre à la fois au Rassemblement national et le macronisme.
+
+David Lisnard : les contradictions de son positionnement et de son programme
+
+Interrogé sur la candidature de David Lisnard, il a pointé les contradictions de son positionnement, entre discours anti-système et volonté de participer à une primaire avec d’anciens Premiers ministres d’Emmanuel Macron.
+
+Il a ainsi alerté sur les conséquences de certaines de ses propositions, notamment la généralisation du recrutement des enseignants sous contrat, qu’il assimile à une privatisation de l’Éducation nationale, ainsi que sur les risques d’une remise en cause du Code du travail et des protections sociales.
+
+Face à la crise politique : remettre les projets au cœur du débat
+
+Enfin, Pierre Jouvet a appelé à sortir d’une campagne uniquement centrée sur les stratégies de barrage et les invectives. Il défend un véritable affrontement démocratique entre la gauche et la droite, autour des projets et des propositions concrètes : les salaires, la démocratie, les libertés et l’avenir du pays.
+
+Il a aussi dressé un bilan sévère des dix années de politique d’Emmanuel Macron, qu’il juge responsables d’une profonde fracturation de la société française.
+
+« Les Français méritent un vrai débat, un vrai affrontement droite-gauche et que l’on parle des vrais sujets. »
+
+--
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste 
+➡️  https://www.facebook.com/partisocialiste 
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>pZDB_7n_CzU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/pZDB_7n_CzU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>François Bayrou invité du 8h30 France Info</title>
       <link>https://www.youtube.com/watch?v=e198-pIXg2c</link>
@@ -511,27 +556,6 @@ Ce modèle doit changer. Les pharmaciens doivent être reconnus comme des docteu
       <channelTitle>DAMIEN MAUDET</channelTitle>
       <videoId>PXR_Lc_X6oQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/PXR_Lc_X6oQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🏛️ Politique migratoire : avec MELENCHON, en 2027, la France sera un exemple en EUROPE</title>
-      <link>https://www.youtube.com/watch?v=h1xc_mqzA8s</link>
-      <guid>https://www.youtube.com/watch?v=h1xc_mqzA8s</guid>
-      <pubDate>2026-11-20T11:07:30+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Intervention de Danièle Obono, mercredi 18 novembre 2026, lors de la discussion générale en commission des Affaires européennes sur le rapport d'information concernant la mise en application du pacte asile et migration
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/danieleobono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>h1xc_mqzA8s</videoId>
-      <enclosure url="https://i.ytimg.com/vi/h1xc_mqzA8s/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
