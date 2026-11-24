@@ -4,8 +4,32 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 24 Nov 2026 15:15:47 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:31:13 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 Préfet Moutouh, Laurent Nuñez : même combat ?</title>
+      <link>https://www.youtube.com/watch?v=a-mqPLcMVH8</link>
+      <guid>https://www.youtube.com/watch?v=a-mqPLcMVH8</guid>
+      <pubDate>2026-11-24T15:18:52+00:00</pubDate>
+      <author>Ugo Bernalicis</author>
+      <description>Combien de préfets considèrent que leur avenir professionnel passe par leur proximité avec le pouvoir politique plutôt que par leur attachement à la neutralité de l’État ?
+
+L’affaire Moutouh pose une question bien plus large : celle de la politisation du corps préfectoral.
+
+J’interpelle Laurent Nuñez : combien êtes-vous comme ça ?
+
+Suivez Ugo Bernalicis sur :
+👉 Facebook : https://www.facebook.com/ugobernalicis
+👉 Twitter : https://twitter.com/Ugobernalicis
+👉 Instagram : https://www.instagram.com/ugo_bernalicis/
+👉 YouTube : https://youtube.com/c/UgoBernalicisofficiel
+👉 Twitch : https://www.twitch.tv/deputwitch/
+👉 Telegram : https://t.me/ub_actu
+👉 Son blog : https://www.ugobernalicis.fr</description>
+      <channelTitle>Ugo Bernalicis</channelTitle>
+      <videoId>a-mqPLcMVH8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/a-mqPLcMVH8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LOUIS ALIOT est l'invité de LCI !</title>
       <link>https://www.youtube.com/watch?v=Qz5Lg9Fo90I</link>
@@ -593,19 +617,6 @@ La qualité de la captation est due à Sciences Po Paris qui a interdit à nos �
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>BWGz0_CCoe8</videoId>
       <enclosure url="https://i.ytimg.com/vi/BWGz0_CCoe8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Les macronistes ont ouvert les portes à l'extrême droite : Manon Aubry face à Agnès Pannier-Runacher</title>
-      <link>https://www.youtube.com/watch?v=x_SWZofIx3Y</link>
-      <guid>https://www.youtube.com/watch?v=x_SWZofIx3Y</guid>
-      <pubDate>2026-11-20T16:53:50+00:00</pubDate>
-      <author>Manon Aubry</author>
-      <description>Les macronistes ont ouvert les portes à l'extrême droite : Manon Aubry face à Agnès Pannier-Runacher
-
-Chez Pol sur Libération le 19 novembre 2026</description>
-      <channelTitle>Manon Aubry</channelTitle>
-      <videoId>x_SWZofIx3Y</videoId>
-      <enclosure url="https://i.ytimg.com/vi/x_SWZofIx3Y/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
