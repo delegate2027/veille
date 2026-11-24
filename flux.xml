@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 24 Nov 2026 22:46:02 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:01:31 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 EN DIRECT | Marine Le Pen face aux chefs d'entreprise (LCI)</title>
+      <link>https://www.youtube.com/watch?v=a7xoUP_Kkfo</link>
+      <guid>https://www.youtube.com/watch?v=a7xoUP_Kkfo</guid>
+      <pubDate>2026-11-24T22:56:14+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Marine Le Pen débat avec une cinquantaine de chefs d'entreprise réunis par l'Union des entreprises de proximité (U2P), mercredi 25 novembre à 21h, en direct sur LCI depuis Reims.
+
+Retrouvez l'émission en intégralité et en direct sur sa chaîne.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>a7xoUP_Kkfo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/a7xoUP_Kkfo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>« Ma droite est étanche avec l'extrême droite » | Édouard Philippe sur LCI</title>
       <link>https://www.youtube.com/watch?v=5j4UQiXCvnk</link>
@@ -628,19 +643,6 @@ Retrouvez l'intégralité de son intervention.
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>R0bzJ8K43OM</videoId>
       <enclosure url="https://i.ytimg.com/vi/R0bzJ8K43OM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Présidentielle 2027 : Face au risque du pire, je retire ma candidature</title>
-      <link>https://www.youtube.com/watch?v=I7yZcMRwLAQ</link>
-      <guid>https://www.youtube.com/watch?v=I7yZcMRwLAQ</guid>
-      <pubDate>2026-11-22T21:51:08+00:00</pubDate>
-      <author>FRANÇOIS RUFFIN</author>
-      <description>➡️ Rejoignez la campagne anti-RN sur debout.fr
-
-N'oubliez pas de mettre un petit pouce en l'air, de partager, et on vous souhaite un bon visionnage !</description>
-      <channelTitle>FRANÇOIS RUFFIN</channelTitle>
-      <videoId>I7yZcMRwLAQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/I7yZcMRwLAQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
