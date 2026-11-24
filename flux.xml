@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Tue, 24 Nov 2026 23:15:51 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:30:58 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>💥 Manuel Bompard face à BFM.</title>
+      <link>https://www.youtube.com/watch?v=HXFvv2F_ApA</link>
+      <guid>https://www.youtube.com/watch?v=HXFvv2F_ApA</guid>
+      <pubDate>2026-11-24T23:12:57+00:00</pubDate>
+      <author>Manuel Bompard</author>
+      <description>📺 Retrouvez en intégralité mon passage dans l'émission Face à BFM TV du mardi 24 novembre 2026.
+----------
+📲 Abonnez-vous à mes réseaux sociaux !
+
+👉 Telegram : https://t.me/manuelbompard
+👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
+👉 X (Twitter) : https://twitter.com/mbompard
+👉 Tiktok : https://www.tiktok.com/@manuelbompard
+👉 Instagram : https://www.instagram.com/manuelbompard/
+👉 Facebook : https://www.facebook.com/mbompard/
+👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
+      <channelTitle>Manuel Bompard</channelTitle>
+      <videoId>HXFvv2F_ApA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/HXFvv2F_ApA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>🔴 EN DIRECT | Marine Le Pen face aux chefs d'entreprise (LCI)</title>
       <link>https://www.youtube.com/watch?v=a7xoUP_Kkfo</link>
@@ -632,17 +653,6 @@ Retrouvez l'intégralité de son intervention.
       <channelTitle>François-Xavier Bellamy</channelTitle>
       <videoId>N8SexrrjtwQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/N8SexrrjtwQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>LYCÉES, SÛRETÉ, LOGEMENT : NOTRE RÉUNION PUBLIQUE À VITRY-EN-ARTOIS !</title>
-      <link>https://www.youtube.com/watch?v=R0bzJ8K43OM</link>
-      <guid>https://www.youtube.com/watch?v=R0bzJ8K43OM</guid>
-      <pubDate>2026-11-23T08:07:35+00:00</pubDate>
-      <author>Ugo Bernalicis</author>
-      <description>Retrouvez l’intégralité de notre intervention avec ma camarade Élodie Cloez lors de la réunion publique à Vitry-en-Artois, autour des lycées, de la sûreté et du logement !</description>
-      <channelTitle>Ugo Bernalicis</channelTitle>
-      <videoId>R0bzJ8K43OM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/R0bzJ8K43OM/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
