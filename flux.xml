@@ -4,8 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 25 Nov 2026 10:15:44 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 10:31:15 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Aurore Bergé sur CNews et Europe 1 - 25 novembre 2026</title>
+      <link>https://www.youtube.com/watch?v=YsYtTCcHwYI</link>
+      <guid>https://www.youtube.com/watch?v=YsYtTCcHwYI</guid>
+      <pubDate>2026-11-25T10:26:20+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description>Aurore Bergé sur CNews et Europe 1 - 25 novembre 2026
+
+Vous pouvez me suivre sur : 
+Mon site : https://www.auroreberge.fr 
+Facebook :  auroreberge    
+Twitter : auroreberge   
+Instagram :  auroreberge.fr
+Telegram : https://t.me/Aurore_Berge
+TikTok : aurore_berge</description>
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>YsYtTCcHwYI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YsYtTCcHwYI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Journée internationale pour l’élimination de la violence à l’égard des femmes.</title>
       <link>https://www.youtube.com/watch?v=qZNRK9xSaCw</link>
@@ -608,26 +627,6 @@ Mohamed Jaite, Président de la section parisienne du Syndicat des Avocats de Fr
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>CKyZzbYGDaM</videoId>
       <enclosure url="https://i.ytimg.com/vi/CKyZzbYGDaM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Le Grand Oral de Gabriel Attal sur le logement</title>
-      <link>https://www.youtube.com/watch?v=TTf8rDTBF_E</link>
-      <guid>https://www.youtube.com/watch?v=TTf8rDTBF_E</guid>
-      <pubDate>2026-11-23T14:51:00+00:00</pubDate>
-      <author>Gabriel Attal</author>
-      <description>Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
-
-Facebook :   https://www.facebook.com/GabrielAttal
-Instagram : https://www.instagram.com/gabrielattal/
-TikTok : https://www.tiktok.com/@gabriel_attal
-X : https://x.com/GabrielAttal
-Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
-Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
-Sur Threads : https://www.threads.com/@gabrielattal
-Sur Telegram : https://t.me/gabriel_attal</description>
-      <channelTitle>Gabriel Attal</channelTitle>
-      <videoId>TTf8rDTBF_E</videoId>
-      <enclosure url="https://i.ytimg.com/vi/TTf8rDTBF_E/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
