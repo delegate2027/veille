@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 25 Nov 2026 22:01:06 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:15:45 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 EN DIRECT | Marine Le Pen face aux chefs d'entreprise (LCI)</title>
+      <link>https://www.youtube.com/watch?v=a7xoUP_Kkfo</link>
+      <guid>https://www.youtube.com/watch?v=a7xoUP_Kkfo</guid>
+      <pubDate>2026-11-25T22:02:35+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Marine Le Pen débat avec une cinquantaine de chefs d'entreprise réunis par l'Union des entreprises de proximité (U2P), mercredi 25 novembre à 21h, en direct sur LCI depuis Reims.
+
+Retrouvez l'émission en intégralité et en direct sur sa chaîne.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>a7xoUP_Kkfo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/a7xoUP_Kkfo/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La victoire est au bout du chemin.</title>
       <link>https://www.youtube.com/watch?v=btKx4c8j2P4</link>
@@ -535,32 +550,6 @@ Abonnez-vous à notre chaîne YouTube !
       <channelTitle>Révolution Permanente</channelTitle>
       <videoId>ThL3spiu7QI</videoId>
       <enclosure url="https://i.ytimg.com/vi/ThL3spiu7QI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'investissement local est porté par les collectivités locales | Philippe Vigier</title>
-      <link>https://www.youtube.com/watch?v=YOD4lurvp88</link>
-      <guid>https://www.youtube.com/watch?v=YOD4lurvp88</guid>
-      <pubDate>2026-11-24T17:01:45+00:00</pubDate>
-      <author>MoDem</author>
-      <description>L'investissement local est porté par les collectivités locales | Philippe Vigier
-
-Lors des questions au gouvernement de ce mardi 24 novembre, notre député d'Eure-et-Loir, Philippe Vigier, a interrogé le Premier ministre sur l’efficacité et la confiance en l’action publique.
-
-🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/nos-parlementaires/philippe-vigier-linvestissement-local-est-porte-par-les-collectivites-locales
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-Twitter : https://twitter.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>YOD4lurvp88</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YOD4lurvp88/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
