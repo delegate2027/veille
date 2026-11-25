@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 25 Nov 2026 13:45:53 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:01:21 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>"Ce budget, c'est la facture de 10 ans de macronisme !" Boris Vallaud sur RMC</title>
+      <link>https://www.youtube.com/watch?v=Kaaw94-lSxA</link>
+      <guid>https://www.youtube.com/watch?v=Kaaw94-lSxA</guid>
+      <pubDate>2026-11-25T13:47:46+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de RMC ce mercredi 25 novembre 2026.
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>Kaaw94-lSxA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Kaaw94-lSxA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Ukraine : nous devons trouver une issue diplomatique à la guerre</title>
       <link>https://www.youtube.com/watch?v=TmkUkyV5Kz8</link>
@@ -592,46 +612,6 @@ Suivez-moi sur mes réseaux sociaux ! ⤵️
       <channelTitle>Jordan Bardella</channelTitle>
       <videoId>L4ceShzU4ao</videoId>
       <enclosure url="https://i.ytimg.com/vi/L4ceShzU4ao/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Un candidat OUVRIER et RÉVOLUTIONNAIRE en 2027 : meeting de RP avec Anasse Kazib, Elsa Marcel...</title>
-      <link>https://www.youtube.com/watch?v=Z3QVHTv5axQ</link>
-      <guid>https://www.youtube.com/watch?v=Z3QVHTv5axQ</guid>
-      <pubDate>2026-11-24T08:38:14+00:00</pubDate>
-      <author>Révolution Permanente</author>
-      <description>➡️ Rejoignez la campagne Anasse Kazib 2027 : anasse2027.fr
-
-Partant du mouvement en cours et de ses défis stratégiques, le meeting de Révolution Permanente du 21 novembre a mis au centre l'enjeu d'exprimer les aspirations révolutionnaires de la jeunesse dans la campagne présidentielle, et d'y faire peser la capacité de la nouvelle classe ouvrière à transformer la société. La question de la lutte contre l'extrême-droite et des limites des projets de la gauche institutionnelle ont été au coeur des discours.
-
-00:00 Introduction
-02:12 Nawel et Abel, lycéens mobilisés à Epinay et au Havre
-13:30 Alexis Durey, Etudiant à Paris 8 et AED au lycée Paul Eluard
-22:38 Pablo, militant du CRP-QI dans l'état Espagnol sur la lutte européenne
-24:48 Simone, docker de Livourne en Italie
-30:50 Salutation des délégations ouvrières, étudiantes
-31:53 Laurent et Hassan, travailleurs de Géodis
-37:27 Vanessa Pedinotti, travailleuse dans l'aérospatial
-49:59 Parti et révolution aujourd'hui
-51:40 Elsa Marcel, Avocate et conseillère municipale à Saint-Denis
-1:09:35 Myriam Bregman, avocate et députée du PTS en Argentine
-1:12:52 Anasse Kazib, cheminot et candidat à l'élection présidentielle
-1:51:53 Salutations finales et Internationale
-
-Abonnez-vous à notre chaîne YouTube !
-➡️ Pour nous rejoindre : https://nousrejoindre.revolutionpermanente.fr/
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-★ Révolution Permanente, l'information du bon côté de la barricade : http://www.revolutionpermanente.fr/
-
-★ Retrouvez-nous sur les réseaux sociaux :
-▸Facebook ▸ https://www.facebook.com/RevolutionPermanente.fr
-▸Twitter ▸ https://twitter.com/@RevPermanente
-▸Instagram ▸ https://www.instagram.com/revolutionpermanente.fr/
-▸Telegram ▸ https://t.me/revolution_permanente
-▸Tiktok ▸ https://www.tiktok.com/@revpermanente</description>
-      <channelTitle>Révolution Permanente</channelTitle>
-      <videoId>Z3QVHTv5axQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Z3QVHTv5axQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
