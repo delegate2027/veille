@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 25 Nov 2026 11:30:57 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:45:49 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Les extrêmes sont deux poisons mortels pour la France et pour la démocratie | Jean-Noël Barrot</title>
+      <link>https://www.youtube.com/watch?v=_sICqBPlQwI</link>
+      <guid>https://www.youtube.com/watch?v=_sICqBPlQwI</guid>
+      <pubDate>2026-11-25T11:35:48+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Les extrêmes sont deux poisons mortels pour la France et pour la démocratie | Jean-Noël Barrot
+
+Sur TF1, Jean-Noël Barrot a défendu la place des Européens dans les négociations sur l'Ukraine, annoncé un engagement français contre l'apartheid de genre en Afghanistan et réaffirmé la volonté d'une candidature de rassemblement pour 2027.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/dans-les-medias/jean-noel-barrot-lextreme-droite-comme-lextreme-gauche-sont-deux-poisons-mortels
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>_sICqBPlQwI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_sICqBPlQwI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Budget, logement, précarité étudiante et AESH : retrouvez mon passage sur LCP !</title>
       <link>https://www.youtube.com/watch?v=8OSZAgwwsc4</link>
@@ -604,29 +630,6 @@ Retrouvez le livre en version allemande sur : https://brumaireverlag.de/products
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>Mdgt3VEbfEY</videoId>
       <enclosure url="https://i.ytimg.com/vi/Mdgt3VEbfEY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>En 2027 avec Mélenchon, les loyers baisseront ! - LE COQ (LFI)</title>
-      <link>https://www.youtube.com/watch?v=b8_cajPvPVs</link>
-      <guid>https://www.youtube.com/watch?v=b8_cajPvPVs</guid>
-      <pubDate>2026-11-23T19:21:52+00:00</pubDate>
-      <author>Aurélien Le Coq</author>
-      <description>Aurélien Le Coq, député LFI-NFP du Nord, était ce dimanche 22 novembre 2026 l'invité de Dimanche en politique sur France 3 Hauts-de-France, dans une émission consacrée à la crise du logement. Il débattait avec Bruno Clavet, député RN du Pas-de-Calais, et Anne Voituriez, vice-présidente de la Métropole européenne de Lille chargée du logement.
-
-M. Le Coq fait d'abord un rappel : de plus en plus de Français n'arrivent plus à payer leur loyer, leur électricité et leurs factures. Beaucoup d'entre elles et d'entre eux se privent d'un repas pour garder un toit. Parmi les 10 % les plus pauvres, le logement peut représenter jusqu'à 40 % du budget. Il cite cette statistique affolante : près d'un locataire HLM sur quatre a du mal à payer son loyer.
-
-Le programme de Jean-Luc Mélenchon souhaite traiter ces problèmes à la racine. L'Avenir en Commun propose d'encadrer les loyers à la baisse et de faire respecter cet encadrement. Là où il existe, comme à Lille, un loyer sur quatre dépasse encore le plafond autorisé.
-
-Le député du Nord s'en prend ensuite aux recettes du Rassemblement national et de la Macronie. Le représentant du RN parle de faire confiance aux propriétaires et à la concurrence. Hors, c'est ce que Macron fait depuis dix ans : r"sultan, les loyers ont explosé. Marine Le Pen, candidate macroniste XXL, veut continuer à arroser de cadeaux fiscaux quelques gros propriétaires, alors qu'à peine 3,5 % des ménages possèdent la moitié des logements loués. 
-
-Le député dénonce aussi la volonté du RN de supprimer les obligations de construction de logements sociaux en abrogeant la loi SRU. Cela reviendrait à abandonner 3 millions de personnes en attente d'un HLM. 
-
-Aurélien Le Coq présente le plan logement de l'Avenir en commun : 200 000 logements sociaux par an, 700 000 logements rénovés par an, 15 000 logements étudiants par an, et la réquisition des bureaux vides. Le tout serait financé par un pôle public bancaire capable de prêter à des taux acceptables et accompagné d'un blocage des prix de l'énergie pour faire baisser le coût de la construction. 
-
-Il rappelle l'urgence d'engager ces grands chantiers alors que le mal-logement touche 12 millions de Français et cite des exemples à Lille : la tour Clemenceau à Moulins, privée de chauffage une partie de l'hiver, ou la résidence Pierre Loti à Lille-Sud, où des balcons s'effondrent. Le logement est une question de choix politique.</description>
-      <channelTitle>Aurélien Le Coq</channelTitle>
-      <videoId>b8_cajPvPVs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/b8_cajPvPVs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
