@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 25 Nov 2026 09:15:58 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:30:58 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Journée internationale pour l’élimination de la violence à l’égard des femmes.</title>
+      <link>https://www.youtube.com/watch?v=qZNRK9xSaCw</link>
+      <guid>https://www.youtube.com/watch?v=qZNRK9xSaCw</guid>
+      <pubDate>2026-11-25T09:19:28+00:00</pubDate>
+      <author>Emmanuel Macron</author>
+      <description>Aucune femme ne doit vivre dans la peur. Ne nous résignons jamais face aux violences. Continuons à nous mobiliser pour y mettre fin.
+
+Du Grenelle des violences conjugales en 2019 aux travaux sur la proposition de loi intégrale contre les violences sexistes et sexuelles, les associations, les professionnels et les parlementaires n’ont cessé de s’engager. 
+
+Je continuerai d’agir à leurs côtés pour que les femmes victimes de violences soient mieux protégées et accompagnées dans la durée.</description>
+      <channelTitle>Emmanuel Macron</channelTitle>
+      <videoId>qZNRK9xSaCw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/qZNRK9xSaCw/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>PLFG : impossible de voter pour ce projet de loi de fin de galère du macronisme</title>
       <link>https://www.youtube.com/watch?v=T-ulRaYAe1U</link>
@@ -613,28 +628,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>TTf8rDTBF_E</videoId>
       <enclosure url="https://i.ytimg.com/vi/TTf8rDTBF_E/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🎮 JEUX VIDÉO : UNE LOI POUR PROTÉGER LES JOUEURS !</title>
-      <link>https://www.youtube.com/watch?v=iV_X19n6Bi8</link>
-      <guid>https://www.youtube.com/watch?v=iV_X19n6Bi8</guid>
-      <pubDate>2026-11-23T14:02:32+00:00</pubDate>
-      <author>Ugo Bernalicis</author>
-      <description>Retrouvez mon interview sur B SMART, dans l’émission Le Boss, où je reviens sur ma proposition de loi visant à garantir les droits des joueuses et joueurs et la pérennité des jeux vidéo.
-
-L’occasion également d’évoquer la situation des studios français de jeux vidéo !
-
-Suivez Ugo Bernalicis sur :
-👉 Facebook : https://www.facebook.com/ugobernalicis
-👉 Twitter : https://twitter.com/Ugobernalicis
-👉 Instagram : https://www.instagram.com/ugo_bernalicis/
-👉 YouTube : https://youtube.com/c/UgoBernalicisofficiel
-👉 Twitch : https://www.twitch.tv/deputwitch/
-👉 Telegram : https://t.me/ub_actu
-👉 Son blog : https://www.ugobernalicis.fr</description>
-      <channelTitle>Ugo Bernalicis</channelTitle>
-      <videoId>iV_X19n6Bi8</videoId>
-      <enclosure url="https://i.ytimg.com/vi/iV_X19n6Bi8/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
