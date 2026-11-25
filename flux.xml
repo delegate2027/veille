@@ -4,8 +4,38 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 25 Nov 2026 16:45:51 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:01:46 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🦺 La nouvelle classe ouvrière peut mettre un stop à la militarisation !</title>
+      <link>https://www.youtube.com/watch?v=QV9-vXaEJr0</link>
+      <guid>https://www.youtube.com/watch?v=QV9-vXaEJr0</guid>
+      <pubDate>2026-11-25T17:01:21+00:00</pubDate>
+      <author>Révolution Permanente</author>
+      <description>🦺 La nouvelle classe ouvrière peut mettre un stop à la militarisation !
+
+« On nous dit que la classe ouvrière a disparu, mais elle est partout. Cette nouvelle classe ouvrière, féminisée, racisée est capable de lutter. On fait tourner la société et on a la force de la changer » 📢 - @NottiNess, syndicaliste dans l’aérospatial. 
+
+Pour une candidature qui porte la voix de ceux qui font tourner le pays, organise-toi dans les comités de campagne de la candidature d’Anasse Kazib. Contacte-nous sur anassekazib.fr ! #Anasse2027</description>
+      <channelTitle>Révolution Permanente</channelTitle>
+      <videoId>QV9-vXaEJr0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/QV9-vXaEJr0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fabien Roussel au Salon des maires : donner aux communes les moyens d'agir</title>
+      <link>https://www.youtube.com/watch?v=ksseDYVHC-0</link>
+      <guid>https://www.youtube.com/watch?v=ksseDYVHC-0</guid>
+      <pubDate>2026-11-25T16:48:59+00:00</pubDate>
+      <author>PCF - Parti communiste français (PCF)</author>
+      <description>Défendre les communes, préserver les services publics locaux et leur donner davantage de moyens. C’est le message porté par Fabien Roussel lors de son déplacement au Salon des maires, où il a répondu aux questions des journalistes à l’occasion d’un micro-tendu.
+
+Interrogé sur la présidentielle, il revient sur les différentes candidatures à gauche et affirme vouloir faire de la sienne une candidature de rassemblement face à l’extrême droite. Il évoque également la question des parrainages et appelle les élus à transformer leur soutien en signatures.
+
+Il répond enfin aux questions sur les moyens financiers des collectivités, l'organisation territoriale et la régularisation des travailleurs sans-papiers, qu'il défend au nom de l'égalité des droits.</description>
+      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
+      <videoId>ksseDYVHC-0</videoId>
+      <enclosure url="https://i.ytimg.com/vi/ksseDYVHC-0/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>GTA VI, POLICE ET JEUX VIDÉO : MON LIVE AVEC LA ZAWA PROD !</title>
       <link>https://www.youtube.com/watch?v=2KaDI3Jt6JI</link>
@@ -529,37 +559,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>YOD4lurvp88</videoId>
       <enclosure url="https://i.ytimg.com/vi/YOD4lurvp88/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Léa Balage El Mariky : Oui, la France dialogue avec les bourreaux des femmes afghanes</title>
-      <link>https://www.youtube.com/watch?v=g5psRNbN7iw</link>
-      <guid>https://www.youtube.com/watch?v=g5psRNbN7iw</guid>
-      <pubDate>2026-11-24T16:03:54+00:00</pubDate>
-      <author>Les Écologistes</author>
-      <description>Notre députée Léa Balage El Mariky interpelle le ministre de l'Europe et des Affaires étrangères Jean-Noël Barrot.</description>
-      <channelTitle>Les Écologistes</channelTitle>
-      <videoId>g5psRNbN7iw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/g5psRNbN7iw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Raphaël Glucksmann est le seul à pouvoir battre Marine Le Pen !" Boris Vallaud sur BFM TV</title>
-      <link>https://www.youtube.com/watch?v=LppeD_kbr3c</link>
-      <guid>https://www.youtube.com/watch?v=LppeD_kbr3c</guid>
-      <pubDate>2026-11-24T15:45:58+00:00</pubDate>
-      <author>BorisVallaud</author>
-      <description>Boris Vallaud était l'invité de BFM TV ce lundi 23 novembre 2026.
-_____________________________________
-
-Suivez-moi sur les réseaux sociaux
-
-Twitter :  https://x.com/BorisVallaud
-Facebook :  https://www.facebook.com/BVallaud
-Instagram :  https://www.instagram.com/borisvallaud/ 
-Tiktok : https://www.tiktok.com/@borisvallaud
-Youtube : https://www.youtube.com/@Boris_Vallaud</description>
-      <channelTitle>BorisVallaud</channelTitle>
-      <videoId>LppeD_kbr3c</videoId>
-      <enclosure url="https://i.ytimg.com/vi/LppeD_kbr3c/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
