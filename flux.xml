@@ -4,8 +4,55 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 25 Nov 2026 06:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:01:18 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>CE QUE PERSONNE NE VOUS DIT SUR LA JUSTICE EN FRANCE (ET CE QUE JE PROPOSE)</title>
+      <link>https://www.youtube.com/watch?v=StUB5RMggDU</link>
+      <guid>https://www.youtube.com/watch?v=StUB5RMggDU</guid>
+      <pubDate>2026-11-25T07:00:29+00:00</pubDate>
+      <author>Gabriel Attal</author>
+      <description>Une petite fille agressée en CE2 voit son agresseur jugé quand elle entre au lycée. Il faut en moyenne 7 ans et 4 mois pour en arriver là. Pendant tout ce temps, c'est l'enfant qui attend.
+
+Dans cette vidéo, je reviens sur ce qui bloque notre justice face aux violences sexuelles faites aux enfants : des victimes qui ne portent presque jamais plainte, des tribunaux qui croulent sous 4 000 tonnes de dossiers papier, bien moins de juges qu'en Allemagne.
+
+Dans plus de 8 cas sur 10, les enfants victimes sont des filles. En ce 25 novembre, Journée internationale pour l'élimination de la violence à l'égard des femmes, ce chiffre rappelle que ces violences commencent souvent dès l'enfance.
+
+Je propose 13 mesures pour que cela change dès 2027. Parmi elles :
+• traiter les pédocriminels comme des terroristes, avec un parquet national dédié et un service de renseignement spécialisé
+• un suivi sur le modèle des fichés S
+• l'imprescriptibilité, pour pouvoir porter plainte toute sa vie
+• la prison à vie pour les violeurs en série
+• les premiers résultats d'enquête en 48 heures et une procédure bouclée en 3 mois
+• la fin des dossiers papier grâce à l'IA
+
+Dites-moi en commentaire ce que vous en pensez.
+
+📌 CHAPITRES DE LA VIDÉO
+00:00 - 00:58 : Introduction : L'enfant qui attend
+00:58 - 01:58 : Les chiffres choc des violences sexuelles en France
+01:58 - 03:42 : 1er blocage : Le mur du silence, la prescription et les écrans
+03:42 - 05:19 : 2e blocage : 7 ans d'attente et une justice saturée
+05:19 - 07:18 : 3e blocage : Quand on savait mais que l'information n'a pas circulé
+07:18 - 08:21 : Mon plan en 13 mesures : 1. Repérer plus tôt (renseignement et fichés S)
+08:21 - 10:01 : 2. Juger plus vite (Parquet national, 3 000 recrutements et IA)
+10:01 - 11:16 : 3. Punir plus fort (imprescriptibilité et prison à vie)
+11:16 - 12:21 : Conclusion : Les chiffres à retenir (et le 119)
+
+Suivez l'action de Gabriel Attal sur les réseaux sociaux : 
+
+Facebook :   https://www.facebook.com/GabrielAttal
+Instagram : https://www.instagram.com/gabrielattal/
+TikTok : https://www.tiktok.com/@gabriel_attal
+X : https://x.com/GabrielAttal
+Sur WhatsApp : https://whatsapp.com/channel/0029VaEH...
+Sur Linkedin : https://www.linkedin.com/in/gabrielattal/
+Sur Threads : https://www.threads.com/@gabrielattal
+Sur Telegram : https://t.me/gabriel_attal</description>
+      <channelTitle>Gabriel Attal</channelTitle>
+      <videoId>StUB5RMggDU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/StUB5RMggDU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Retour sur l'audition du Préfet de Paris</title>
       <link>https://www.youtube.com/watch?v=G3vXrJoZKDo</link>
@@ -608,29 +655,6 @@ Suivez-nous sur les réseaux sociaux :
       <channelTitle>PS - Parti socialiste</channelTitle>
       <videoId>RoxPMqIRdxQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/RoxPMqIRdxQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Dette : Emmanuel Macron ose donner des leçons de rigueur après avoir ruiné les finances de la France</title>
-      <link>https://www.youtube.com/watch?v=N8SexrrjtwQ</link>
-      <guid>https://www.youtube.com/watch?v=N8SexrrjtwQ</guid>
-      <pubDate>2026-11-23T08:56:05+00:00</pubDate>
-      <author>François-Xavier Bellamy</author>
-      <description>Ce matin sur CNews et Europe 1, François-Xavier Bellamy est revenu sur trois sujets majeurs de l'actualité :
-
-🔴 **La dette publique** : face à l'explosion de la dette et des intérêts, il dénonce le bilan budgétaire d'Emmanuel Macron, qui propose aujourd'hui une règle d'or après dix ans au pouvoir.
-
-🔴 **Les blocages des lycées** : face aux violences et aux perturbations qui touchent les établissements scolaires, il appelle à rétablir l'autorité, à protéger la liberté d'étudier et à mettre fin à l'impunité.
-
-🔴 **La primaire de la droite** : il défend l'organisation d'une primaire pour permettre aux électeurs de choisir leur candidat à l'élection présidentielle de 2027 et éviter la dispersion des voix au premier tour, qui pourrait ouvrir la voie à Jean-Luc Mélenchon.
-
-Retrouvez l'intégralité de son intervention.
-
-🔔 Abonnez-vous pour suivre les prises de parole de François-Xavier Bellamy.
-
-#Bellamy #CNews #Europe1 #Macron #Primaire #Education #Dette</description>
-      <channelTitle>François-Xavier Bellamy</channelTitle>
-      <videoId>N8SexrrjtwQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/N8SexrrjtwQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
