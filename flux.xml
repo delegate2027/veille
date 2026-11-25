@@ -4,8 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 25 Nov 2026 12:01:22 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:15:44 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Ukraine : nous devons trouver une issue diplomatique à la guerre</title>
+      <link>https://www.youtube.com/watch?v=TmkUkyV5Kz8</link>
+      <guid>https://www.youtube.com/watch?v=TmkUkyV5Kz8</guid>
+      <pubDate>2026-11-25T12:06:21+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>Lors d’une intervention en Commission des Affaires étrangères, Sophia Chikirou a rappelé la position de la France insoumise sur la guerre en Ukraine : condamner l’invasion russe, défendre la souveraineté ukrainienne et construire une issue diplomatique au conflit.
+
+Devant le réseau de parlementaire européen « Unis pour l'Ukraine », elle a plaidé pour un cessez-le-feu, une conférence sous l’égide de l’ONU et de l’OSCE, et refusé l’envoi de forces combattantes et d’armes à longue portée. Elle a également demandé des garanties sur les financements européens accordés à l’Ukraine et défendu des garanties mutuelles de sécurité sous mandat de l’ONU.
+
+Enfin, elle a placé les populations au cœur de la perspective de paix : réfugiés, déplacés, objecteurs de conscience et opposants à la guerre. Elle défend leur droit à un retour volontaire, sûr et digne, notamment à travers une proposition d’amnistie en Ukraine et en Russie.
+
+Une paix durable ne peut se construire sans sécurité, sans justice et sans respect du droit international.
+
+______
+Pour suivre mes prochaines interventions : 
+Twitter : https://x.com/chikirouparis
+Instagram :   / sophia.chikirou  
+Facebook :   / sophiachikirouparis  
+TikTok :   / sophiachikirou  
+Telegram : @sophiachikirouParis</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>TmkUkyV5Kz8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/TmkUkyV5Kz8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Les extrêmes sont deux poisons mortels pour la France et pour la démocratie | Jean-Noël Barrot</title>
       <link>https://www.youtube.com/watch?v=_sICqBPlQwI</link>
@@ -607,29 +632,6 @@ Abonnez-vous à notre chaîne YouTube !
       <channelTitle>Révolution Permanente</channelTitle>
       <videoId>Z3QVHTv5axQ</videoId>
       <enclosure url="https://i.ytimg.com/vi/Z3QVHTv5axQ/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Conférence de Jean-Luc Mélenchon à Berlin</title>
-      <link>https://www.youtube.com/watch?v=Mdgt3VEbfEY</link>
-      <guid>https://www.youtube.com/watch?v=Mdgt3VEbfEY</guid>
-      <pubDate>2026-11-24T08:26:20+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Ce vendredi 27 novembre, rendez-vous à 19h30 pour suivre en direct une conférence de Jean-Luc Mélenchon à Berlin à l'occasion de la publication du livre « Faites mieux » en allemand.
-
-Retrouvez le livre en version allemande sur : https://brumaireverlag.de/products/die-stunde-der-vielen-1?utm_source=berlin
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>Mdgt3VEbfEY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Mdgt3VEbfEY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
