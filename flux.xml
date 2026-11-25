@@ -4,23 +4,8 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 25 Nov 2026 17:01:46 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:15:45 -0000</lastBuildDate>
     <feedCount>50</feedCount>
-    <item>
-      <title>🦺 La nouvelle classe ouvrière peut mettre un stop à la militarisation !</title>
-      <link>https://www.youtube.com/watch?v=QV9-vXaEJr0</link>
-      <guid>https://www.youtube.com/watch?v=QV9-vXaEJr0</guid>
-      <pubDate>2026-11-25T17:01:21+00:00</pubDate>
-      <author>Révolution Permanente</author>
-      <description>🦺 La nouvelle classe ouvrière peut mettre un stop à la militarisation !
-
-« On nous dit que la classe ouvrière a disparu, mais elle est partout. Cette nouvelle classe ouvrière, féminisée, racisée est capable de lutter. On fait tourner la société et on a la force de la changer » 📢 - @NottiNess, syndicaliste dans l’aérospatial. 
-
-Pour une candidature qui porte la voix de ceux qui font tourner le pays, organise-toi dans les comités de campagne de la candidature d’Anasse Kazib. Contacte-nous sur anassekazib.fr ! #Anasse2027</description>
-      <channelTitle>Révolution Permanente</channelTitle>
-      <videoId>QV9-vXaEJr0</videoId>
-      <enclosure url="https://i.ytimg.com/vi/QV9-vXaEJr0/maxresdefault.jpg" type="image/jpeg" />
-    </item>
     <item>
       <title>Fabien Roussel au Salon des maires : donner aux communes les moyens d'agir</title>
       <link>https://www.youtube.com/watch?v=ksseDYVHC-0</link>
@@ -559,6 +544,17 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>YOD4lurvp88</videoId>
       <enclosure url="https://i.ytimg.com/vi/YOD4lurvp88/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Léa Balage El Mariky : Oui, la France dialogue avec les bourreaux des femmes afghanes</title>
+      <link>https://www.youtube.com/watch?v=g5psRNbN7iw</link>
+      <guid>https://www.youtube.com/watch?v=g5psRNbN7iw</guid>
+      <pubDate>2026-11-24T16:03:54+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Notre députée Léa Balage El Mariky interpelle le ministre de l'Europe et des Affaires étrangères Jean-Noël Barrot.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>g5psRNbN7iw</videoId>
+      <enclosure url="https://i.ytimg.com/vi/g5psRNbN7iw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
