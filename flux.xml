@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 25 Nov 2026 09:01:12 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:15:58 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>PLFG : impossible de voter pour ce projet de loi de fin de galère du macronisme</title>
+      <link>https://www.youtube.com/watch?v=T-ulRaYAe1U</link>
+      <guid>https://www.youtube.com/watch?v=T-ulRaYAe1U</guid>
+      <pubDate>2026-11-25T09:00:35+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Impossible de voter pour un texte qui entérine en fin d’année les rectifications importantes du budget. Cela aurait dû se faire par un PLFR. Depuis 3 ans, non seulement l’Assemblée n’est plus appelée à voter les lois de finances, mais en plus, de fait, on l’empêche de se prononcer sur ses modifications.
+
+Pas question de donner ainsi un blanc-seing à l’échec économique et budgétaire qui s’abrite derrière ce Projet de Loi de Fin de Galère du Macronisme.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>T-ulRaYAe1U</videoId>
+      <enclosure url="https://i.ytimg.com/vi/T-ulRaYAe1U/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Fabien Roussel sur LCI | Travail, réindustrialisation, paix : quel projet pour 2027 ?</title>
       <link>https://www.youtube.com/watch?v=D84PNgYnY6A</link>
@@ -122,21 +135,6 @@ Plus les auditions s’enchaînent, plus une question s’impose : sommes-nous f
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>HXFvv2F_ApA</videoId>
       <enclosure url="https://i.ytimg.com/vi/HXFvv2F_ApA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🔴 EN DIRECT | Marine Le Pen face aux chefs d'entreprise (LCI)</title>
-      <link>https://www.youtube.com/watch?v=a7xoUP_Kkfo</link>
-      <guid>https://www.youtube.com/watch?v=a7xoUP_Kkfo</guid>
-      <pubDate>2026-11-24T22:56:14+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-Marine Le Pen débat avec une cinquantaine de chefs d'entreprise réunis par l'Union des entreprises de proximité (U2P), mercredi 25 novembre à 21h, en direct sur LCI depuis Reims.
-
-Retrouvez l'émission en intégralité et en direct sur sa chaîne.</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>a7xoUP_Kkfo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/a7xoUP_Kkfo/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>« Ma droite est étanche avec l'extrême droite » | Édouard Philippe sur LCI</title>
