@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Wed, 25 Nov 2026 14:15:52 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:31:09 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>La mer est une infrastructure stratégique pour la France</title>
+      <link>https://www.youtube.com/watch?v=I3PaiE_Ys74</link>
+      <guid>https://www.youtube.com/watch?v=I3PaiE_Ys74</guid>
+      <pubDate>2026-11-25T14:15:12+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion des Assises de l'économie de la mer à Montpellier, le 25 novembre 2026.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>I3PaiE_Ys74</videoId>
+      <enclosure url="https://i.ytimg.com/vi/I3PaiE_Ys74/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"Ce budget, c'est la facture de 10 ans de macronisme !" Boris Vallaud sur RMC</title>
       <link>https://www.youtube.com/watch?v=Kaaw94-lSxA</link>
@@ -592,26 +613,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>e198-pIXg2c</videoId>
       <enclosure url="https://i.ytimg.com/vi/e198-pIXg2c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jordan Bardella sur BFM : «  Rétablir l'ordre et l'autorité de l’État par tous les moyens légaux. »</title>
-      <link>https://www.youtube.com/watch?v=L4ceShzU4ao</link>
-      <guid>https://www.youtube.com/watch?v=L4ceShzU4ao</guid>
-      <pubDate>2026-11-24T09:07:28+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
-
-Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>L4ceShzU4ao</videoId>
-      <enclosure url="https://i.ytimg.com/vi/L4ceShzU4ao/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
