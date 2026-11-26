@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 26 Nov 2026 07:45:51 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:01:14 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>La mer : un territoire stratégique qu’il faut enfin gouverner !</title>
+      <link>https://www.youtube.com/watch?v=2jkmpMb_a1Q</link>
+      <guid>https://www.youtube.com/watch?v=2jkmpMb_a1Q</guid>
+      <pubDate>2026-11-26T07:50:26+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'une conférence de presse aux Assises de l'économie de la mer à Montpellier, le 25 novembre 2026.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>2jkmpMb_a1Q</videoId>
+      <enclosure url="https://i.ytimg.com/vi/2jkmpMb_a1Q/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Héritage : du RN aux macronistes, une coalition pour protéger les grandes fortunes</title>
       <link>https://www.youtube.com/watch?v=B9P99hnz17E</link>
@@ -522,27 +543,6 @@ Plus les auditions s’enchaînent, plus une question s’impose : sommes-nous f
       <channelTitle>Ugo Bernalicis</channelTitle>
       <videoId>G3vXrJoZKDo</videoId>
       <enclosure url="https://i.ytimg.com/vi/G3vXrJoZKDo/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>💥 Manuel Bompard face à BFM.</title>
-      <link>https://www.youtube.com/watch?v=HXFvv2F_ApA</link>
-      <guid>https://www.youtube.com/watch?v=HXFvv2F_ApA</guid>
-      <pubDate>2026-11-24T23:12:57+00:00</pubDate>
-      <author>Manuel Bompard</author>
-      <description>📺 Retrouvez en intégralité mon passage dans l'émission Face à BFM TV du mardi 24 novembre 2026.
-----------
-📲 Abonnez-vous à mes réseaux sociaux !
-
-👉 Telegram : https://t.me/manuelbompard
-👉 WhatsApp : https://whatsapp.com/channel/0029VaEf0Nb3WHTPQnoc610K
-👉 X (Twitter) : https://twitter.com/mbompard
-👉 Tiktok : https://www.tiktok.com/@manuelbompard
-👉 Instagram : https://www.instagram.com/manuelbompard/
-👉 Facebook : https://www.facebook.com/mbompard/
-👉 Linkedin : https://www.linkedin.com/in/manuelbompard/?originalSubdomain=fr</description>
-      <channelTitle>Manuel Bompard</channelTitle>
-      <videoId>HXFvv2F_ApA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/HXFvv2F_ApA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
