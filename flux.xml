@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 26 Nov 2026 09:45:54 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:01:10 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>JEAN-PHILIPPE TANGUY est l'invité de BFMTV !</title>
+      <link>https://www.youtube.com/watch?v=KYaS5zxC-Rg</link>
+      <guid>https://www.youtube.com/watch?v=KYaS5zxC-Rg</guid>
+      <pubDate>2026-11-26T09:46:06+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>KYaS5zxC-Rg</videoId>
+      <enclosure url="https://i.ytimg.com/vi/KYaS5zxC-Rg/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Réparer notre système de retraites | Au cœur de la campagne #5 avec J.P Tanguy et J. Sanchez</title>
       <link>https://www.youtube.com/watch?v=JiqOuePHGuc</link>
@@ -490,21 +503,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>StUB5RMggDU</videoId>
       <enclosure url="https://i.ytimg.com/vi/StUB5RMggDU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Retour sur l'audition du Préfet de Paris</title>
-      <link>https://www.youtube.com/watch?v=G3vXrJoZKDo</link>
-      <guid>https://www.youtube.com/watch?v=G3vXrJoZKDo</guid>
-      <pubDate>2026-11-25T05:46:08+00:00</pubDate>
-      <author>Ugo Bernalicis</author>
-      <description>Retour sur l’audition du préfet Faure dans le cadre de la commission d’enquête sur le 17 octobre.
-
-En reprenant méthodiquement les éléments de langage du ministre auditionné précédemment, le préfet de police de Paris a déroulé un discours parfaitement rodé, sans apporter de véritable éclairage sur les responsabilités.
-
-Plus les auditions s’enchaînent, plus une question s’impose : sommes-nous face à une inquiétante incompétence dans la gestion des événements ou à un laisser-faire coupable ?</description>
-      <channelTitle>Ugo Bernalicis</channelTitle>
-      <videoId>G3vXrJoZKDo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/G3vXrJoZKDo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
