@@ -4,8 +4,23 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 26 Nov 2026 06:15:50 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:31:01 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Héritage : du RN aux macronistes, une coalition pour protéger les grandes fortunes</title>
+      <link>https://www.youtube.com/watch?v=B9P99hnz17E</link>
+      <guid>https://www.youtube.com/watch?v=B9P99hnz17E</guid>
+      <pubDate>2026-11-26T06:30:40+00:00</pubDate>
+      <author>Eric Coquerel</author>
+      <description>Quelques milliers parmi les plus fortunés en France paient deux fois moins d’impôts que la moyenne des contribuables. Quant aux 0,1 % des plus gros héritiers, ils ne s’acquittent en moyenne que de 10 % de droits de succession.
+
+Ce n’est plus la réussite par le travail que l’on célèbre, mais la naissance au bon endroit d’une noblesse d’argent.
+
+En commission, les macronistes, LR et le RN ont à nouveau formé une coalition pour supprimer les deux articles de cette proposition de loi, empêchant ainsi tout débat sur une meilleure répartition de l’effort fiscal sur les successions.</description>
+      <channelTitle>Eric Coquerel</channelTitle>
+      <videoId>B9P99hnz17E</videoId>
+      <enclosure url="https://i.ytimg.com/vi/B9P99hnz17E/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>TVA, retraites, normes : Marine Le Pen face aux petits patrons en intégralité (LCI)</title>
       <link>https://www.youtube.com/watch?v=OCSuSmwXUuI</link>
@@ -528,55 +543,6 @@ Plus les auditions s’enchaînent, plus une question s’impose : sommes-nous f
       <channelTitle>Manuel Bompard</channelTitle>
       <videoId>HXFvv2F_ApA</videoId>
       <enclosure url="https://i.ytimg.com/vi/HXFvv2F_ApA/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>« Ma droite est étanche avec l'extrême droite » | Édouard Philippe sur LCI</title>
-      <link>https://www.youtube.com/watch?v=5j4UQiXCvnk</link>
-      <guid>https://www.youtube.com/watch?v=5j4UQiXCvnk</guid>
-      <pubDate>2026-11-24T21:15:21+00:00</pubDate>
-      <author>Edouard Philippe</author>
-      <description>Édouard Philippe était l'invité de Darius Rochebin sur LCI, en marge du Congrès des maires de France.
-
-Il veut donner plus de pouvoirs aux maires en matière de sécurité, avec des policiers municipaux officiers de police judiciaire et la vidéoprotection algorithmique. Il défend ses propositions pour un État plus léger et plus efficace : ne pas remplacer un fonctionnaire sur trois partant à la retraite, ouvrir la possibilité de contrats de droit privé dans les collectivités, et inscrire une règle d'or budgétaire dans la Constitution.
-
-Face au risque d'un second tour entre Marine Le Pen et Jean-Luc Mélenchon, il plaide pour le rassemblement de la droite et du centre, dans une étanchéité complète avec l'extrême droite. Il propose à David Lisnard un débat de fond avant Noël.
-
-« L'élection présidentielle se joue dans la dernière ligne droite. »
-
-0:00 Introduction
-0:17 L'enquête au Havre
-1:54 Plus de pouvoirs de sécurité pour les maires
-4:44 Fonction publique : 250 000 postes et contrats de droit privé
-8:15 Inscrire la règle d'or dans la Constitution
-10:30 Un État plus léger et plus efficace
-11:58 Second tour Le Pen-Mélenchon : « je ne choisis pas »
-17:04 David Lisnard, la tronçonneuse et le droit du travail
-19:34 Regarder l'histoire de France en face
-21:13 « Ma droite est étanche avec l'extrême droite »
-22:40 Février : chacun devra prendre ses responsabilités
-23:40 Un débat avec David Lisnard avant Noël
-29:29 Immigration et référendum
-32:00 Polarisation et violence politique
-32:55 Sondages : la leçon d'Ali-Foreman
-35:04 La date de l'élection
-35:44 La gravité du moment
-38:02 Le jour de la passation de pouvoir
-
-#ÉdouardPhilippe #LCI #Présidentielle2027
----
-Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
-
-→ Twitter : https://x.com/Avec_Edouard
-→ Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
-→ Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
-→ Linkedin : https://www.linkedin.com/company/avecedouard
-→ YouTube : https://www.youtube.com/@AvecEdouard
-→ TikTok : https://www.tiktok.com/@avec_edouard
-→ Telegram : https://t.me/HorizonsOff
-→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
-      <channelTitle>Edouard Philippe</channelTitle>
-      <videoId>5j4UQiXCvnk</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5j4UQiXCvnk/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
