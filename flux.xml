@@ -4,8 +4,27 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 26 Nov 2026 12:01:25 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:15:57 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Pfizer va-t-il recevoir un cadeau à 1 milliard d’euros du Gouvernement ?</title>
+      <link>https://www.youtube.com/watch?v=4awqWTTebwQ</link>
+      <guid>https://www.youtube.com/watch?v=4awqWTTebwQ</guid>
+      <pubDate>2026-11-26T12:12:55+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description>Pfizer va-t-il recevoir un cadeau à 1 milliard d’euros du Gouvernement ?
+
+Pfizer produit depuis plusieurs années le Vyndaqel pour traiter l’amylose cardiaque à transthyrétine : ce médicament coûte plus de 6 500€ par mois par patient ! C’est le médicament distribué en pharmacie qui a couté le plus cher à la Sécu : 1 milliard d’euros !
+
+Bonne nouvelle, ce médicament a un équivalent générique depuis le 19 novembre qui coûte 6 fois moins cher. MAIS Pfizer a tout verrouillé en gardant le monopole commercial sur 90% des cas du traitement de cette maladie, jusqu’en 2030, car en 2020, il bénéficiait du statut de médicament orphelin.
+
+Et sur le terrain, c'est le far west : les pharmaciens reçoivent des visites de Pfizer pour s’assurer qu’ils délivrent bien le médicament à 6 500€ et pas la version générique. Des cardiologues reçoivent des mails de Pfizer où il est répété trois fois que jusqu’en 2030, leur médicament est le seul traitement dans le traitement de cette forme d’amylose à transthyrétine.
+
+Que compte faire la ministre de la Santé pour arrêter ce braquage de la Sécu par les labos, pour faire des économies là où il est possible de les faire ?</description>
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>4awqWTTebwQ</videoId>
+      <enclosure url="https://i.ytimg.com/vi/4awqWTTebwQ/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Jordan Bardella est l'invité de Christine Kelly sur CNEWS !</title>
       <link>https://www.youtube.com/watch?v=ayuTCTcfTqU</link>
@@ -463,27 +482,6 @@ Pas question de donner ainsi un blanc-seing à l’échec économique et budgét
       <channelTitle>Eric Coquerel</channelTitle>
       <videoId>T-ulRaYAe1U</videoId>
       <enclosure url="https://i.ytimg.com/vi/T-ulRaYAe1U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fabien Roussel sur LCI | Travail, réindustrialisation, paix : quel projet pour 2027 ?</title>
-      <link>https://www.youtube.com/watch?v=D84PNgYnY6A</link>
-      <guid>https://www.youtube.com/watch?v=D84PNgYnY6A</guid>
-      <pubDate>2026-11-25T08:41:32+00:00</pubDate>
-      <author>PCF - Parti communiste français (PCF)</author>
-      <description>Comment redonner du pouvoir aux salariés, rouvrir des usines en France et rassembler une gauche capable de battre l’extrême droite ? Invité d’« Objectif 2027 » sur LCI, Fabien Roussel défend la semaine de 32 heures et propose de revoir l’utilisation des 211 milliards d’euros d’aides publiques aux entreprises. Sur la guerre en Ukraine, il plaide pour que la France reprenne l’initiative diplomatique.
-
-Retrouvez l’intégralité de son entretien avec Darius Rochebin, les trois scénarios de crise d’Alain Bauer, les questions politiques d’Élizabeth Martichoux, le débat économique avec Pascal Perri et le « Oui ou non » final.
-
-00:00 Présidentielle 2027 : quelle gauche pour battre l’extrême droite ?
-07:32 Guerre en Ukraine : quelle initiative pour la France ?
-10:03 Les trois questions d’Alain Bauer : maintien de l’ordre, ONU et ventes d’armes à l’Inde
-21:37 Avec Élizabeth Martichoux : pourquoi une candidature communiste ?
-33:25 Immigration : faut-il régulariser les travailleurs sans papiers ?
-41:54 Les questions économiques de Pascal Perri : salaires, 32 heures et services publics
-56:29 Le « Oui ou non » de Fabien Roussel</description>
-      <channelTitle>PCF - Parti communiste français (PCF)</channelTitle>
-      <videoId>D84PNgYnY6A</videoId>
-      <enclosure url="https://i.ytimg.com/vi/D84PNgYnY6A/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
