@@ -4,8 +4,33 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 26 Nov 2026 16:15:58 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:31:01 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Un accord fiscal France-Inde taillé pour le CAC 40 ?</title>
+      <link>https://www.youtube.com/watch?v=-2ReNndbKfM</link>
+      <guid>https://www.youtube.com/watch?v=-2ReNndbKfM</guid>
+      <pubDate>2026-11-26T16:15:55+00:00</pubDate>
+      <author>SOPHIA CHIKIROU</author>
+      <description>Présenté comme un moyen de « prévenir l’évasion fiscale », l’avenant à la convention fiscale entre la France et l’Inde prévoit surtout une baisse de la taxation des dividendes et des services techniques versés aux entreprises françaises implantées en Inde.
+
+Lors de son intervention à l’Assemblée nationale, Sophia Chikirou dénonce un texte qui accorde de nouveaux avantages fiscaux aux grands groupes, sans que le gouvernement soit capable d’en chiffrer le coût ou les recettes attendues. Elle interroge également la précipitation du gouvernement à faire adopter cet accord et les relations privilégiées entretenues avec le pouvoir de Narendra Modi.
+
+Alors que la DGFiP perd des moyens et des effectifs, Sophia Chikirou rappelle que la lutte contre l’évasion fiscale exige des moyens réels et une politique de contrôle ambitieuse.
+
+Le groupe La France insoumise s’abstient.
+
+______
+Pour suivre mes prochaines interventions : 
+Twitter : https://x.com/chikirouparis
+Instagram :   / sophia.chikirou  
+Facebook :   / sophiachikirouparis  
+TikTok :   / sophiachikirou  
+Telegram : @sophiachikirouParis</description>
+      <channelTitle>SOPHIA CHIKIROU</channelTitle>
+      <videoId>-2ReNndbKfM</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-2ReNndbKfM/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>« Nous engagerons la libération de l'économie » | Marine Le Pen, à la rencontre d'un artisan boucher</title>
       <link>https://www.youtube.com/watch?v=WRoZTcqd-J4</link>
@@ -489,21 +514,6 @@ TikTok : aurore_berge</description>
       <channelTitle>Aurore Bergé</channelTitle>
       <videoId>YsYtTCcHwYI</videoId>
       <enclosure url="https://i.ytimg.com/vi/YsYtTCcHwYI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Journée internationale pour l’élimination de la violence à l’égard des femmes.</title>
-      <link>https://www.youtube.com/watch?v=qZNRK9xSaCw</link>
-      <guid>https://www.youtube.com/watch?v=qZNRK9xSaCw</guid>
-      <pubDate>2026-11-25T09:19:28+00:00</pubDate>
-      <author>Emmanuel Macron</author>
-      <description>Aucune femme ne doit vivre dans la peur. Ne nous résignons jamais face aux violences. Continuons à nous mobiliser pour y mettre fin.
-
-Du Grenelle des violences conjugales en 2019 aux travaux sur la proposition de loi intégrale contre les violences sexistes et sexuelles, les associations, les professionnels et les parlementaires n’ont cessé de s’engager. 
-
-Je continuerai d’agir à leurs côtés pour que les femmes victimes de violences soient mieux protégées et accompagnées dans la durée.</description>
-      <channelTitle>Emmanuel Macron</channelTitle>
-      <videoId>qZNRK9xSaCw</videoId>
-      <enclosure url="https://i.ytimg.com/vi/qZNRK9xSaCw/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
