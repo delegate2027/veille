@@ -4,8 +4,37 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 26 Nov 2026 21:31:02 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:45:46 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Éric Zemmour sur CNews : Je veux que mes enfants aient un avenir Français</title>
+      <link>https://www.youtube.com/watch?v=zplSsiIX7mc</link>
+      <guid>https://www.youtube.com/watch?v=zplSsiIX7mc</guid>
+      <pubDate>2026-11-26T21:28:03+00:00</pubDate>
+      <author>Éric Zemmour</author>
+      <description>Éric Zemmour, écrivain et président de Reconquête, était l’invité de Objectif Élysée 2027 sur CNews.
+
+1️⃣ Likez la vidéo, abonnez-vous à ma chaîne YouTube en cliquant sur le bouton « S’abonner », et activez la cloche 🔔 et partagez cette vidéo à vos proches !
+2️⃣ Adhérez à RECONQUÊTE : https://www.parti-reconquete.fr/adhesions
+3️⃣ Faites un don : https://soutien.ericzemmour.fr
+
+#EricZemmour
+
+📱 Suivez-moi sur les réseaux sociaux : 
+
+Facebook : https://www.facebook.com/ZemmourEric
+Twitter : https://twitter.com/ZemmourEric
+Instagram : https://www.instagram.com/ericzemmour_/
+LinkedIn : https://www.linkedin.com/in/eric-zemmour/
+WhatsApp : https://whatsapp.com/channel/0029Va8tObJE50UnrZc5c13h
+Telegram : https://t.me/EricZemmourOfficiel
+TikTok : https://www.tiktok.com/@zemmour_eric
+
+📖 Commandez la version augmentée de mon livre Le Suicide français : https://www.amazon.fr/suicide-français-Eric-Zemmour/dp/2818507928/ref=tmm_mmp_swatch_0?_encoding=UTF8&amp;amp;dib_tag=se&amp;amp;dib=eyJ2IjoiMSJ9.QHuIbjdvWA2uncNV0zlaju0WXY583mDf7emcwqB7FtL_TfQqKt_3JiXNJnmXYeDkHDQNONHP4dql9KQFUBqy0ISgUqLSQfVDY2JC9H1wi2lW7Zx-fjO5bjcUA7ulUiDh1L07Vr_bKBdea8snGZUWVA.9-Tjg4JBIAkQ_5nt-5pC1aOZRmdEIAt63SW00LnnFaI&amp;amp;qid=1789369244&amp;amp;sr=8-1</description>
+      <channelTitle>Éric Zemmour</channelTitle>
+      <videoId>zplSsiIX7mc</videoId>
+      <enclosure url="https://i.ytimg.com/vi/zplSsiIX7mc/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EN DIRECT | Jordan Bardella est l'invité de Christine Kelly sur CNEWS !</title>
       <link>https://www.youtube.com/watch?v=ayuTCTcfTqU</link>
@@ -528,21 +557,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>_sICqBPlQwI</videoId>
       <enclosure url="https://i.ytimg.com/vi/_sICqBPlQwI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Budget, logement, précarité étudiante et AESH : retrouvez mon passage sur LCP !</title>
-      <link>https://www.youtube.com/watch?v=8OSZAgwwsc4</link>
-      <guid>https://www.youtube.com/watch?v=8OSZAgwwsc4</guid>
-      <pubDate>2026-11-25T10:47:49+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Après les Questions au Gouvernement, débrief et échange avec quatre citoyens sur le plateau de LCP.
-
-Aurélie Trouvé répond aux questions et problématiques sur les thèmes suivants : Budget, logement, précarité étudiante et AESH.
-
-Bon visionnage !</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>8OSZAgwwsc4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8OSZAgwwsc4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
