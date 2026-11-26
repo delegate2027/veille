@@ -4,8 +4,29 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 26 Nov 2026 11:01:35 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:15:42 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>David Lisnard invité du 20h sur France 2</title>
+      <link>https://www.youtube.com/watch?v=shs20ss0JCI</link>
+      <guid>https://www.youtube.com/watch?v=shs20ss0JCI</guid>
+      <pubDate>2026-11-26T11:11:30+00:00</pubDate>
+      <author>David Lisnard</author>
+      <description>David Lisnard était l'invité de Jean-Baptiste Marteau et Neïla Latrous hier soir au 20 h de France 2. 
+
+Suivez moi sur mes réseaux 👇
+
+Instagram : https://www.instagram.com/davidlisnard/
+X : https://x.com/davidlisnard
+Facebook : https://www.facebook.com/lisnard.david
+Tik Tok : https://www.tiktok.com/@david.lisnard
+LinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/
+
+Adhérer à Nouvelle Énergie 👉: https://soutenir.unenouvelleenergie.fr/adhesion</description>
+      <channelTitle>David Lisnard</channelTitle>
+      <videoId>shs20ss0JCI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/shs20ss0JCI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>JEAN-PHILIPPE TANGUY est l'invité de BFMTV !</title>
       <link>https://www.youtube.com/watch?v=KYaS5zxC-Rg</link>
@@ -490,21 +511,6 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>StUB5RMggDU</videoId>
       <enclosure url="https://i.ytimg.com/vi/StUB5RMggDU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Retour sur l'audition du Préfet de Paris</title>
-      <link>https://www.youtube.com/watch?v=G3vXrJoZKDo</link>
-      <guid>https://www.youtube.com/watch?v=G3vXrJoZKDo</guid>
-      <pubDate>2026-11-25T05:46:08+00:00</pubDate>
-      <author>Ugo Bernalicis</author>
-      <description>Retour sur l’audition du préfet Faure dans le cadre de la commission d’enquête sur le 17 octobre.
-
-En reprenant méthodiquement les éléments de langage du ministre auditionné précédemment, le préfet de police de Paris a déroulé un discours parfaitement rodé, sans apporter de véritable éclairage sur les responsabilités.
-
-Plus les auditions s’enchaînent, plus une question s’impose : sommes-nous face à une inquiétante incompétence dans la gestion des événements ou à un laisser-faire coupable ?</description>
-      <channelTitle>Ugo Bernalicis</channelTitle>
-      <videoId>G3vXrJoZKDo</videoId>
-      <enclosure url="https://i.ytimg.com/vi/G3vXrJoZKDo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
