@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 26 Nov 2026 16:45:40 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:01:30 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Je lis les mails qu'envoie Pfizer aux professionnels de santé à l'Assemblée</title>
@@ -164,19 +164,6 @@ Adhérer à Nouvelle Énergie 👉: https://soutenir.unenouvelleenergie.fr/adhes
       <channelTitle>David Lisnard</channelTitle>
       <videoId>shs20ss0JCI</videoId>
       <enclosure url="https://i.ytimg.com/vi/shs20ss0JCI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>JEAN-PHILIPPE TANGUY est l'invité de BFMTV !</title>
-      <link>https://www.youtube.com/watch?v=KYaS5zxC-Rg</link>
-      <guid>https://www.youtube.com/watch?v=KYaS5zxC-Rg</guid>
-      <pubDate>2026-11-26T09:46:06+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>KYaS5zxC-Rg</videoId>
-      <enclosure url="https://i.ytimg.com/vi/KYaS5zxC-Rg/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>La mer : un territoire stratégique qu’il faut enfin gouverner !</title>
@@ -506,6 +493,25 @@ Bon visionnage !</description>
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>h628f3PYY68</videoId>
       <enclosure url="https://i.ytimg.com/vi/h628f3PYY68/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Aurore Bergé sur CNews et Europe 1 - 25 novembre 2026</title>
+      <link>https://www.youtube.com/watch?v=YsYtTCcHwYI</link>
+      <guid>https://www.youtube.com/watch?v=YsYtTCcHwYI</guid>
+      <pubDate>2026-11-25T10:26:20+00:00</pubDate>
+      <author>Aurore Bergé</author>
+      <description>Aurore Bergé sur CNews et Europe 1 - 25 novembre 2026
+
+Vous pouvez me suivre sur : 
+Mon site : https://www.auroreberge.fr 
+Facebook :  auroreberge    
+Twitter : auroreberge   
+Instagram :  auroreberge.fr
+Telegram : https://t.me/Aurore_Berge
+TikTok : aurore_berge</description>
+      <channelTitle>Aurore Bergé</channelTitle>
+      <videoId>YsYtTCcHwYI</videoId>
+      <enclosure url="https://i.ytimg.com/vi/YsYtTCcHwYI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
