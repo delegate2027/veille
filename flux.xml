@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 26 Nov 2026 15:45:53 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:01:19 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>🔴 EN DIRECT | Conférence de presse : une vision pour l'outre-mer, la France au grand large</title>
+      <link>https://www.youtube.com/watch?v=7ioMrHabxuY</link>
+      <guid>https://www.youtube.com/watch?v=7ioMrHabxuY</guid>
+      <pubDate>2026-11-26T15:38:31+00:00</pubDate>
+      <author>Marine Le Pen</author>
+      <description>🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
+
+Retrouvez en direct la conférence de presse « Une vision pour l'outre-mer : la France au grand large », vendredi 27 novembre à 11h00.</description>
+      <channelTitle>Marine Le Pen</channelTitle>
+      <videoId>7ioMrHabxuY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/7ioMrHabxuY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Du 17 OCTOBRE au 25 NOVEMBRE : le mouvement FÉMINISTE face à la GEN Z</title>
       <link>https://www.youtube.com/watch?v=FBHqRjHugsk</link>
@@ -486,21 +499,6 @@ Je continuerai d’agir à leurs côtés pour que les femmes victimes de violenc
       <channelTitle>Emmanuel Macron</channelTitle>
       <videoId>qZNRK9xSaCw</videoId>
       <enclosure url="https://i.ytimg.com/vi/qZNRK9xSaCw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Projet de loi de fin de gestion... ou de galère ! - Mon discours</title>
-      <link>https://www.youtube.com/watch?v=T-ulRaYAe1U</link>
-      <guid>https://www.youtube.com/watch?v=T-ulRaYAe1U</guid>
-      <pubDate>2026-11-25T09:00:35+00:00</pubDate>
-      <author>Eric Coquerel</author>
-      <description>Retrouvez le discours d'Eric Coquerel sur le vote final du projet de loi de fin de gestion, le mardi 24 novembre 2026 à l'Assemblée.
-
-Impossible de voter pour un texte qui entérine en fin d’année les rectifications importantes du budget. Cela aurait dû se faire par un PLFR. Depuis 3 ans, non seulement l’Assemblée n’est plus appelée à voter les lois de finances, mais en plus, de fait, on l’empêche de se prononcer sur ses modifications.
-
-Pas question de donner ainsi un blanc-seing à l’échec économique et budgétaire qui s’abrite derrière ce Projet de loi de gin de galère du macronisme.</description>
-      <channelTitle>Eric Coquerel</channelTitle>
-      <videoId>T-ulRaYAe1U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/T-ulRaYAe1U/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
