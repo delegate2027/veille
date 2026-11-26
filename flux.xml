@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 26 Nov 2026 10:45:54 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:01:35 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>JEAN-PHILIPPE TANGUY est l'invité de BFMTV !</title>
@@ -445,19 +445,6 @@ Retrouvez l’intégralité de son entretien avec Darius Rochebin, les trois sc�
       <enclosure url="https://i.ytimg.com/vi/D84PNgYnY6A/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>JEAN-PHILIPPE TANGUY est l'invité de FRANCE INFO !</title>
-      <link>https://www.youtube.com/watch?v=W2b4e_s6IxM</link>
-      <guid>https://www.youtube.com/watch?v=W2b4e_s6IxM</guid>
-      <pubDate>2026-11-25T08:39:17+00:00</pubDate>
-      <author>Rassemblement National</author>
-      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
-
-💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
-      <channelTitle>Rassemblement National</channelTitle>
-      <videoId>W2b4e_s6IxM</videoId>
-      <enclosure url="https://i.ytimg.com/vi/W2b4e_s6IxM/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>CE QUE PERSONNE NE VOUS DIT SUR LA JUSTICE EN FRANCE (ET CE QUE JE PROPOSE)</title>
       <link>https://www.youtube.com/watch?v=StUB5RMggDU</link>
       <guid>https://www.youtube.com/watch?v=StUB5RMggDU</guid>
@@ -503,6 +490,21 @@ Sur Telegram : https://t.me/gabriel_attal</description>
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>StUB5RMggDU</videoId>
       <enclosure url="https://i.ytimg.com/vi/StUB5RMggDU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Retour sur l'audition du Préfet de Paris</title>
+      <link>https://www.youtube.com/watch?v=G3vXrJoZKDo</link>
+      <guid>https://www.youtube.com/watch?v=G3vXrJoZKDo</guid>
+      <pubDate>2026-11-25T05:46:08+00:00</pubDate>
+      <author>Ugo Bernalicis</author>
+      <description>Retour sur l’audition du préfet Faure dans le cadre de la commission d’enquête sur le 17 octobre.
+
+En reprenant méthodiquement les éléments de langage du ministre auditionné précédemment, le préfet de police de Paris a déroulé un discours parfaitement rodé, sans apporter de véritable éclairage sur les responsabilités.
+
+Plus les auditions s’enchaînent, plus une question s’impose : sommes-nous face à une inquiétante incompétence dans la gestion des événements ou à un laisser-faire coupable ?</description>
+      <channelTitle>Ugo Bernalicis</channelTitle>
+      <videoId>G3vXrJoZKDo</videoId>
+      <enclosure url="https://i.ytimg.com/vi/G3vXrJoZKDo/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
