@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Thu, 26 Nov 2026 16:31:01 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:45:40 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Je lis les mails qu'envoie Pfizer aux professionnels de santé à l'Assemblée</title>
+      <link>https://www.youtube.com/watch?v=vwG3Vr5mWII</link>
+      <guid>https://www.youtube.com/watch?v=vwG3Vr5mWII</guid>
+      <pubDate>2026-11-26T16:35:04+00:00</pubDate>
+      <author>DAMIEN MAUDET</author>
+      <description />
+      <channelTitle>DAMIEN MAUDET</channelTitle>
+      <videoId>vwG3Vr5mWII</videoId>
+      <enclosure url="https://i.ytimg.com/vi/vwG3Vr5mWII/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Un accord fiscal France-Inde taillé pour le CAC 40 ?</title>
       <link>https://www.youtube.com/watch?v=-2ReNndbKfM</link>
@@ -495,25 +506,6 @@ Bon visionnage !</description>
       <channelTitle>Gabrielle Cathala</channelTitle>
       <videoId>h628f3PYY68</videoId>
       <enclosure url="https://i.ytimg.com/vi/h628f3PYY68/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Aurore Bergé sur CNews et Europe 1 - 25 novembre 2026</title>
-      <link>https://www.youtube.com/watch?v=YsYtTCcHwYI</link>
-      <guid>https://www.youtube.com/watch?v=YsYtTCcHwYI</guid>
-      <pubDate>2026-11-25T10:26:20+00:00</pubDate>
-      <author>Aurore Bergé</author>
-      <description>Aurore Bergé sur CNews et Europe 1 - 25 novembre 2026
-
-Vous pouvez me suivre sur : 
-Mon site : https://www.auroreberge.fr 
-Facebook :  auroreberge    
-Twitter : auroreberge   
-Instagram :  auroreberge.fr
-Telegram : https://t.me/Aurore_Berge
-TikTok : aurore_berge</description>
-      <channelTitle>Aurore Bergé</channelTitle>
-      <videoId>YsYtTCcHwYI</videoId>
-      <enclosure url="https://i.ytimg.com/vi/YsYtTCcHwYI/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
