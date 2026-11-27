@@ -4,8 +4,21 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 27 Nov 2026 14:45:51 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:01:38 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>SÉBASTIEN CHENU est l'invité de FRANCE INFO !</title>
+      <link>https://www.youtube.com/watch?v=Nd_73agJ7Zs</link>
+      <guid>https://www.youtube.com/watch?v=Nd_73agJ7Zs</guid>
+      <pubDate>2026-11-27T15:00:33+00:00</pubDate>
+      <author>Rassemblement National</author>
+      <description>🚀 Rejoignez-nous : https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video
+
+💪🏻 Participez à la campagne de Marine Le Pen : https://marinelepen.com/</description>
+      <channelTitle>Rassemblement National</channelTitle>
+      <videoId>Nd_73agJ7Zs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Nd_73agJ7Zs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>David Lisnard invité de France Inter face à Benjamin Duhamel</title>
       <link>https://www.youtube.com/watch?v=QyRCC9dCZ9s</link>
@@ -509,33 +522,6 @@ Telegram : https://t.me/gabriel_attal
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>-8jS5KA2l_c</videoId>
       <enclosure url="https://i.ytimg.com/vi/-8jS5KA2l_c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Épisode spécial #LVD : Rencontre avec Sandrine Josso | Mouvement Démocrate</title>
-      <link>https://www.youtube.com/watch?v=Z1iPezhEuiY</link>
-      <guid>https://www.youtube.com/watch?v=Z1iPezhEuiY</guid>
-      <pubDate>2026-11-25T15:22:15+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Épisode spécial #LVD : Rencontre avec Sandrine Josso | Mouvement Démocrate
-
-Dans cet épisode spécial de notre podcast démocrate, notre députée Sandrine Josso revient sur son combat contre la soumission chimique et appelle à briser les tabous autour des violences sexuelles pour toujours mieux protéger les victimes.
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-X : https://x.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/
-Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
-LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
-Telegram : @MouvementDemocrate</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>Z1iPezhEuiY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Z1iPezhEuiY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
