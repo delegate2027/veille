@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 27 Nov 2026 21:31:09 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:46:12 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Conférence de Jean-Luc Mélenchon à Berlin</title>
@@ -191,43 +191,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>_S3Ew8eZHJU</videoId>
       <enclosure url="https://i.ytimg.com/vi/_S3Ew8eZHJU/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Outre-mer : le projet de Marine Le Pen pour la France au grand large | Conférence de presse</title>
-      <link>https://www.youtube.com/watch?v=7ioMrHabxuY</link>
-      <guid>https://www.youtube.com/watch?v=7ioMrHabxuY</guid>
-      <pubDate>2026-11-27T11:07:15+00:00</pubDate>
-      <author>Marine Le Pen</author>
-      <description>Marine Le Pen présente sa vision pour l'outre-mer : « La France au grand large », lors d'une conférence de presse, le vendredi 27 novembre, puis répond aux questions des journalistes.
-
-Au programme : un grand ministère d'État des Outre-mer et du domaine maritime, un conseil interministériel dédié au moins deux fois par an, la lutte contre la vie chère et la réforme de l'octroi de mer, la sécurité et la reconstruction de Mayotte, l'exception agriculturelle, l'accès aux soins et la continuité territoriale.
-
-CHAPITRES
-0:00 Le discours de Marine Le Pen : le constat
-4:16 Le projet présidentiel : un grand ministère d'État des Outre-mer et du domaine maritime
-7:36 La France, puissance d'équilibre dans le Pacifique et l'Indo-Pacifique
-8:28 Statut institutionnel des territoires
-12:36 Vie chère : la réforme de l'octroi de mer
-15:48 Sécurité, immigration et reconstruction de Mayotte
-19:08 Agriculture, santé et conclusion du discours
-23:00 Question du Monde : l'évolution statutaire
-26:07 Question de franceinfo : les déplacements en Outre-mer
-29:02 Question de RFI : les Antilles
-30:43 Question de France Télévisions : octroi de mer et concurrence
-33:07 Question de TF1-LCI : l'agriculture
-35:02 Question de BFMTV : l'Ukraine
-36:56 Question du Monde
-44:23 Question de France 2
-48:17 Question du Journal
-50:08 Question sur la loi de programmation Outre-mer
-52:57 Question de France-Antilles : le lien avec l'Hexagone
-
-🔔 Abonnez-vous à la chaîne de Marine Le Pen : https://www.youtube.com/@MarineLePenOfficiel?sub_confirmation=1
-
-#MarineLePen #OutreMer #ConférenceDePresse</description>
-      <channelTitle>Marine Le Pen</channelTitle>
-      <videoId>7ioMrHabxuY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/7ioMrHabxuY/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Jordan Bardella sur CNEWS : « Le danger de cette présidentielle c'est de continuer comme avant ! »</title>
@@ -506,6 +469,26 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>5iBgBg0wsHs</videoId>
       <enclosure url="https://i.ytimg.com/vi/5iBgBg0wsHs/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Ce budget, c'est la facture de 10 ans de macronisme !" Boris Vallaud sur RMC</title>
+      <link>https://www.youtube.com/watch?v=Kaaw94-lSxA</link>
+      <guid>https://www.youtube.com/watch?v=Kaaw94-lSxA</guid>
+      <pubDate>2026-11-25T13:47:46+00:00</pubDate>
+      <author>BorisVallaud</author>
+      <description>Boris Vallaud était l'invité de RMC ce mercredi 25 novembre 2026.
+_____________________________________
+
+Suivez-moi sur les réseaux sociaux
+
+Twitter :  https://x.com/BorisVallaud
+Facebook :  https://www.facebook.com/BVallaud
+Instagram :  https://www.instagram.com/borisvallaud/ 
+Tiktok : https://www.tiktok.com/@borisvallaud
+Youtube : https://www.youtube.com/@Boris_Vallaud</description>
+      <channelTitle>BorisVallaud</channelTitle>
+      <videoId>Kaaw94-lSxA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Kaaw94-lSxA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
