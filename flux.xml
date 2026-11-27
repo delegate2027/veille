@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 27 Nov 2026 09:45:42 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:01:08 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Un autre monde est possible ! (Manon Aubry face à France Info)</title>
@@ -99,45 +99,6 @@ La Ministre de la Santé va-t-elle demander à l'agence européenne du médicame
       <channelTitle>DAMIEN MAUDET</channelTitle>
       <videoId>N3pVjztaXuw</videoId>
       <enclosure url="https://i.ytimg.com/vi/N3pVjztaXuw/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Répression et loi « Casseur-payeur » : bilan de 10 ans sous Macron | Roger Vicot - Libertés chéries</title>
-      <link>https://www.youtube.com/watch?v=RBlNtksy0qQ</link>
-      <guid>https://www.youtube.com/watch?v=RBlNtksy0qQ</guid>
-      <pubDate>2026-11-26T18:31:29+00:00</pubDate>
-      <author>PS - Parti socialiste</author>
-      <description>« Je ne donnerai aucune consigne de modération. » Avec cette phrase du ministre de l’Intérieur, le pouvoir a assumé un tournant brutal dans le maintien de l’ordre en France. Dans ce nouvel épisode de notre série « Libertés chéries », Roger Vicot, député du Nord et spécialiste des questions de sécurité, analyse les dérives autoritaires de 10 ans de macronisme et les atteintes répétées au droit de manifester.
-
-
-Face à une jeunesse qui s’engage et à des mobilisations citoyennes légitimes, le Gouvernement fait le choix de l’affrontement plutôt que de l’écoute. De la transformation des forces de l’ordre en « police de confrontation » jusqu’aux lois d’exception comme la loi « casseur-payeur » — qui rend coupables jusqu’aux simples manifestants présents autour —, la doctrine du tout-répressif abîme à la fois nos libertés publiques et le lien de confiance indispensable entre la population et la police nationale.   
-
-Dans cet entretien, Roger Vicot décrypte l’impasse politique et budgétaire du pouvoir actuel et porte l’alternative des Socialistes :
-- Sortir de la logique d’affrontement pour rebâtir une véritable police de proximité au service de la population.
-- Former une nouvelle génération de policiers dans le respect strict de l’État de droit et du cadre républicain.
-- Protéger la liberté de manifester paisiblement, pilier essentiel de notre démocratie.
-- Réconcilier sécurité républicaine et libertés fondamentales, loin des surenchères de la droite et de l’extrême droite.   
-
-📍 Chapitres de la vidéo :
-00:00 : Introduction
-00:20 : « Aucune consigne de modération » : le tournant du maintien de l’ordre
-2:46 : De la police de proximité à la police de confrontation
-9:48 : Loi « casseur-payeur » et dérive autoritaire
-12:28 : 10 ans de macronisme : l’impasse face à la jeunesse
-
---
-Suivez-nous sur les réseaux sociaux :
-➡️  https://x.com/partisocialiste
-➡️  https://bsky.app/profile/partisocialiste
-➡️  https://www.instagram.com/partisocialiste 
-➡️  https://www.facebook.com/partisocialiste 
-➡️  https://www.tiktok.com/@partisocialiste
-➡️  https://t.me/partisocialiste
-➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
-
-🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
-      <channelTitle>PS - Parti socialiste</channelTitle>
-      <videoId>RBlNtksy0qQ</videoId>
-      <enclosure url="https://i.ytimg.com/vi/RBlNtksy0qQ/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>« La GEN Z est capable de FAIRE TOMBER le système CAPITALISTE » : Alexis Durey au meeting de RP</title>
@@ -552,6 +513,21 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>_sICqBPlQwI</videoId>
       <enclosure url="https://i.ytimg.com/vi/_sICqBPlQwI/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Budget, logement, précarité étudiante et AESH : retrouvez mon passage sur LCP !</title>
+      <link>https://www.youtube.com/watch?v=8OSZAgwwsc4</link>
+      <guid>https://www.youtube.com/watch?v=8OSZAgwwsc4</guid>
+      <pubDate>2026-11-25T10:47:49+00:00</pubDate>
+      <author>Aurélie Trouvé - Députée</author>
+      <description>Après les Questions au Gouvernement, débrief et échange avec quatre citoyens sur le plateau de LCP.
+
+Aurélie Trouvé répond aux questions et problématiques sur les thèmes suivants : Budget, logement, précarité étudiante et AESH.
+
+Bon visionnage !</description>
+      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
+      <videoId>8OSZAgwwsc4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/8OSZAgwwsc4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
