@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 27 Nov 2026 19:01:09 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:15:41 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Pacte pour la jeunesse</title>
@@ -253,26 +253,6 @@ vendredi 27 novembre</description>
       <channelTitle>Rassemblement National</channelTitle>
       <videoId>trGaqgtALm8</videoId>
       <enclosure url="https://i.ytimg.com/vi/trGaqgtALm8/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EN DIRECT | Jordan Bardella est l'invité de Christine Kelly sur CNEWS !</title>
-      <link>https://www.youtube.com/watch?v=ayuTCTcfTqU</link>
-      <guid>https://www.youtube.com/watch?v=ayuTCTcfTqU</guid>
-      <pubDate>2026-11-26T19:08:34+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
-
-Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>ayuTCTcfTqU</videoId>
-      <enclosure url="https://i.ytimg.com/vi/ayuTCTcfTqU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Vyndaqel : la ministre me répond, mais elle se trompe !</title>
@@ -530,6 +510,17 @@ Telegram : https://t.me/gabriel_attal
       <channelTitle>Gabriel Attal</channelTitle>
       <videoId>E7qqt9xI_eU</videoId>
       <enclosure url="https://i.ytimg.com/vi/E7qqt9xI_eU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Madame la Ministre, considérez-vous les fraises tagada comme un fruit ?</title>
+      <link>https://www.youtube.com/watch?v=-8jS5KA2l_c</link>
+      <guid>https://www.youtube.com/watch?v=-8jS5KA2l_c</guid>
+      <pubDate>2026-11-25T15:40:24+00:00</pubDate>
+      <author>Les Écologistes</author>
+      <description>Notre député, Boris Tavernier, interpelle la ministre de l'Agroalimentaire au sujet de la nomination de l'ex-PDG d'Haribo à la tête du comité de suivi de la stratégie alimentaire de l'État.</description>
+      <channelTitle>Les Écologistes</channelTitle>
+      <videoId>-8jS5KA2l_c</videoId>
+      <enclosure url="https://i.ytimg.com/vi/-8jS5KA2l_c/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
