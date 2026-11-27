@@ -4,8 +4,28 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 27 Nov 2026 10:15:44 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:30:57 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Jordan Bardella sur CNEWS : « Le danger de cette présidentielle c'est de continuer comme avant ! »</title>
+      <link>https://www.youtube.com/watch?v=PEm8fSyNl5U</link>
+      <guid>https://www.youtube.com/watch?v=PEm8fSyNl5U</guid>
+      <pubDate>2026-11-27T10:21:42+00:00</pubDate>
+      <author>Jordan Bardella</author>
+      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
+
+Suivez-moi sur mes réseaux sociaux ! ⤵️
+🔵 Facebook : https://www.facebook.com/JordanBardella
+📸 Instagram : https://www.instagram.com/jordanbardella/
+🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
+⚫️ X : https://x.com/J_Bardella
+📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
+
+🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
+      <channelTitle>Jordan Bardella</channelTitle>
+      <videoId>PEm8fSyNl5U</videoId>
+      <enclosure url="https://i.ytimg.com/vi/PEm8fSyNl5U/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Un autre monde est possible ! (Manon Aubry face à France Info)</title>
       <link>https://www.youtube.com/watch?v=RTCS9bLc4Hw</link>
@@ -513,21 +533,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>_sICqBPlQwI</videoId>
       <enclosure url="https://i.ytimg.com/vi/_sICqBPlQwI/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Budget, logement, précarité étudiante et AESH : retrouvez mon passage sur LCP !</title>
-      <link>https://www.youtube.com/watch?v=8OSZAgwwsc4</link>
-      <guid>https://www.youtube.com/watch?v=8OSZAgwwsc4</guid>
-      <pubDate>2026-11-25T10:47:49+00:00</pubDate>
-      <author>Aurélie Trouvé - Députée</author>
-      <description>Après les Questions au Gouvernement, débrief et échange avec quatre citoyens sur le plateau de LCP.
-
-Aurélie Trouvé répond aux questions et problématiques sur les thèmes suivants : Budget, logement, précarité étudiante et AESH.
-
-Bon visionnage !</description>
-      <channelTitle>Aurélie Trouvé - Députée</channelTitle>
-      <videoId>8OSZAgwwsc4</videoId>
-      <enclosure url="https://i.ytimg.com/vi/8OSZAgwwsc4/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
