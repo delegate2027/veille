@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 27 Nov 2026 11:31:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:46:03 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Le combat des Ukrainiens c'est aussi le nôtre, pour la sécurité de l'Europe | Jean-Noël Barrot</title>
@@ -31,6 +31,27 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>at6fwEMM2ss</videoId>
       <enclosure url="https://i.ytimg.com/vi/at6fwEMM2ss/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Il y a besoin d'une grande remise à plat de la relation franco-allemande</title>
+      <link>https://www.youtube.com/watch?v=_S3Ew8eZHJU</link>
+      <guid>https://www.youtube.com/watch?v=_S3Ew8eZHJU</guid>
+      <pubDate>2026-11-27T11:28:28+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un point presse à Berlin, le 27 novembre 2026.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>_S3Ew8eZHJU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_S3Ew8eZHJU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>David Lisnard invité de l'émission C À VOUS sur France 5</title>
@@ -501,27 +522,6 @@ Mes réseaux sociaux
       <channelTitle>Danièle Obono</channelTitle>
       <videoId>5iBgBg0wsHs</videoId>
       <enclosure url="https://i.ytimg.com/vi/5iBgBg0wsHs/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La mer est une infrastructure stratégique pour la France</title>
-      <link>https://www.youtube.com/watch?v=I3PaiE_Ys74</link>
-      <guid>https://www.youtube.com/watch?v=I3PaiE_Ys74</guid>
-      <pubDate>2026-11-25T14:15:12+00:00</pubDate>
-      <author>JEAN-LUC MÉLENCHON</author>
-      <description>Jean-Luc Mélenchon est intervenu à l'occasion des Assises de l'économie de la mer à Montpellier, le 25 novembre 2026.
-
-**SUIVEZ-MOI SUR**
-- Twitch : https://www.twitch.tv/jlmelenchon 
-- Tiktok : https://www.tiktok.com/@jlmelenchon  
-- Facebook : https://www.facebook.com/JLMelenchon/ 
-- Twitter :  https://twitter.com/JLMelenchon
-- Instagram : https://www.instagram.com/jlmelenchon/
-- Threads : https://www.threads.net/@jlmelenchon 
-- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
-- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
-      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
-      <videoId>I3PaiE_Ys74</videoId>
-      <enclosure url="https://i.ytimg.com/vi/I3PaiE_Ys74/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
