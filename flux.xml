@@ -4,8 +4,19 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 27 Nov 2026 13:01:09 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:15:47 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>😴 Le casting pourri de la droite : tous nuls d'Attal à Lisnard ! | Aurélien Saintoul sur @BFMTV</title>
+      <link>https://www.youtube.com/watch?v=0HbivRG51Mk</link>
+      <guid>https://www.youtube.com/watch?v=0HbivRG51Mk</guid>
+      <pubDate>2026-11-27T13:02:01+00:00</pubDate>
+      <author>Aurélien Saintoul - Député des Hauts-de-Seine</author>
+      <description>J’étais invité ce matin par BFMTV à m’exprimer sur la campagne présidentielle, le racisme et l’antisémitisme de Bardella et du RN ainsi que le rassemblement de la gauche derrière Jean-Luc #Mélenchon. Finalement, nous avons surtout assisté au grand déballage des querelles de chapelle à droite : chacun cherche désespérément le candidat pour empêcher la France insoumise d’accéder au second tour ! Dans ce conclave anti-Mélenchon (mais très clément avec Marine #LePen) j’ai tout de même pu rappeler quelques vérités aux représentants des macronistes, de David #Lisnard et de Bruno Retailleau…</description>
+      <channelTitle>Aurélien Saintoul - Député des Hauts-de-Seine</channelTitle>
+      <videoId>0HbivRG51Mk</videoId>
+      <enclosure url="https://i.ytimg.com/vi/0HbivRG51Mk/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Le combat des Ukrainiens c'est aussi le nôtre, pour la sécurité de l'Europe | Jean-Noël Barrot</title>
       <link>https://www.youtube.com/watch?v=at6fwEMM2ss</link>
@@ -501,27 +512,6 @@ Telegram : @MouvementDemocrate</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>Z1iPezhEuiY</videoId>
       <enclosure url="https://i.ytimg.com/vi/Z1iPezhEuiY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🏛️ Lutte contre les VSS : GLOIRE aux associations, HONTE à la macronie !</title>
-      <link>https://www.youtube.com/watch?v=5iBgBg0wsHs</link>
-      <guid>https://www.youtube.com/watch?v=5iBgBg0wsHs</guid>
-      <pubDate>2026-11-25T14:36:58+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Intervention de Danièle Obono, mercredi 25 novembre 2026, lors des questions au gouvernement
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/danieleobono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>5iBgBg0wsHs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5iBgBg0wsHs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
