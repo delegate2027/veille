@@ -4,8 +4,34 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Fri, 27 Nov 2026 11:15:49 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:31:00 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Le combat des Ukrainiens c'est aussi le nôtre, pour la sécurité de l'Europe | Jean-Noël Barrot</title>
+      <link>https://www.youtube.com/watch?v=at6fwEMM2ss</link>
+      <guid>https://www.youtube.com/watch?v=at6fwEMM2ss</guid>
+      <pubDate>2026-11-27T11:29:12+00:00</pubDate>
+      <author>MoDem</author>
+      <description>Le combat des Ukrainiens c'est aussi le nôtre, c'est un combat pour la sécurité de l'Europe | Jean-Noël Barrot
+
+Sur le plateau de C dans l’air, notre ministre de l'Europe et des Affaires étrangères et vice-président, Jean-Noël Barrot, a défendu une ligne de fermeté et de sang-froid face à Vladimir Poutine, tout en appelant les Européens à prendre pleinement leur place dans la défense de leur continent.
+
+🔗 Pour en savoir plus, consultez l'article complet sur le site du MoDem 👉 https://www.mouvementdemocrate.fr/international/jean-noel-barrot-le-combat-des-ukrainiens-cest-aussi-le-notre-cest-un-combat-pour-la
+
+🔴 S'ABONNER
+N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
+
+📲 RÉSEAUX SOCIAUX
+Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
+
+Site du MoDem : https://www.mouvementdemocrate.fr/
+Facebook : https://www.facebook.com/mouvementdemocrate
+Twitter : https://twitter.com/MoDem
+Instagram : https://www.instagram.com/mouvementdemocrate/</description>
+      <channelTitle>MoDem</channelTitle>
+      <videoId>at6fwEMM2ss</videoId>
+      <enclosure url="https://i.ytimg.com/vi/at6fwEMM2ss/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>David Lisnard invité de l'émission C À VOUS sur France 5</title>
       <link>https://www.youtube.com/watch?v=S_W3du0Oo_c</link>
@@ -496,26 +522,6 @@ Mes réseaux sociaux
       <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
       <videoId>I3PaiE_Ys74</videoId>
       <enclosure url="https://i.ytimg.com/vi/I3PaiE_Ys74/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Ce budget, c'est la facture de 10 ans de macronisme !" Boris Vallaud sur RMC</title>
-      <link>https://www.youtube.com/watch?v=Kaaw94-lSxA</link>
-      <guid>https://www.youtube.com/watch?v=Kaaw94-lSxA</guid>
-      <pubDate>2026-11-25T13:47:46+00:00</pubDate>
-      <author>BorisVallaud</author>
-      <description>Boris Vallaud était l'invité de RMC ce mercredi 25 novembre 2026.
-_____________________________________
-
-Suivez-moi sur les réseaux sociaux
-
-Twitter :  https://x.com/BorisVallaud
-Facebook :  https://www.facebook.com/BVallaud
-Instagram :  https://www.instagram.com/borisvallaud/ 
-Tiktok : https://www.tiktok.com/@borisvallaud
-Youtube : https://www.youtube.com/@Boris_Vallaud</description>
-      <channelTitle>BorisVallaud</channelTitle>
-      <videoId>Kaaw94-lSxA</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Kaaw94-lSxA/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
