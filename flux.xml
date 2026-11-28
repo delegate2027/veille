@@ -4,7 +4,7 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 28 Nov 2026 10:45:48 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:01:13 -0000</lastBuildDate>
     <feedCount>50</feedCount>
     <item>
       <title>Santé : dépenser plus, mais dépenser mieux | Mes propositions</title>
@@ -289,26 +289,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <enclosure url="https://i.ytimg.com/vi/_S3Ew8eZHJU/maxresdefault.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Jordan Bardella sur CNEWS : « Le danger de cette présidentielle c'est de continuer comme avant ! »</title>
-      <link>https://www.youtube.com/watch?v=PEm8fSyNl5U</link>
-      <guid>https://www.youtube.com/watch?v=PEm8fSyNl5U</guid>
-      <pubDate>2026-11-27T10:21:42+00:00</pubDate>
-      <author>Jordan Bardella</author>
-      <description>📖 Commandez « Gouverner » : https://www.amazon.fr/dp/2213736499
-
-Suivez-moi sur mes réseaux sociaux ! ⤵️
-🔵 Facebook : https://www.facebook.com/JordanBardella
-📸 Instagram : https://www.instagram.com/jordanbardella/
-🎶 TikTok : https://www.tiktok.com/@jordanbardella?lang=fr
-⚫️ X : https://x.com/J_Bardella
-📖 Linkedin : https://www.linkedin.com/in/jordan-bardella-001602315/
-
-🇫🇷 Rejoignez-nous : ➡️ https://adhesions.rassemblementnational.fr/?utm_source=youtube&amp;amp;utm_medium=youtube_lien_description_video&amp;amp;utm_campaign=youtube_lien_description_video</description>
-      <channelTitle>Jordan Bardella</channelTitle>
-      <videoId>PEm8fSyNl5U</videoId>
-      <enclosure url="https://i.ytimg.com/vi/PEm8fSyNl5U/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Un autre monde est possible ! (Manon Aubry face à France Info)</title>
       <link>https://www.youtube.com/watch?v=RTCS9bLc4Hw</link>
       <guid>https://www.youtube.com/watch?v=RTCS9bLc4Hw</guid>
@@ -523,6 +503,27 @@ Telegram : @MouvementDemocrate</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>Z1iPezhEuiY</videoId>
       <enclosure url="https://i.ytimg.com/vi/Z1iPezhEuiY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🏛️ Lutte contre les VSS : GLOIRE aux associations, HONTE à la macronie !</title>
+      <link>https://www.youtube.com/watch?v=5iBgBg0wsHs</link>
+      <guid>https://www.youtube.com/watch?v=5iBgBg0wsHs</guid>
+      <pubDate>2026-11-25T14:36:58+00:00</pubDate>
+      <author>Danièle Obono</author>
+      <description>Intervention de Danièle Obono, mercredi 25 novembre 2026, lors des questions au gouvernement
+
+---
+Mes réseaux sociaux
+➡️ X : https://x.com/DanieleObono
+➡️ Instagram : https://www.instagram.com/danieleobono
+➡️ Facebook : https://www.facebook.com/DanieleObono
+➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
+➡️ Threads : https://www.threads.com/@danieleobono
+➡️ TikTok : https://www.tiktok.com/@danieleobono
+➡️ Telegram : https://t.me/DeputeeObono</description>
+      <channelTitle>Danièle Obono</channelTitle>
+      <videoId>5iBgBg0wsHs</videoId>
+      <enclosure url="https://i.ytimg.com/vi/5iBgBg0wsHs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
