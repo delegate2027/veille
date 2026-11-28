@@ -4,7 +4,74 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 28 Nov 2026 07:31:07 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:45:40 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Conférence de Jean-Luc Mélenchon à Berlin</title>
+      <link>https://www.youtube.com/watch?v=EzPlwo39AJ8</link>
+      <guid>https://www.youtube.com/watch?v=EzPlwo39AJ8</guid>
+      <pubDate>2026-11-27T21:56:41+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'une conférence à Berlin pour la publication du livre « Faites mieux » en allemand, le 27 novembre 2026. 
+
+Retrouvez le livre en version allemande sur : https://brumaireverlag.de/products/die-stunde-der-vielen-1?utm_source=berlin
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>EzPlwo39AJ8</videoId>
+      <enclosure url="https://i.ytimg.com/vi/EzPlwo39AJ8/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Conférence de Jean-Luc Mélenchon à Berlin</title>
+      <link>https://www.youtube.com/watch?v=Mdgt3VEbfEY</link>
+      <guid>https://www.youtube.com/watch?v=Mdgt3VEbfEY</guid>
+      <pubDate>2026-11-27T20:30:54+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'une conférence à Berlin pour la publication du livre « Faites mieux » en allemand, le 27 novembre 2026. 
+
+Retrouvez le livre en version allemande sur : https://brumaireverlag.de/products/die-stunde-der-vielen-1?utm_source=berlin
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>Mdgt3VEbfEY</videoId>
+      <enclosure url="https://i.ytimg.com/vi/Mdgt3VEbfEY/maxresdefault.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Il y a besoin d'une grande remise à plat de la relation franco-allemande</title>
+      <link>https://www.youtube.com/watch?v=_S3Ew8eZHJU</link>
+      <guid>https://www.youtube.com/watch?v=_S3Ew8eZHJU</guid>
+      <pubDate>2026-11-27T11:28:28+00:00</pubDate>
+      <author>JEAN-LUC MÉLENCHON</author>
+      <description>Jean-Luc Mélenchon est intervenu à l'occasion d'un point presse à Berlin, le 27 novembre 2026.
+
+**SUIVEZ-MOI SUR**
+- Twitch : https://www.twitch.tv/jlmelenchon 
+- Tiktok : https://www.tiktok.com/@jlmelenchon  
+- Facebook : https://www.facebook.com/JLMelenchon/ 
+- Twitter :  https://twitter.com/JLMelenchon
+- Instagram : https://www.instagram.com/jlmelenchon/
+- Threads : https://www.threads.net/@jlmelenchon 
+- Whatsapp : https://whatsapp.com/channel/0029VaF8ghIFsn0hWYzCAy37
+- Bluesky : https://bsky.app/profile/jlmelenchon.bsky.social</description>
+      <channelTitle>JEAN-LUC MÉLENCHON</channelTitle>
+      <videoId>_S3Ew8eZHJU</videoId>
+      <enclosure url="https://i.ytimg.com/vi/_S3Ew8eZHJU/maxresdefault.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
