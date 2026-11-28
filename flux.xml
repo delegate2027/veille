@@ -4,8 +4,44 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 28 Nov 2026 09:01:15 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:15:41 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>« On démonte les fondements de la République » | Corinne Narassiguin - Libertés chéries</title>
+      <link>https://www.youtube.com/watch?v=rM61-ChOTl4</link>
+      <guid>https://www.youtube.com/watch?v=rM61-ChOTl4</guid>
+      <pubDate>2026-11-28T09:00:20+00:00</pubDate>
+      <author>PS - Parti socialiste</author>
+      <description>Face à une jeunesse engagée qui aspire à construire son avenir, quel message envoie la République depuis dix ans ? Dans ce nouvel épisode de notre série « Libertés chéries », Corinne Narassiguin, sénatrice de la Seine-Saint-Denis, analyse la crise de confiance entre les institutions, les forces de l’ordre et les jeunes générations.   
+
+Alors que les lycéens et les jeunes attendent de la République qu’elle tienne sa promesse d’une éducation de qualité, l’absence d’écoute politique a progressivement ancré l’idée que seule la confrontation permet de se faire entendre. Au cœur de cette rupture entre la police et la population se trouvent les contrôles d’identité, trop souvent pratiqués au faciès, ainsi qu’une surenchère législative au Sénat avec le texte sur la présomption d’usage légitime des armes par les forces de l’ordre.   
+
+Dans cet entretien, Corinne Narassiguin décrypte les dangers de ce basculement sécuritaire et porte les propositions des Socialistes :
+- Répondre aux attentes de la jeunesse en garantissant une éducation de qualité et une véritable écoute démocratique plutôt que la confrontation.
+- Engager une réforme profonde des contrôles d’identité pour mettre fin aux contrôles au faciès et apaiser durablement les relations entre la police et la population.
+- S’opposer à la présomption d’usage légitime des armes examinée au Sénat, qui affaiblit les garanties de l’État de droit.
+- Préserver les fondements de la République face au recul des libertés publiques qui prépare le terrain à l’extrême droite.
+
+📌 Chapitres de la vidéo :
+- 00:00 : ACTE I : Une  jeunesse engagée qui attend des réponses de la République
+- 2:20 : ACTE II : Mettre fin à la stigmatisation des quartiers et aux contrôles au faciès
+- 5:30 : ACTE III : Affirmer l'ordre républicain contre la dérive autoritaire
+
+--
+Suivez-nous sur les réseaux sociaux :
+➡️  https://x.com/partisocialiste
+➡️  https://bsky.app/profile/partisocialiste
+➡️  https://www.instagram.com/partisocialiste 
+➡️  https://www.facebook.com/partisocialiste 
+➡️  https://www.tiktok.com/@partisocialiste
+➡️  https://t.me/partisocialiste
+➡️  https://whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19
+
+🌹✊ Retrouvez toute notre actualité : https://www.parti-socialiste.fr</description>
+      <channelTitle>PS - Parti socialiste</channelTitle>
+      <videoId>rM61-ChOTl4</videoId>
+      <enclosure url="https://i.ytimg.com/vi/rM61-ChOTl4/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Conférence de Jean-Luc Mélenchon à Berlin</title>
       <link>https://www.youtube.com/watch?v=EzPlwo39AJ8</link>
@@ -481,27 +517,6 @@ Telegram : @MouvementDemocrate</description>
       <channelTitle>MoDem</channelTitle>
       <videoId>Z1iPezhEuiY</videoId>
       <enclosure url="https://i.ytimg.com/vi/Z1iPezhEuiY/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>🏛️ Lutte contre les VSS : GLOIRE aux associations, HONTE à la macronie !</title>
-      <link>https://www.youtube.com/watch?v=5iBgBg0wsHs</link>
-      <guid>https://www.youtube.com/watch?v=5iBgBg0wsHs</guid>
-      <pubDate>2026-11-25T14:36:58+00:00</pubDate>
-      <author>Danièle Obono</author>
-      <description>Intervention de Danièle Obono, mercredi 25 novembre 2026, lors des questions au gouvernement
-
----
-Mes réseaux sociaux
-➡️ X : https://x.com/DanieleObono
-➡️ Instagram : https://www.instagram.com/danieleobono
-➡️ Facebook : https://www.facebook.com/DanieleObono
-➡️ Bluesky : https://bsky.app/profile/danieleobono.bsky.social
-➡️ Threads : https://www.threads.com/@danieleobono
-➡️ TikTok : https://www.tiktok.com/@danieleobono
-➡️ Telegram : https://t.me/DeputeeObono</description>
-      <channelTitle>Danièle Obono</channelTitle>
-      <videoId>5iBgBg0wsHs</videoId>
-      <enclosure url="https://i.ytimg.com/vi/5iBgBg0wsHs/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
