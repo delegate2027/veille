@@ -4,8 +4,45 @@
     <title>YouTube Aggregated Feed</title>
     <description>Flux RSS agrégé YouTube</description>
     <link>https://youtube.com</link>
-    <lastBuildDate>Sat, 28 Nov 2026 10:15:44 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:30:59 -0000</lastBuildDate>
     <feedCount>50</feedCount>
+    <item>
+      <title>Santé : dépenser plus, mais dépenser mieux | Mes propositions</title>
+      <link>https://www.youtube.com/watch?v=hAocDR3g-hA</link>
+      <guid>https://www.youtube.com/watch?v=hAocDR3g-hA</guid>
+      <pubDate>2026-11-28T10:16:50+00:00</pubDate>
+      <author>Edouard Philippe</author>
+      <description>La santé doit être au cœur du débat présidentiel.
+
+Plus de 6 millions de Français peinent à trouver un médecin traitant, et des médicaments manquent en pharmacie. Pour Édouard Philippe, il est temps de remettre de l'ordre dans notre système de soins, pour permettre le progrès.
+
+Il fixe trois priorités : la prévention, l'accès aux soins, et un système de soins qui entre enfin dans le XXIe siècle.
+
+Toutes ses mesures sont à découvrir ici : https://www.edouardphilippe.fr/programme/sante
+
+0:00 La santé, grande absente de la campagne
+0:44 Dépenser plus, mais dépenser mieux
+1:43 Priorité n° 1 : la prévention
+2:27 Priorité n° 2 : l'accès aux soins
+3:10 Priorité n° 3 : un système de soins du XXIe siècle
+4:19 Remettre de l'ordre dans notre système de soins
+
+#ÉdouardPhilippe #Santé #Présidentielle2027
+---
+Pour découvrir nos autres contenus, suivez Avec Édouard sur les réseaux sociaux !
+
+→ Twitter : https://x.com/Avec_Edouard
+→ Facebook : https://www.facebook.com/share/1Eciiy77ca/?mibextid=wwXIfr
+→ Instagram : https://www.instagram.com/avecedouard?igsh=MTUweWc3M2M4a2Nneg%3D%3D&amp;amp;utm_source=qr
+→ Linkedin : https://www.linkedin.com/company/avecedouard
+→ YouTube : https://www.youtube.com/@AvecEdouard
+→ TikTok : https://www.tiktok.com/@avec_edouard
+→ Telegram : https://t.me/HorizonsOff
+→ WhatsApp : https://whatsapp.com/channel/0029Vb2lsUl1XquO5oXP803R</description>
+      <channelTitle>Edouard Philippe</channelTitle>
+      <videoId>hAocDR3g-hA</videoId>
+      <enclosure url="https://i.ytimg.com/vi/hAocDR3g-hA/maxresdefault.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>« On démonte les fondements de la République » | Corinne Narassiguin - Libertés chéries</title>
       <link>https://www.youtube.com/watch?v=rM61-ChOTl4</link>
@@ -490,33 +527,6 @@ Instagram : https://www.instagram.com/mouvementdemocrate/</description>
       <channelTitle>Les Écologistes</channelTitle>
       <videoId>-8jS5KA2l_c</videoId>
       <enclosure url="https://i.ytimg.com/vi/-8jS5KA2l_c/maxresdefault.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Épisode spécial #LVD : Rencontre avec Sandrine Josso | Mouvement Démocrate</title>
-      <link>https://www.youtube.com/watch?v=Z1iPezhEuiY</link>
-      <guid>https://www.youtube.com/watch?v=Z1iPezhEuiY</guid>
-      <pubDate>2026-11-25T15:22:15+00:00</pubDate>
-      <author>MoDem</author>
-      <description>Épisode spécial #LVD : Rencontre avec Sandrine Josso | Mouvement Démocrate
-
-Dans cet épisode spécial de notre podcast démocrate, notre députée Sandrine Josso revient sur son combat contre la soumission chimique et appelle à briser les tabous autour des violences sexuelles pour toujours mieux protéger les victimes.
-
-🔴 S'ABONNER
-N'oubliez pas de vous abonner à notre chaîne et d'activer les notifications pour ne rien manquer de nos prochaines vidéos ainsi que les prises de paroles des principales personnalités politiques du Mouvement Démocrate !
-
-📲 RÉSEAUX SOCIAUX
-Suivez-nous sur nos réseaux sociaux pour rester informé des dernières actualités du Mouvement Démocrate :
-
-Site du MoDem : https://www.mouvementdemocrate.fr/
-Facebook : https://www.facebook.com/mouvementdemocrate
-X : https://x.com/MoDem
-Instagram : https://www.instagram.com/mouvementdemocrate/
-Bluesky : https://bsky.app/profile/mouvementdemocrate.bsky.social
-LinkedIn : https://fr.linkedin.com/company/mouvement-democrate
-Telegram : @MouvementDemocrate</description>
-      <channelTitle>MoDem</channelTitle>
-      <videoId>Z1iPezhEuiY</videoId>
-      <enclosure url="https://i.ytimg.com/vi/Z1iPezhEuiY/maxresdefault.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
